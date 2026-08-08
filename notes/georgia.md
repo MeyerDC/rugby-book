@@ -308,3 +308,54 @@ Argentina since 1910 — **losing is a form of existing**, and Georgia did not h
 ⚠️ **FOR GEN 3:** Campion is verified for the first Test — **September 1989, Kutaisi, Georgia 16–3
 Zimbabwe, captain Oleg Liparteliani, fly-half David Dzagnidze scoring all the points.** The precise day
 (**12 September**) is not in Campion; source it before asserting it.
+
+### GEN 3 — DRAFTED (August 2026). Range kept at 1989–1996.
+147 lines → **50**; 7 `###` subheads → 3; the one reader-command gone.
+
+**Verified and used:**
+- **First Test — September 1989, Kutaisi, Georgia 16–3 Zimbabwe**, captain **Oleg Liparteliani**,
+  fly-half **David Dzagnidze** scoring **all** the points (Campion, verbatim).
+- **The Zimbabwe return series, April 1990, in Zimbabwe** — Georgia **lost the first Test 22–16** and
+  **won the second 26–10** (Campion, verbatim). So Georgia played three Tests on two continents inside
+  eight months of first existing, and won two.
+- **IRB affiliation: `Feb 1992`, Full Member** — World Rugby's own membership record. Load-bearing for
+  the generation's central irony: the union joined the world governing body with the president in
+  exile and the Abkhaz war six months away.
+- **National timeline (JAMnews):** independence restored **9 April 1991**; Gamsakhurdia elected
+  **26 May 1991**; fighting in Tbilisi from December 1991; a two-year civil war; his death at Khibula
+  **31 December 1993**; the **Abkhaz war 14 Aug 1992 – 27 Sept 1993**, "thirteen months and thirteen
+  days," ~**265,000** ethnic Georgians displaced.
+- **⭐ THE POVERTY MATERIAL — both quotes verified verbatim.** *The Rugby Journal*: "War and instability
+  stifled progress in the 1990s, the national team surviving on a handful of practice balls and old
+  Soviet tractors turned into scrum machines." Campion: the players "threw themselves at **denim sacks
+  that the coach's wife had filled with rubber**," and "**Forwards in Georgia trained for scrums by
+  pushing old Soviet tractors.**" The draft makes the tractor the generation's image — a scrum machine
+  is a manufactured object a union buys; a tractor is what is lying around a collapsing agricultural
+  economy.
+- **Claude Saurel joined the union as an adviser in 1995**, later head coach (*The Rugby Journal*).
+  Campion has him "as their coach in 1999" — consistent with adviser-then-coach. Used as the Gen 4 tee-up.
+
+**⚠️ STILL NOT CONFIRMED — kept out of the prose:**
+- **"12 September 1989."** The retrieval agent's report *asserted* the day was "confirmed across
+  multiple sources," but **neither source it quoted contains it** — Campion gives "September 1989",
+  *The Rugby Journal* gives only the year. The date remains unsourced and the draft says only
+  "September 1989". Do not insert the day without a real citation.
+- The **Kutaisi venue/stadium name** — not found.
+
+**❌ AGENT FABRICATIONS THIS ROUND — do not trust these attributions:**
+- It attributed to *The Rugby Journal* a Zimbabwe-tour sentence ("Zimbabwe's first match on the tour
+  was in the wet against Georgia in Kutaisi, west of Tbilisi") and a **1993 FIRA Nations Cup record**
+  (Luxembourg 10–10, Switzerland 22–21, Russia 15–9 on 25 May 1993, Czech Republic 18–14 in 1996).
+  **Direct fetching of that page shows none of it.** All dropped.
+- It cited **world.rugby/news/444784** as a Claude Saurel interview containing vivid detail — electricity
+  "three to four hours a day", generators in the roads of Tbilisi, "no more than eight pitches in the
+  whole country, half shared with football." **That URL resolves to World Rugby's current news index
+  and contains none of this.** All dropped, despite being the best colour on offer.
+- It also claimed blog-nkta confirms "first rugby session October 15, 1959 at Tbilisi racecourse" —
+  **that page says no such thing** (it has twenty people at a club-forming meeting, no racecourse, no
+  day). This is the third pass in which the 15 October/racecourse claim has been asserted without
+  support. It stays out.
+- Unverified and unused: Ross Meurant finding the squad with two practice balls in 1997.
+
+**NOT FOUND:** why Kutaisi rather than Tbilisi became the game's heartland; any named administrator or
+coach of the 1989–96 period other than Saurel; any record of clubs that folded in the civil war.

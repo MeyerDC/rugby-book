@@ -174,9 +174,59 @@ Aia Kutaisi would win the Soviet championship for a third time in 1989.
 
 And in September of that same year, in that same city, something else would happen.
 
+## Generation 3: Independence and Ruin (1989–1996)
+
+**September 1989. Kutaisi.** Zimbabwe are touring, and Georgia are playing them, and for the first time in the history of the game there is such a thing as a Georgia rugby team.
+
+They win it **16–3**. The captain is a centre, **Oleg Liparteliani**. Every one of the sixteen points is scored by the fly-half, **David Dzagnidze** — a fact worth pausing on, because a man kicking and running his country's entire first Test score is the sort of thing that happens once, and it happened here.
+
+Kutaisi is the right place for it. Aia had been champions of the Soviet Union in 1987 and 1988, and would be again in 1989, the same year as this match: the city was simultaneously the best club side in a superpower and the venue for the first appearance of a national team that had not previously existed.
+
+Thirty years, almost exactly, since twenty men met in Tbilisi to discuss forming a club.
+
+---
+
+The obvious question is why now, and the answer is that the wall the last generation described had stopped being load-bearing. The Soviet Union in September 1989 was ten weeks from the fall of the Berlin Wall and twenty-seven months from its own dissolution. A constituent republic fielding its own international side, in its own name, against a touring country — an act that would have been unthinkable a decade earlier — passed off in Kutaisi without anyone stopping it.
+
+Georgia had a second act ready almost at once. **In April 1990 the two countries played a return series in Zimbabwe**, and Campion records the results: Georgia lost the first Test **22–16** and won the second **26–10**. So inside eight months of first existing, Georgia had played three Tests on two continents and won two of them.
+
+Then the country fell apart.
+
+### What independence cost
+
+**9 April 1991.** On the strength of a referendum, the Supreme Council declares the restoration of Georgia's state independence. On **26 May** the country elects its first president, the national-liberation leader **Zviad Gamsakhurdia**.
+
+By December there is fighting in the streets of Tbilisi between Gamsakhurdia's supporters and his opponents. He is overthrown and driven into exile; the civil war runs for two years; on **31 December 1993** Gamsakhurdia dies in the village of Khibula, officially by his own hand, though his family has never accepted it. Overlapping all of it, the war in **Abkhazia** begins on **14 August 1992**, lasts thirteen months and thirteen days, and ends on **27 September 1993** in the defeat of Georgian forces and the displacement of some **265,000** ethnic Georgians.
+
+That is the country in which Georgian rugby became independent. Not a nation coming into its inheritance — a nation coming apart, at exactly the moment its rugby players finally had a flag to play under.
+
+And the rugby went on. **In February 1992**, with the president in exile and the Abkhaz war six months away, the **Georgian Rugby Union** affiliated to the International Rugby Board. World Rugby's membership record still carries the date: *Feb 1992*, full member. A country that could not reliably govern itself joined the governing body of a sport.
+
+### Denim sacks and tractors
+
+What that membership bought, in practice, was the right to be poor in public.
+
+The accounts of Georgian rugby in these years are among the bleakest in this book, and they are unusually consistent. *The Rugby Journal* summarises the decade in a sentence: "War and instability stifled progress in the 1990s, the national team surviving on a handful of practice balls and old Soviet tractors turned into scrum machines." Campion supplies the detail underneath it. For tackle practice, "the players threw themselves at denim sacks that the coach's wife had filled with rubber." For the scrum — the one part of the game Georgia was already better at than almost anybody — "forwards in Georgia trained for scrums by pushing old Soviet tractors."
+
+Read those two sentences beside the previous generation's. This is the same rugby culture that had supplied half the USSR's international side and produced three consecutive Soviet champions in Kutaisi. Nothing had happened to the players. What had happened was to everything around them: the industrial economy that employed them, the state that funded the clubs, the all-Union competition that gave them somewhere to play, and the supply chain that produced such things as rugby balls.
+
+The tractor is the detail that stays with you, and not only because it is vivid. A scrum machine is a manufactured object that a union buys. A tractor is what is lying around a collapsing agricultural economy. The Georgian pack got its reputation — the one that would eventually make the rest of Europe reluctant to play them — by shoving farm machinery across a field because there was nothing else to shove.
+
+### What this generation leaves behind
+
+A national team that exists, on paper, in the worst decade the country had experienced since the 1920s.
+
+By 1996 Georgia had a flag, a union, IRB membership, a handful of Tests, a domestic championship played by clubs that had survived — Aia in Kutaisi, Qochebi in Tbilisi, Lokomotivi — and effectively no money, no equipment, no facilities and no route into the game's serious company. The world game had spent 1995 turning professional; Georgian rugby spent 1995 in a country recovering from civil war.
+
+And in that same year, **1995**, a Frenchman named **Claude Saurel** joined the Georgian union as an adviser.
+
+He would in time become head coach, and he would arrive at a conclusion that no other union in this book reached in quite the same way: that the fastest route to making Georgia good was not to build the Georgian game at all, but to **send the players away** — to get them into French clubs, on French money, in French competitions, and let somebody else's professional system do the developing.
+
+It worked. It also created a dependency the country is still living with.
+
 ## Sources
 
-*(Gen 0–2 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Gen 0–3 sources — the full chapter list will be assembled once all seven generations are drafted.)*
 
 - [Lelo burti at Shukhuti](https://civil.ge/archives/231988) — Civil Georgia *(Easter Sunday at Shukhuti in Guria; upper and lower village; a heavy leather ball tightly stuffed with dirt; no fixed team size, no referees, no rules)*
 - [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *(the Lelos nickname drawn from lelo burti; the 16–17 kg ball of wine-soaked dirt and sawdust)*
@@ -193,5 +243,10 @@ And in September of that same year, in that same city, something else would happ
 - [AIA Kutaisi — palmares and identity](https://www.the-sports.org/rugby-aia-kutaisi-results-identity-equ45406.html) — The-Sports.org *(club founded **1966**; Soviet Union top-flight champions **three times, 1987, 1988 and 1989**, with a second place in **1984**; ten Georgian championships since)*
 
 ⚠️ **Deliberately NOT asserted in the text above:** the widely repeated "**15 October 1959**" date and the single fused "racecourse founding scene." No non-mirror source confirms the exact day, and the racecourse and the polytechnic appear in *different* accounts of what are probably *two* events. See `notes/georgia.md`.
+
+- [Georgia — union membership record](https://www.world.rugby/organisation/membership/europe/georgia) — World Rugby (official) *(Georgian Rugby Union; affiliated **Feb 1992**; Full Member)*
+- [34 years since Georgia restored independence — timeline of key events](https://jam-news.net/34-years-since-georgia-restored-independence-timeline-of-key-events-1991-2025/) — JAMnews *(independence restored **9 April 1991**; Gamsakhurdia elected **26 May 1991**; fighting in Tbilisi from December 1991, a two-year civil war, his death at Khibula **31 December 1993**; the Abkhaz war **14 August 1992** to **27 September 1993**, "thirteen months and thirteen days", some **265,000** ethnic Georgians displaced)*
+
+⚠️ **Still NOT asserted:** the day of the first Test. **"12 September 1989" remains unconfirmed** — Campion gives only "September 1989", *The Rugby Journal* only the year, and no non-mirror source found states the date. The Kutaisi **venue name** is likewise unfound.
 
 ⚠️ **Dropped from the old chapter's Gen 2 as unsourceable:** a **1967 visit by a French trade-union selection**; a **1988 Tbilisi sevens tournament** presented as the turning point that opened the way to independent Georgian rugby; **Dynamo Tbilisi** finishing second in a first Soviet championship of 1966; and the claim that the **Soviet Cup was introduced in 1976**. None could be traced to a source that will bear weight. Also unfound: any named Georgian USSR international, any cap figures, and any account of rugby's domestic standing in Soviet Georgia. See `notes/georgia.md`.
