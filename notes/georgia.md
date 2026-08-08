@@ -65,3 +65,116 @@ through a left-wing/French channel into a Soviet republic that already had a vil
 - https://civil.ge/archives/404918 ; https://oc-media.org/mp-from-georgian-dream-satellite-party-elected-president-of-rugby-union/ (2020–21 GRU crisis)
 - https://www.world.rugby/news/1042846/... ; https://www.rte.ie/sport/rugby/2026/0313/1563300-... ; https://insidersport.com/2026/03/16/world-rugby-doping-scandal-georgia/ (scandal, "Operation Obsidian")
 - https://en.wikipedia.org/wiki/2026_World_Rugby_Nations_Cup
+
+## REWRITE DESIGN (August 2026) — binding for `drafts/04-georgia.md`
+
+Georgia is the **last chapter still in the book's original voice**. This mirrors the South Africa,
+England, Wales, Chile, Romania and Argentina rewrites (`drafts/*-superseded-old-chapter.md` hold the
+befores). Tonal model: the Latham standard — every perspective from inside, no hero peoples and no
+villain peoples, nothing softened, sources named in the flow, disagreements flagged openly.
+
+1. **New file**: draft at `drafts/04-georgia.md` (NOT in `chapters/` — `combine_book.py` bundles every
+   .md there). Write ONLY from this notes file. The old `chapters/04-georgia.md` returns at the end as
+   a **fact-checklist, never as text**; on approval the draft replaces it and the old chapter moves to
+   `drafts/04-georgia-superseded-old-chapter.md`.
+2. **Spine**: keep the established **Gen 0–6** map. Two range questions to settle during research:
+   - **Gen 0 "Antiquity–1927"** is not a generation range, it is a category. Give it a real opening
+     bound tied to the first documented thing (Rustaveli's 12th-c. *burtaoba* reference is a text, not
+     an event) or rename the era so the heading stops promising a date it cannot supply.
+   - **Gen 1 (1928–1963)** is 35 years hanging on **Haspekian's first session, 15 Oct 1959** — i.e.
+     the era's centrepiece sits in its last five years. Either the start bound is wrong or the 1928–59
+     "false starts" need enough verified content to carry three decades. Resolve before drafting.
+   - Target length **~480–560 lines** (SA is 460 for Gen 0–7; Romania 643 for Gen 0–6).
+3. **Kill the explainer register.** The chapter has **60+ `###` subheads in 1,052 lines**, many of them
+   FAQ-shaped rather than narrative: "What is happening here", "How it is played", "What it means",
+   "How old", "How it worked", "What was said". That is an encyclopedia entry with a story bolted on.
+   Story mode carries this material in prose; keep `### What this generation leaves behind` and a
+   dated closing snapshot, and cut most of the rest.
+4. **Cut the thesis-first framing.** Gen 6 currently ends on **"The thesis, held up one last time"**,
+   and Gen 4 has **"Why this is not the same as the exile you've already seen"** — both step outside
+   the story to lecture. Per `SUMMARY.md` §1 that construction is a legacy of the book's origin, not a
+   pattern to repeat. **Lead with the history**; let the reading emerge from events.
+5. **Retire the first-person narrator**: "It is also, I think, the only one that could have worked"
+   (L621); "But I can tell you what it hands to every person who has ever wanted a reason to..."
+   (L1001). Composed third person, still immersive, still bold-dated cold opens.
+6. **Perspectives from inside, no villains.** Three places this chapter must not take the cheap route:
+   - **The Soviet system.** Gen 2 renders it as "the machine they were fed into". Tell it from within
+     its own logic — it *made* Georgian forwards, and Georgians knew what they were getting from it.
+   - **Ivanishvili.** A billionaire patron is not automatically a saviour or automatically a buyer of
+     a sport. Show what the money built and what depending on one man's money costs, without deciding
+     for the reader.
+   - **The 2026 doping scandal.** "Operation Obsidian" is the hardest thing in the chapter. Do not
+     flatten it into national character, and do not soften it either — GADA tipping players off is
+     what it is. Named sources, stated plainly, no villain people.
+7. **The lelo motif must stay honest.** "Lelo" as the Georgian word for a try, and the folk game as
+   deep popular ground, is the chapter's engine and the book's best counter-case to the imported-elite
+   pattern. But the **"8,000 years old"** line is tourism copy and stays hedged, and the mapping from
+   village mass-ball to modern union is an *affinity*, not a documented lineage. Do not let the motif
+   harden into a causal claim the sources do not support.
+
+### ⚠️ SOURCING — the reason this chapter is a research job before it is a writing job
+`notes/georgia.md` is the **thinnest fact base in the repo**: 5.4 KB / 14 links, **5 of them
+Wikipedia (36%)**, against Romania 0/14, Scotland 0/30, Wales 0/80, England 1/108. Six Wikipedia and
+Grokipedia citations are still **live in the book** — the only ones left after the August 2026 purge.
+They are not incidental; they hold up base material:
+- `Georgia national rugby union team` (Wikipedia) and the **Grokipedia** mirror of the same
+- `Lelo burti` (Wikipedia) — the folk game the whole thesis rests on
+- `Rugby union in Georgia` (Wikipedia)
+- `1999 Rugby World Cup – repechage qualification` (Wikipedia) — the Tonga aggregate
+- `2026 World Rugby Nations Cup` (Wikipedia)
+
+**No prose until these are replaced.** Rebuild the fact base first, generation by generation, then
+draft. Priority targets for named, non-wiki, in-flow attribution: the Shukhuti lelo burti ethnography,
+Haspekian's own testimony, the 1989 Kutaisi first Test, Cartu/Ivanishvili's actual spend, and the
+WADA/World Rugby ruling documents for Operation Obsidian.
+
+## NO-WIKI SOURCING PASS — August 2026 (research done; rewrite still to do)
+
+All **6 Wikipedia/Grokipedia citations removed** from `chapters/04-georgia.md`, plus **Keith Prowse**
+(already purged repo-wide as a junk hospitality-vendor source during the Argentina pass; it had
+survived here). The book is now at **zero** wiki citations outside the one deliberate negative-evidence
+exception in Romania. Retrieval ran as a Haiku Explore subagent; every URL was re-verified by hand.
+
+### SOLID — verified, safe to write from
+- **Lelo burti (the folk game):** wander-lush + nara.lt (already held) + **civil.ge/archives/231988**
+  (new; Easter Sunday at Shukhuti in Guria, upper v lower village, heavy leather ball stuffed with
+  dirt, no fixed team size, no referees, no rules) + **The Roar** (new). Three independent accounts
+  agree on the ~16 kg ball, the stuffing, the Easter/Shukhuti setting, the priest's blessing and the
+  grave-placement ritual. Minor variation in the stuffing description ("sawdust, dirt and sand" v
+  "earth, sand and wine") — The Roar has **"wine-soaked dirt and sawdust"**, reconciling both.
+- **The Lelos nickname ← lelo burti:** **The Roar**, quotable directly and non-wiki at last.
+- **Operation Obsidian (13 Mar 2026):** already the best-sourced thing in the chapter — World Rugby's
+  own statement, France 24, Washington Post, Irish Times, RTÉ, Insider Sport, OC-Media. The subagent's
+  additional Fox Sports and Cape Times finds are corroborating but redundant. One new detail worth
+  chasing in the rewrite: **the investigation was launched in 2023**, not 2026.
+- **1989 first Test:** Campion — 12 Sept 1989, Kutaisi, Georgia 16–3 Zimbabwe, captain Liparteliani,
+  Dzagnidze scoring all the points. ⚠️ Still a **single source** for the captain/scorer detail.
+
+### ⚠️ NOT CONFIRMED — do not harden in the rewrite
+- **The 1999 Tonga repechage first leg "37–6"** is **unconfirmed outside Wikipedia.** World Rugby's
+  official match page (world.rugby/beta/match/2328) gives the date (6 March 1999) and venue (Teufaiva
+  Stadium, Nuku'alofa) but **renders no score at all**. Americas Rugby News confirms only the second
+  leg — *"despite losing 28-27 in Tbilisi, [Tonga] advanced to the final."* So: the tie, the venue,
+  the date, the Tbilisi result and the aggregate outcome are sound; **the 37–6 is not.** Write around
+  it or attribute it.
+- **Haspekian's first session — the date and venue are NOT reliably sourced.** The existing note above
+  records "15 Oct 1959, Tbilisi racecourse, 20 attendees ✓" as verified. It is not:
+  - The **only** source for *15 October* and *the racecourse* is a **Geocities mirror**
+    (geocities.ws) — an amateur dead-web archive, not citable.
+  - **rugbynetwork.net** independently confirms 1959, ~20 attendees, and the Armenian-from-Marseille
+    background — but places the session at **a local polytechnic, not the racecourse.**
+  - **The venue is therefore contradicted between the two sources**, and the exact day rests on the
+    weaker of them. Corroborated and safe: **1959**, **~20 attendees**, **Jacques "Jako" Haspekian,
+    an Armenian from Marseille**, teaching students from the late 1950s into the mid-1960s.
+  - Also repeated (unverified this pass, worth chasing): he came to Tbilisi to build ties between
+    French communists and their Soviet counterparts; his students founded the first club, **Qochebi**;
+    the federation that became the GRU was formed in **1964**.
+- **"Lelo is the Georgian word for a try"** — the *chant* is documented (Campion) and the *nickname*
+  is now documented (The Roar), but the flat linguistic claim still traces only to Wikipedia-derived
+  text (Fandom, en-academic, Alchetron are all mirrors). Attribute it or phrase it as the nickname's
+  origin rather than a dictionary fact.
+
+### Method note
+Two sources here are JS-rendered or bot-blocked and cannot be checked with `curl` alone:
+glasgowwarriors.org-style SPAs need WebFetch, while **The Critic** and **The Roar** return 403 to
+WebFetch and need `curl` with a browser User-Agent. Use both tools before concluding a page is empty.

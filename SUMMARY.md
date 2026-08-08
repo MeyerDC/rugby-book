@@ -179,10 +179,26 @@ rewritten chapters). It also has the **thinnest fact base in the repo** — `not
 / 14 links, **5 of them Wikipedia (36%)**, against Romania 0/14, Scotland 0/30, Wales 0/80, England
 1/108 — and it has **no REWRITE DESIGN block**. So Georgia needs the SA/Romania-standard **no-wiki
 re-verification pass first**, then a design block, then the gen-by-gen redraft in `drafts/04-georgia.md`.
-Load-bearing facts currently resting on Wikipedia: the **1999 Tonga repechage** scores, the **2026
-Nations Cup** pool, and the lelo-burti / national-team base material. Gen 6 has strong verified
-material the current chapter predates — **"Operation Obsidian"**, the 13 Mar 2026 WADA/World Rugby
-sanctions and the GADA tip-off scandal.
+**The sourcing half is now DONE** (August 2026): all 6 wiki/Grokipedia citations are replaced or
+deleted, a `REWRITE DESIGN` block is in `notes/georgia.md`, and the fact base is rebuilt and audited.
+What remains is the **gen-by-gen redraft into `drafts/04-georgia.md`**.
+- **Two traps the research turned up — do not write these as fact:**
+  - **Haspekian's first session.** The notes used to record "15 Oct 1959, Tbilisi racecourse, 20
+    attendees ✓" as verified. It is not. The only source for *15 October* and *the racecourse* is a
+    **Geocities mirror**; rugbynetwork.net independently confirms 1959 and ~20 attendees but places
+    it at **a polytechnic, not the racecourse**. Safe to assert: **1959**, **~20 attendees**,
+    **Jacques "Jako" Haspekian, an Armenian from Marseille**. The day and the venue are not.
+  - **The 1999 Tonga repechage first leg "37–6"** is unconfirmed outside Wikipedia (see §6).
+- **"Lelo" as the word for a try**: the *nickname* and the *chant* are now properly sourced; the flat
+  linguistic claim is not. Phrase it as the nickname's origin, not a dictionary fact.
+- **Structural problems to fix in the redraft:** 60+ FAQ-shaped `###` subheads ("What is happening
+  here", "How old", "What was said"); a thesis-first ending literally titled **"The thesis, held up
+  one last time"**; and two generation ranges that don't hold — **Gen 0 "Antiquity–1927"** is a
+  category, not a range, and **Gen 1 (1928–1963)** puts its centrepiece (Haspekian) in its last five
+  years.
+- Gen 6 has strong verified material the current chapter predates — **"Operation Obsidian"**, the
+  13 Mar 2026 sanctions and the GADA tip-off scandal, with World Rugby's own statement among the
+  sources. Note the investigation **began in 2023**, not 2026.
 
 Rugby maps onto the folk mass-ball game **lelo**, giving it deep popular roots.
 - Gen 0 origins · Gen 1 · Gen 2 the Soviet "machine" · Gen 3 **Kutaisi 1989** / independence · Gen 4
@@ -311,15 +327,20 @@ combine_book.py` → update this file's §5 entry.
 **Open threads:**
 - 🚧 **Georgia** is the last chapter still in the original voice — see §5.4. **Next job.**
 - **Ireland** is referenced in cross-comparisons but has no chapter.
-- **Sourcing:** a no-wiki pass (**August 2026**) took the book from **20 Wikipedia/Grokipedia
-  citations to 7**. Scotland and Romania are clean; the 7 remaining are **6 in Georgia** (deferred
-  into its rewrite) and **1 deliberate exception** in Romania — a records page cited *against itself*
-  as negative evidence for the debunked unbeaten streak, labelled as such in the Sources block. **Do
-  not remove that one.** See the passes recorded in `notes/scotland.md` and `notes/romania.md`.
-- **Facts left knowingly unsourced by that pass** (hedged in prose, do not re-harden): the **£20m SRU
-  debt** figure (Scotland Gen 6 — no non-wiki source exists); the **Caledonia Reds' 1996 formation**
-  as the North & Midlands district; Romania's **13–12 / Gareth Davies drop goal** in the 1979 Wales XV
-  match (the uncapped billing *is* now sourced, the score is not); the **Antim Cup's 2002** start date.
+- **Sourcing: the book is now at ONE Wikipedia citation**, down from **20** before the August 2026
+  no-wiki pass. The survivor is deliberate — a records page in Romania cited *against itself* as
+  negative evidence for the debunked unbeaten streak, and labelled as such in its Sources block.
+  **Do not remove it**; deleting it would delete the evidence for the debunk. Grokipedia, Keith Prowse
+  and Facebook are gone repo-wide. The passes are recorded in `notes/scotland.md`, `notes/romania.md`
+  and `notes/georgia.md`.
+- **Facts left knowingly unsourced by that pass** (hedge in prose, do not re-harden):
+  - the **£20m SRU debt** figure (Scotland Gen 6) — no non-wiki source exists at all;
+  - the **Caledonia Reds' 1996 formation** as the North & Midlands district;
+  - Romania's **13–12 / Gareth Davies drop goal** in 1979 — the *uncapped "Wales XV" billing* is now
+    sourced to a contemporary matchday programme, but the score is not;
+  - the **Antim Cup's 2002** start date;
+  - Georgia's **1999 Tonga first leg "37–6"** — World Rugby's official match page renders no score;
+  - Georgia's **Haspekian date and venue** — see §5.4.
 - Argentina's **Belgrano Athletic** Gen 0 facts remain wiki-only with no working citation (hedge or
   re-source).
 

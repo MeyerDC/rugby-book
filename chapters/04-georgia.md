@@ -1030,13 +1030,10 @@ Georgia deserves to be in the Six Nations. Georgia has, at this moment, made tha
 
 ## Sources
 
-- [Georgia national rugby union team - Wikipedia](https://en.wikipedia.org/wiki/Georgia_national_rugby_union_team) — Wikipedia
-- [Lelo burti - Wikipedia](https://en.wikipedia.org/wiki/Lelo_burti) — Wikipedia
-- [Rugby union in Georgia - Wikipedia](https://en.wikipedia.org/wiki/Rugby_union_in_Georgia) — Wikipedia
-- [Swing Lelo: Georgia and Britain’s shared rugby history](https://jonathancampion.com/2021/05/19/georgia-rugby-six-nations-world-cup/) — EURASIAN ECHOES
-- [Georgia national rugby union team — Grokipedia](https://grokipedia.com/page/Georgia_national_rugby_union_team) — Grokipedia
-- [The Georgian Rugby Team History and Heritage | Keith Prowse](https://www.keithprowse.co.uk/news-and-blog/2020/09/30/the-georgian-rugby-team-history-and-heritage/) — Keithprowse
+- [Swing Lelo: Georgia and Britain’s shared rugby history](https://jonathancampion.com/2021/05/19/georgia-rugby-six-nations-world-cup/) — Jonathan Campion, Eurasian Echoes *(the 12 September 1989 first Test at Kutaisi, Georgia 16–3 Zimbabwe; captain Oleg Liparteliani; fly-half David Dzagnidze scoring all the points; the "Lelo, Lelo, Sakartvelo" chant)*
+- [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *("the nickname of the team, the Lelos, is drawn from an ancient folk sport called Lelo Burti, in which villages do battle over a 16 or 17-kilogram leather ball stitched and sewn together on match day to encapsulate wine-soaked dirt and sawdust")*
 - [Lelo Burti: 11 Tips to Know About Georgia's Oldest Ball Game](https://www.redfedoradiary.com/lelo-burti-game-shukhuti-georgia/) — Red Fedora Diary
+- [Lelo burti at Shukhuti](https://civil.ge/archives/231988) — Civil Georgia *(Easter Sunday at Shukhuti in Guria; upper and lower village; a heavy leather ball tightly stuffed with dirt; no fixed team size, no referees, no rules)*
 - [Georgia: The Next Big Thing in Rugby Union](https://www.rugby.com.au/news/georgia-the-next-big-thing-in-rugby-union-2024718) — RUGBY.com.au
 - [Six Georgian rugby internationals suspended for doping violations](https://www.france24.com/en/live-news/20260313-six-georgian-rugby-internationals-suspended-for-doping-violations) — France 24
 - [World Rugby statement relating to anti-doping regulation breaches by members of the Georgian Rugby Union senior men’s team | World Rugby](https://www.world.rugby/news/1042846/world-rugby-statement-relating-to-anti-doping-regulation-breaches-by-members-of-the-georgian-rugby-union-senior-mens-team) — World Rugby
@@ -1046,7 +1043,9 @@ Georgia deserves to be in the Six Nations. Georgia has, at this moment, made tha
 - [Rugby doping scandal: How deep does it run?](https://insidersport.com/2026/03/16/world-rugby-doping-scandal-georgia/) — Insider Sport
 - [How to Attend Lelo Burti, Special Easter Festival in Guria](https://wander-lush.org/lelo-burti-shukhuti-georgia/) — Wander-Lush
 - [In a Georgian Village, Easter Is Celebrated with a Game of Lelo](https://nara.lt/en/articles-en/lelo-burti) — NARA
-- [1999 Rugby World Cup – repechage qualification](https://en.wikipedia.org/wiki/1999_Rugby_World_Cup_%E2%80%93_repechage_qualification) — Wikipedia
+- [Tonga v Georgia, Rugby World Cup qualifying, 6 March 1999](https://www.world.rugby/beta/match/2328) — World Rugby (official) *(confirms the date and Teufaiva Stadium, Nuku'alofa; the page renders **no score**)*
+- [Time to re-think World Cup repechage?](https://www.americasrugbynews.com/2015/06/30/forward-thinking-vol-1-iss-3-time-to-re-think-world-cup-repechage/) — Americas Rugby News *("Tonga faced Georgia home and away and, despite losing 28-27 in Tbilisi, advanced to the final." ⚠️ The **37–6** first-leg score asserted in the text is **not** confirmed by any non-Wikipedia source found — see `notes/georgia.md`.)*
 - [New Georgian Rugby Union President Elected Amid Clashes](https://civil.ge/archives/404918) — Civil Georgia
 - [MP from Georgian Dream satellite party elected president of Rugby Union](https://oc-media.org/mp-from-georgian-dream-satellite-party-elected-president-of-rugby-union/) — OC Media
-- [2026 World Rugby Nations Cup](https://en.wikipedia.org/wiki/2026_World_Rugby_Nations_Cup) — Wikipedia
+- [World Rugby Nations Cup 2026 — official tournament site](https://www.world.rugby/nations-cup/en) — World Rugby (official)
+- [World Rugby Nations Cup 2026 — round one preview](https://www.world.rugby/nations-cup/en/news/1045110/nations-cup-r1-preview) — World Rugby (official)
