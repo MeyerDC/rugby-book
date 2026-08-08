@@ -522,3 +522,50 @@ placing** and **November fixtures** were not found, so the snapshot stops at the
 2. The **European championship title total** is still uncounted in the prose (16 v 17, garbled years).
 3. **"12 September 1989"** and **"15 October 1959"** remain unsourced and are deliberately absent.
 4. The **Yachvili family connection** is Wikipedia-only; worth one look in French sources.
+
+### GAP-CLOSING PASS — August 2026. Both blockers cleared; chapter ready to promote.
+Done by hand (no subagent). 442 → **474 lines**.
+
+**⭐ GORGODZE — GAP CLOSED, and it produced the chapter's sharpest irony.**
+Sources: **World Rugby's own tribute** (world.rugby/news/569718) and the French database **It's Rugby**.
+- World Rugby: a "**16-year international career, from 2003-19**", **75 tests**, **four Rugby World
+  Cups**; "the former Montpellier man"; retired a second time in 2019 after answering an injury call
+  for Japan; "a role model for future generations of Lelos players" with "**no peers**"; the Georgian
+  union's "Thank you MAMUKA for your sensational career."
+- It's Rugby: **195 cm, 118 kg**; **Montpellier 168 appearances (2005–2014)**; **Toulon 110**;
+  **European Rugby Champions Cup with Toulon, 2015**; Top 14 finals 2011, 2016, 2017.
+- **THE POINT THE SECTION MAKES:** in 2015 Gorgodze won **the best club competition in Europe** while
+  captaining a country **barred from the best international competition in Europe**. He could hold that
+  trophy in May and return in the autumn to a national side not permitted to play the countries whose
+  clubs he had just beaten. The locked door, stated as a career rather than an argument.
+- ⚠️ **CAP-COUNT DISCREPANCY — do not "correct" it.** World Rugby says **75**; It's Rugby says **52**
+  (counting from a 2007 debut); other reports say 71–72. The prose uses **World Rugby's** figure as the
+  governing body's own count and does not reconcile the rest. Flagged in the Sources block too.
+
+**⭐ THE YACHVILI FAMILY — GAP CLOSED from a French source, and it pays off across two generations.**
+Previously Wikipedia-only and excluded. Now sourced to **Agur Arménie**'s interview with Dimitri
+Yachvili: the paternal grandfather "arrived in France during the Second World War", fought at
+**Stalingrad**, escaped a German camp, settled in **Corrèze**; the father **Michel**, himself a French
+international; and verbatim, **"Mon frère Grégoire a joué pour la Géorgie lors de la Coupe du monde
+2003"** — Grégoire quartered at **Manly** while the French squad stayed at **Bondi**. Dimitri chose
+France and named the fixture he most regretted missing as **France v Georgia in 2007**.
+→ Written into **Gen 4 as "Two brothers"**, and it threads: the 2003 World Cup is Gen 4's cold open,
+and the 2007 France–Georgia match Dimitri regretted is the **64–7 in Marseille** already in Gen 5.
+One family holds Saurel's whole pipeline — the border between "Georgian player" and "French player"
+was, for a generation, a matter of which passport a young man reached for.
+⚠️ A third brother, **Charles-Edouard**, is reported elsewhere to have played for Georgia. The fetched
+interview refers only to "mes deux frères" and discusses Grégoire. **Not asserted.**
+
+**❌ EUROPEAN TITLE COUNT — still not closed, and now believed unclosable from an official source.**
+**Rugby Europe's own championship page carries no honours list at all** — only current-season results.
+FloRugby remains inconsistent (16, garbled years) against 17 elsewhere. The prose therefore continues
+to state the **2001** first win and the post-2006 pattern and **leaves the total uncounted**. This is
+the right outcome, not a deferred task.
+
+### STATUS: CHAPTER READY TO PROMOTE
+Old **1,051 lines → 474**. `###` subheads **50 → 24**. First-person **8 → 0**. Reader-commands
+**5 → 0**. Wikipedia/Grokipedia **6 → 0**. Fact-checklist against the old chapter passes; everything
+absent is absent deliberately and recorded here.
+Remaining deliberate absences (do **not** reinstate): **"15 October 1959"** and the fused racecourse
+founding scene; **"12 September 1989"**; the **1999 first-leg "37–6"**; the **1967 French trade-union
+XV**; the **1988 Tbilisi sevens**; the **July 2022 win over Italy** (Wikipedia-only).

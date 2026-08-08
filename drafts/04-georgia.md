@@ -268,6 +268,18 @@ One try in a World Cup. It is the sort of line that reads as humiliation, and at
 
 The defeat that mattered was the Uruguay one, because Uruguay was the only side in that pool Georgia might plausibly have beaten, and losing it meant going home without the consolation every debutant wants.
 
+### Two brothers
+
+There is a family in that tournament who carry the whole of the French connection in one household.
+
+**Grégoire Yachvili** played for Georgia at the 2003 World Cup, quartered at Manly while the French squad stayed down the coast at Bondi. His younger brother **Dimitri Yachvili** was one of the outstanding scrum-halves of his generation — and played for **France**.
+
+Their grandfather had arrived in France during the Second World War: a Georgian who fought at Stalingrad, escaped a German camp, and settled in Corrèze. Their father Michel, himself a French international, passed the Georgian and Armenian inheritance down to his sons, and the sons went in different directions with it. One took the country of the passport. One took the country of the name.
+
+Dimitri would say later that the fixture he most regretted missing was **France against Georgia in 2007** — a match his brother's country would lose 64–7 in Marseille, and a match in which he might have played against the family's other half.
+
+That is what Saurel's pipeline looked like from inside a house. The border between "Georgian player" and "French player" was, for a whole generation, a matter of which passport a young man reached for — and the traffic ran in both directions.
+
 ### What this generation leaves behind
 
 A strategy that works, a trophy cabinet that has started to fill, and a ceiling that has just become visible.
@@ -311,6 +323,20 @@ What it bought was dominance of everything Georgia was allowed to enter.
 Georgia won the **European championship** — the competition immediately below the Six Nations, containing Romania, Spain, Portugal, Russia — for the first time in **2001**, and from 2006 they won it almost every year. (The exact total is reported inconsistently across sources and is left uncounted here; the pattern is not in doubt.) They qualified for **every World Cup**, and at each one they were a little harder to play. At **RWC 2011** they were drawn in Pool B with Argentina, England, Scotland and Romania. At **RWC 2015** they went a stage further again — Pool C, **two wins and two defeats**, beating **Tonga 17–10** at Kingsholm and then Namibia, and losing only to New Zealand and Argentina, each by thirty points or more.
 
 The Tonga match carried a record. Georgia's scrum-half that day was **Vasil Lobzhanidze**, born 14 October 1996, and at **18 years and 340 days** he became the **youngest player ever to appear in a Rugby World Cup** — a mark Guinness World Records still holds him for. Sixteen years after Georgia had been knocked out of a World Cup by Tonga in a repechage, a Georgian teenager beat them in one.
+
+### Gorgodze
+
+The generation had a face, and it belonged to the back-row forward captaining the side that day.
+
+**Mamuka Gorgodze** — a man of 195 centimetres and 118 kilograms, which is roughly the physical specification the whole chapter has been describing since Shukhuti — played sixteen years of international rugby, from **2003 to 2019**, won **75 caps** by World Rugby's count, and appeared at **four World Cups**. He made **168 appearances for Montpellier** between 2005 and 2014, then **110 for Toulon**. He captained Georgia at the 2015 tournament, retired, and then answered an injury call to play at a fourth World Cup in Japan in 2019. When he finally stopped, World Rugby described him as a role model for future generations of Lelos players who had "no peers," and the Georgian union thanked him for a "sensational career."
+
+And in **2015**, with Toulon, he won the **European Rugby Champions Cup**.
+
+Sit that beside the rest of the generation. The best club competition in Europe was open to Gorgodze, and he won it. The best international competition in Europe was closed to the country he captained, and always had been. A Georgian could hold the biggest trophy in European club rugby in May and go back in the autumn to a national side that was not permitted to play any of the countries whose clubs he had just beaten.
+
+That is the shape of the arrangement, stated as a career rather than an argument.
+
+### The door
 
 What the money could not buy was a fixture list.
 
@@ -431,11 +457,17 @@ The village game at Shukhuti has been played every Easter through all of it. A s
 - [New Georgian Rugby Union president elected amid clashes](https://civil.ge/archives/404918) — Civil Georgia *(the 2020–21 presidential crisis: Abuseridze's election, the **National Agency of Public Registry**'s refusal to register him citing "procedural violations", the failed attempt of 24 February 2021, and Tkemaladze's election on 10 March 2021)*
 - [MP from Georgian Dream satellite party elected president of Rugby Union](https://oc-media.org/mp-from-georgian-dream-satellite-party-elected-president-of-rugby-union/) — OC Media
 
+- [Gorgodze: "I loved every single minute on the pitch"](https://www.world.rugby/news/569718/gorgodze-disfrute-cada-minuto-de-jugador?lang=en) — World Rugby (official) *(Mamuka Gorgodze's "16-year international career, from 2003-19", **75 tests**, **four Rugby World Cups**; "the former Montpellier man"; a second retirement in 2019 after answering an injury call for the World Cup in Japan; "a role model for future generations of Lelos players" with "no peers"; the Georgian union's "Thank you MAMUKA for your sensational career")*
+- [Mamuka Gorgodze — fiche joueur](https://itsrugby.fr/joueurs/mamuka-gorgodze-3463/) — It's Rugby (French database) *(195 cm, 118 kg, troisième ligne; **Montpellier 168 appearances, 2005–2014**; **Toulon 110 appearances**; **European Rugby Champions Cup with Toulon, 2015**; Top 14 finals 2011, 2016, 2017)*
+- ["J'avais l'impression d'y être déjà allé des centaines de fois": Dimitri Yachvili raconte son lien avec la Géorgie](https://agurarmenie.com/2021/11/14/javais-limpression-dy-etre-deja-alle-des-centaines-de-fois-dimitri-yachvili-raconte-son-lien-avec-la-georgie/) — Agur Arménie *(the paternal grandfather who "arrived in France during the Second World War", fought at Stalingrad, escaped a German camp and settled in Corrèze; the father **Michel**; **"Mon frère Grégoire a joué pour la Géorgie lors de la Coupe du monde 2003"**, based at Manly while France stayed at Bondi; Dimitri's choice of France and his regret at missing the 2007 France–Georgia fixture)*
+
+⚠️ **Gorgodze cap-count discrepancy — do not "correct" it.** World Rugby's own tribute says **75 tests**; the French database It's Rugby lists **52** (counting from a 2007 debut); other reports give 71–72. The text uses **World Rugby's figure** as the governing-body count and does not reconcile the others.
+
 ⚠️ **Gen 6 gaps — NOT asserted in the text:** the reported **28–19 win over Italy in July 2022** could only be traced to Wikipedia and is **left out**, which understates the Cardiff generation slightly. Whether the **18–18 Portugal draw was Georgia's first World Cup draw** is not confirmed and is not claimed. **Black Lion**'s founding year and competition record could not be sourced acceptably, so the club is named without detail. Georgia's **final placing in the 2026 Nations Cup** and their **November 2026 fixtures** were not found; the snapshot therefore stops at the July window. **Merab Sharikadze**'s playing role is not described, as his captaincy could not be confirmed from an acceptable source.
 
-⚠️ **Gen 5 gaps — NOT asserted in the text:** **Mamuka Gorgodze** could not be documented from an acceptable source in this pass and is absent, which is a real omission for the era. Georgia's **European championship title total** is reported inconsistently (16 on FloRugby, 17 elsewhere, with a garbled year list) and is therefore **left uncounted** in the prose. Individual **RWC 2011** results were not found. No source was found linking Ivanishvili's **premiership** to the rugby funding, so no such link is drawn.
+⚠️ **Gen 5 gaps — NOT asserted in the text:** **Mamuka Gorgodze — GAP NOW CLOSED (August 2026)**, via World Rugby's own tribute and the French database It's Rugby. He has his own section in Gen 5. Georgia's **European championship title total** is reported inconsistently (16 on FloRugby, 17 elsewhere, with a garbled year list) and is therefore **left uncounted** in the prose. Individual **RWC 2011** results were not found. No source was found linking Ivanishvili's **premiership** to the rugby funding, so no such link is drawn.
 
-⚠️ **Gen 4 gaps — NOT asserted in the text:** no source could be found naming **which Georgian players went to which French clubs** in 1997–2006, or how many. Saurel's strategy is documented in principle (Campion) and not in detail, and the prose reflects that. Also unfound: **Ilia Zedginidze**'s details; the individual RWC 2003 scores other than the Uruguay match; and the **Yachvili family connection** (Dimitri Yachvili's Georgian descent and his brother Grégoire playing for Georgia), which appears **only on Wikipedia** and is therefore left out entirely.
+⚠️ **Gen 4 gaps — NOT asserted in the text:** no source could be found naming **which Georgian players went to which French clubs** in 1997–2006, or how many. Saurel's strategy is documented in principle (Campion) and not in detail, and the prose reflects that. Also unfound: **Ilia Zedginidze**'s details; the individual RWC 2003 scores other than the Uruguay match; and the **Yachvili family connection — GAP NOW CLOSED (August 2026)** from a French-language source, and written into Gen 4 as "Two brothers".
 
 ⚠️ **Still NOT asserted:** the day of the first Test. **"12 September 1989" remains unconfirmed** — Campion gives only "September 1989", *The Rugby Journal* only the year, and no non-mirror source found states the date. The Kutaisi **venue name** is likewise unfound.
 
