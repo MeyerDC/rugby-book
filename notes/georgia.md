@@ -461,3 +461,64 @@ what happens when a sport rests on one man's money and his associates run the fe
 several items ("URL: Chapter 04-georgia.md, lines 729-733"). That is circular — re-sourcing that
 chapter is the entire job — and none of it counts as verification. The whole of Gen 5's match record
 was recovered by hand afterwards.
+
+### GEN 6 — DRAFTED (August 2026). CHAPTER DRAFT COMPLETE.
+Old chapter **1,051 lines → draft 442**. `###` subheads **50 → 21**. First-person intrusions
+**8 → 0**. Reader-commands **5 → 0**. Wikipedia/Grokipedia citations **6 → 0**.
+
+**⭐ THE BIGGEST FIND OF THE WHOLE REWRITE — the doping case has CONCLUDED, and these notes were out of
+date.** The earlier note here said "disciplinary process ongoing, sanctions unpublished," which was
+true in March 2026 and is not true now. The retrieval agent reported the whole thing NOT FOUND;
+hand-searching found the resolution.
+- **13 March 2026**, World Rugby (official): "six players and one member of the support personnel"
+  charged and sanctioned over "an orchestrated scheme involving recreational drugs and sample
+  substitution"; a parallel WADA investigation "relating to the Georgian Anti-Doping Agency"; no names,
+  no lengths, process incomplete.
+- **⭐ 12 May 2026**, World Rugby (official): outcomes published. **"The most extensive anti-doping
+  investigation ever undertaken in rugby"** — four years, targeted testing and **DNA analysis of
+  historical samples**. Substitution ran "over an extended period **prior to Men's Rugby World Cup 2023
+  in France**." Bans: **Giorgi Chkoidze 6y, Lasha Khmaladze 3y, Merab Sharikadze 11y, Miriani Modebadze
+  3y, Otar Lashkhi 3y, Lasha Lomidze 9 months, Dr Nutsa Shamatava (team doctor) 9y.**
+  **The Georgian Rugby Union itself accepted a misconduct charge**, a financial penalty and a mandated
+  reform programme.
+- The **GADA collusion** detail (WADA's unit finding collusion between agency members and an
+  "Entourage Member" of the national team) is **Planet Rugby's**, *not* in World Rugby's own
+  statements — attributed as such in the prose. Do not upgrade it to an official finding.
+
+**⭐ THE STRUCTURAL RHYME THE CHAPTER WAS BUILT TOWARD.** Gen 5 opens at **Bordeaux, 2007, 78 minutes**,
+Georgia four points down and over the Irish line, Leamy getting his body under the ball, TMO "held up."
+Gen 6 opens at **Cardiff, 19 November 2022, 78 minutes**, Luka Matkava kicking the penalty that beats
+Wales 13–12. Same minute, same kind of match, opposite outcome, fifteen years apart. Both are exact —
+Sky Sports gives Matkava's penalty on 78; worldcup.org.uk gives Leamy on 78. **Do not break this pair.**
+
+**Other verified Gen 6 material:** RWC 2019 Pool D, W1 L3, −57 (RugbyPass). The Cardiff match in full
+(Sky Sports): Jac Morgan's two tries on 20 and 24 minutes, Priestland's conversion, half-time 12–3,
+**Alexander Todua**'s try on 59 converted by **Tedo Abzhandadze**, Matkava on 78; "one of the greatest
+upsets in international rugby union history." RWC 2023 Pool C, **0W 1D 3L**, −49, the **18–18 draw with
+Portugal** (RugbyPass). The **2020–21 union crisis** (Civil Georgia, OC Media). **RWC 2027
+qualification** — seventh consecutive World Cup, 24 years after the debut, via the Rugby Europe
+semi-finals, with a climb to **11th**, equalling their best (World Rugby official). The **2026 Nations
+Cup** July window: **Georgia 41–34 Uruguay** (4 July, Estadio Charrúa) and **Georgia 49–22 Chile**
+(18 July) — two of this book's own chapters beaten in a fortnight.
+
+**Design-block compliance:** the old ending, a section titled **"The thesis, held up one last time,"** is
+**gone**. The chapter now closes on a dated mid-2026 snapshot and then returns to Shukhuti — the
+sixteen-kilo ball, the priest, the shotgun, the winners carrying it to a grave — letting the reading
+emerge from events rather than restating it. The doping section is written to the Latham standard: no
+villain-people, nothing softened, and the comparison made explicit that every nation in this book has
+had an accommodation with the rules, with the machinery rather than the impulse being what separates
+this one.
+
+**❌ Gen 6 gaps, all flagged in the draft's Sources block:** the reported **28–19 win over Italy, July
+2022** traces only to Wikipedia and is **left out** (this understates the Cardiff era slightly — worth
+one more look); whether the Portugal draw was Georgia's **first World Cup draw** is unconfirmed and
+unclaimed; **Black Lion** is named without founding year or honours; Georgia's **final 2026 Nations Cup
+placing** and **November fixtures** were not found, so the snapshot stops at the July window; and
+**Merab Sharikadze**'s playing role is not described because his captaincy could not be confirmed.
+
+### ⚠️ BEFORE PROMOTION — outstanding work on this chapter
+1. **Mamuka Gorgodze is still absent** (Gen 5). The defining player of his era. Needs a dedicated pass
+   in **French** sources (Montpellier, Toulon).
+2. The **European championship title total** is still uncounted in the prose (16 v 17, garbled years).
+3. **"12 September 1989"** and **"15 October 1959"** remain unsourced and are deliberately absent.
+4. The **Yachvili family connection** is Wikipedia-only; worth one look in French sources.

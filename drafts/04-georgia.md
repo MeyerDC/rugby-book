@@ -328,9 +328,67 @@ The first was the locked door: a competitive ceiling imposed from outside, by co
 
 Both problems came due in the generation that followed.
 
+## Generation 6: The Locked Door and the Scandal (2019–2026)
+
+**19 November 2022. The Principality Stadium, Cardiff.** Seventy-eight minutes gone, and a twenty-one-year-old Georgian fly-half called **Luka Matkava** is standing over a penalty to beat Wales.
+
+Wales had led 12–3 at the break, both tries from **Jac Morgan** inside five minutes of each other, one converted by Rhys Priestland. Since then they have scored nothing at all. On fifty-nine minutes **Alexander Todua** went over for Georgia, **Tedo Abzhandadze** converted, and the margin came down to two.
+
+Matkava kicks it. **Wales 12, Georgia 13.** Sky Sports calls it "one of the greatest upsets in international rugby union history" and "the greatest victory in their history" — Georgia beating Wales for the first time, in Cardiff.
+
+Fifteen years earlier, in Bordeaux, the clock had also read seventy-eight minutes with Georgia four points down and over the line, and Denis Leamy had got his body under the ball. Same minute of the same kind of match, and this time it went the other way.
+
+---
+
+The generation had not begun well, and it did not stay clean.
+
+At **Rugby World Cup 2019** in Japan, Georgia drew Pool D — Australia, Fiji, Wales and Uruguay — and finished with one win from four, a points difference of minus fifty-seven and a single bonus point. Respectable, familiar, and unchanged in shape from 2007: beat the team below you, lose to everyone above.
+
+Then the union turned on itself.
+
+### The federation
+
+In **December 2020** the Georgian Rugby Union held a presidential election, and **Irakli Abuseridze** — a former Georgia captain, one of the most-capped players the country has produced — won it. On **30 December** the **National Agency of Public Registry** declined to register him, citing "procedural violations." A second attempt collapsed on **24 February 2021**. On **10 March 2021**, **Soso Tkemaladze**, reported to be a close associate of **Bidzina Ivanishvili**, was elected as the only candidate. Supporters of the two sides fought in the street.
+
+This is the second problem the previous generation left behind, arriving on schedule. A sport built with one man's money, in a country where that man is the dominant political force, does not have an obvious boundary between its federation and its politics. When the election of a rugby president is settled by a state registry agency and produces a single approved candidate, the sport has stopped being a private association in any meaningful sense.
+
+### France, and a draw
+
+**Rugby World Cup 2023** was supposed to be the payoff — the first tournament after the win in Cardiff, with a pool containing Wales and Australia and Fiji and, crucially, **Portugal**, a side Georgia had beaten routinely for twenty years.
+
+Georgia did not win a match. They lost to Australia, Fiji and Wales, and against Portugal they **drew 18–18**. Played four, won none, drawn one, lost three; points difference minus forty-nine.
+
+The draw was the worst of it. Portugal were the one fixture on the sheet Georgia were expected to take, and failing to take it meant a World Cup with no wins for the first time since 2003 — twenty years of progress, and a pool record indistinguishable from the debut.
+
+### Operation Obsidian
+
+And then, in March 2026, the reason some of the previous decade had looked the way it did began to come out.
+
+On **13 March 2026** World Rugby confirmed that "six players and one member of the support personnel" of the Georgian men's team had been charged and sanctioned over "an orchestrated scheme involving recreational drugs and sample substitution," and noted a parallel WADA investigation into the **Georgian Anti-Doping Agency** itself. It declined to say more until the process finished.
+
+It finished on **12 May 2026**, and the published outcome is the most severe thing in this book.
+
+World Rugby described it as **"the most extensive anti-doping investigation ever undertaken in rugby"** — four years long, using targeted player testing and DNA analysis of historical samples. The substitution had run "over an extended period **prior to Men's Rugby World Cup 2023 in France**." Seven people were banned: **Giorgi Chkoidze** six years, **Lasha Khmaladze** three, **Merab Sharikadze** eleven, **Miriani Modebadze** three, **Otar Lashkhi** three, **Lasha Lomidze** nine months, and the team doctor **Dr Nutsa Shamatava** nine years.
+
+The **Georgian Rugby Union itself accepted a misconduct charge**, taking a financial penalty and a mandated programme of anti-doping reform and education. And according to Planet Rugby's account of the WADA findings, the investigators had uncovered collusion between members of the state anti-doping agency and an "entourage member" of the national team — the body responsible for catching Georgian athletes working with the people it was supposed to be catching.
+
+There is no version of this that reads well, and there is no version in which it is only about Georgia. Sample substitution on this scale requires a doctor, a testing regime that can be steered, and players willing to use both. Every rugby nation in this book has had its own accommodation with the rules — the boot money in English amateur clubs, the shamateurism that ran for a century, the tacit arrangements that let unions look away. What separates this is not the impulse but the machinery: a national anti-doping agency, which exists precisely to be independent of the sport it polices, allegedly working with the team.
+
+It also landed on the country with the least room to absorb it. Georgia's entire argument for twenty years had been *let us play the good teams*. The scandal handed every reluctant union a reason to say no that had nothing to do with the merits — and it did so in the same decade Georgia had finally produced the result that made the argument unanswerable.
+
+### Where things stood, mid-2026
+
+In **February 2025**, by reaching the semi-finals of the Rugby Europe Championship, Georgia qualified for **Rugby World Cup 2027** in Australia — their **seventh consecutive World Cup**, twenty-four years after the debut in the same country, and the first under an expanded twenty-four-team format. They marked it by climbing to **11th** in the World Rugby rankings, equalling their highest ever placing.
+
+In July 2026 they went to the Americas for the inaugural **World Rugby Nations Cup** and won both matches — **41–34 against Uruguay** at the Estadio Charrúa in Montevideo on the 4th, and **49–22 against Chile** on the 18th, at the new Georgian-style high-performance ground on the hillside at La Reina. Two of this book's chapters, beaten in a fortnight by the third.
+
+So the position in the middle of 2026 was this. Georgia had a World Cup place, a ranking in the low teens, a professional club in **Black Lion**, fourteen high-performance centres, a generation of players in the French leagues, one of the great upsets in the sport's history behind them — and a federation that had accepted a misconduct charge, seven people serving bans of up to eleven years, a state anti-doping agency implicated in the scheme, and still no route into the tournament played every February by the countries next door.
+
+The village game at Shukhuti has been played every Easter through all of it. A sixteen-kilo ball, a priest, a shotgun, and at the end of the afternoon the winners carrying it up to the cemetery to put it on a grave.
+
 ## Sources
 
-*(Gen 0–5 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Full chapter sources.)*
 
 - [Lelo burti at Shukhuti](https://civil.ge/archives/231988) — Civil Georgia *(Easter Sunday at Shukhuti in Guria; upper and lower village; a heavy leather ball tightly stuffed with dirt; no fixed team size, no referees, no rules)*
 - [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *(the Lelos nickname drawn from lelo burti; the 16–17 kg ball of wine-soaked dirt and sawdust)*
@@ -361,6 +419,19 @@ Both problems came due in the generation that followed.
 - [Rugby World Cup 2007 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2007/) — RugbyPass *(Pool D table: Georgia **won 1, lost 3**, points difference **−61**, **5 tries**, 1 bonus point)*
 - [Rugby World Cup 2015 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2015/) — RugbyPass *(Pool C: Georgia **2 wins, 2 defeats**, points difference **−70**, 5 tries, 8 points; New Zealand and Argentina beat Georgia, Namibia and Tonga each "by a margin of at least 29 points")*
 - [Youngest player to appear in a Rugby Union World Cup (male)](https://www.guinnessworldrecords.com/world-records/82217-youngest-player-to-appear-in-a-rugby-union-world-cup-male) — Guinness World Records *("The youngest player to appear in a Rugby Union World Cup is **Vasil Lobzhanidze** (Georgia, b. **14 October 1996**), who played for Georgia vs Tonga, aged **18 years 340 days**, at **Kingsholm in Gloucester**, England, UK, on **19 September 2015**.")*
+
+- [Rugby World Cup 2019 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2019/) — RugbyPass *(Pool D: Australia, Fiji, Georgia, Uruguay, Wales. Georgia **won 1, lost 3**, points difference **−57**, 9 tries, 1 bonus point)*
+- [Wales 12–13 Georgia — Los Lelos pick up historic Test victory at the Principality Stadium](https://www.skysports.com/rugby-union/news/12321/12750251/wales-12-13-georgia-les-lelos-pick-up-historic-test-victory-at-the-principality-stadium-in-cardiff) — Sky Sports *(**19 November 2022**; Jac Morgan's two tries, 20th and 24th minutes, one converted by Rhys Priestland; half-time **Wales 12–3**; **Alexander Todua**'s try on 59 minutes converted by **Tedo Abzhandadze**; **Luka Matkava**'s penalty on **78 minutes**; "one of the greatest upsets in international rugby union history", "the greatest victory in their history", "beating Wales for the first time")*
+- [Rugby World Cup 2023 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2023/) — RugbyPass *(Pool C: Australia, Fiji, Georgia, Portugal, Wales. Georgia **0 wins, 1 draw, 3 losses**, points difference **−49**, 7 tries; the **18–18 draw with Portugal**)*
+- [World Rugby statement relating to anti-doping regulation breaches by members of the Georgian Rugby Union senior men's team](https://www.world.rugby/news/1042846/world-rugby-statement-relating-to-anti-doping-regulation-breaches-by-members-of-the-georgian-rugby-union-senior-mens-team) — World Rugby (official, **13 March 2026**) *("six players and one member of the support personnel" charged and sanctioned; "an orchestrated scheme involving recreational drugs and sample substitution"; a parallel WADA investigation "relating to the Georgian Anti-Doping Agency"; no names or sanction lengths given, the process then incomplete)*
+- [World Rugby sanctions six players, a team doctor and the Georgia Rugby Union over historical urine sample substitution cases](https://www.world.rugby/news/1043909/world-rugby-sanctions-six-players-a-team-doctor-and-the-georgia-rugby-union-over-historical-urine-sample-substitution-cases) — World Rugby (official, **12 May 2026**) *(**"the most extensive anti-doping investigation ever undertaken in rugby"** — four years, targeted testing and DNA analysis of historical samples; substitution "over an extended period prior to Men's Rugby World Cup 2023 in France"; bans: **Giorgi Chkoidze 6 years, Lasha Khmaladze 3, Merab Sharikadze 11, Miriani Modebadze 3, Otar Lashkhi 3, Lasha Lomidze 9 months, Dr Nutsa Shamatava 9 years**; the **Georgian Rugby Union accepted a misconduct charge**, a financial penalty and a mandated anti-doping reform programme)*
+- [World Rugby issue statement as Georgia rocked by anti-doping sanctions](https://www.planetrugby.com/news/world-rugby-issue-statement-as-georgia-rocked-by-anti-doping-sanctions) — Planet Rugby *(reports that WADA's investigative unit "unearthed collusion between members of the Georgian Anti-Doping Agency (GADA) and an 'Entourage Member' of the Georgian national team" — this detail is **not** in World Rugby's own statements and is attributed in the text accordingly)*
+- [Georgia equal rankings high as quartet confirm Men's RWC 2027 qualification](https://www.world.rugby/news/984400/georgia-equal-rankings-high-as-quartet-confirm-mens-rwc-2027-qualification?lang=en) — World Rugby (official) *(Georgia qualified for their **seventh consecutive** World Cup, 24 years after their debut, by reaching the Rugby Europe Championship semi-finals; climbed to **11th** in the rankings, equalling their best; RWC 2027 expands to **24 teams**)*
+- [Georgia and Spain secure Men's Rugby World Cup 2027 qualification](https://www.world.rugby/news/983870/spain-and-georgia-qualify-for-mens-rugby-world-cup-2027) — World Rugby (official)
+- [New Georgian Rugby Union president elected amid clashes](https://civil.ge/archives/404918) — Civil Georgia *(the 2020–21 presidential crisis: Abuseridze's election, the **National Agency of Public Registry**'s refusal to register him citing "procedural violations", the failed attempt of 24 February 2021, and Tkemaladze's election on 10 March 2021)*
+- [MP from Georgian Dream satellite party elected president of Rugby Union](https://oc-media.org/mp-from-georgian-dream-satellite-party-elected-president-of-rugby-union/) — OC Media
+
+⚠️ **Gen 6 gaps — NOT asserted in the text:** the reported **28–19 win over Italy in July 2022** could only be traced to Wikipedia and is **left out**, which understates the Cardiff generation slightly. Whether the **18–18 Portugal draw was Georgia's first World Cup draw** is not confirmed and is not claimed. **Black Lion**'s founding year and competition record could not be sourced acceptably, so the club is named without detail. Georgia's **final placing in the 2026 Nations Cup** and their **November 2026 fixtures** were not found; the snapshot therefore stops at the July window. **Merab Sharikadze**'s playing role is not described, as his captaincy could not be confirmed from an acceptable source.
 
 ⚠️ **Gen 5 gaps — NOT asserted in the text:** **Mamuka Gorgodze** could not be documented from an acceptable source in this pass and is absent, which is a real omission for the era. Georgia's **European championship title total** is reported inconsistently (16 on FloRugby, 17 elsewhere, with a garbled year list) and is therefore **left uncounted** in the prose. Individual **RWC 2011** results were not found. No source was found linking Ivanishvili's **premiership** to the rugby funding, so no such link is drawn.
 
