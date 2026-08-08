@@ -280,9 +280,57 @@ The next generation would fix the money problem in the most spectacular way avai
 
 It would not fix the other one.
 
+## Generation 5: The Billionaire (2007–2018)
+
+**15 September 2007. Bordeaux.** Seventy-eight minutes gone, Ireland lead Georgia 14–10, and the Georgian pack is over the Irish line.
+
+For the last twenty minutes the match has run one way. Georgia have had the territory and the possession and Ireland — a side that will reach a World Cup quarter-final in the next cycle — have been camped on their own line waiting for it to end. Now the maul goes over, and it looks like a try, and it looks like Georgia beating a Six Nations country at a World Cup.
+
+The Irish flanker **Denis Leamy** gets his body under the ball. The television official rules it **held up**.
+
+Ireland win **14–10**. Georgia's try that day was scored by Shkinin, with a conversion and a penalty from Kvirikashvili, and it is the closest anybody outside the top tier had come to that kind of scalp.
+
+Eleven days later, at Lens, Georgia beat **Namibia 30–0** — no reply, a shutout — for the **first World Cup win in the country's history.**
+
+They finished the pool having lost 33–3 to Argentina in Lyon and 64–7 to France in Marseille. Played four, won one. But the arithmetic had moved: at their first World Cup, four years earlier, Georgia had scored **one try in the whole tournament.** In 2007 they scored **five**, took a losing bonus point, and came within a television replay of Ireland.
+
+---
+
+Somebody was watching.
+
+**Bidzina Ivanishvili** is a Georgian who made a fortune in Russia in the 1990s and returned home as one of the wealthiest men on earth — wealthy in the specific way that matters here, which is that his personal fortune was for years a substantial fraction of his country's entire economy. He would go on to serve as **Prime Minister of Georgia**, and to remain the dominant figure in Georgian politics long after leaving the office.
+
+Through his **Cartu Foundation**, he put — in the phrase used by Rugby Australia's account of the Georgian game — "the equivalent of **£80 million** into Georgia rugby," and built "**14 high-performance centres** across the country." The money was aimed at **infrastructure rather than operational costs**: not salaries, not the national team's running expenses, but grounds, buildings, gyms, the physical plant of a sport.
+
+Read that against the previous generation and the scale of it is almost comic. Fifteen years before, the national team's scrum training equipment had been agricultural machinery lying in a field. Now there were fourteen purpose-built high-performance centres in a country of under four million people. There is nothing else like it in this book. Wales built its game on a coalfield's wages; England's on the gate receipts of industrial towns; Argentina's on clubs that walked out of football. Georgia's was, to a degree no other country here approaches, **built by one man's chequebook.**
+
+### What the money bought, and what it could not
+
+What it bought was dominance of everything Georgia was allowed to enter.
+
+Georgia won the **European championship** — the competition immediately below the Six Nations, containing Romania, Spain, Portugal, Russia — for the first time in **2001**, and from 2006 they won it almost every year. (The exact total is reported inconsistently across sources and is left uncounted here; the pattern is not in doubt.) They qualified for **every World Cup**, and at each one they were a little harder to play. At **RWC 2011** they were drawn in Pool B with Argentina, England, Scotland and Romania. At **RWC 2015** they went a stage further again — Pool C, **two wins and two defeats**, beating **Tonga 17–10** at Kingsholm and then Namibia, and losing only to New Zealand and Argentina, each by thirty points or more.
+
+The Tonga match carried a record. Georgia's scrum-half that day was **Vasil Lobzhanidze**, born 14 October 1996, and at **18 years and 340 days** he became the **youngest player ever to appear in a Rugby World Cup** — a mark Guinness World Records still holds him for. Sixteen years after Georgia had been knocked out of a World Cup by Tonga in a repechage, a Georgian teenager beat them in one.
+
+What the money could not buy was a fixture list.
+
+That is the wall this generation ends against. Georgia could win the second tier of Europe as often as it liked; the reward for winning it was to play the second tier of Europe again the following year. There was no promotion. The **Six Nations** had no relegation and no intention of acquiring any, and the annual argument — that a country beating everyone below it had earned a match against somebody above it — went the same way every time. Four World Cup pool matches every four years remained essentially the whole of Georgia's exposure to Tier 1 rugby, exactly as it had been in 2003.
+
+### What this generation leaves behind
+
+A sport that has been given everything except opponents.
+
+By 2018 Georgia had the facilities, the money, the professional players in France, the World Cup record, the near-permanent European title, and a national team that Tier 1 sides had begun quietly to dread as a fixture — physical, technically excellent at the set piece, and offering absolutely no upside to whoever agreed to play them.
+
+It had two problems, and neither was on the field.
+
+The first was the locked door: a competitive ceiling imposed from outside, by countries with no obligation to explain themselves. The second was structural and much less discussed at the time — that a national sport standing on **one man's money** is standing on something that can be withdrawn, and that when that man is also the most powerful political figure in the country, the distance between a rugby federation and a government becomes very short indeed.
+
+Both problems came due in the generation that followed.
+
 ## Sources
 
-*(Gen 0–4 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Gen 0–5 sources — the full chapter list will be assembled once all seven generations are drafted.)*
 
 - [Lelo burti at Shukhuti](https://civil.ge/archives/231988) — Civil Georgia *(Easter Sunday at Shukhuti in Guria; upper and lower village; a heavy leather ball tightly stuffed with dirt; no fixed team size, no referees, no rules)*
 - [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *(the Lelos nickname drawn from lelo burti; the 16–17 kg ball of wine-soaked dirt and sawdust)*
@@ -306,6 +354,15 @@ It would not fix the other one.
 - [Rugby World Cup 2003 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2003/) — RugbyPass *(**Pool C**: England, South Africa, Samoa, Uruguay, Georgia. Georgia **played 4, won 0, drew 0, lost 4**, points difference **−154**, **tries scored 1**, bonus points **0**.)*
 - [Rugby World Cup 2003 — group stage results](https://globalsportsarchive.com/competition/rugby/rugby-world-cup-2003-australia/group-stage/26239/) — Global Sports Archive *(**Georgia 12–24 Uruguay, 28 October 2003**)*
 - [Rugby Europe Championship all-time winners](https://www.florugby.com/articles/13569492-rugby-europe-championship-all-time-winners-heres-a-list) — FloRugby *(Georgia **first won in 2001**; the tally of subsequent titles is listed inconsistently there — treat the total as approximate and do not harden it)*
+
+- [Georgia: the next big thing in rugby union](https://www.rugby.com.au/news/georgia-the-next-big-thing-in-rugby-union-2024718) — Rugby Australia *("the equivalent of **£80 million** into Georgia rugby"; "**14 high-performance centres** across the country"; the funding "targeted at infrastructure rather than the operational costs")*
+- [Rugby World Cup 2007 — results](https://www.worldcup.org.uk/rugby/2007/results.shtml) — worldcup.org.uk *(Georgia's Pool D: **Argentina 33–3 Georgia**, 11 Sep, Lyon; **Ireland 14–10 Georgia**, 15 Sep, Bordeaux; **Georgia 30–0 Namibia**, 26 Sep, Lens; **France 64–7 Georgia**, 30 Sep, Marseille)*
+- [Rugby World Cup 2007 — Bordeaux](https://www.worldcup.org.uk/rugby/2007/bordeaux.shtml) — worldcup.org.uk *(the Ireland match: Georgia's try by **Shkinin**, conversion and penalty by **Kvirikashvili**; Georgia holding territory and possession for the closing twenty minutes; on **78 minutes Denis Leamy** getting his body under the ball with the TMO ruling **"held up"**)*
+- [Rugby World Cup 2007 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2007/) — RugbyPass *(Pool D table: Georgia **won 1, lost 3**, points difference **−61**, **5 tries**, 1 bonus point)*
+- [Rugby World Cup 2015 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2015/) — RugbyPass *(Pool C: Georgia **2 wins, 2 defeats**, points difference **−70**, 5 tries, 8 points; New Zealand and Argentina beat Georgia, Namibia and Tonga each "by a margin of at least 29 points")*
+- [Youngest player to appear in a Rugby Union World Cup (male)](https://www.guinnessworldrecords.com/world-records/82217-youngest-player-to-appear-in-a-rugby-union-world-cup-male) — Guinness World Records *("The youngest player to appear in a Rugby Union World Cup is **Vasil Lobzhanidze** (Georgia, b. **14 October 1996**), who played for Georgia vs Tonga, aged **18 years 340 days**, at **Kingsholm in Gloucester**, England, UK, on **19 September 2015**.")*
+
+⚠️ **Gen 5 gaps — NOT asserted in the text:** **Mamuka Gorgodze** could not be documented from an acceptable source in this pass and is absent, which is a real omission for the era. Georgia's **European championship title total** is reported inconsistently (16 on FloRugby, 17 elsewhere, with a garbled year list) and is therefore **left uncounted** in the prose. Individual **RWC 2011** results were not found. No source was found linking Ivanishvili's **premiership** to the rugby funding, so no such link is drawn.
 
 ⚠️ **Gen 4 gaps — NOT asserted in the text:** no source could be found naming **which Georgian players went to which French clubs** in 1997–2006, or how many. Saurel's strategy is documented in principle (Campion) and not in detail, and the prose reflects that. Also unfound: **Ilia Zedginidze**'s details; the individual RWC 2003 scores other than the Uruguay match; and the **Yachvili family connection** (Dimitri Yachvili's Georgian descent and his brother Grégoire playing for Georgia), which appears **only on Wikipedia** and is therefore left out entirely.
 

@@ -408,3 +408,56 @@ Wikipedia explicitly, marked its own recall as unverified, and returned NOT FOUN
 returned almost nothing usable. **Hand-searching then recovered the entire centrepiece in three calls.**
 Worth remembering: the agent is useful for breadth, but the decisive facts have come from checking by
 hand every time.
+
+### GEN 5 — DRAFTED (August 2026). Range kept at 2007–2018.
+148 lines → **48**; 7 `###` subheads → 2; 1 first-person intrusion → 0.
+
+**⭐ STRUCTURAL FIX — the union crisis was in the wrong generation.** The old chapter and these notes
+placed the **GRU presidential crisis** in Gen 5. Civil Georgia confirms the dates: Abuseridze won the
+election on **30 December 2020** but the **National Agency of Public Registry** refused to register him
+citing "**procedural violations**"; a further attempt failed on **24 February 2021**; **Tkemaladze was
+elected on 10 March 2021**. Those dates fall **entirely outside 2007–2018** and the episode has been
+**moved to Gen 6**. Note also a precision fix for whoever writes it: it was the *Public Registry
+agency* that refused registration, not "the government" flatly — the agency acts on government
+authority, but the distinction should survive into the prose.
+This gives the chapter a better shape than the old one: **Gen 5 ends on the money and the ceiling;
+Gen 6 carries both the governance collapse and the doping scandal**, which share a single question —
+what happens when a sport rests on one man's money and his associates run the federation.
+
+**Verified and used:**
+- **Ivanishvili / Cartu Foundation** (Rugby Australia, verbatim): "the equivalent of **£80 million**
+  into Georgia rugby"; "**14 high-performance centres** across the country"; aimed at "**infrastructure
+  rather than the operational costs**."
+- **RWC 2007, Pool D — all four matches with dates and venues** (worldcup.org.uk): Argentina 33–3
+  Georgia (11 Sep, Lyon); **Ireland 14–10 Georgia** (15 Sep, Bordeaux); **Georgia 30–0 Namibia**
+  (26 Sep, Lens) — the **first World Cup win in Georgian history**; France 64–7 Georgia (30 Sep,
+  Marseille). Pool record (RugbyPass): won 1, lost 3, **−61**, **5 tries**, 1 bonus point.
+- **⭐ THE BORDEAUX SCENE** (worldcup.org.uk): Georgia held territory and possession for the closing
+  twenty minutes; on **78 minutes Denis Leamy** got his body under the ball and the TMO ruled
+  "**held up**". Georgia's try by **Shkinin**, conversion and penalty by **Kvirikashvili**. Used as the
+  generation's cold open.
+- **The arithmetic that shows the movement:** one try in the *whole* of RWC 2003 → **five** tries and a
+  losing bonus point at RWC 2007. Both figures officially tabulated.
+- **RWC 2015** (RugbyPass): Pool C, **2 wins 2 defeats**, −70. **Georgia beat Tonga 17–10.**
+- **⭐ LOBZHANIDZE — Guinness World Records, verbatim:** "The youngest player to appear in a Rugby Union
+  World Cup is Vasil Lobzhanidze (Georgia, b. **14 October 1996**), who played for Georgia vs Tonga,
+  aged **18 years 340 days**, at **Kingsholm in Gloucester**, England, UK, on **19 September 2015**."
+  Payoff written into the prose: sixteen years after Tonga knocked Georgia out of a World Cup in the
+  repechage, a Georgian teenager beat them at one.
+
+**❌ NOT FOUND — kept out:**
+- **Mamuka Gorgodze.** Nothing usable from an acceptable source. He is **absent from the draft**, which
+  is the biggest real omission in the chapter — he is the defining Georgian player of the era. Worth a
+  dedicated pass in **French** sources (Montpellier, Toulon) before the chapter is finalised.
+- **The European championship title total** — FloRugby says 16, other notes say 17, and the year list is
+  garbled. The prose therefore states the 2001 first win and the post-2006 pattern and **leaves the
+  total uncounted**. Do not insert a number without a clean source.
+- **Individual RWC 2011 results** — only the Pool B composition is sourced.
+- **Any link between Ivanishvili's premiership and the rugby funding.** No source draws one, so the
+  draft does not either; it notes only that the same man was both the sport's patron and the country's
+  dominant political figure, which is documented and sufficient.
+
+**⚠️ Method note repeated:** this retrieval pass cited **the old chapter itself** as a source for
+several items ("URL: Chapter 04-georgia.md, lines 729-733"). That is circular — re-sourcing that
+chapter is the entire job — and none of it counts as verification. The whole of Gen 5's match record
+was recovered by hand afterwards.
