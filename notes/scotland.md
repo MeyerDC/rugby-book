@@ -1159,3 +1159,48 @@ two-club base can't produce enough) — a modern institutional adaptation of the
   (since 1999). Scots prominent on the **2025 Lions** tour of Australia. Question toward **RWC 2027 in
   Australia**: can a two-club nation with a golden generation finally break the ceiling — or is the lid
   structural?
+
+## NO-WIKI SOURCING PASS — August 2026
+
+Removed all 7 Wikipedia citations from the chapter's `## Sources`. Retrieval ran as a Haiku Explore
+subagent; **every returned URL was re-verified by hand before use** (the agent reported 7/7
+"CONFIRMED" and several did not survive checking — see the audit note at the end).
+
+- **Border Reivers** → replaced with **scottishrugby.org/the-border-reivers/** (official; verified to
+  contain the 1998 merger into Edinburgh Reivers, the 2002 resurrection as Scottish Borders Rugby
+  re-branded The Borders joining the Celtic League's second season, and the 2007 professional review)
+  + **The Rugby Journal**, "The Borders" (1996 formation, hiatus, revival, disbandment).
+  ⚠️ Nuance the chapter glosses: the 2002 revival was branded **"The Borders"**; "Border Reivers"
+  is the later name. Not an error in the text, but do not harden the naming.
+- **Caledonia Reds** → replaced with **glasgowwarriors.org/about-us/history/** (official). It confirms
+  only *"Two seasons later, Glasgow Rugby merged with the Caledonia Reds to form Glasgow Caledonians"*
+  — i.e. the **1998 merger**. It does **NOT** state the Reds' **1996 formation as the North & Midlands
+  district**. That detail is currently unsourced; the prose still asserts it. Re-source or soften.
+- **£20m SRU debt** → ⚠️ **NOT FOUND. No non-Wikipedia source could be produced for this figure.**
+  Searches surface only modern SRU accounts (the £10.5m 2023 loss, £23m core bank debt in 2006) and a
+  separate **£50m** Murrayfield renovation figure for 1995. The wiki citation was deleted and the
+  **prose hedged** to "reported at more than £20 million — the figure most accounts of the period
+  repeat, though none of them source it." Do not re-harden it without a primary source.
+- **1999 Five Nations** → replaced with **RugbyPass, "Where are they now? Scotland's last Championship
+  winners"** (verified: Wembley, Scott Gibbs's injury-time try, Neil Jenkins's conversion, Gary
+  Armstrong captain, Jim Telfer coach), alongside the Six Nations official history page already cited.
+- **2011 RWC** → replaced with **RugbyPass RWC 2011** (verified: Pool B composition, Scotland
+  eliminated at the pool stage). ⚠️ The page does **not** carry the words "first-ever pool exit"; the
+  chapter's "first-ever" framing rests on the record, not on this citation.
+- **2015 Pro12 final** and **2024 URC final** → wiki lines simply **deleted as duplicates**; the Sky
+  Sports match reports beside them already carried the identical scores and venues.
+
+### ⚠️ AGENT OUTPUT AUDIT — do not trust a retrieval agent's "CONFIRMED"
+The subagent returned **all 7 items as CONFIRMED**. On hand-checking:
+- Item 3 (£20m debt): its "URL" was the literal string *"Search result citing SRU financial crisis —
+  Multiple sources"*. Not a URL. A **NOT FOUND** dressed as a confirmation.
+- Item 5 (2011 RWC): second "URL" was *"BBC Sport references — BBC Sport"*. Also not a URL.
+- Item 6 (1979 Wales XV): led with a **Facebook video** link (Facebook was already purged from this
+  repo as a junk source in the Argentina pass), and its Cardiff RFC link **does not mention Romania or
+  1979 at all** — it only establishes that Gareth Davies played for Wales.
+- Item 2 (Caledonia Reds): the claim was over-stated — see above.
+- Item 7 (Antim Cup): the etymology and 2002 date it asserted trace to Wikipedia **mirrors**
+  (en-academic, dbpedia, google-info, encyclo, wikidata), not to independent sources.
+**Lesson for future passes: verify every URL resolves AND contains the fact before it enters a Sources
+block.** `curl` alone is not enough either — glasgowwarriors.org is a JS shell that returns ~1.5 KB to
+curl; it needed WebFetch to read.

@@ -71,7 +71,11 @@ rugby-book/
     05-romania.md  06-south-africa.md  07-england.md  08-wales.md
   notes/             # per-country research cache (facts + sources); write prose FROM here
     uruguay.md  argentina.md  chile.md  georgia.md
-    romania.md  south-africa.md  england.md  wales.md
+    romania.md  south-africa.md  england.md  wales.md  scotland.md
+  drafts/            # rewrites-in-progress + archived pre-rewrite chapters
+    NN-country.md                          # a rewrite being drafted (NOT in chapters/ —
+                                           #   combine_book.py bundles every .md there)
+    NN-country-superseded-old-chapter.md   # the pre-rewrite chapter, kept for fact-checking
   split_book.py      # book.md  -> chapters/   (one-time; already run)
   combine_book.py    # chapters/ -> book.md    (run after editing)
   build_book.py      # ORIGINAL extractor from the Claude JSON export (retired)
@@ -104,6 +108,14 @@ rugby-book/
 ## 5. Chapter-by-chapter map
 
 ### 1. Uruguay — `01-uruguay.md`  (Gen 0–6)
+(**Rewritten July 2026** — inside-out/no-villain voice matching the other rewrites, and the only
+rewrite that *expanded* the chapter (398 → 1,124 lines) because the original was the book's thinnest;
+`notes/uruguay.md` holds the REWRITE DESIGN and the per-generation adjudicated briefs.)
+**Trap for future editors:** the old chapter opened on an **1880 newspaper quote** — the scrum as
+"heads without shoulders, legs without bodies" — which the July 2026 archive pass recorded as
+**NOT FOUND**. It is gone; the cold open is now the verified **18 July 1861 Confitería Oriental**
+scene (Pickering, Hughes, MacLean founding the Montevideo Cricket Club). Do not reinstate the quote.
+
 The **institutional thesis in its purest form**: the same British origin as Argentina, but rugby
 stayed a marooned **elite Carrasco enclave**. Central engine is the 1900 fork — CURCC joins the AUF
 and assimilates (→ football/Peñarol) while **MVCC refuses to be governed by non-British men** (→
@@ -143,12 +155,35 @@ thesis.
 
 ### 3. Chile — `03-chile.md`  (Gen 0–6)
 Most **elite-coded** origin (nitrate mines, Valparaíso ports, **three English private schools**), yet
-the **fastest transformation** in the sport.
-- Gen 0 nitrate/ports ("white gold") · Gen 1 union 1935, first Tests · Gen 2 the three schools & tours
-  · Gen 3 · Gen 4 "the tormentor" · Gen 5 building the pro thing (**Selknam**) · Gen 6 amateur-to-**RWC
-  2023** in ~4 years (Pablo Lemoine, captain Martín Sigren).
+the **fastest transformation** in the sport. (**Rewritten July 2026** — inside-out/no-villain voice
+matching SA/England/Wales/Scotland/Argentina; 1,050 → 468 lines; `notes/chile.md` holds the REWRITE
+DESIGN, the per-generation briefs and the audit trail.)
+- **Gen 0** The Ports and the Saltpetre (1892–1934) · **Gen 1** The Union and the First Tests
+  (1935–1950) · **Gen 2** The Second Nation (1951–1971) · **Gen 3** The Mountain and the Map
+  (1972–1989) · **Gen 4** The Wilderness (1990–2017) · **Gen 5** Selknam (2018–2023) · **Gen 6** The
+  House on the Hill (2023–2026) — RWC 2023, the CARR, RWC 2027 qualification, the 18 Jul 2026 Georgia
+  defeat, dated mid-2026 snapshot.
+- **Traps for future editors** (corrected in the rewrite, do not reinstate): the first documented match
+  is **Coronel–Concepción, 16 June 1892** (Sebastián Núñez, *The Chilean Times* 9 Jul 1892) — the
+  traditional **1894 Iquique** origin has no document and is told as tradition, not record, so Gen 0 is
+  **1892–**, not 1894–; **Mackay was the Valparaíso Artizan School (1857), founded for craftsmen of
+  limited means** — do not flatten it into the "three expensive schools"; **Stade Français is
+  French-colony, not British**; **Sporting (Viña, 1963) is a Universidad Católica de Valparaíso side**,
+  not a British-school club; the **"sleeping giant" / "make rugby Chile's #2 sport" lines are
+  unverified as Lemoine quotes** — never attribute them.
 
 ### 4. Georgia — `04-georgia.md`  (Gen 0–6)
+🚧 **THE ONLY CHAPTER NOT YET REWRITTEN — this is the next job.** Still in the book's original
+conversational voice (1,052 lines; 8 authorial "I" intrusions and 5 reader-commands, vs 0–3 in the
+rewritten chapters). It also has the **thinnest fact base in the repo** — `notes/georgia.md` is 5.4 KB
+/ 14 links, **5 of them Wikipedia (36%)**, against Romania 0/14, Scotland 0/30, Wales 0/80, England
+1/108 — and it has **no REWRITE DESIGN block**. So Georgia needs the SA/Romania-standard **no-wiki
+re-verification pass first**, then a design block, then the gen-by-gen redraft in `drafts/04-georgia.md`.
+Load-bearing facts currently resting on Wikipedia: the **1999 Tonga repechage** scores, the **2026
+Nations Cup** pool, and the lelo-burti / national-team base material. Gen 6 has strong verified
+material the current chapter predates — **"Operation Obsidian"**, the 13 Mar 2026 WADA/World Rugby
+sanctions and the GADA tip-off scandal.
+
 Rugby maps onto the folk mass-ball game **lelo**, giving it deep popular roots.
 - Gen 0 origins · Gen 1 · Gen 2 the Soviet "machine" · Gen 3 **Kutaisi 1989** / independence · Gen 4
   strategy · Gen 5 the **billionaire** patron (Ivanishvili) · Gen 6 "the problem with winning
@@ -157,13 +192,20 @@ Rugby maps onto the folk mass-ball game **lelo**, giving it deep popular roots.
 ### 5. Romania — `05-romania.md`  (Gen 0–6)
 The **"Oaks" (Stejarii).** The communist state embraced rugby **because it was amateur** — inverting
 England's logic.
-- Gen 0 **Stadiul Român, 1913** / early Olympic rugby · Gen 1 out of the capital (Brașov's aircraft
-  factory, 1939) · Gen 2 "the decision" — *and the real breakthrough*: **5 June 1960, Romania 11–5
-  France**, the reigning Five Nations champions (wins also 1962, 1968) · Gen 3 **the Oaks at full
-  height** (24–6 Wales 1983; 28–22 Scotland's 1984 Grand Slam side; 15–9 at Cardiff 1988) closing on
-  the **literal two bullets — Durbac 23 Dec 1989, Murariu 24 Dec 1989**, both Steaua, both shot in the
-  revolution · Gen 4 **"the other two bullets"** (the regime's fall + 1995 professionalism → 134–0) ·
-  Gen 5 "the illusion of thirteenth place" · Gen 6 **rock bottom** (post-communist collapse).
+(**Rewritten July 2026** — inside-out/no-villain voice matching the other rewrites; 1,222 → 643 lines;
+`notes/romania.md` holds the REWRITE DESIGN, the no-wiki re-verification passes and the audit trail.)
+- **Gen 0** The Ball from Paris (c.1900–1930) · **Gen 1** The Works Team (1931–1948) · **Gen 2**
+  Because It Was Amateur (1949–1969) — the real breakthrough, **5 June 1960, Romania 11–5 France**,
+  the reigning Five Nations champions (wins also 1962, 1968) · **Gen 3** The Door That Did Not Open
+  (1970–1989) — the Oaks at full height (24–6 Wales 1983; 28–22 Scotland's 1984 Grand Slam side; 15–9
+  at Cardiff 1988), closing on the **literal two bullets — Durbac 23 Dec 1989, Murariu 24 Dec 1989**,
+  both Steaua, both shot in the revolution · **Gen 4** The Delay (1990–2001) — the regime's fall +
+  1995 professionalism → 134–0 · **Gen 5** The Ranking That Lied (2002–2017) · **Gen 6** Not Here as a
+  Tourist (2018–2026).
+- ⚠️ **Sourcing debt:** the Romania `## Sources` block still carries **7 Wikipedia links** (two of them
+  legitimately cited as *negative* evidence for the debunked unbeaten record; the other five need
+  replacing). See `notes/romania.md` "STILL WIKI-ONLY OR UNSOURCED" for the facts that are hedged on
+  purpose — do not harden them.
 - **Fact-checked July 2026** — see `notes/romania.md` for the verified brief and the errors corrected.
   Two traps for future editors: **1974 was NOT the first win over France** (1960 was), and the
   **"25-match unbeaten world record" is fabricated** (wiki-only; real record Cyprus 24 / NZ 23). The
@@ -259,9 +301,27 @@ generation-by-generation (see §7 Step 0).
 3. Run `python3 combine_book.py` to rebuild `book.md`.
 4. If a new country: use the next `NN` prefix and add it in reading order.
 
-**Open threads not yet written:** **Ireland** is referenced in cross-comparisons but has no chapter.
-**Scotland** is now a complete chapter (`09-scotland.md`, Gen 0–7). (Uruguay has now been expanded to a
-full Gen 0–6 series, matching the others.)
+**Rewrite protocol** (used for SA, England, Wales, Argentina, Uruguay, Chile, Romania — and next for
+Georgia): record a **REWRITE DESIGN** block in `notes/<country>.md` → draft into
+`drafts/NN-country.md` → fact-checklist the draft against the old chapter (the old chapter is a
+checklist, never a source of text) → `git mv` the old chapter to
+`drafts/NN-country-superseded-old-chapter.md` and the draft into `chapters/` → `python3
+combine_book.py` → update this file's §5 entry.
+
+**Open threads:**
+- 🚧 **Georgia** is the last chapter still in the original voice — see §5.4. **Next job.**
+- **Ireland** is referenced in cross-comparisons but has no chapter.
+- **Sourcing:** a no-wiki pass (**August 2026**) took the book from **20 Wikipedia/Grokipedia
+  citations to 7**. Scotland and Romania are clean; the 7 remaining are **6 in Georgia** (deferred
+  into its rewrite) and **1 deliberate exception** in Romania — a records page cited *against itself*
+  as negative evidence for the debunked unbeaten streak, labelled as such in the Sources block. **Do
+  not remove that one.** See the passes recorded in `notes/scotland.md` and `notes/romania.md`.
+- **Facts left knowingly unsourced by that pass** (hedged in prose, do not re-harden): the **£20m SRU
+  debt** figure (Scotland Gen 6 — no non-wiki source exists); the **Caledonia Reds' 1996 formation**
+  as the North & Midlands district; Romania's **13–12 / Gareth Davies drop goal** in the 1979 Wales XV
+  match (the uncapped billing *is* now sourced, the score is not); the **Antim Cup's 2002** start date.
+- Argentina's **Belgrano Athletic** Gen 0 facts remain wiki-only with no working citation (hedge or
+  re-source).
 
 ---
 

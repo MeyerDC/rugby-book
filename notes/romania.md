@@ -448,3 +448,33 @@ arrival… after the first session, I thought I had broken the pack"), and the s
 - [Romania disqualified from Rugby World Cup 2019](https://www.cbc.ca/sports/rugby/romania-disqualified-from-rugby-world-cup-in-japan-1.4663683) — CBC
 - [Rugby Europe Championship all-time winners](https://www.florugby.com/articles/13569492-rugby-europe-championship-all-time-winners-heres-a-list) — FloRugby
 - [Uruguay hand Romania record-breaking loss (70–8, 12 July 2025)](https://www.americasrugbynews.com/2025/07/12/uruguay-hand-romania-record-breaking-loss/) — Americas Rugby News
+
+## NO-WIKI SOURCING PASS — August 2026
+
+Cut the chapter's Wikipedia citations from 7 to 1. Retrieval ran as a Haiku Explore subagent; every
+returned URL was re-verified by hand (see the agent audit in `notes/scotland.md` — it over-claimed).
+
+- **Deleted as duplicates** (a non-wiki source citing the identical fact already sat beside each):
+  Florică Murariu (covered by Rugby.ro ×2, CSA Steaua, ESPN) · 2026 Nations Cup (World Rugby official
+  site + two previews + ARN ×2) · "Rugby union in Romania" and "Romania national rugby union team"
+  general-background pages (RugbyPass team page + the peer-reviewed IJHS paper).
+- **1979 Wales tour** → replaced with **the-racketeer.co.uk matchday programme listing**, verified to
+  read *"Programme from the match between a Welsh XV and the touring Romanians at Cardiff Arms Park
+  (on Saturday 6th Oct 1979)"*. This independently confirms the point the passage turns on — the
+  fixture was billed **"Wales XV"**, i.e. **uncapped** — plus the date and the ground.
+  ⚠️ It does **not** carry the **13–12** score or Gareth Davies's drop goal. Those remain
+  wiki-derived. The prose asserts them; soften if a match record cannot be found.
+- **Antim Cup** → replaced with **Georgia Today** (a real 2021 report of the cup changing hands).
+  ⚠️ The **2002** start date in the prose is **not confirmed**: every source carrying it is a
+  Wikipedia mirror (en-academic, dbpedia, google-info, encyclo, wikidata). One account puts the
+  founding motion at the **Georgia Rugby Union before the 2000 European Nations Cup decider in
+  Tbilisi**, which would make 2000–2002 the range rather than a clean 2002. Do not harden.
+  The naming — after **Antim Iverianul / Antimoz Iverieli**, the Georgian-born Metropolitan of
+  Wallachia (d. 1716) — is consistent across sources but likewise mirror-sourced.
+
+### The one deliberate Wikipedia citation that STAYS
+`International rugby union team records` is retained **as negative evidence only**, and is now
+labelled as such in the Sources block. The fabricated "25-match unbeaten world record" originates on
+Wikipedia, and the refutation in Gen 3 is precisely that **Romania appears nowhere on Wikipedia's own
+records page**. Removing the link would delete the evidence for the debunk. **Do not "clean" this
+one away** — it is cited against itself, and supports no assertion in the text.
