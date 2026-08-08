@@ -114,9 +114,69 @@ The men were there. The clubs were there. The word had been there for eight hund
 
 There was simply no such thing, in 1963, as a Georgian national rugby team — and there would not be for thirty more years.
 
+## Generation 2: The Soviet Machine (1964–1988)
+
+**1987. Kutaisi.** An industrial city in the western lowlands, a place of factories and river fog and a long-standing conviction that it is the truer Georgia, unimpressed by Tbilisi. Its rugby club is called **Aia**. It was founded in 1966, it had come second in the Soviet championship in 1984, and in 1987 it goes one better.
+
+Aia Kutaisi are champions of the Soviet Union.
+
+Not of Georgia. Georgia is not a country that has championships. Champions of a state stretching from the Baltic to the Pacific, with a population approaching three hundred million and rugby clubs in Moscow and Leningrad and Krasnoyarsk — and the best of them, in 1987, is a works side from a Georgian river town of a couple of hundred thousand people.
+
+They win it again in 1988.
+
+---
+
+Now go back to the beginning of the generation, because the story of these twenty-five years is not that Georgians were good at rugby. It is that they were good at rugby *inside somebody else's country*, and the record reflects whose country it was.
+
+Even the founding date will not sit still. **The Rugby Journal** says the Georgia Rugby Union was founded in **1961**. The rugby writer **Jonathan Campion** says the Georgian Rugby Federation was established in **1964**, and most accounts follow him. The **Welsh Rugby Union**'s history says **1966**. Three respectable sources, three different years, for the founding of a national governing body within living memory — and the reason is not carelessness. It is that a Georgian rugby federation between 1964 and 1990 was not a national governing body at all. It was a **regional section of a Soviet structure**, and nobody outside it was keeping careful count of when a branch office opened.
+
+What is not in dispute is what happened next, and Campion states it in a single sentence that carries the whole generation:
+
+> "The Georgian Rugby Federation was established in 1964; within a couple of years, Georgians made up **half of the USSR's rugby side**."
+
+Half. One republic out of fifteen, with something under two per cent of the Soviet population, supplying half the national XV — and doing it within two years of getting organised.
+
+### The jersey
+
+That is the fact this generation turns on, and the shape of it is worth sitting with.
+
+The Soviet Union played international rugby. It was never a Test power of the first rank, and it was walled off from the game's centre by the same politics that walled off everything else, but it existed, it competed in Europe, and it put out a side. And that side, from the mid-1960s onward, was to a very large extent a Georgian side wearing somebody else's initials.
+
+A man from Kutaisi or Tbilisi who was among the best rugby players in the Soviet Union had exactly one route to an international jersey, and the jersey was red, and it said **CCCP** across the chest. There was no alternative to hold out for. Georgia did not field a team; there was no Georgian anthem before a match, no Georgian selectors, no Georgian record for his caps to enter. He played for the USSR or he did not play internationally at all.
+
+This book has watched a great many players locked out of representative rugby, and the mechanisms have usually been about money and class — the northern professionals barred by the RFU, the Argentine exiles disqualified by their own union's amateur regulations, the Welsh boys who went north and ceased to exist. Georgia's exclusion has no economic content whatever. Nobody was accused of taking a payment. The men were not shut out of the national team; there was simply no nation, in rugby's terms, for them to be selected by.
+
+### What the record kept, and what it did not
+
+There is a real difficulty in writing this generation, and it should be admitted rather than papered over: the archive is extremely thin, and it is thin for a reason that is itself part of the story.
+
+Georgian achievements between 1964 and 1988 were recorded, when they were recorded at all, as **Soviet** achievements. They went into all-Union tables under all-Union competition names. They were not reported abroad, because Soviet domestic sport largely was not reported abroad, and they were not preserved afterwards by a national federation, because the national federation that would have cared did not yet exist in a form that could keep an archive. A great deal of what circulates now about this period — a French delegation here, a sevens tournament there — cannot be traced to any source that will bear weight, and is left out of this account for that reason.
+
+What does survive is a competition record, and it is the more eloquent for being all that is left.
+
+In **1978**, **Lokomotivi Tbilisi** — a railway workers' club, the same institutional species that gave Wales its Grivița-style works sides and Argentina its Ferrocarril Oeste — **lifted the Soviet Cup.** Then Kutaisi's turn: **Aia** second in the Soviet championship in **1984**, champions in **1987**, champions again in **1988**.
+
+That is the whole visible output of a quarter-century, and it describes a game that was not merely surviving in Georgia but winning, at the top level available to it, against everyone the Soviet Union could put in the way.
+
+### What this generation leaves behind
+
+A paradox sharp enough to have driven what came next.
+
+By 1988 Georgian rugby had a federation of some kind, a deep club game, a city in Kutaisi where the sport was a civic possession, the reigning champions of the Soviet Union, and roughly half of the USSR's international players. By every measure a rugby nation uses, it was a rugby nation.
+
+It had never played a match.
+
+There was no Georgian Test record because there had been no Georgian Test. Not a defeat, not a fixture, not a cap — nothing at all, in a country that had been playing the folk version for eight hundred years and the codified version for thirty. Compare that with anywhere else in this book: Uruguay had lost internationals since 1948, Chile since 1936, Argentina had been losing to touring sides since 1910. Losing is a form of existing. Georgia had not even that.
+
+What it had instead, by the end of 1988, was a state visibly coming apart at the edges, and a generation of players in their prime who had spent their careers being described as Soviet.
+
+Aia Kutaisi would win the Soviet championship for a third time in 1989.
+
+And in September of that same year, in that same city, something else would happen.
+
 ## Sources
 
-*(Gen 0–1 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Gen 0–2 sources — the full chapter list will be assembled once all seven generations are drafted.)*
 
 - [Lelo burti at Shukhuti](https://civil.ge/archives/231988) — Civil Georgia *(Easter Sunday at Shukhuti in Guria; upper and lower village; a heavy leather ball tightly stuffed with dirt; no fixed team size, no referees, no rules)*
 - [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *(the Lelos nickname drawn from lelo burti; the 16–17 kg ball of wine-soaked dirt and sawdust)*
@@ -130,4 +190,8 @@ There was simply no such thing, in 1963, as a Georgian national rugby team — a
 - [Georgia — country profile](https://www.therugbyjournal.com/rugby-blog/georgia) — The Rugby Journal *("after a number of false dawns, the first green shoots of rugby's potential were seen in 1959 when a training session was organised at the **Tbilisi Hippodrome** by a university team")*
 - [RedSaint's Total Rugby, Part III](https://www.rugbynetwork.net/main/northampton-saints/s99/st129481/news-redsaints-total-rugby-part-iii) — RugbyNetwork *(Haspekian a **professional cyclist** from Marseilles; the founding session at **a local polytechnic** with about twenty participants; an 81-year-old Jako Haspekian applauded at a Georgia match at the 2007 World Cup)*
 
+- [AIA Kutaisi — palmares and identity](https://www.the-sports.org/rugby-aia-kutaisi-results-identity-equ45406.html) — The-Sports.org *(club founded **1966**; Soviet Union top-flight champions **three times, 1987, 1988 and 1989**, with a second place in **1984**; ten Georgian championships since)*
+
 ⚠️ **Deliberately NOT asserted in the text above:** the widely repeated "**15 October 1959**" date and the single fused "racecourse founding scene." No non-mirror source confirms the exact day, and the racecourse and the polytechnic appear in *different* accounts of what are probably *two* events. See `notes/georgia.md`.
+
+⚠️ **Dropped from the old chapter's Gen 2 as unsourceable:** a **1967 visit by a French trade-union selection**; a **1988 Tbilisi sevens tournament** presented as the turning point that opened the way to independent Georgian rugby; **Dynamo Tbilisi** finishing second in a first Soviet championship of 1966; and the claim that the **Soviet Cup was introduced in 1976**. None could be traced to a source that will bear weight. Also unfound: any named Georgian USSR international, any cap figures, and any account of rugby's domestic standing in Soviet Georgia. See `notes/georgia.md`.

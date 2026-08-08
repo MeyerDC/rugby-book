@@ -258,3 +258,53 @@ the **2007** World Cup in France.
 Armenia, blocked by the Soviet Armenian government — the only source is a **LiveJournal** post. Also
 dropped: the "French radio interview" detail, unconfirmed. Also not used: his reported reason for being
 in Tbilisi (building ties between French communists and Soviet counterparts) — no source found.
+
+### GEN 2 — DRAFTED (August 2026). Range kept at 1964–1988.
+130 lines → **60**; 6 `###` subheads → 3. (The old Gen 2 was already clean of first-person voice; the
+work here was sourcing and compression, not de-chatting.)
+
+**⚠️ THIS IS THE THINNEST-SOURCED GENERATION IN THE CHAPTER.** A retrieval pass returned NOT FOUND on
+most of it, and hand-checking recovered only a little more. What could be verified:
+
+- **The founding date will not sit still — and that is usable material, not a problem to hide.**
+  **1961** (*The Rugby Journal*: "the Georgia Rugby Union was founded in 1961"), **1964** (Campion,
+  and most accounts follow), **1966** (Welsh Rugby Union). The draft presents all three and gives the
+  reason: between 1964 and 1990 a Georgian federation was a **regional section of a Soviet structure**,
+  not a national governing body, and nobody was counting carefully when a branch office opened.
+- **⭐ THE GENERATION'S LOAD-BEARING QUOTE — Campion, verified verbatim:** *"The Georgian Rugby
+  Federation was established in 1964; within a couple of years, Georgians made up **half of the USSR's
+  rugby side**."* One republic of fifteen, under 2% of the Soviet population, supplying half the XV.
+- **Lokomotivi Tbilisi lifted the Soviet Cup in 1978** — *The Rugby Journal*, verbatim. This finally
+  explains the bare "1978: Lokomotivi" placeholder that had sat in these notes with no detail.
+- **⭐ AIA KUTAISI — the find that gave the generation its spine.** The-Sports.org's club record:
+  founded **1966**, **second** in the Soviet top flight in **1984**, **champions in 1987, 1988 and
+  1989**, ten Georgian titles since. Three consecutive Soviet championships in the USSR's last three
+  years, won by a works club from a western Georgian river city. The 1989 title is held back as the
+  handoff, because Georgia's first Test was played that September **in Kutaisi**.
+
+**❌ DROPPED FROM THE OLD CHAPTER AS UNSOURCEABLE — do not reinstate without a source:**
+- a **1967 visit by a French trade-union selection** (the old "French cord" beat);
+- a **1988 Tbilisi sevens tournament**, which the old chapter used as "the crack in the wall," its
+  turning point into independent Georgian rugby. Nothing confirms the tournament existed;
+- **Dynamo Tbilisi** finishing second in a first Soviet championship of **1966**;
+- the **Soviet Cup being introduced in 1976**.
+Also NOT FOUND, despite direct searching: **any named Georgian USSR international**, any cap counts,
+any USSR Test results or standings, and any account of rugby's **domestic standing** in Soviet Georgia
+(crowds, popularity against football, state support).
+
+**How the draft handles the silence:** it makes the silence the subject. Georgian achievements in this
+period were recorded, if at all, as *Soviet* achievements — in all-Union tables, unreported abroad,
+and unpreserved by a national federation that did not yet exist in a form that could keep an archive.
+The section says outright that material circulating about the period "cannot be traced to any source
+that will bear weight, and is left out of this account for that reason." This follows the Uruguay Gen 0
+precedent of writing around an archival gap honestly rather than filling it.
+
+**Cross-country motif threaded:** every other exclusion in this book has had economic content — the
+RFU's northern professionals, Argentina's amateur-rule exiles, the Welsh who went north. Georgia's has
+none. Nobody was accused of taking a payment; there was simply no nation, in rugby's terms, to be
+selected by. Closing contrast: Uruguay had been losing internationals since 1948, Chile since 1936,
+Argentina since 1910 — **losing is a form of existing**, and Georgia did not have even that.
+
+⚠️ **FOR GEN 3:** Campion is verified for the first Test — **September 1989, Kutaisi, Georgia 16–3
+Zimbabwe, captain Oleg Liparteliani, fly-half David Dzagnidze scoring all the points.** The precise day
+(**12 September**) is not in Campion; source it before asserting it.
