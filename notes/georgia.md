@@ -359,3 +359,52 @@ Zimbabwe, captain Oleg Liparteliani, fly-half David Dzagnidze scoring all the po
 
 **NOT FOUND:** why Kutaisi rather than Tbilisi became the game's heartland; any named administrator or
 coach of the 1989–96 period other than Saurel; any record of clubs that folded in the civil war.
+
+### GEN 4 — DRAFTED (August 2026). Range kept at 1997–2006.
+136 lines → **56**; 7 `###` subheads → 3; 2 first-person intrusions and 1 reader-command → **0**.
+(The deleted reader-command was the subhead "Why this is not the same as the exile you've already
+seen" — the design block flagged it; the comparison it gestured at is now *made in the prose*.)
+
+**⭐ THE CENTREPIECE, RECOVERED BY HAND after the agent returned NOT FOUND on it.**
+RugbyPass's RWC 2003 review carries Georgia's full pool record: **Pool C** with England, South Africa,
+Samoa and Uruguay — **played 4, won 0, drew 0, lost 4, points difference −154, tries scored 1, bonus
+points 0.** *One try in a World Cup.* That single figure is the generation's closing image and it is
+officially tabulated, not inferred.
+Global Sports Archive supplies the emblematic match: **Georgia 12–24 Uruguay, 28 October 2003.**
+
+**⭐ CROSS-CHAPTER PAYOFF.** Uruguay — chapter 1, the book's purest institutional-enclave case — and
+Georgia, its exact opposite, met at the 2003 World Cup, and Uruguay won. The draft opens Gen 4 on that
+match. It is the only place in the book where two of its own chapters play each other.
+
+**Verified and used:**
+- **Saurel:** adviser **1995** (*The Rugby Journal*), head coach **1999**, and Campion verbatim — when
+  the Lelos appointed him "**he arranged for several French teams to sign Georgian players**."
+- **1999 Tonga repechage:** first leg **6 March 1999, Teufaiva Stadium, Nuku'alofa** (World Rugby
+  official, no score rendered); Georgia won the return **28–27** in Tbilisi; Tonga through on aggregate.
+- **2001: Georgia's first European championship** (FloRugby) — the country's first trophy in the sport.
+  ⚠️ FloRugby's *total* title count is listed inconsistently (16 there, 17 in these notes). Do not
+  harden the total; Gen 5 should re-source it.
+
+**⭐ THE ARGENTINA CONTRAST — now made in prose, not lectured.** Argentine players who took contracts
+abroad were retiring from international rugby in the same act, under their own union's amateur rules;
+Argentine writers call the exodus a wound. Georgia did the identical thing and it meant the opposite —
+the players left **as policy**, arranged by their own coach, developed at French expense, and came back
+better. What was a punishment in Buenos Aires was a development pathway in Tbilisi.
+
+**❌ NOT FOUND — kept out of the prose:**
+- **Which Georgian players went to which French clubs, and how many.** Saurel's strategy is documented
+  *in principle* (Campion) and **not in detail**; the prose reflects exactly that and names no player.
+- **The 1999 first-leg score ("37–6")** — still unconfirmed outside Wikipedia after a third attempt.
+- **Ilia Zedginidze** — no usable detail.
+- **The Yachvili family connection** (Dimitri Yachvili's Georgian descent; his brother Grégoire playing
+  for Georgia). Appears **only on Wikipedia**. Left out entirely, though it is good material if a real
+  source ever turns up — worth one targeted look in French sources for a later pass.
+- Individual RWC 2003 scores other than the Uruguay match.
+
+**Note on the retrieval pass:** the hardened brief (telling the agent plainly that earlier reports had
+fabricated citations, demanding a `quotes:` field of exact page text, and offering a
+`RECALLED, NOT VERIFIED` marker) produced by far the most honest report of the five — it refused
+Wikipedia explicitly, marked its own recall as unverified, and returned NOT FOUND repeatedly. It also
+returned almost nothing usable. **Hand-searching then recovered the entire centrepiece in three calls.**
+Worth remembering: the agent is useful for breadth, but the decisive facts have come from checking by
+hand every time.

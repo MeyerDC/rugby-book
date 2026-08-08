@@ -224,9 +224,65 @@ He would in time become head coach, and he would arrive at a conclusion that no 
 
 It worked. It also created a dependency the country is still living with.
 
+## Generation 4: The French Connection (1997–2006)
+
+**28 October 2003.** Georgia are playing Uruguay at a Rugby World Cup, and the reader of this book has met both of them before.
+
+Uruguay is where this book began: the marooned Carrasco enclave, the cricket club that would not be governed by non-British men, a hundred years of rugby played by a few hundred families in one suburb of one city. Georgia is its opposite in every particular — a village game eight centuries deep, no enclave, no founding club, no class ceiling to break through.
+
+Uruguay win, **24–12**.
+
+It is Georgia's first World Cup, and by the end of it they will have played four, lost four, conceded a hundred and fifty-four points more than they scored, and crossed the opposition line exactly **once**.
+
+---
+
+To understand how Georgia got to Australia at all, go back to the man who arrived in the ruins.
+
+**Claude Saurel** joined the Georgian union as an adviser in **1995** — the year the world game turned professional, and a year when Georgia had denim sacks for tackle bags. He was appointed head coach in **1999**. And Campion states his central move in a single clause: when the Lelos appointed him, "he arranged for several French teams to sign Georgian players."
+
+That sentence is the hinge of modern Georgian rugby, and it is worth being precise about how strange it was.
+
+Saurel's conclusion was that the Georgian game could not be built in Georgia. There was no money, no professional structure, and no domestic competition capable of producing a Test forward — but there *was* a product Georgia had in surplus and France had a market for. French clubs wanted big, cheap, technically excellent scrummagers. Georgia had them, in numbers, in a country where a professional wage was an unimaginable sum. So rather than trying to construct a professional system at home, Saurel exported the players into somebody else's.
+
+Set that beside Argentina, three chapters ago. Argentine players who took contracts abroad were, by their own union's amateur regulations, retiring from international rugby in the same act — the exodus was a haemorrhage, and Argentine writers still regard it as a wound. Georgia did the identical thing and it meant the opposite. The players left as **policy**, arranged by their own coach, developed at French expense, and came back better. What was a punishment in Buenos Aires was a development pathway in Tbilisi.
+
+It is the single most clear-eyed decision any small union makes in this book. It is also the origin of a dependency that has still not been resolved.
+
+### The near miss
+
+The first test of the strategy came before Saurel had the head job, and it came agonisingly close.
+
+Georgia went into a two-legged **repechage for the 1999 World Cup against Tonga**. World Rugby's own match record has the first leg on **6 March 1999** at Teufaiva Stadium in Nuku'alofa. Georgia lost it heavily. Three weeks later, in Tbilisi, they won the return **28–27** — a one-point win over a Pacific nation with a serious Test history — and it was not enough. Tonga went through on aggregate.
+
+One point, in the second leg, against a deficit built in the first. Georgia would have to wait four more years.
+
+They filled the wait by beginning to win everything nearer home. In **2001** Georgia won the **European championship** for the first time — the competition below the Six Nations, the one containing Romania, Portugal, Spain and Russia. It was the first trophy the country had ever won in the sport, and it turned out to be the first of a great many.
+
+### Australia
+
+Qualification for **2003** followed, and with it the thing Georgian rugby had never had: four matches against the best teams on earth, watched by everybody.
+
+The draw was merciless. **Pool C** contained **England** — who would win the tournament, beating Australia in the final in extra time — and **South Africa**, and **Samoa**, and Uruguay. Georgia lost all four. The pool table records the arithmetic without comment: played four, won none, points difference **minus 154**, tries scored **one**, bonus points **none**.
+
+One try in a World Cup. It is the sort of line that reads as humiliation, and at the time a good deal of it was. But look at what stands behind it. Fourteen years earlier there had been no Georgia team at all. Eight years earlier the forwards had been training against farm machinery. The country had spent the first half of the decade in a civil war. And now it was on the field with the eventual world champions, losing badly, in front of the game's whole audience — which is a different and better problem than the one it had in 1993.
+
+The defeat that mattered was the Uruguay one, because Uruguay was the only side in that pool Georgia might plausibly have beaten, and losing it meant going home without the consolation every debutant wants.
+
+### What this generation leaves behind
+
+A strategy that works, a trophy cabinet that has started to fill, and a ceiling that has just become visible.
+
+By 2006 Georgia had a coach who had solved the development problem by outsourcing it, a growing colony of professionals in the French leagues, the European championship on the sideboard, and a World Cup appearance behind them. The Lelos were no longer a rumour attached to a folk game. They were a functioning international side.
+
+They were also, in a way that would define everything that followed, entirely dependent on French clubs to make their players, and locked out of every competition that would have made them better. The pool of four matches every four years was the whole of Georgia's exposure to Tier 1 rugby.
+
+The next generation would fix the money problem in the most spectacular way available — a single Georgian billionaire, one of the richest men alive, deciding that his country would have rugby pitches.
+
+It would not fix the other one.
+
 ## Sources
 
-*(Gen 0–3 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Gen 0–4 sources — the full chapter list will be assembled once all seven generations are drafted.)*
 
 - [Lelo burti at Shukhuti](https://civil.ge/archives/231988) — Civil Georgia *(Easter Sunday at Shukhuti in Guria; upper and lower village; a heavy leather ball tightly stuffed with dirt; no fixed team size, no referees, no rules)*
 - [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *(the Lelos nickname drawn from lelo burti; the 16–17 kg ball of wine-soaked dirt and sawdust)*
@@ -246,6 +302,12 @@ It worked. It also created a dependency the country is still living with.
 
 - [Georgia — union membership record](https://www.world.rugby/organisation/membership/europe/georgia) — World Rugby (official) *(Georgian Rugby Union; affiliated **Feb 1992**; Full Member)*
 - [34 years since Georgia restored independence — timeline of key events](https://jam-news.net/34-years-since-georgia-restored-independence-timeline-of-key-events-1991-2025/) — JAMnews *(independence restored **9 April 1991**; Gamsakhurdia elected **26 May 1991**; fighting in Tbilisi from December 1991, a two-year civil war, his death at Khibula **31 December 1993**; the Abkhaz war **14 August 1992** to **27 September 1993**, "thirteen months and thirteen days", some **265,000** ethnic Georgians displaced)*
+
+- [Rugby World Cup 2003 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2003/) — RugbyPass *(**Pool C**: England, South Africa, Samoa, Uruguay, Georgia. Georgia **played 4, won 0, drew 0, lost 4**, points difference **−154**, **tries scored 1**, bonus points **0**.)*
+- [Rugby World Cup 2003 — group stage results](https://globalsportsarchive.com/competition/rugby/rugby-world-cup-2003-australia/group-stage/26239/) — Global Sports Archive *(**Georgia 12–24 Uruguay, 28 October 2003**)*
+- [Rugby Europe Championship all-time winners](https://www.florugby.com/articles/13569492-rugby-europe-championship-all-time-winners-heres-a-list) — FloRugby *(Georgia **first won in 2001**; the tally of subsequent titles is listed inconsistently there — treat the total as approximate and do not harden it)*
+
+⚠️ **Gen 4 gaps — NOT asserted in the text:** no source could be found naming **which Georgian players went to which French clubs** in 1997–2006, or how many. Saurel's strategy is documented in principle (Campion) and not in detail, and the prose reflects that. Also unfound: **Ilia Zedginidze**'s details; the individual RWC 2003 scores other than the Uruguay match; and the **Yachvili family connection** (Dimitri Yachvili's Georgian descent and his brother Grégoire playing for Georgia), which appears **only on Wikipedia** and is therefore left out entirely.
 
 ⚠️ **Still NOT asserted:** the day of the first Test. **"12 September 1989" remains unconfirmed** — Campion gives only "September 1989", *The Rugby Journal* only the year, and no non-mirror source found states the date. The Kutaisi **venue name** is likewise unfound.
 
