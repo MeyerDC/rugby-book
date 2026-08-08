@@ -208,3 +208,53 @@ hinge of Gen 1 and are **not in this fact base**. The old chapter says of them: 
 The record is that bare… No names have survived in the accessible sources."* Given what this pass
 found elsewhere, treat those three dates as **probably wiki-derived until sourced**. Verify them
 before building a generation on them.
+
+### GEN 1 — DRAFTED (August 2026). Range kept at 1928–1963; the era now has a spine.
+144 lines → **58**; 6 `###` subheads → 4; 2 first-person intrusions and 3 reader-commands → **0**.
+
+**⭐ THE FINDING THAT REFRAMES THE GENERATION — the 1949 Soviet ban.**
+Ospreys Rugby's history of rugby in the Russian sphere, quotable and non-wiki: in **1949** Soviet
+authorities declared rugby **"a game not relevant to the principles of the Soviet people"** as part of
+the campaign against **cosmopolitanism**, treating it as bourgeois and incompatible with socialist
+ideals — **effectively banning it across the USSR**. Revival came only after Stalin's death, turning on
+the **1957 World Youth Games** in Moscow (rugby played to packed crowds at the Luzhniki). The RFSU was
+re-established **1967**; the All-Union championship resumed **1968**.
+
+This kills the old chapter's framing. It presented 1928/1940/1948 as *"the puzzle nobody asks about"* —
+an inexplicable triple failure in a country built for the game. There is no puzzle. Each attempt hit a
+moment with no room for it: **1928** = the first Five-Year Plan and the nationalisation of sport;
+**1940** = the eve of the German invasion; **1948** = one year before the ban. The generation's real
+subject is that the game kept arriving at the wrong moment in Soviet history until, after 1957, it
+finally arrived at the right one. The design block's worry that Gen 1's centrepiece sat in its last
+five years is resolved: the era is now about the political weather, not about one man.
+
+**⚠️ THE THREE DATES ARE THIN — handled, not hidden.** The *only* non-mirror source found for
+1928/1940/1948 is the **Welsh Rugby Union**, in a single uncited line with no names, cities or
+institutions. That same article dates the federation to **1966** against **four** sources saying
+**1964** (RugbyPass, Campion, Rugby Rising, RugbyNetwork). The draft therefore **attributes the dates
+to the WRU in the text** rather than asserting them, says outright that the line "is close to the whole
+of the evidence," and surfaces the 1964/1966 discrepancy in the closing paragraph. Do not harden.
+
+**⭐ THE HASPEKIAN VENUE CONTRADICTION IS RESOLVED — they are probably two different events.**
+- *The Rugby Journal*: "the first green shoots… were seen in 1959 when a training session was organised
+  at the **Tbilisi Hippodrome** by a university team." No Haspekian, no attendance figure.
+- *Newport–Kutaisi Twinning Association*: **twenty people** at a meeting in Tbilisi in **October 1959**
+  to discuss forming a club → the **Georgian Polytechnic Institute** side, today **Qochebi**.
+- *RugbyNetwork*: the founding session at **a local polytechnic**, ~20 participants. GPI **is** the
+  polytechnic, so these two agree with each other and not with the Hippodrome account.
+→ Reading adopted: a **session at the Hippodrome** and a **club-forming meeting at the Polytechnic**,
+fused by later retellings into one racecourse scene. The draft lays the accounts side by side instead
+of smoothing them. **"15 October 1959" is still unconfirmed by any non-mirror source and is NOT in the
+text.** (The agent's claim that Aia Kutaisi was founded 15 Oct 1959 did not survive checking — the page
+it cited contains no founding date for Aia at all.)
+
+**Other verified Gen 1 facts now in the draft:** Haspekian an Armenian from Marseille and a
+**professional cyclist**; the Newport–Kutaisi history hedges him with "**it is claimed**" and the draft
+preserves the hedge; **ten clubs** established **1958–1962** plus the **Tbilisi Championship**;
+Qochebi = the GPI club, Tbilisi, October 1959; an 81-year-old Haspekian applauded at a Georgia match at
+the **2007** World Cup in France.
+
+**Dropped as uncitable:** the report that Haspekian first tried and failed to introduce rugby in
+Armenia, blocked by the Soviet Armenian government — the only source is a **LiveJournal** post. Also
+dropped: the "French radio interview" detail, unconfirmed. Also not used: his reported reason for being
+in Tbilisi (building ties between French communists and Soviet counterparts) — no source found.
