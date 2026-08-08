@@ -1990,1055 +1990,478 @@ None of that had been true in 2016. All of it was true in 2026. Whatever a sport
 
 # Georgia
 
-## Generation 0: Lelo Burti (Antiquity–1927)
+## Generation 0: Lelo Burti (c.1200–1928)
 
-A priest walks out of a church in a village in western Georgia carrying a ball.
+**Easter Sunday. Shukhuti, in Guria.** A village in the wet green hills above the Black Sea coast, split by a stream into an upper half and a lower half, Zemo and Kvemo, and on this one day of the year the two halves fight each other for a ball.
 
-The ball is leather. It is round — not oval, *round* — and it is stuffed with earth, and sand, and sawdust. It weighs as much as **sixteen kilograms** — some years more — depending on who made it and when. It is heavy enough that you cannot throw it any distance. You can only carry it, low, in your arms, while several hundred men try to take it off you.
+The ball has been made that morning. It is leather, black and soft, and it has been packed until it will take nothing more — earth, sand, sawdust, and wine poured into the stuffing while it is sewn shut. Finished, it weighs something close to sixteen kilograms. A man can lift it. A man cannot throw it. It is carried into the field by a priest, who blesses it, and the game begins when somebody fires a shotgun into the air.
 
-The priest blesses it.
+Then several hundred men take hold of it.
 
-A man standing beside him — in a traditional Gurian shirt and a *kabalakhi*, the men's headscarf — **fires a shotgun.**
+There is no team sheet, no referee and no rulebook. *Civil Georgia*, describing the event, notes the absence of all three: no fixed number of players a side, nobody officiating, no code beyond what the village understands a man may and may not do to another man in front of his neighbours. The mass moves a few metres in an hour. It goes into the stream and comes out of it. Men lock together at the middle of it and shove, and the shoving is the whole of the contest, and the object is to get the ball across the water into the other half of the village.
 
-And the priest throws the ball into the crowd.
+When it is finally over, the winning side carries the ball to the cemetery and sets it on the grave of a villager who died during the past year.
 
----
-
-### What is happening here
-
-This is **lelo burti**. Field ball.
-
-And I want you to understand, before we go any further, that **this is not a folk curiosity that happens to resemble rugby.** This is the thing that explains why a nation of under four million people, with no British colonial history, no cricket clubs, no railway companies, no private schools, and no Anglophile suburb, has become one of the most feared forward packs on the planet.
-
-Every story in this book so far — Peñarol, Montevideo Cricket Club, The Grange, CASI, the Christian Brothers — was about a *foreign game arriving* and either escaping its class origins or failing to.
-
-**Georgia's rugby did not arrive. It was already there.**
+That is the point at which an outsider watching a rough country ball game realises he is watching something else. The prize is not the ball. The prize is the right to give it away.
 
 ---
 
-### How it is played
+Georgians call the game **lelo burti** — the field ball — and they have been playing it, in one form or another, for a very long time. How long is a question that ought to be answered carefully, because the answers in circulation are not all the same kind of claim.
 
-The rules, such as they are, come from the land itself.
+The tourist literature likes eight thousand years, and that figure should be left where it was found. What can actually be pointed at is a text. In *The Knight in the Panther's Skin*, the Georgian national epic written by Shota Rustaveli around the turn of the thirteenth century, the characters play *burtaoba* — ball-play. That is a documented reference in a dated work, and it establishes the game as a normal part of Georgian life eight hundred years ago, which is a strong enough claim that it does not need inflating. Everything earlier is inference from folklore: an association with sun-worship, a suggested descent of the word *lelo* from a Sumerian solar deity. These are worth reporting as the things Georgians say about their own game. They are not worth reporting as history.
 
-A field — the **lelo** — is chosen between **two river creeks**, and the creeks are the goal lines. Two teams face each other, consisting of the **entire able-bodied male population of neighbouring villages.** The number of players is not fixed. Whoever the village can summon, plays.
+What is not in doubt is the shape of the thing. Two communities, a heavy ball, a mass of bound men, a slow contested advance across ground that matters, and a ritual attached to the result. Whole villages turned out. The belief, held long past the point where anyone would defend it in the open, was that the winning half would have the better harvest.
 
-The heavy ball goes down in the middle. The object is to carry it over the opposing side's creek.
+None of that is rugby. It is important to be exact here, because the temptation in a book like this one is to reach for a lineage that does not exist. Lelo burti did not evolve into rugby union. Nobody carried it to Rugby School; nobody brought it back. There is no documentary chain between a Gurian creek at Easter and a set of laws written in Warwickshire, and no serious account has ever proposed one.
 
-That's it. That's the whole game.
-
-The **local priest is the referee.**
-
-There is no time limit. It ends when somebody wins. It might take thirty minutes. It might take three hours.
-
-And here's the detail that will make anyone who has ever played in a front row grin: **you almost never see the ball.** It's not thrown. It's not passed. It stays low, buried in someone's arms, and everyone else pushes and tugs. Most of the men on the field will never touch it. Their entire role is to **push against the giant scrum** and move the whole heaving mass toward the stream.
-
-When a man needs air, or water, or simply cannot breathe any more, he **extracts himself from the scrum, rests, and then walks back into it.**
-
-That is a Georgian village on a holy day. That is also, quite precisely, a description of Test-match forward play.
+What there is, instead, is an affinity — and the affinity turned out to matter more than a lineage would have.
 
 ---
 
-### What it means
+Consider what this book has already watched happen everywhere else. In Montevideo and Buenos Aires and Valparaíso, the game arrived in the luggage of British commerce: railway engineers, nitrate agents, shipping clerks, the cricket clubs they founded to keep their Sundays familiar. It arrived as a possession of the people who brought it, and the long question in each of those countries was how far beyond that first enclave it could travel — whether it could ever stop being a foreign gentleman's game played among foreign gentlemen.
 
-Now the part that turns a game into a religion.
+Georgia is the case where that question does not apply, because when rugby eventually arrived it was not landing on empty ground. It was landing on a population that already understood, in the body, what it was being asked to do. Mass shoving over a low ball is not, in Guria, an exotic athletic technique to be taught from first principles. It is what the men of the village did on a holy day, and what their grandfathers did, for as far back as anyone bothered to count.
 
-The ball, in the old readings, **represents the sun.**
-
-And the village that wins **receives the better harvest.**
-
-This is not a metaphor a journalist added later. This is what the game *is*. A pagan-rooted fertility ritual, absorbed into the Christian calendar, adjudicated by a priest, in which two communities fight with their whole male population for possession of the sun, and the winners eat better next year.
-
-In 2014, the government of Georgia formally inscribed lelo burti — along with **khridoli**, a traditional martial art — as a **"nonmaterial monument" of Georgian culture.** Not a sport. A monument.
-
----
-
-### How old
-
-Nobody knows, and the uncertainty is itself part of the story. There are three claims, and they don't agree:
-
-**The epic.** Lelo burti — or its ancestor, *burtaoba* — appears in ***The Knight in the Panther's Skin***, Shota Rustaveli's **twelfth-century** national epic, in which the characters play it. That is the foundational text of Georgian literature. The game is *in the poem*. It's as if hurling turned up in Beowulf.
-
-**The battle.** A competing origin story holds that lelo burti began in **1854**, when a small band of Gurian troops broke an **Ottoman** army and drove the Turks back over a hill by sheer force. On this reading, every match is a **re-enactment of that victory** — the two masses of men shoving each other across the ground, over and over, forever.
-
-**The deep claim.** You will also see it asserted that the game has been played for **eight thousand years**. Treat that number with real caution — it's the kind of figure that gets repeated in tourism copy — but the *impulse* behind it is honest enough. Nobody in Georgia experiences lelo burti as something that started on a date.
-
-The word itself is old. **"Lelo"** is said to be one of the oldest words in the Georgian language, carrying the sense of doing something **by force.**
-
----
-
-### The word that gives the game away
-
-And here is the single most important fact in the whole of Georgian rugby, and it is a piece of **vocabulary**.
-
-When a Georgian rugby player crosses the line and grounds the ball, the word for what he has just done is not *try*.
-
-It is **lelo**.
-
-The Georgian word for a try is the name of the ancient village game.
-
-Think about what that means. In every other country in this book, rugby arrived with an English lexicon attached — try, scrum, ruck, maul — and the local language either borrowed it or translated it. In Georgia, the language **already had a word for it**, because the thing already existed.
-
-And so the terrace chant is:
-
-**"Lelo, Lelo, Sakartvelo."**
-*Try, try, Georgia.*
-
-The national team is called **the Lelos.**
-
-The country's rugby side is named after a village folk game in which a priest throws a sun-shaped ball to a scrum of farmers.
-
----
-
-### The village that still does it
-
-This is not archaeology. It is still happening.
-
-Every year, in **Shukhuti**, in **Guria**, they play it. Hundreds of residents take the field; hundreds more come to watch, from neighbouring villages, from other regions, and now from other countries. The game begins in the centre of the village, **a few metres from the church**, when **Father Saba** brings out the ball. (Traditionally the honour of starting the game belonged to the **eldest resident**; for the last decade or so the priest has done it.)
-
-The shotgun goes off. The ball goes up.
-
-Anyone can play — Georgian or foreigner, and in principle children and women, though in practice it remains overwhelmingly a men's game. Recent years have seen groups of foreigners turn up and throw themselves in. In 2023 the winners were the residents of **Zemo Shukhuti** — Upper Shukhuti. In one recent year the whole thing lasted about an hour.
-
-There's a codified version too, now — played on a proper pitch of 90–135m by 60–90m, fifteen a side, two thirty-minute halves. In *that* version, forward passing is **allowed** (which rugby forbids), you may **knock the ball out of an opponent's hands**, but you may not block a man who doesn't have it, nor trip him, nor hack him, nor jump on him. You may carry the ball for **five seconds** before you must pass. You score by getting it into a goal mouth called a **mak**.
-
-Which is a fascinating thing in itself: the Georgians codified their own folk game into a fifteen-a-side sport — *and it came out slightly different from rugby.* Two nations took a violent village mass-football and wrote rules for it. England got rugby union. Georgia got standardised lelo burti. They are cousins, not copies.
+The word came with it. The national side would eventually be known as **the Lelos**, and the name is drawn straight from the village game: *The Roar*, describing the inheritance, has the nickname coming from "an ancient folk sport called Lelo Burti, in which villages do battle over a 16 or 17-kilogram leather ball stitched and sewn together on match day to encapsulate wine-soaked dirt and sawdust." From the terraces the same word does the work of a chant — *Lelo, Lelo, Sakartvelo*, which the rugby writer Jonathan Campion records among the standing sounds of a Georgia international. In time the word would be pressed into service for the act of grounding a ball over a line, so that the country never had to borrow a foreign word for the best thing that can happen in a game of rugby. It had one.
 
 ---
 
 ### The whisper of the British
 
-There is one more strand, and it's the one that makes this a proper historical puzzle rather than a clean origin myth.
+There is one more thread in the pre-history, and it should be handled with the tongs it deserves.
 
-There are **theories that Georgian rugby did not come from the Armenian at all** — but from an accidental British export, decades earlier.
+Two stories circulate about the game reaching Georgia before anyone tried to organise it. In the first, British sailors play on the shore at Batumi in the 1890s, the oil port on the Black Sea where the Rothschild and Nobel money went, and where a ship's crew with an afternoon free did what ships' crews did in every port in the informal empire. In the second, dockworkers at Poti are playing something recognisably like rugby in the 1920s.
 
-One story: in the **1890s**, a British cargo ship put in at **Batumi**, on the Black Sea coast. Some of the men working the port **invited the crew to play lelo burti** — and the Britons, in the course of the game, **taught the Georgians some of their rugby skills.**
+Campion, who reports both, is careful to mark them as rumour, and that is where they should stay. No fixture, no newspaper, no name has been produced for either. They are entirely plausible — this book has watched British crews put the game ashore at Coronel and Iquique and half the ports of South America, and there is no reason the eastern Black Sea would have been an exception — and they are entirely unevidenced. They are offered here as the shape of a thing that probably happened, not as a thing that is known to have happened.
 
-Sit with the geometry of that for a moment, because it is the exact inversion of every other story in this book. In Montevideo, in Buenos Aires, in Valparaíso, in Iquique, the British got off the boat and taught the locals a game the locals had never seen.
+Which leaves the striking fact of this generation, and it is a negative one.
 
-At Batumi, **the locals invited the British into a game the British had never seen** — and the exchange ran both ways.
+### What this generation leaves behind
 
-There are further rumours of rugby matches played between **British and Georgian dockers at Poti in the 1920s.**
+Nothing institutional whatsoever. There is no union, no club, no ground, no committee, no fixture list, no ledger, no first match anyone can date. Measured by the standards this book has applied to every other country — the founding of a club, the drafting of a constitution, the first recorded fixture — Georgian rugby in 1928 does not exist and has never existed.
 
-Dockers. In a Black Sea port. Playing rugby against each other.
+And measured any other way, the ground has been prepared for eight hundred years.
 
-Not a cricket club. Not a private school. Not an old boys' network. **Dockers.**
+That is the inheritance handed forward: not an institution but a disposition. A rural population for whom sustained collective contact over a heavy ball is ordinary rather than foreign. A word already sitting in the language, waiting for a use. And a set of associations — the village, the priest, the harvest, the grave — that attach the act of shoving a ball across a field to something a good deal older and more serious than sport.
 
----
-
-### What Gen 0 leaves behind
-
-Nothing institutional. That's the point. There is no union, no club, no fixture list, no committee, no ground, no ledger. Three separate attempts to formally introduce rugby — in **1928, 1940 and 1948** — will all fail, and we'll come to those.
-
-What Gen 0 leaves is something no other rugby nation on earth possesses:
-
-**A body already trained.** A rural population for whom collective, sustained, low-ball, mass-shoving contact is not a foreign athletic technique but a **thing their grandfathers did on a holy day**. Ex-coach Milton Haig would later call the Georgian players **"soldiers"**, and describe them as probably the hardest-working group he ever coached. That is not a coincidence. That is generations beyond counting of shoving a sixteen-kilo sun across a creek.
-
-**A language already fitted.** No need to import a word for *try*. It was there.
-
-**A meaning already attached.** Rugby in Guria is not an English public-school game with a foreign accent. It is the modern spelling of something local, sacred, and old.
-
-And so, when a strange Armenian from Marseille finally turns up at a Tbilisi racecourse in October 1959 with twenty people and a plan, the ground he is standing on has been prepared for **centuries**.
-
-That's why they took to it, in the phrase everyone uses, **like ducks to water.**
-
-They weren't learning a new game. They were being handed a rulebook for one they already knew.
+The paradox of what follows is that none of it helped, for a very long time. Beginning in **1928**, and again in 1940, and again in 1948, somebody would try to introduce rugby union to Georgia in an organised form. Every attempt failed. A country that might have been designed for the game could not be made to adopt it, three times over, across twenty years — and the reasons had nothing to do with whether Georgians could play.
 
 ## Generation 1: The Armenian from Marseille (1928–1963)
 
-Three times, somebody tried to give Georgia rugby. Three times, it died.
+**1949.** In Moscow, the Soviet sporting authorities pass judgement on rugby union, and the judgement is that it is **"a game not relevant to the principles of the Soviet people."**
 
-**1928.** **1940.** **1948.**
+The phrase belongs to the late-Stalinist campaign against *cosmopolitanism* — the drive to purge Soviet life of foreign, rootless, insufficiently Russian influences — and rugby fitted the indictment without needing to be squeezed. It was English. It was played by the officer class of a hostile empire. It was violent in a way that produced nothing measurable and served no productive purpose. The Ospreys' history of rugby in the Russian sphere records the decision plainly: the game was declared incompatible with socialist ideals, treated as bourgeois, and effectively banned across the Union.
 
-That is all we know. The record is that bare — three attempts to introduce the game into Georgia, spaced twelve and eight years apart, and every one of them a failure. No names have survived in the accessible sources. No clubs, no fixtures, no explanation of who tried or why it collapsed. Just three dates, and the word *unsuccessful*.
-
-And I want to start there, because it is the most confusing fact in the whole of Georgian rugby, and nobody ever stops to be confused by it.
+So the most important fact about Georgian rugby between the wars and the thaw is not about Georgia at all. It is that for a stretch of years in the middle of this generation, the game Georgians were best suited to play was, as a matter of policy, not to be played anywhere in the state they lived in.
 
 ---
 
-### The puzzle nobody asks about
+That decree also supplies the missing half of a story the chapter has to tell carefully, because the record here is very thin.
 
-Here is a country whose villages have been playing a full-contact, mass-scrummaging, ball-carrying game for centuries. Whose language already contains the word for a try. Whose men are, by the standards of any rugby nation on earth, congenitally suited to the thing.
+Three times, in the accounts that circulate, somebody tried to bring organised rugby union into Georgia — in **1928**, in **1940**, and in **1948**. Every attempt failed. The Welsh Rugby Union's history of the Georgian game carries all three dates in a single line, and that line is close to the whole of the evidence: no names, no cities, no institutions, no explanation of who tried or what became of them. The same article dates the Georgian federation's founding to 1966, where most other accounts say 1964, which is a useful reminder of how much weight this particular thread will bear. The three dates should be carried as what they are — a repeated, thinly recorded pattern of failure — and not built into a mystery.
 
-Rugby should have detonated in Georgia on contact.
+What can be said is that the pattern is much less strange than it looks, because each attempt landed at a moment when the Soviet state had no use for it. **1928** is the year of the first Five-Year Plan, with sport about to be nationalised and bent to state purposes; an English public-school game arriving then was not merely unfamiliar but ideologically suspect. **1940** is the eve of catastrophe, a year before the German invasion that would kill more Soviet citizens than any other event in the country's history. And **1948** sits directly on the lip of the ban — one year before the state formally decided the game had no place in it.
 
-And instead: **three failures in twenty years.**
-
-Look at the dates and the answer starts to assemble itself.
-
-**1928.** Georgia has been under Soviet control since the Red Army invaded in 1921 — an invasion commanded, with a bitter irony that never stops being relevant, under the authority of a **Georgian-born** man named Joseph Stalin. This is the year of the first Five-Year Plan. Sport is about to be nationalised, systematised, and made to serve the state. An English public-school game, arriving in that climate, is not just unfamiliar — it is **ideologically suspect**. Bourgeois. Foreign. Imperialist.
-
-**1940.** The eve of the Great Patriotic War. Whatever anybody was building, the Wehrmacht was about to interrupt it.
-
-**1948.** The Zhdanov years. Stalinism at its most culturally paranoid, hunting cosmopolitanism and foreign influence in every corner of Soviet life.
-
-Nobody in the sources says this explicitly, so I'll flag it as inference rather than fact — but the shape is hard to miss. **Georgia's problem was never the ground. It was the state.** The soil was perfect and the climate was lethal.
-
-Rugby needed somebody who could come at it sideways.
+A country whose villages had been shoving over a heavy ball for eight centuries could not get a rugby club to survive, three times in twenty years. The obstacle was never whether Georgians could play.
 
 ---
 
-### The Armenian from Marseille
+### The thaw
 
-His name was **Jacques Haspekian**.
+Stalin died in March 1953, and the ground shifted.
 
-He was an **Armenian**, from **Marseille**, in France.
+The Ospreys' account puts the turn at the **1957 World Youth Games in Moscow**, where rugby was played in front of packed crowds at the Luzhniki Stadium — a tournament remembered partly for the violence of its final, but decisive all the same. A game that had been declared alien to the Soviet people had been staged in the Soviet capital, in a full stadium, as part of an international festival of socialist youth. The category had changed. What had been bourgeois contamination in 1949 was, eight years later, something that could be shown off.
 
-And that combination of facts is the single most important thing about him, so let me slow down and take it apart.
+The institutional machinery followed slowly — the Rugby Federation of the Soviet Union was not re-established until **1967**, and the All-Union championship resumed only in **1968** — but the permission arrived first, and Georgia moved into it well ahead of the paperwork.
 
-He was not English. He was not a schoolmaster from Rugby, or a railway engineer, or a member of a cricket club, or a nitrate manager. There is no British institution behind him, no Anglophone network, nothing whatsoever of the pattern you have spent all day tracing through Montevideo and Buenos Aires and Valparaíso.
+### 1959, and a man whose name the sources cannot quite agree on
 
-He was a **Frenchman by residence, an Armenian by descent, from a Mediterranean port** — and he brought the game **into the Soviet Union**, and it worked.
+Somewhere in **1959**, in Tbilisi, rugby finally took.
 
-Why did it work when 1928 and 1940 and 1948 had all failed?
+The accounts of exactly how are not consistent, and the honest thing is to lay them beside each other rather than smooth them into one scene. *The Rugby Journal* records that "after a number of false dawns, the first green shoots of rugby's potential were seen in 1959 when a training session was organised at the Tbilisi Hippodrome by a university team" — the racecourse, and a student side. The Newport–Kutaisi Twinning Association's history of the Georgian game describes something adjacent but not identical: twenty people attending a meeting in Tbilisi in **October 1959** to discuss forming a club, out of which came the rugby side of the **Georgian Polytechnic Institute** — the club known today as **Qochebi**. A third account, in a rugby history of the period, has the founding session held at a local polytechnic with about twenty participants, which matches the Polytechnic Institute and not the racecourse.
 
-Partly, I suspect, timing: this is the **Khrushchev thaw**. Stalin is dead, the terror has slackened, and the USSR is opening cautiously to the world — this is the era of international youth festivals and cultural exchange.
+These are probably two things rather than one: a session on the sand at the Hippodrome, and a meeting at the Polytechnic that produced an actual club. They have been fused, in most retellings, into a single founding scene at a racecourse — a version that circulates with a precise day attached to it and no reliable source underneath. What survives scrutiny is the year, the city, the twenty men, and the club.
 
-But mostly it worked because of *who he was*. **French** rugby, unlike English rugby, had a powerful working-class and left-wing dimension. And the channel that would carry Georgian rugby for the next half-century was already being built by exactly that world: the connection between France and Georgia in rugby was established through the **then-powerful French Communist Party** and other left-wing organisations.
+Standing behind it is a figure the sources treat with visible caution. **Jacques "Jako" Haspekian** was an Armenian from Marseille, a professional cyclist by trade, and the man generally credited with teaching Georgians the game. The Newport–Kutaisi history is careful to write that "it is claimed" he taught it to his Georgian students from the late 1950s into the 1960s, and that hedge is worth preserving. He is not a myth — he was photographed, remembered, and alive into his eighties, applauded at a Georgia match at the 2007 World Cup in France, nearly fifty years after the first session. But the ceremonial version of him, arriving alone with a ball and converting a nation in an afternoon, is a story the record does not quite support. What the record supports is a foreigner with the game in his hands, in the right city, in the first years it was politically possible.
 
-Read that sentence again and hold it against everything else in this book.
+### Ten clubs
 
-Uruguay's rugby came through the **Montevideo Cricket Club**, whose members refused in 1900 to be governed by a non-British body.
+What happened next is the part that makes the whole chapter's argument without having to state it.
 
-Argentina's came through clubs that **walked out of football in 1931** because professionalism was vulgar.
+Between **1958 and 1962** — a span of five years — **ten clubs** were established in Georgia, and a **Tbilisi Championship** was set up to give them something to play for. Qochebi came out of the Polytechnic in 1959; the university side at Tbilisi followed; Kutaisi, the industrial city in the west that would become the game's deepest well, had rugby by the end of the decade.
 
-Chile's came through **The Grange, Craighouse and The Mackay School.**
+Ten clubs in five years, in one small Soviet republic, for a sport that had failed to take root three times in the previous thirty years and had been formally banned within living memory.
 
-**Georgia's came through the French Communist Party.**
+Set that against what this book has watched elsewhere. Uruguay's game took half a century after its first match to build a union, a championship and a Test side. Chile's arrived repeatedly at different ports across two thousand miles of coast and stayed unconnected for forty years. Argentina's grew inside a British enclave that took ninety-one years to beat a touring side. Georgia did not have a head start in institutions — it had none at all in 1958. What it had was a population that already knew what the game was asking of them, and the moment the state stopped forbidding it, the thing went up like dry grass.
 
-There is no class ceiling to escape, because there was never a class ceiling. The game arrived through a *left-wing* channel, into a *socialist* state, carried by an *Armenian from Marseille*, and landed on a population that had been playing a version of it in their villages for centuries.
+### What this generation leaves behind
 
-That is why Georgia is the control experiment. **Same sport. Completely different DNA.**
+A game that is finally, properly present — clubs, a championship, a city where it is played — and still no country to play for.
 
----
+Everything built in these five years was built inside the Soviet Union, and it would be governed from Moscow. The federation that took charge, founded in **1964** in most accounts (the Welsh union's history says 1966), was a Georgian body inside a Soviet structure, and the structure was about to matter far more than the body. Georgians who were good enough to play international rugby would spend the next quarter-century playing it in a red jersey with **CCCP** on the chest, if they played it internationally at all.
 
-### 15 October 1959
+The men were there. The clubs were there. The word had been there for eight hundred years.
 
-The date is precise, which is a novelty in this story.
-
-**Tbilisi. The racecourse — the Hippodrome.**
-
-Haspekian holds the first rugby session ever conducted in Georgia.
-
-**Twenty people turn up.**
-
-Twenty. At a horse-racing track. In the capital of a Soviet republic. Six years after the death of Stalin. A hundred and thirty-seven years after the first recorded rugby match in England, ninety-two years after the Buenos Aires Football Club was founded, sixty-five years after British nitrate miners played the first recorded game on Chilean soil.
-
-Twenty men, on a racecourse, in October.
-
-That's the founding of Georgian rugby. No cricket pavilion. No gentlemen's club. No school. A **hippodrome**, and twenty blokes.
-
-Haspekian taught them from the late 1950s through to the mid-1960s. And then he went home to Marseille.
-
-He is, remarkably, **still alive** — and when Georgia played France at the **2007 Rugby World Cup**, French radio tracked him down in Marseille and **interviewed him.**
-
-Think about that broadcast. An old Armenian man in the south of France, listening to the country he taught rugby to in 1959 walk out at a World Cup to play the country he came from. And two years earlier, in the same tournament cycle, that Georgian team would come within a whisker of beating Ireland.
-
-He got to hear it.
-
----
-
-### Ducks to water
-
-And now the thing everybody who tells this story says, and which by now you can hear properly:
-
-**The Georgians took to it like ducks to water.**
-
-Of course they did. Haspekian was not teaching them a game. He was handing them a **rulebook for one they already knew.**
-
-The tackle was not a new technique — that was *lelo burti*. The scrum was not a strange invention — that was the whole of *lelo burti*, hundreds of men buried around a ball nobody could see, shoving the mass across a field. The idea of carrying the ball over a line was not a novelty; the line had been a **river creek**, the ball had been the **sun**, and the referee had been the **priest**.
-
-They didn't need to be persuaded that this was a proper way for men to spend an afternoon. Their grandfathers had done it, and the winners had got the better harvest.
-
-All Haspekian did was tell them that the rest of the world had a version, and that in the rest of the world it had **rules**, and a **shape**, and other countries you could play against.
-
----
-
-### Building, fast
-
-And once the thing caught, it caught **hard**.
-
-The first Georgian club to form was the **GPI** — the **Georgian Polytechnical Institute**. A *technical university*. Engineering students.
-
-(Note that. Not an English school. Not an old boys' club. Not a cricket section. A **polytechnic**. And note something else: it still exists, under the name **Qochebi** — meaning "the Rams." Georgian rugby's founding club is still playing, and it is named in Georgian.)
-
-**1961** — a three-team domestic competition, the **Tbilisi Championship**.
-
-**1962** — the first match between a Georgian team and a Russian team. **Trud Moscow** beat the Georgian club.
-
-That same year, Georgian clubs go on their **first tours** — to **Russia** and **Latvia**. The first **Soviet Trade-Union tournament** is held. And **ten new rugby teams are established in Georgia** in that single year.
-
-Ten. In twelve months. Three years after twenty men stood on a racecourse.
-
-**1964** — the **Tbilisi Rugby Section** is formally renamed the **Georgia Rugby Federation.**
-
----
-
-### What Gen 1 leaves behind
-
-**A founder from nowhere.** Not English, not a gentleman, not a coloniser. An Armenian from Marseille, arriving through a left-wing cultural channel, in the Khrushchev thaw — the only route by which this game could possibly have entered this country, which is exactly why the three previous attempts had failed.
-
-**A founding club that is a polytechnic**, not a public school — and which, sixty-five years later, is still playing under a Georgian name.
-
-**A ferocious growth rate.** Twenty men in 1959. Ten new clubs in 1962 alone. A federation by 1964.
-
-**And a French cord** — spun by the Communist Party and the left-wing unions in the 1960s — which will, forty years later, become the pipeline through which almost the entire Georgian national squad is professionalised in the **Top 14**, under a Frenchman named **Claude Saurel**.
-
-Everything that Georgia becomes is already latent in these five years. The Frenchness. The technical-university, non-elite base. The absence of any class problem to solve. And underneath all of it, the villages, still playing the older game, still throwing the sun to a scrum of farmers while a priest fires a shotgun.
-
-But Georgia is not a country yet — not a sovereign one. The federation founded in 1964 is a **department of the Soviet Union's rugby federation**, and it will stay that way for twenty-five years.
-
-Georgia's rugby is about to be conscripted.
+There was simply no such thing, in 1963, as a Georgian national rugby team — and there would not be for thirty more years.
 
 ## Generation 2: The Soviet Machine (1964–1988)
 
-In 1964, the Tbilisi Rugby Section became the **Georgia Rugby Federation**.
+**1987. Kutaisi.** An industrial city in the western lowlands, a place of factories and river fog and a long-standing conviction that it is the truer Georgia, unimpressed by Tbilisi. Its rugby club is called **Aia**. It was founded in 1966, it had come second in the Soviet championship in 1984, and in 1987 it goes one better.
 
-And it meant almost nothing.
+Aia Kutaisi are champions of the Soviet Union.
 
-Because the Georgia Rugby Federation was not the governing body of a rugby nation. It was a **regional office** — a department, a branch, a subordinate unit of the rugby federation of the **Union of Soviet Socialist Republics**. It would remain exactly that until the **late 1980s**.
+Not of Georgia. Georgia is not a country that has championships. Champions of a state stretching from the Baltic to the Pacific, with a population approaching three hundred million and rugby clubs in Moscow and Leningrad and Krasnoyarsk — and the best of them, in 1987, is a works side from a Georgian river town of a couple of hundred thousand people.
 
-So here is the defining condition of Gen 2, and you have to hold it in your head for twenty-five years:
-
-**Georgia had a rugby federation. Georgia had clubs. Georgia had thousands of players. Georgia had a folk tradition that made it, arguably, the best-suited population on earth for the sport.**
-
-**And Georgia was not allowed to have a national team.**
-
-Not "couldn't afford one." Not "nobody would play them." **Was not permitted to exist as a rugby nation.** For a quarter of a century, no Georgian ever pulled on a Georgian jersey and walked out to a Georgian anthem, because there was no such thing.
-
-Here is the sharpest possible contrast with everything else in this book. Argentina spent ninety-one years losing to touring sides — but they *had* a team, and a badge, and a jersey with light blue and white stripes proposed by a man from GEBA in 1927. Chile trained on dirt — but they were Chile. Uruguay were beaten 62–0 by Argentina — but they were Uruguay.
-
-Georgia's problem was not that their team was bad.
-
-**It was that their team was called the USSR.**
+They win it again in 1988.
 
 ---
 
-### The machine they were fed into
+Now go back to the beginning of the generation, because the story of these twenty-five years is not that Georgians were good at rugby. It is that they were good at rugby *inside somebody else's country*, and the record reflects whose country it was.
 
-The Soviet system did what the Soviet system did: it built a competition structure and it fed the talent upward.
+Even the founding date will not sit still. **The Rugby Journal** says the Georgia Rugby Union was founded in **1961**. The rugby writer **Jonathan Campion** says the Georgian Rugby Federation was established in **1964**, and most accounts follow him. The **Welsh Rugby Union**'s history says **1966**. Three respectable sources, three different years, for the founding of a national governing body within living memory — and the reason is not carelessness. It is that a Georgian rugby federation between 1964 and 1990 was not a national governing body at all. It was a **regional section of a Soviet structure**, and nobody outside it was keeping careful count of when a branch office opened.
 
-From the **mid-1960s**, the **Soviet Championship** and the **Soviet Cup** were established for competition between Soviet rugby clubs. The first Championship was held in **1966**.
+What is not in dispute is what happened next, and Campion states it in a single sentence that carries the whole generation:
 
-And the Georgian clubs were plugged into it in a specific, revealing way: they were **formed as regional selections, fed by student teams.** Note the mechanism — not old boys' clubs hanging off private schools, but *regional selections fed by universities.* A state system, drawing from the polytechnics and the institutes, pushing players up a ladder.
+> "The Georgian Rugby Federation was established in 1964; within a couple of years, Georgians made up **half of the USSR's rugby side**."
 
-And at the top of that ladder: **the best players would go on to make the USSR team.**
+Half. One republic out of fifteen, with something under two per cent of the Soviet population, supplying half the national XV — and doing it within two years of getting organised.
 
-That was the ceiling. That was the *only* ceiling. If you were the finest rugby player Georgia ever produced, the reward was a Soviet shirt.
+### The jersey
 
-The first Soviet Championship was won by a **Moscow** team — though **Dynamo Tbilisi** came second.
+That is the fact this generation turns on, and the shape of it is worth sitting with.
 
-Second. In the first year of the competition. Seven years after twenty men stood on a racecourse.
+The Soviet Union played international rugby. It was never a Test power of the first rank, and it was walled off from the game's centre by the same politics that walled off everything else, but it existed, it competed in Europe, and it put out a side. And that side, from the mid-1960s onward, was to a very large extent a Georgian side wearing somebody else's initials.
 
----
+A man from Kutaisi or Tbilisi who was among the best rugby players in the Soviet Union had exactly one route to an international jersey, and the jersey was red, and it said **CCCP** across the chest. There was no alternative to hold out for. Georgia did not field a team; there was no Georgian anthem before a match, no Georgian selectors, no Georgian record for his caps to enter. He played for the USSR or he did not play internationally at all.
 
-### What the Georgians were, inside that system
+This book has watched a great many players locked out of representative rugby, and the mechanisms have usually been about money and class — the northern professionals barred by the RFU, the Argentine exiles disqualified by their own union's amateur regulations, the Welsh boys who went north and ceased to exist. Georgia's exclusion has no economic content whatever. Nobody was accused of taking a payment. The men were not shut out of the national team; there was simply no nation, in rugby's terms, for them to be selected by.
 
-Here is where the *lelo burti* inheritance starts to cash out, and where Georgia acquires the identity it still has today.
+### What the record kept, and what it did not
 
-Within Soviet rugby, the Georgians became **the hard men.** The forwards. The ones you did not want to scrummage against.
+There is a real difficulty in writing this generation, and it should be admitted rather than papered over: the archive is extremely thin, and it is thin for a reason that is itself part of the story.
 
-The physical prowess of Georgian players is attributed, again and again and by everyone, directly to the **lelo burti tradition** — to a population raised on mass, sustained, low-ball contact in the villages. When Georgian players started appearing at Soviet tournaments in the 1980s, that was the thing that got noticed. Not the flair. Not the skill. **The physicality.**
+Georgian achievements between 1964 and 1988 were recorded, when they were recorded at all, as **Soviet** achievements. They went into all-Union tables under all-Union competition names. They were not reported abroad, because Soviet domestic sport largely was not reported abroad, and they were not preserved afterwards by a national federation, because the national federation that would have cared did not yet exist in a form that could keep an archive. A great deal of what circulates now about this period — a French delegation here, a sevens tournament there — cannot be traced to any source that will bear weight, and is left out of this account for that reason.
 
-And this is the point where you should think back to something from the Argentina thread.
+What does survive is a competition record, and it is the more eloquent for being all that is left.
 
-Izak van Heerden had to *teach* the Pumas the tight-loose — the close-quarters forward continuity around the breakdown — and it took years, and it became their national identity, and it was a **South African schoolmaster's invention** transplanted into a foreign body.
+In **1978**, **Lokomotivi Tbilisi** — a railway workers' club, the same institutional species that gave Wales its Grivița-style works sides and Argentina its Ferrocarril Oeste — **lifted the Soviet Cup.** Then Kutaisi's turn: **Aia** second in the Soviet championship in **1984**, champions in **1987**, champions again in **1988**.
 
-**Nobody had to teach the Georgians anything of the kind.** Their grandfathers had spent their lives in a permanent, hour-long, three-hundred-man maul, shoving a sixteen-kilo ball across a creek.
+That is the whole visible output of a quarter-century, and it describes a game that was not merely surviving in Georgia but winning, at the top level available to it, against everyone the Soviet Union could put in the way.
 
-Georgia's forward play is not coached. It is **inherited.**
+### What this generation leaves behind
 
----
+A paradox sharp enough to have driven what came next.
 
-### 1978: Lokomotivi
+By 1988 Georgian rugby had a federation of some kind, a deep club game, a city in Kutaisi where the sport was a civic possession, the reigning champions of the Soviet Union, and roughly half of the USSR's international players. By every measure a rugby nation uses, it was a rugby nation.
 
-And then the moment that Gen 2 was building towards.
+It had never played a match.
 
-The **Soviet Cup** was introduced in **1976**. And in **1978**, for the first time, a **Georgian** team won it.
+There was no Georgian Test record because there had been no Georgian Test. Not a defeat, not a fixture, not a cap — nothing at all, in a country that had been playing the folk version for eight hundred years and the codified version for thirty. Compare that with anywhere else in this book: Uruguay had lost internationals since 1948, Chile since 1936, Argentina had been losing to touring sides since 1910. Losing is a form of existing. Georgia had not even that.
 
-**Lokomotivi** — of Tbilisi.
+What it had instead, by the end of 1988, was a state visibly coming apart at the edges, and a generation of players in their prime who had spent their careers being described as Soviet.
 
-A club named, in the finest Soviet tradition, after the railway workers' sports society. (There's a small, pleasing rhyme in that, given where this book began: **Peñarol**, black and gold, colours taken from Stephenson's Rocket and the railway workers' union. Railwaymen's rugby, twice, at opposite ends of the earth, for entirely unrelated reasons.)
+Aia Kutaisi would win the Soviet championship for a third time in 1989.
 
-Lokomotivi Tbilisi lift the Soviet Cup in 1978.
-
-It is the first trophy Georgian rugby ever wins, and it is won inside somebody else's competition, under somebody else's flag.
-
----
-
-### The French cord
-
-Meanwhile, quietly, the strangest and most consequential thread in the entire story keeps spinning.
-
-Remember how rugby got into Georgia in the first place: an **Armenian from Marseille**, arriving through a left-wing channel, in the thaw. And remember the mechanism the sources name explicitly — the rugby connection between **France and Georgia** was established through the **then-powerful French Communist Party** and other left-wing organisations.
-
-In **1967**, a **French trade-union selection** visits Georgia.
-
-A *trade-union selection.* Not a touring club. Not a national side. Not the Barbarians. A team of **French unionised workers**, playing rugby in Soviet Georgia, as an act of international socialist fraternity.
-
-That is not a fixture that could have happened anywhere else in this book. You cannot imagine a French trade-union XV turning up at the Montevideo Cricket Club in 1967, or at CASI, or at The Grange.
-
-And it matters enormously — because this thread, spun by communists in the sixties, is the *exact same thread* that, thirty years later, a Frenchman named **Claude Saurel** will use to send the entire Georgian national squad into the French club system to be professionalised. The pipeline that saves Georgian rugby in the 2000s was **laid by the French Communist Party in the 1960s.**
-
-Georgian clubs also toured to **Romania** — the great rugby power of the Eastern Bloc, and the one Communist nation that had genuinely cracked the top table, good enough to beat Wales and France. Those tours gave the Georgians their first serious experience against established opposition, and strengthened the ties within the Soviet sphere.
-
-*(And if you want a thread for later: Georgia's rivalry with Romania was later formalised in the **Antim Cup**, contested since 2003 — which Georgia has won **19 times**. The apprentice ate the master. And in mid-2026 both of them were in Montevideo and Santiago, in the inaugural Nations Cup.)*
-
----
-
-### 1988: the crack in the wall
-
-And then, at the very end, the pressure starts to show through.
-
-In **1988**, **Tbilisi hosts a sevens tournament** — a notable one, on an international stage, where Georgian players are seen properly for the first time, and where the thing everyone notices is that **physicality**, straight out of the villages.
-
-Georgia's first genuine international exposure comes through **Soviet sevens tournaments and club-level exchanges in the 1980s** — and it comes without any formal independent status whatsoever. They are being watched by the world while officially not existing.
-
-1988. Think about where the Soviet Union is in 1988. Gorbachev. Glasnost. The empire is beginning to come apart at the seams, and the seams are running through places like Tbilisi.
-
-In April 1989, Soviet troops would kill protesters in Tbilisi. Georgia would declare independence in 1991.
-
-And in **September 1989** — in Kutaisi, in western Georgia, not far from the Gurian villages where the priests still blessed the ball — a team wearing Georgian colours would walk onto a field for the first official Test match in the nation's history, and beat **Zimbabwe 16–3.**
-
-But that's Gen 3.
-
----
-
-### What Gen 2 leaves behind
-
-**A quarter-century of subordination.** The federation existed from 1964 and was a Soviet department until the late 1980s. Georgia's best players spent twenty-five years being harvested for a team that wasn't theirs.
-
-**A competition structure**, and a habit of winning inside it — Dynamo second in the first Soviet Championship, Lokomotivi lifting the Soviet Cup in 1978.
-
-**A pipeline built out of universities and regional selections** — a state system, not a school system. Which is precisely why Georgia never developed a class problem. There was no fee to pay and no old boys' club to be admitted to. There was a polytechnic, and a regional side, and if you were hard enough, you went up.
-
-**A reputation** — the hard men, the forwards, the physical ones — earned in Soviet tournaments and inherited from a village game older than the Georgian alphabet.
-
-**And a French cord**, spun in 1967 by trade unionists, that will one day be the artery keeping the whole national team alive.
-
-What it does **not** leave behind is money, professionalism, or infrastructure. Because when the Soviet Union goes, it takes the entire apparatus with it — the funding, the competition, the structure, the state.
-
-And Georgia, newly independent, at war with itself, its economy in freefall, will find itself with a national rugby team, a fanatical population, a folk tradition eight centuries deep —
-
-— and **two spare balls.**
+And in September of that same year, in that same city, something else would happen.
 
 ## Generation 3: Independence and Ruin (1989–1996)
 
-**Two balls.**
+**September 1989. Kutaisi.** Zimbabwe are touring, and Georgia are playing them, and for the first time in the history of the game there is such a thing as a Georgia rugby team.
 
-Not two dozen. Not two boxes. **Two spare balls**, for an entire national rugby team, in the middle of the 1990s.
+They win it **16–3**. The captain is a centre, **Oleg Liparteliani**. Every one of the sixteen points is scored by the fly-half, **David Dzagnidze** — a fact worth pausing on, because a man kicking and running his country's entire first Test score is the sort of thing that happens once, and it happened here.
 
-Their tackle bags were **homemade** — stitched together out of **denim and rubber**.
+Kutaisi is the right place for it. Aia had been champions of the Soviet Union in 1987 and 1988, and would be again in 1989, the same year as this match: the city was simultaneously the best club side in a superpower and the venue for the first appearance of a national team that had not previously existed.
 
-And their scrum machine — the thing that a professional side uses to build the most technical, most dangerous, most physically ruinous set-piece in world sport — was a **converted tractor.**
-
-They took old tractors, and they turned them into scrummaging machines.
-
-Hold that image, because it is the truest picture of Georgian rugby that exists, and everything in this generation runs through it. While the rest of the world was signing its first professional contracts, Georgia was scrumming against farm equipment.
+Thirty years, almost exactly, since twenty men met in Tbilisi to discuss forming a club.
 
 ---
 
-### Kutaisi, September 1989
+The obvious question is why now, and the answer is that the wall the last generation described had stopped being load-bearing. The Soviet Union in September 1989 was ten weeks from the fall of the Berlin Wall and twenty-seven months from its own dissolution. A constituent republic fielding its own international side, in its own name, against a touring country — an act that would have been unthinkable a decade earlier — passed off in Kutaisi without anyone stopping it.
 
-But start with the good day, because there was one, and it came before the collapse.
+Georgia had a second act ready almost at once. **In April 1990 the two countries played a return series in Zimbabwe**, and Campion records the results: Georgia lost the first Test **22–16** and won the second **26–10**. So inside eight months of first existing, Georgia had played three Tests on two continents and won two of them.
 
-**September 1989.** Thirty years, almost to the month, after Jacques Haspekian stood on a Tbilisi racecourse with twenty men.
+Then the country fell apart.
 
-In **Kutaisi** — Georgia's second city, in the west, in the country of the Gurian villages where the priest still blessed the ball — a national rugby team played its first **official Test match.**
+### What independence cost
 
-Not the USSR. **Georgia.**
+**9 April 1991.** On the strength of a referendum, the Supreme Council declares the restoration of Georgia's state independence. On **26 May** the country elects its first president, the national-liberation leader **Zviad Gamsakhurdia**.
 
-The captain was the centre **Oleg Liparteliani.** The fly-half was **David Dzagnidze**, and he **scored every single one of his team's points.**
+By December there is fighting in the streets of Tbilisi between Gamsakhurdia's supporters and his opponents. He is overthrown and driven into exile; the civil war runs for two years; on **31 December 1993** Gamsakhurdia dies in the village of Khibula, officially by his own hand, though his family has never accepted it. Overlapping all of it, the war in **Abkhazia** begins on **14 August 1992**, lasts thirteen months and thirteen days, and ends on **27 September 1993** in the defeat of Georgian forces and the displacement of some **265,000** ethnic Georgians.
 
-**Georgia 16, Zimbabwe 3.**
+That is the country in which Georgian rugby became independent. Not a nation coming into its inheritance — a nation coming apart, at exactly the moment its rugby players finally had a flag to play under.
 
-The first match in the history of the Lelos, and they won it.
+And the rugby went on. **In February 1992**, with the president in exile and the Abkhaz war six months away, the **Georgian Rugby Union** affiliated to the International Rugby Board. World Rugby's membership record still carries the date: *Feb 1992*, full member. A country that could not reliably govern itself joined the governing body of a sport.
 
-*(There is a lovely, slightly ridiculous quality to the fixture itself. Of all the teams on earth for a newly-emerging Soviet republic to play — **Zimbabwe**. Two nations from opposite ends of the planet, both of them peripheral, both of them about to have a very hard decade, meeting in western Georgia because who else was going to come.)*
+### Denim sacks and tractors
 
-They went back the following **April 1990** and played a return series **in Zimbabwe**. Lost the first Test **22–16**. Won the second **26–10.**
+What that membership bought, in practice, was the right to be poor in public.
 
-So the record of Georgia's very first rugby, as an independent sporting nation, is: **played three, won two.**
+The accounts of Georgian rugby in these years are among the bleakest in this book, and they are unusually consistent. *The Rugby Journal* summarises the decade in a sentence: "War and instability stifled progress in the 1990s, the national team surviving on a handful of practice balls and old Soviet tractors turned into scrum machines." Campion supplies the detail underneath it. For tackle practice, "the players threw themselves at denim sacks that the coach's wife had filled with rubber." For the scrum — the one part of the game Georgia was already better at than almost anybody — "forwards in Georgia trained for scrums by pushing old Soviet tractors."
 
-And then the world fell in.
+Read those two sentences beside the previous generation's. This is the same rugby culture that had supplied half the USSR's international side and produced three consecutive Soviet champions in Kutaisi. Nothing had happened to the players. What had happened was to everything around them: the industrial economy that employed them, the state that funded the clubs, the all-Union competition that gave them somewhere to play, and the supply chain that produced such things as rugby balls.
 
----
+The tractor is the detail that stays with you, and not only because it is vivid. A scrum machine is a manufactured object that a union buys. A tractor is what is lying around a collapsing agricultural economy. The Georgian pack got its reputation — the one that would eventually make the rest of Europe reluctant to play them — by shoving farm machinery across a field because there was nothing else to shove.
 
-### What independence actually meant
+### What this generation leaves behind
 
-**1991:** Georgia regains its independence.
-**1992:** Georgia becomes a member of the **International Rugby Board.**
+A national team that exists, on paper, in the worst decade the country had experienced since the 1920s.
 
-On paper, this is everything. A nation. A flag. A seat at rugby's governing body. Twenty-eight years after the federation was founded as a Soviet department, Georgia is finally a rugby *country*.
+By 1996 Georgia had a flag, a union, IRB membership, a handful of Tests, a domestic championship played by clubs that had survived — Aia in Kutaisi, Qochebi in Tbilisi, Lokomotivi — and effectively no money, no equipment, no facilities and no route into the game's serious company. The world game had spent 1995 turning professional; Georgian rugby spent 1995 in a country recovering from civil war.
 
-In reality, it is a catastrophe.
+And in that same year, **1995**, a Frenchman named **Claude Saurel** joined the Georgian union as an adviser.
 
-Because the Soviet Union did not simply grant Georgia its freedom. It **withdrew**, and when it withdrew it took the entire apparatus with it — the funding, the competition structure, the state sports system, the ladder from the polytechnics to the regional selections to the national squad. All of it. Gone overnight.
+He would in time become head coach, and he would arrive at a conclusion that no other union in this book reached in quite the same way: that the fastest route to making Georgia good was not to build the Georgian game at all, but to **send the players away** — to get them into French clubs, on French money, in French competitions, and let somebody else's professional system do the developing.
 
-And what replaced it, in the first decade of Georgian independence, was **economic crisis, political instability, and war.**
-
-That's the phrase the sources use, and it is doing an enormous amount of work. The 1990s in Georgia were not a difficult period. They were a **national disintegration** — civil conflict, a shattered economy, a state that could barely function. The turbulent 1990s, one account puts it, were **as draining for Georgia's rugby teams as they were for the nation itself.**
-
-Rugby was not a priority. Rugby could not possibly have been a priority.
-
----
-
-### The cruellest possible timing
-
-And now the detail that turns a hard decade into a genuine tragedy.
-
-**1995.** The International Rugby Board abolishes amateurism. Rugby union goes **professional**.
-
-Across Europe and the southern hemisphere, the best players in the world are being handed contracts. Full-time athletes. Salaries. Nutritionists. Gyms. Coaches. The entire modern apparatus of elite sport arrives in a single year.
-
-And in that exact year — the sources are explicit about the timing — while the best players in Europe and the Southern Hemisphere are preparing to become full-time professionals for the first time, **the Georgian national team had two spare balls.**
-
-Two.
-
-This book has already shown what professionalism did to nations that were merely *late* to it. Argentina — third in the world in 2007 — was still being blocked from the Tri Nations because the UAR's commitment to amateurism was a *stumbling block*, and 31 of 33 of their 2023 World Cup squad had to be developed by foreign clubs. Chile was still training on **dirt** in 2019, twenty-four years after professionalism arrived.
-
-Georgia in 1995 was not late to professionalism. Georgia in 1995 was **at war with itself and could not afford rugby balls.**
-
-The gap that opened in that decade is the gap they have been climbing out of ever since.
-
----
-
-### What survived, and why
-
-So the real question of Gen 3 is not *how badly did it go*. It's: **how did anything survive at all?**
-
-And the answer is the most Georgian answer imaginable.
-
-**The universities and the military academies.**
-
-The sport expanded — *expanded*, in the middle of a state collapse — through established **university programmes in Tbilisi** and through **military academies**, where rugby's physical demands aligned neatly with disciplinary training. That's what sustained player development and grassroots participation through the wreckage.
-
-Read that against everything else in this book.
-
-When Uruguay's rugby needed an institution to carry it, it got the **Irish Christian Brothers at Stella Maris College** in Carrasco. When Chile's needed one, it got **The Grange, Craighouse and The Mackay School**. When Argentina's needed one, it got the **old boys' clubs of the Anglo gentry** who had walked out of football because money was vulgar.
-
-When Georgia's rugby needed something to cling to in the worst decade of the nation's modern history, it clung to **the polytechnics and the army.**
-
-Not a fee-paying school anywhere in sight. Not one.
-
-And underneath that, in Guria, in Shukhuti, in the villages — the priest still walked out of the church with the ball. The shotgun still went off. The men still shoved the sun across the creek. **Lelo burti did not require a national economy.** It required a village, a priest, and a field between two streams, and those were still there.
-
-The deep root held while the trunk was being hacked at.
-
----
-
-### The men who were there
-
-Names are thin on the ground in this period, but a few survive, and they matter.
-
-**Oleg Liparteliani**, the centre who captained the first-ever Test side. **David Dzagnidze**, the fly-half who scored all sixteen points against Zimbabwe. And behind them a whole XV of names now barely recorded — men whose careers straddled the two Georgias, the Soviet-era foundation and the independent ambition.
-
-These are the players of the two-ball era. The ones who scrummed against tractors. Who never got a contract, never got a professional season, never got a World Cup — and who kept the shirt alive through a civil war so that somebody else could wear it to France.
-
----
-
-### The first cracks of light
-
-And right at the end of it, in the mid-1990s, the first signs of a way out.
-
-**Initial professionalisation steps emerge**, driven by involvement from **FIRA** — the European federation, the body that governed the rugby world *outside* the Anglo-Saxon inner circle. Not the IRB. Not the Home Unions. **FIRA** — the club for everyone the Five Nations wouldn't have.
-
-And in **1997**, a Frenchman gets off a plane in Tbilisi to look at the state of the game and take stock.
-
-His name is **Claude Saurel**.
-
-He is arriving through the door that was propped open in **1959** by an Armenian from Marseille, and held open through the **1960s** by the French Communist Party and a touring trade-union XV. The French cord — spun by socialists in the Khrushchev thaw, running through a Soviet republic, surviving a civil war — is about to be **pulled taut**.
-
-And what Saurel is going to do with it is the most audacious strategy any coach in this book has attempted. He is going to look at a country that cannot afford rugby balls, that has no professional structure and no prospect of building one, and he is going to conclude:
-
-**Then we will not build one. We will send them to France.**
-
----
-
-### What Gen 3 leaves behind
-
-**A national team**, and the first three matches in its history — two of them won, against Zimbabwe, before the roof came off.
-
-**A seat at the IRB** (1992), which meant everything and bought nothing.
-
-**A generation sacrificed.** The men who should have been Georgia's first professionals instead spent the 1990s stitching tackle bags out of denim and pushing against a tractor.
-
-**A survival mechanism** that determined the entire character of what followed: **universities and military academies**, not schools and old boys' clubs. Georgian rugby came out of its darkest decade with its **classlessness completely intact**, because there had never been any money in it to attract a class in the first place.
-
-**And a myth.** Because — and this is the part that matters — Georgians *tell* this story. The two balls. The denim bags. The tractors. It is not a shameful memory they'd rather forget; it is the **founding legend of the modern Lelos**, repeated in every profile, told to every visiting journalist.
-
-Milton Haig, who would coach them years later, called his players **soldiers** — and said they were probably the hardest-working group he had ever coached.
-
-Of course they were. They came from a country where, within living memory, the national rugby team had two balls and a tractor.
+It worked. It also created a dependency the country is still living with.
 
 ## Generation 4: The French Connection (1997–2006)
 
-In 1997, a Frenchman arrived in Tbilisi to look at Georgian rugby and decide whether anything could be done with it.
+**28 October 2003.** Georgia are playing Uruguay at a Rugby World Cup, and the reader of this book has met both of them before.
 
-What **Claude Saurel** found was a country that had, within the last two or three years, been running a national rugby programme on two spare balls, denim tackle bags and a tractor. There was no money. There was no professional structure. There was no realistic prospect of building one — Georgia in 1997 was a state still hauling itself out of civil war and economic collapse, and the idea of it funding full-time athletes was not ambitious, it was absurd.
+Uruguay is where this book began: the marooned Carrasco enclave, the cricket club that would not be governed by non-British men, a hundred years of rugby played by a few hundred families in one suburb of one city. Georgia is its opposite in every particular — a village game eight centuries deep, no enclave, no founding club, no class ceiling to break through.
 
-Every coach in this book, faced with that, has done the same thing. Van Heerden taught the Argentines a method. Wyllie taught them to be on time. Lemoine got the Chileans up at six in the morning and then built them a franchise.
+Uruguay win, **24–12**.
 
-**Saurel did something none of them did. He looked at a country that could not professionalise its players — and decided to have somebody else do it.**
-
----
-
-### The strategy
-
-He started sending Georgian players **to France.**
-
-Not the stars. Not one or two. **The squad.** Systematically, deliberately, as national policy — Georgians were dispatched into the French club system, into the Top 14 and, crucially, into the **lower divisions**, the second and third tiers, the Pro D2 and below, where a hard, cheap, uncomplaining forward from the Caucasus was exactly what a provincial French club wanted.
-
-They went there **to improve their rugby skills and facilitate their development.** That was the stated purpose. France was not a destination. France was a **training facility** that Georgia did not have to pay for.
-
-And it worked so completely that it is still how Georgia operates today. The bulk of the national squad is based in France, in the Top 14 and the divisions below it — **a practice popularised by Claude Saurel**, and one that has never been abandoned. Roughly 60% of the international squad, in recent years, play professionally in France; the rest at home.
+It is Georgia's first World Cup, and by the end of it they will have played four, lost four, conceded a hundred and fifty-four points more than they scored, and crossed the opposition line exactly **once**.
 
 ---
 
-### Why this is not the same as the exile you've already seen
+To understand how Georgia got to Australia at all, go back to the man who arrived in the ruins.
 
-And here is where you need to stop and think carefully, because on the surface this looks identical to something you've read three times already — and it is **the exact opposite.**
+**Claude Saurel** joined the Georgian union as an adviser in **1995** — the year the world game turned professional, and a year when Georgia had denim sacks for tackle bags. He was appointed head coach in **1999**. And Campion states his central move in a single clause: when the Lelos appointed him, "he arranged for several French teams to sign Georgian players."
 
-**Argentina's exodus was a haemorrhage.** The UAR's amateur regulations banned professional players from the national team, so every man who took a contract abroad was, in the same act, retiring from international rugby. Patricio Noriega went to Australia and ended up playing for the **Wallabies**. Argentina bled its best players out through a rule it had inherited from gentlemen who'd walked out of football in 1931 because money was vulgar. When Marcelo Loffreda finally had his golden generation, they were scattered across Europe and assembled a handful of times a year — and in 2007 they finished third in the world *despite* the system, not because of it. Thirty-one of the thirty-three men who went to the 2023 World Cup were developed by foreign clubs, and Argentine rugby writers regard that as a **wound.**
+That sentence is the hinge of modern Georgian rugby, and it is worth being precise about how strange it was.
 
-**Uruguay's exile was a constraint.** Pablo Lemoine had to go to Bristol because there was nothing at home. Uruguay's whole modern project — the Charrúa, the High Performance regime, Peñarol Rugby — has been about building enough at home that the players don't *have* to leave.
+Saurel's conclusion was that the Georgian game could not be built in Georgia. There was no money, no professional structure, and no domestic competition capable of producing a Test forward — but there *was* a product Georgia had in surplus and France had a market for. French clubs wanted big, cheap, technically excellent scrummagers. Georgia had them, in numbers, in a country where a professional wage was an unimaginable sum. So rather than trying to construct a professional system at home, Saurel exported the players into somebody else's.
 
-**Chile's answer was to build Selknam** and repatriate the game entirely.
+Set that beside Argentina, three chapters ago. Argentine players who took contracts abroad were, by their own union's amateur regulations, retiring from international rugby in the same act — the exodus was a haemorrhage, and Argentine writers still regard it as a wound. Georgia did the identical thing and it meant the opposite. The players left as **policy**, arranged by their own coach, developed at French expense, and came back better. What was a punishment in Buenos Aires was a development pathway in Tbilisi.
 
-**Georgia looked at all of that and said: we will not build. We will export — on purpose.**
+It is the single most clear-eyed decision any small union makes in this book. It is also the origin of a dependency that has still not been resolved.
 
-The players are not lost. They are **posted.** France is not the country that steals Georgia's talent; France is the country that **finishes** it, at French expense, and sends it home in the international window with a Top 14 season in its legs.
+### The near miss
 
-It is the single most economically clear-eyed decision any small union in this book has taken. It is also, I think, the only one that could have worked for Georgia specifically — because Georgia had something to *sell*. Not backs. Not flair. **Front-row forwards**, raised on lelo burti, hard as a bank vault, and French clubs have wanted exactly that commodity for a hundred years.
+The first test of the strategy came before Saurel had the head job, and it came agonisingly close.
 
----
+Georgia went into a two-legged **repechage for the 1999 World Cup against Tonga**. World Rugby's own match record has the first leg on **6 March 1999** at Teufaiva Stadium in Nuku'alofa. Georgia lost it heavily. Three weeks later, in Tbilisi, they won the return **28–27** — a one-point win over a Pacific nation with a serious Test history — and it was not enough. Tonga went through on aggregate.
 
-### The cord, pulled taut
+One point, in the second leg, against a deficit built in the first. Georgia would have to wait four more years.
 
-And now watch the whole chain of this story snap tight, because Gen 4 is the moment every thread you've been tracking turns out to have been the same thread.
+They filled the wait by beginning to win everything nearer home. In **2001** Georgia won the **European championship** for the first time — the competition below the Six Nations, the one containing Romania, Portugal, Spain and Russia. It was the first trophy the country had ever won in the sport, and it turned out to be the first of a great many.
 
-**1959** — an **Armenian from Marseille**, Jacques Haspekian, teaches rugby to twenty men at a Tbilisi racecourse. Not an Englishman. Not a schoolmaster. A Frenchman by residence, from a Mediterranean port.
+### Australia
 
-**1960s** — the rugby connection between France and Georgia is built and sustained by the **French Communist Party** and other left-wing organisations.
+Qualification for **2003** followed, and with it the thing Georgian rugby had never had: four matches against the best teams on earth, watched by everybody.
 
-**1967** — a **French trade-union selection** tours Georgia. Unionised French workers, playing rugby in a Soviet republic, as an act of socialist fraternity.
+The draw was merciless. **Pool C** contained **England** — who would win the tournament, beating Australia in the final in extra time — and **South Africa**, and **Samoa**, and Uruguay. Georgia lost all four. The pool table records the arithmetic without comment: played four, won none, points difference **minus 154**, tries scored **one**, bonus points **none**.
 
-**1997** — **Claude Saurel**, a Frenchman, arrives, and uses that forty-year-old channel to plug an entire national squad into French professional rugby.
+One try in a World Cup. It is the sort of line that reads as humiliation, and at the time a good deal of it was. But look at what stands behind it. Fourteen years earlier there had been no Georgia team at all. Eight years earlier the forwards had been training against farm machinery. The country had spent the first half of the decade in a civil war. And now it was on the field with the eventual world champions, losing badly, in front of the game's whole audience — which is a different and better problem than the one it had in 1993.
 
-**2007** — Georgia play **France** at a World Cup, and French radio finds an old man in **Marseille** and puts him on the air to talk about it.
+The defeat that mattered was the Uruguay one, because Uruguay was the only side in that pool Georgia might plausibly have beaten, and losing it meant going home without the consolation every debutant wants.
 
-There is no other rugby nation on earth whose entire modern existence runs down a single wire laid by communists in the Khrushchev thaw.
+### Two brothers
 
-And note what that wire is made of. Not the British Empire. Not cricket clubs, not railways, not nitrate, not private schools. **French socialism**, and an Armenian, and a horse-racing track.
+There is a family in that tournament who carry the whole of the French connection in one household.
 
----
+**Grégoire Yachvili** played for Georgia at the 2003 World Cup, quartered at Manly while the French squad stayed down the coast at Bondi. His younger brother **Dimitri Yachvili** was one of the outstanding scrum-halves of his generation — and played for **France**.
 
-### The near miss: Tonga, 1999
+Their grandfather had arrived in France during the Second World War: a Georgian who fought at Stalingrad, escaped a German camp, and settled in Corrèze. Their father Michel, himself a French international, passed the Georgian and Armenian inheritance down to his sons, and the sons went in different directions with it. One took the country of the passport. One took the country of the name.
 
-Before the door opened, it slammed once.
+Dimitri would say later that the fixture he most regretted missing was **France against Georgia in 2007** — a match his brother's country would lose 64–7 in Marseille, and a match in which he might have played against the family's other half.
 
-Georgia had failed to qualify for every World Cup ever held. And in **1999** they came agonisingly close, via a **two-legged repechage play-off against Tonga.**
+That is what Saurel's pipeline looked like from inside a house. The border between "Georgian player" and "French player" was, for a whole generation, a matter of which passport a young man reached for — and the traffic ran in both directions.
 
-**First leg, Nukuʻalofa: Tonga 37, Georgia 6.**
+### What this generation leaves behind
 
-That's a thirty-one point hole, in the Pacific, on the other side of the world.
+A strategy that works, a trophy cabinet that has started to fill, and a ceiling that has just become visible.
 
-**Second leg, Tbilisi: Georgia 28, Tonga 27.**
+By 2006 Georgia had a coach who had solved the development problem by outsourcing it, a growing colony of professionals in the French leagues, the European championship on the sideboard, and a World Cup appearance behind them. The Lelos were no longer a rumour attached to a folk game. They were a functioning international side.
 
-They **won it**. In front of their own people, they beat Tonga.
+They were also, in a way that would define everything that followed, entirely dependent on French clubs to make their players, and locked out of every competition that would have made them better. The pool of four matches every four years was the whole of Georgia's exposure to Tier 1 rugby.
 
-And it wasn't nearly enough. The first leg had killed them. Out on aggregate.
+The next generation would fix the money problem in the most spectacular way available — a single Georgian billionaire, one of the richest men alive, deciding that his country would have rugby pitches.
 
-That is the last time Georgia would fail to reach a Rugby World Cup.
-
----
-
-### 2003
-
-**Georgia qualified for the 2003 Rugby World Cup** — their first — through the **European repechage.**
-
-Forty-four years after twenty men turned up at a racecourse. Fourteen years after the first Test in Kutaisi. Eight years after the national team had two spare balls.
-
-And they were drawn against **England** and **South Africa.**
-
-I want you to appreciate the sheer, vertiginous scale of that. England were about to win the tournament — Johnson, Wilkinson, Dallaglio, the most professional rugby team the northern hemisphere had ever produced. South Africa were the 1995 world champions.
-
-And into that pool walked the **Lelos** — a team assembled from Georgian clubs and the lower divisions of French provincial rugby, from a country that within the previous decade had been at war with itself, whose players' fathers had scrummed against a converted tractor.
-
-They didn't win a match. Of course they didn't win a match. That was never the point.
-
-The point was that they were **there** — and that when the crowd sang, the words were *Lelo, Lelo, Sakartvelo*, and the word they were shouting for a try was the name of the game their grandfathers had played in the villages, with a priest for a referee and the sun for a ball.
-
----
-
-### The thing that carried
-
-And now the last observation of Gen 4, and it's the one that makes Georgia different from every nation in this book.
-
-Uruguay's rugby is in **Carrasco**. Chile's was in **Las Condes and Reñaca**. Argentina's is in the eighty clubs of Greater Buenos Aires, and it took **Tucumán and its sugar mills** to prise even a corner of it loose.
-
-**Rugby union is one of the most popular sports in Georgia.**
-
-And more than that — **in the south of the country, rugby is more popular than football.**
-
-More popular than football. In the twenty-first century. In Europe.
-
-There is no other nation on the planet where that sentence is true, and it is true because of everything Gen 0 laid down: because the game did not arrive as an elite import to be resisted, but as the **codified, exportable version of something already sacred**; because it entered through a polytechnic and not a public school; because it survived a civil war inside **universities and military academies**; and because it never, at any point in its history, had a class to escape from.
-
-Georgia is the control experiment, and Gen 4 is where the experiment returns its result.
-
-**You do not need to be rich to be good at this. You need to be organised, and you need somebody else's league.**
-
----
-
-### What Gen 4 leaves behind
-
-**A World Cup**, at last — 2003 — and Georgia have never missed one since.
-
-**A strategy** so unusual it still defines them: the **deliberate, permanent export** of a national squad into French professional rugby, as policy rather than as loss.
-
-**A French axis** running unbroken from Haspekian's racecourse to Saurel's phone calls.
-
-**And a country that genuinely loves the game** — not a suburb, not an old boys' network, not three schools. A country, in which the southern regions prefer rugby to football.
-
-What it does **not** leave behind is money, infrastructure, or a domestic professional structure. The Georgian Championship exists, but its quality has never come close to matching the sport's popularity across the country, precisely *because* all the good players are in France.
-
-That gap — a fanatical nation, a world-class pack, and no facilities at home — needed somebody to write a very large cheque.
-
-In **2007**, sitting somewhere watching Georgia come within a whisker of beating **Ireland** at a World Cup, the richest man in the country was about to decide to write one.
-
-**Eighty million pounds**, and **fourteen high-performance centres.**
+It would not fix the other one.
 
 ## Generation 5: The Billionaire (2007–2018)
 
-**2007. The Rugby World Cup in France.**
+**15 September 2007. Bordeaux.** Seventy-eight minutes gone, Ireland lead Georgia 14–10, and the Georgian pack is over the Irish line.
 
-Georgia are playing **Ireland**.
+For the last twenty minutes the match has run one way. Georgia have had the territory and the possession and Ireland — a side that will reach a World Cup quarter-final in the next cycle — have been camped on their own line waiting for it to end. Now the maul goes over, and it looks like a try, and it looks like Georgia beating a Six Nations country at a World Cup.
 
-Ireland — a Six Nations nation, a Tier One nation, a country with provinces winning European cups, with Brian O'Driscoll and Ronan O'Gara and Paul O'Connell. And Georgia are a team drawn from the lower divisions of French provincial rugby and the Georgian Championship, from a country that fifteen years earlier had two spare balls and a tractor.
+The Irish flanker **Denis Leamy** gets his body under the ball. The television official rules it **held up**.
 
-**Ireland win 14–10.**
+Ireland win **14–10**. Georgia's try that day was scored by Shkinin, with a conversion and a penalty from Kvirikashvili, and it is the closest anybody outside the top tier had come to that kind of scalp.
 
-Four points. Georgia hammered at the Irish line in the closing minutes and did not get over it. Four points from causing what would have been, at that moment, the biggest upset in the history of the tournament.
+Eleven days later, at Lens, Georgia beat **Namibia 30–0** — no reply, a shutout — for the **first World Cup win in the country's history.**
 
-Earlier in that same pool, the Lelos had beaten **Namibia 30–0** — their **first-ever Rugby World Cup victory.**
-
-And somewhere, watching all of this, was the richest man in Georgia.
+They finished the pool having lost 33–3 to Argentina in Lyon and 64–7 to France in Marseille. Played four, won one. But the arithmetic had moved: at their first World Cup, four years earlier, Georgia had scored **one try in the whole tournament.** In 2007 they scored **five**, took a losing bonus point, and came within a television replay of Ireland.
 
 ---
 
-### The billionaire
+Somebody was watching.
 
-His name is **Bidzina Ivanishvili.**
+**Bidzina Ivanishvili** is a Georgian who made a fortune in Russia in the 1990s and returned home as one of the wealthiest men on earth — wealthy in the specific way that matters here, which is that his personal fortune was for years a substantial fraction of his country's entire economy. He would go on to serve as **Prime Minister of Georgia**, and to remain the dominant figure in Georgian politics long after leaving the office.
 
-He is a man of enormous, almost unaccountable wealth — a fortune built in post-Soviet Russia — and he would go on to found **Georgian Dream**, the party that has governed Georgia for over a decade, and to serve as the country's **Prime Minister**. He is, without exaggeration, the most powerful private individual in the country, and remains the *éminence grise* of Georgian politics long after leaving office.
+Through his **Cartu Foundation**, he put — in the phrase used by Rugby Australia's account of the Georgian game — "the equivalent of **£80 million** into Georgia rugby," and built "**14 high-performance centres** across the country." The money was aimed at **infrastructure rather than operational costs**: not salaries, not the national team's running expenses, but grounds, buildings, gyms, the physical plant of a sport.
 
-*(A necessary honesty here: Ivanishvili is a deeply contested figure in Georgian public life, and his influence over the country's institutions — including, as you'll see, its rugby union — is precisely what many Georgians criticise him for. I'm telling you what he did for the sport, not offering a verdict on the man.)*
+Read that against the previous generation and the scale of it is almost comic. Fifteen years before, the national team's scrum training equipment had been agricultural machinery lying in a field. Now there were fourteen purpose-built high-performance centres in a country of under four million people. There is nothing else like it in this book. Wales built its game on a coalfield's wages; England's on the gate receipts of industrial towns; Argentina's on clubs that walked out of football. Georgia's was, to a degree no other country here approaches, **built by one man's chequebook.**
 
-**Inspired by Georgia's performances at the 2007 World Cup**, Ivanishvili started the **Cartu Foundation.**
+### What the money bought, and what it could not
 
-And the Cartu Foundation has since put the equivalent of **£80 million** into Georgian rugby.
+What it bought was dominance of everything Georgia was allowed to enter.
 
----
+Georgia won the **European championship** — the competition immediately below the Six Nations, containing Romania, Spain, Portugal, Russia — for the first time in **2001**, and from 2006 they won it almost every year. (The exact total is reported inconsistently across sources and is left uncounted here; the pattern is not in doubt.) They qualified for **every World Cup**, and at each one they were a little harder to play. At **RWC 2011** they were drawn in Pool B with Argentina, England, Scotland and Romania. At **RWC 2015** they went a stage further again — Pool C, **two wins and two defeats**, beating **Tonga 17–10** at Kingsholm and then Namibia, and losing only to New Zealand and Argentina, each by thirty points or more.
 
-### What eighty million pounds buys
+The Tonga match carried a record. Georgia's scrum-half that day was **Vasil Lobzhanidze**, born 14 October 1996, and at **18 years and 340 days** he became the **youngest player ever to appear in a Rugby World Cup** — a mark Guinness World Records still holds him for. Sixteen years after Georgia had been knocked out of a World Cup by Tonga in a repechage, a Georgian teenager beat them in one.
 
-Not salaries. Not a professional league. Not a franchise.
+### Gorgodze
 
-**Fourteen high-performance centres, built across the country.**
+The generation had a face, and it belonged to the back-row forward captaining the side that day.
 
-*Across the country.* Not in Tbilisi. Not a single flagship facility in the capital that everyone has to travel to. **Fourteen**, distributed nationally — which is a deliberate and remarkable choice, and it tells you exactly what kind of rugby nation Georgia understands itself to be.
+**Mamuka Gorgodze** — a man of 195 centimetres and 118 kilograms, which is roughly the physical specification the whole chapter has been describing since Shukhuti — played sixteen years of international rugby, from **2003 to 2019**, won **75 caps** by World Rugby's count, and appeared at **four World Cups**. He made **168 appearances for Montpellier** between 2005 and 2014, then **110 for Toulon**. He captained Georgia at the 2015 tournament, retired, and then answered an injury call to play at a fourth World Cup in Japan in 2019. When he finally stopped, World Rugby described him as a role model for future generations of Lelos players who had "no peers," and the Georgian union thanked him for a "sensational career."
 
-Think about what that means against everything else in this book.
+And in **2015**, with Toulon, he won the **European Rugby Champions Cup**.
 
-Uruguay's entire modern renaissance rests on **one building** — the Estadio Charrúa. Ask a Uruguayan administrator to name the two things that made their rugby and he'll say: failing to qualify for 2011, and being granted the Charrúa. Since then, *everything* has been channelled through that stadium.
+Sit that beside the rest of the generation. The best club competition in Europe was open to Gorgodze, and he won it. The best international competition in Europe was closed to the country he captained, and always had been. A Georgian could hold the biggest trophy in European club rugby in May and go back in the autumn to a national side that was not permitted to play any of the countries whose clubs he had just beaten.
 
-Chile's transformation rests on **one building** — the CARR in La Reina, opened 2023, artificial turf and a 2,900-seat stand, called the **cornerstone** of their long-term development. Before it, they trained on dirt.
+That is the shape of the arrangement, stated as a career rather than an argument.
 
-Georgia built **fourteen.**
+### The door
 
-And that infrastructure — the Georgians say it plainly — forms **the foundation of their development over the past two decades.** **Tornike**, the union's CEO, puts it directly: the Cartu Foundation is still with Georgian rugby, supporting them every time. And he's certain that **as a result of this, they started winning — and winning against Tier One countries.**
+What the money could not buy was a fixture list.
 
-That's the causal chain, stated by the man running the union. **Money → buildings → beating Tier One nations.**
+That is the wall this generation ends against. Georgia could win the second tier of Europe as often as it liked; the reward for winning it was to play the second tier of Europe again the following year. There was no promotion. The **Six Nations** had no relegation and no intention of acquiring any, and the annual argument — that a country beating everyone below it had earned a match against somebody above it — went the same way every time. Four World Cup pool matches every four years remained essentially the whole of Georgia's exposure to Tier 1 rugby, exactly as it had been in 2003.
 
----
+### What this generation leaves behind
 
-### The dominance
+A sport that has been given everything except opponents.
 
-And what follows — the run that begins in these years and stretches on through the next generation — is so lopsided it is almost embarrassing to write down.
+By 2018 Georgia had the facilities, the money, the professional players in France, the World Cup record, the near-permanent European title, and a national team that Tier 1 sides had begun quietly to dread as a fixture — physical, technically excellent at the set piece, and offering absolutely no upside to whoever agreed to play them.
 
-The **Rugby Europe Championship** — the second tier of European international rugby, the competition for everyone the Six Nations won't have.
+It had two problems, and neither was on the field.
 
-Georgia have won it **seventeen times.**
+The first was the locked door: a competitive ceiling imposed from outside, by countries with no obligation to explain themselves. The second was structural and much less discussed at the time — that a national sport standing on **one man's money** is standing on something that can be withdrawn, and that when that man is also the most powerful political figure in the country, the distance between a rugby federation and a government becomes very short indeed.
 
-They won it in **2001**. And then they won it in **2006–08, 2008–09, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2019, 2020, 2021, 2022, 2023, 2024, and 2025.**
-
-Look at that list and find the gap. There is one. **2017.** That is the *only* year since 2006 that Georgia has not won the championship of second-tier Europe.
-
-Alongside it, the **Antim Cup** — the biennial trophy against **Romania**, the old Eastern Bloc superpower whose clubs the Georgians used to tour to in the Soviet days for an education. Georgia has won it **nineteen times**, including a 28–7 hammering in 2021.
-
-The apprentice didn't just catch the master. The apprentice **ate** him.
-
-And underneath the senior side, the depth arrives too: Georgia **hosted the World Rugby U20 Championship in 2017**, and their own U20s finished tenth in it. A player named **Davit Niniashvili** started turning heads in age-grade rugby and would go on to become one of the most electrifying full-backs in the Top 14.
-
-Georgia have qualified for **every single Rugby World Cup since 2003** — six in a row.
-
----
-
-### The soldiers
-
-The coach for much of this period was **Milton Haig**, a New Zealander.
-
-And Haig said something about his players that I think is the truest sentence anybody has ever written about Georgian rugby.
-
-He called them **"soldiers."** He said, repeatedly, that they were probably the **hardest-working group he had ever coached.**
-
-Now — you know exactly where that comes from, because you've read Gen 0.
-
-It comes from **Guria**. It comes from a priest walking out of a church with a sixteen-kilo leather ball stuffed with earth and sand, and a man in a *kabalakhi* firing a shotgun, and three hundred men from two villages burying themselves in a scrum that nobody can see into, for an hour, or three hours, until somebody gets the sun across the creek.
-
-It comes from **lelo burti.** It always did.
-
-Van Heerden had to *invent* the tight-loose and *teach* it to the Argentines. Nobody taught the Georgians how to be in a maul. Their great-grandfathers did that.
-
----
-
-### The trap that's closing
-
-But now — and this is the sting of Gen 5, and you should have seen it coming, because it has happened twice already in this book —
-
-**Look at what all that money did not buy.**
-
-Georgia won seventeen European championships and reached six consecutive World Cups. And the Cartu money was targeted at **infrastructure, not operational costs.** Fourteen buildings, yes. But the union itself still faced familiar, grinding battles with **financial stability**.
-
-And the domestic game? The **Georgia Championship** and the **Georgia Cup** exist. And because most Georgian internationals play in **France**, the quality of the domestic competition **does not come close to matching the popularity of rugby across the country.**
-
-Read that sentence again. It is the exact defect that Claude Saurel's brilliant strategy was always going to produce.
-
-Georgia solved professionalisation by **exporting** it. That was the right call in 1997 — the only call. But thirty years on, it means a nation where rugby is more popular than football in the south, where fourteen high-performance centres stand across the country, where the terraces roar *Lelo, Lelo, Sakartvelo* — **has no domestic league worth watching**, because everybody good is in Pau, or Brive, or Bayonne.
-
-Uruguay built Peñarol. Chile built Selknam. Argentina built the Jaguares and reached a Super Rugby final. Georgia built fourteen gyms and sent everybody to France.
-
-They need a club.
-
----
-
-### And then the union tears itself apart
-
-And here, right at the end of Gen 5, the money's other face shows itself.
-
-The union's presidential elections in **2020–21 turned ugly.**
-
-**Irakli Abuseridze** was elected president in December 2020 — and his appointment was **rejected by the Georgian government**, citing "procedural violations."
-
-In March 2021, **Soso Tkemaladze** — reported to be a **close associate of Bidzina Ivanishvili** — was elected instead, as the **only candidate**.
-
-And there were **violent protests between the supporters of the two men**, over claims of **political meddling.**
-
-Fighting in the streets over the presidency of a rugby union.
-
-That is what happens when a sport's entire infrastructure has been paid for by one man, and that man happens to be the *éminence grise* of the country's politics. The £80 million that built the fourteen centres and produced seventeen European titles came with a **hand on the wheel** — and in 2021 the Georgian rugby public found out exactly whose hand it was.
-
-**Tornike** stepped in as interim president during the crisis before becoming CEO, and oversaw the recovery from the financial difficulties. He describes it as a **terrible period** because of the crisis — but says they overcame it, and that when Tkemaladze was elected in 2021, **everything changed**, and they began negotiating with the government to make it see the whole picture and the true potential of Georgian rugby.
-
-Make of that what you will. I'd only observe that "everything changed once the oligarch's man was installed" is a sentence that can be read in more than one way.
-
----
-
-### What Gen 5 leaves behind
-
-**Eighty million pounds and fourteen buildings.** Distributed nationally, not concentrated in the capital — the most substantial infrastructure investment any Tier Two rugby nation has ever received, and the direct cause, by the union's own account, of Georgia beating Tier One teams.
-
-**Total, crushing dominance of second-tier Europe.** Seventeen championships. Nineteen Antim Cups. Six straight World Cups.
-
-**A world-class pack**, coached by a New Zealander who called them soldiers, and built by a village game older than the Georgian alphabet.
-
-**And a locked door.** Because Georgia has now won everything there is for them to win, and it isn't enough, and it will never be enough, because the only prize that matters — a place in the **Six Nations** — is not awarded on merit and never has been.
-
-They are, in the words of one profile, **one of the world's fastest-growing rugby nations.** Ranked as high as **twelfth** in the world.
-
-And every year, they win the championship of the countries nobody wants to watch, and then go home.
+Both problems came due in the generation that followed.
 
 ## Generation 6: The Locked Door and the Scandal (2019–2026)
 
-There is a door in world rugby, and Georgia has spent this entire generation trying to get through it.
+**19 November 2022. The Principality Stadium, Cardiff.** Seventy-eight minutes gone, and a twenty-one-year-old Georgian fly-half called **Luka Matkava** is standing over a penalty to beat Wales.
 
-Everything in Gen 6 is about that door — the arguments for it, the machinery built to force it, the results assembled to justify it. And then, in March 2026, Georgian rugby did something that may have bolted it shut from the inside.
+Wales had led 12–3 at the break, both tries from **Jac Morgan** inside five minutes of each other, one converted by Rhys Priestland. Since then they have scored nothing at all. On fifty-nine minutes **Alexander Todua** went over for Georgia, **Tedo Abzhandadze** converted, and the margin came down to two.
 
-Let me tell it in order.
+Matkava kicks it. **Wales 12, Georgia 13.** Sky Sports calls it "one of the greatest upsets in international rugby union history" and "the greatest victory in their history" — Georgia beating Wales for the first time, in Cardiff.
 
----
-
-### The problem with winning everything
-
-By 2019, Georgia had won the championship of second-tier Europe fourteen or fifteen times. They had qualified for every World Cup since 2003. They had fourteen high-performance centres, an oligarch's foundation behind them, a pack of forwards a New Zealander called *soldiers*, and a country in whose southern regions rugby is **more popular than football.**
-
-And it bought them **nothing**, because the Six Nations does not admit anybody, ever, on merit. There is no promotion. There is no relegation. The door does not open.
-
-So Georgia had to force the argument on two fronts at once. **Club** and **country**.
+Fifteen years earlier, in Bordeaux, the clock had also read seventy-eight minutes with Georgia four points down and over the line, and Denis Leamy had got his body under the ball. Same minute of the same kind of match, and this time it went the other way.
 
 ---
 
-### The Black Lion
+The generation had not begun well, and it did not stay clean.
 
-The country's structural weakness, remember, was the one that Claude Saurel's brilliant 1997 strategy had *created*: because most Georgian internationals play in **France**, the quality of the domestic championship has never come close to matching the popularity of rugby across the country.
+At **Rugby World Cup 2019** in Japan, Georgia drew Pool D — Australia, Fiji, Wales and Uruguay — and finished with one win from four, a points difference of minus fifty-seven and a single bonus point. Respectable, familiar, and unchanged in shape from 2007: beat the team below you, lose to everyone above.
 
-A nation that adores the sport, and a domestic league nobody would pay to watch.
+Then the union turned on itself.
 
-So the Georgian Rugby Union did something rather magnificent. It **created its own club and went looking for a competition to put it in.**
+### The federation
 
-**The Black Lion.** Union-owned. Built specifically to give Georgian players a professional environment at home — the answer to Peñarol, to Selknam, to the Jaguares, arriving twenty years late but arriving.
+In **December 2020** the Georgian Rugby Union held a presidential election, and **Irakli Abuseridze** — a former Georgia captain, one of the most-capped players the country has produced — won it. On **30 December** the **National Agency of Public Registry** declined to register him, citing "procedural violations." A second attempt collapsed on **24 February 2021**. On **10 March 2021**, **Soso Tkemaladze**, reported to be a close associate of **Bidzina Ivanishvili**, was elected as the only candidate. Supporters of the two sides fought in the street.
 
-And then they went **shopping for opponents**, and the itinerary is one of the strangest in the sport.
+This is the second problem the previous generation left behind, arriving on schedule. A sport built with one man's money, in a country where that man is the dominant political force, does not have an obvious boundary between its federation and its politics. When the election of a rugby president is settled by a state registry agency and produces a single approved candidate, the sport has stopped being a private association in any meaningful sense.
 
-**First**, the **Rugby Europe Super Cup** — the third tier of European club rugby. They won it **twice.**
+### France, and a draw
 
-**Then, in 2022 — the Currie Cup.**
+**Rugby World Cup 2023** was supposed to be the payoff — the first tournament after the win in Cardiff, with a pool containing Wales and Australia and Fiji and, crucially, **Portugal**, a side Georgia had beaten routinely for twenty years.
 
-Read that again. A Georgian club was invited into **South Africa's traditional provincial competition** — the tournament of Northern Transvaal and Western Province, the oldest and most storied domestic competition in world rugby, running since 1889.
+Georgia did not win a match. They lost to Australia, Fiji and Wales, and against Portugal they **drew 18–18**. Played four, won none, drawn one, lost three; points difference minus forty-nine.
 
-A team from Tbilisi. In the Currie Cup.
+The draw was the worst of it. Portugal were the one fixture on the sheet Georgia were expected to take, and failing to take it meant a World Cup with no wins for the first time since 2003 — twenty years of progress, and a pool record indistinguishable from the debut.
 
-*(And there's a rhyme in that which you'll appreciate more than most. In 1964, South Africa sent **Izak van Heerden** to Buenos Aires and gave Argentina its playing identity. In 2022, South Africa opened its oldest domestic competition to Georgia. Twice now, the country that would not open its own doors at home has been the one prepared to open a door for an outsider nobody else would let in.)*
+### Operation Obsidian
 
-**And finally**, the breakthrough that actually mattered: admission into the main European competition system, with an invitation to the **2023–24 EPCR Challenge Cup** — the second tier of continental club rugby, alongside the Top 14 and Premiership sides.
+And then, in March 2026, the reason some of the previous decade had looked the way it did began to come out.
 
-Not a development league. Not a repechage. **The real thing.**
+On **13 March 2026** World Rugby confirmed that "six players and one member of the support personnel" of the Georgian men's team had been charged and sanctioned over "an orchestrated scheme involving recreational drugs and sample substitution," and noted a parallel WADA investigation into the **Georgian Anti-Doping Agency** itself. It declined to say more until the process finished.
 
----
+It finished on **12 May 2026**, and the published outcome is the most severe thing in this book.
 
-### The results that made the argument
+World Rugby described it as **"the most extensive anti-doping investigation ever undertaken in rugby"** — four years long, using targeted player testing and DNA analysis of historical samples. The substitution had run "over an extended period **prior to Men's Rugby World Cup 2023 in France**." Seven people were banned: **Giorgi Chkoidze** six years, **Lasha Khmaladze** three, **Merab Sharikadze** eleven, **Miriani Modebadze** three, **Otar Lashkhi** three, **Lasha Lomidze** nine months, and the team doctor **Dr Nutsa Shamatava** nine years.
 
-And on the international field, the case built itself.
+The **Georgian Rugby Union itself accepted a misconduct charge**, taking a financial penalty and a mandated programme of anti-doping reform and education. And according to Planet Rugby's account of the WADA findings, the investigators had uncovered collusion between members of the state anti-doping agency and an "entourage member" of the national team — the body responsible for catching Georgian athletes working with the people it was supposed to be catching.
 
-Georgia beat **Wales.** Georgia beat **Italy.**
+There is no version of this that reads well, and there is no version in which it is only about Georgia. Sample substitution on this scale requires a doctor, a testing regime that can be steered, and players willing to use both. Every rugby nation in this book has had its own accommodation with the rules — the boot money in English amateur clubs, the shamateurism that ran for a century, the tacit arrangements that let unions look away. What separates this is not the impulse but the machinery: a national anti-doping agency, which exists precisely to be independent of the sport it polices, allegedly working with the team.
 
-Those two sentences are the whole Six Nations debate compressed into six words — because **Italy** has been in the Six Nations since 2000, has finished last more times than anyone can count, and has been beaten by a country that is not allowed to compete for the same trophy. Everything from Gen 5 still held — the seventeen European titles, the six straight World Cups, the pack a New Zealander had called *soldiers* — but now it was all pointed at a single target.
+It also landed on the country with the least room to absorb it. Georgia's entire argument for twenty years had been *let us play the good teams*. The scandal handed every reluctant union a reason to say no that had nothing to do with the merits — and it did so in the same decade Georgia had finally produced the result that made the argument unanswerable.
 
-They were producing a new kind of player to help make the case, too: not just front-rowers, but backs. **Vasil Lobzhanidze**, who at the 2015 World Cup had become the **youngest player ever to appear in a World Cup match**; **Davit Niniashvili**, the electric full-back turning heads in the Top 14; front-rowers signing for **Leicester Tigers.**
+### Where things stood, mid-2026
 
-And in **February 2025**, by reaching a Rugby Europe semi-final, Georgia sealed qualification for **Rugby World Cup 2027** in Australia — a seventh in a row.
+In **February 2025**, by reaching the semi-finals of the Rugby Europe Championship, Georgia qualified for **Rugby World Cup 2027** in Australia — their **seventh consecutive World Cup**, twenty-four years after the debut in the same country, and the first under an expanded twenty-four-team format. They marked it by climbing to **11th** in the World Rugby rankings, equalling their highest ever placing.
 
-Then a new competition arrived to give them a stage: from **2026**, the biennial **World Rugby Nations Cup** — which is why, in **July 2026**, Georgia are in **Montevideo** and **Santiago**, playing **Uruguay** and **Chile**.
+In July 2026 they went to the Americas for the inaugural **World Rugby Nations Cup** and won both matches — **41–34 against Uruguay** at the Estadio Charrúa in Montevideo on the 4th, and **49–22 against Chile** on the 18th, at the new Georgian-style high-performance ground on the hillside at La Reina. Two of this book's chapters, beaten in a fortnight by the third.
 
-Every thread in this book, converging in July 2026.
+So the position in the middle of 2026 was this. Georgia had a World Cup place, a ranking in the low teens, a professional club in **Black Lion**, fourteen high-performance centres, a generation of players in the French leagues, one of the great upsets in the sport's history behind them — and a federation that had accepted a misconduct charge, seven people serving bans of up to eleven years, a state anti-doping agency implicated in the scheme, and still no route into the tournament played every February by the countries next door.
 
----
-
-### And then it all came apart
-
-On **13 March 2026**, World Rugby and the World Anti-Doping Agency published the findings of a major joint investigation.
-
-**Six Georgian internationals and one member of the team's support staff were charged and sanctioned.**
-
-World Rugby's own words: an **orchestrated scheme involving recreational drugs and sample substitution.**
-
-**Five of the six players were found guilty of substituting urine samples.** The sixth has been charged and suspended pending the disciplinary process.
-
----
-
-### How it worked
-
-And the detail is genuinely shocking, because this was not a player with a contaminated supplement. This was a **system.**
-
-The trigger was World Rugby's **athlete passport management programme**, which identified irregularities in urine samples over an extended period **before the 2023 World Cup in France.** World Rugby alerted WADA in **August 2023**, and the two bodies ran parallel investigations — targeted testing, **DNA analysis**, and re-examination of **historical samples** held in long-term storage.
-
-What they found was collusion between the Georgian national team and **Georgia's own national anti-doping agency.**
-
-The **Georgian Anti-Doping Agency (GADA)** — the body whose entire purpose is to catch cheats — was **tipping the players off.**
-
-WADA identified **six GADA sample-collection personnel** by their documented presence at doping controls where substitution occurred: two managers, two Doping Control Officers, and two chaperones. **Manager One** — the only person receiving testing requests from World Rugby — had, in WADA's finding, established a **practice of giving advance notice** of scheduled testing missions to an **"Entourage Member"** of the national team, typically **by text message.**
-
-The Entourage Member would then **forward it into a group chat containing the players and staff.**
-
-A WhatsApp group. Warning the national rugby team when the drug testers were coming.
-
-It goes further. WADA found GADA **did not monitor athletes after notification, and did not witness the passing of urine** — a fundamental breach of testing protocol. The players themselves and the Entourage Member admitted that this **stood in stark contrast to how they were tested abroad.**
-
-At home, nobody watched. Abroad, somebody did.
-
-And there was **tampering**. In two instances, testing missions were conducted **a day earlier than World Rugby had requested, and the date was then falsified** to match the original request. In one of those cases, **Manager One provided false documentation to World Rugby** to explain why a player they'd asked to test could not be tested.
-
-Two of the managers and one of the DCOs **denied everything** when confronted.
-
----
-
-### What was said
-
-WADA president **Witold Banka** did not reach for diplomatic language. He called what has been happening in Georgian rugby **outrageous**, and said it would send **shock waves through Georgian sport and government, as well as through the global game.** He thanked WADA's Intelligence & Investigations team for pursuing it relentlessly, and praised World Rugby's willingness to uncover the facts.
-
-And then he said the thing with the longest shadow: **WADA has lost confidence in GADA**, and **wholesale changes must now be made by the relevant authorities.**
-
-Not the rugby union. The **national anti-doping agency of a sovereign state.**
-
-World Rugby has said it cannot comment further until the full disciplinary process concludes and the sanctions are published — so this story is **not over**, and I'd treat anything beyond the confirmed findings as still moving.
-
----
-
-### What it means
-
-I want to be careful and fair here.
-
-**Six players is not a country.** The Lelos are a squad of dozens; the vast majority have done nothing wrong, and the men in the villages of Guria still shoving a sixteen-kilo ball across a creek have done nothing wrong. Georgia's rise was **not built on this** — it was built on £80 million of infrastructure, fourteen high-performance centres, a French pipeline laid by communists in 1959, and eight centuries of lelo burti. That is all real, and none of it is undone.
-
-**But.**
-
-This is a nation that has spent twenty years arguing, correctly and passionately, that it deserves a seat at the top table, and that the only thing keeping it out is the closed shop of the Six Nations. Every time they beat Italy, the argument got stronger. Every European title made the exclusion look more arbitrary.
-
-And the *counter*-argument that the establishment has always reached for — never quite said aloud — is about **governance**. About whether a country with a rugby union whose presidential election was decided by government intervention and settled with **street violence between rival supporters**, whose entire infrastructure was paid for by the *éminence grise* of national politics, can be trusted with the responsibilities of a Tier One nation.
-
-And in March 2026, WADA announced that **Georgia's own anti-doping agency had been texting its national rugby team to warn them when the testers were coming.**
-
-I cannot tell you what that will cost them, because nobody knows yet — the disciplinary process is still running and the sanctions are unpublished. But I can tell you what it hands to every person who has ever wanted a reason to keep that door shut.
-
----
-
-### Where Georgia stood, in mid-2026
-
-Ranked around **12th–14th** in the world. **Seventeen** European titles. **Six** consecutive World Cups and **qualified for a seventh**, in Australia in 2027. A union-owned club playing in the **Challenge Cup**. Fourteen high-performance centres. A pack of soldiers.
-
-In **Montevideo and Santiago in mid-2026**, playing Uruguay and Chile in the inaugural Nations Cup — two of the nations whose stories run alongside this one, on the same fixture list, in the same competition.
-
-Still not in the Six Nations.
-
-And now carrying a scandal that WADA's own president says will send shock waves through Georgian sport and government.
-
----
-
-### The thesis, held up one last time
-
-This book opened on a suspicion: that rugby was a posh sport that ordinary people didn't take to. And Georgia was supposed to be the case that proved the point could be escaped — the one nation where rugby was **never** elite, never a British import, never confined to a suburb.
-
-And it is that. **A priest, a shotgun, a sixteen-kilo sun, three hundred farmers, and a word — *lelo* — that already meant "try" before anyone in Georgia had ever heard of Rugby School.** No cricket club. No railway. No Grange, no Craighouse, no Carrasco, no Salón Cullen. A polytechnic, a horse-racing track, an Armenian from Marseille, and the French Communist Party.
-
-The most classless rugby culture on earth.
-
-And it turns out that **the absence of a class ceiling is not the absence of a ceiling.** Georgia escaped the problem that has strangled Uruguayan and Chilean and Argentine rugby for a century — and then ran headlong into a different one: money without governance, an oligarch without accountability, an anti-doping agency in a group chat with the team it was meant to be policing.
-
-Institutions make the class. But institutions also make everything **else** — and if you build a rugby nation on one man's fortune and one government's goodwill, you will get exactly the rugby nation those things produce.
-
-Georgia deserves to be in the Six Nations. Georgia has, at this moment, made that the hardest possible argument to win.
+The village game at Shukhuti has been played every Easter through all of it. A sixteen-kilo ball, a priest, a shotgun, and at the end of the afternoon the winners carrying it up to the cemetery to put it on a grave.
 
 ## Sources
 
-- [Swing Lelo: Georgia and Britain’s shared rugby history](https://jonathancampion.com/2021/05/19/georgia-rugby-six-nations-world-cup/) — Jonathan Campion, Eurasian Echoes *(the 12 September 1989 first Test at Kutaisi, Georgia 16–3 Zimbabwe; captain Oleg Liparteliani; fly-half David Dzagnidze scoring all the points; the "Lelo, Lelo, Sakartvelo" chant)*
-- [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *("the nickname of the team, the Lelos, is drawn from an ancient folk sport called Lelo Burti, in which villages do battle over a 16 or 17-kilogram leather ball stitched and sewn together on match day to encapsulate wine-soaked dirt and sawdust")*
-- [Lelo Burti: 11 Tips to Know About Georgia's Oldest Ball Game](https://www.redfedoradiary.com/lelo-burti-game-shukhuti-georgia/) — Red Fedora Diary
+*(Full chapter sources.)*
+
 - [Lelo burti at Shukhuti](https://civil.ge/archives/231988) — Civil Georgia *(Easter Sunday at Shukhuti in Guria; upper and lower village; a heavy leather ball tightly stuffed with dirt; no fixed team size, no referees, no rules)*
-- [Georgia: The Next Big Thing in Rugby Union](https://www.rugby.com.au/news/georgia-the-next-big-thing-in-rugby-union-2024718) — RUGBY.com.au
-- [Six Georgian rugby internationals suspended for doping violations](https://www.france24.com/en/live-news/20260313-six-georgian-rugby-internationals-suspended-for-doping-violations) — France 24
-- [World Rugby statement relating to anti-doping regulation breaches by members of the Georgian Rugby Union senior men’s team | World Rugby](https://www.world.rugby/news/1042846/world-rugby-statement-relating-to-anti-doping-regulation-breaches-by-members-of-the-georgian-rugby-union-senior-mens-team) — World Rugby
-- [Six Georgian rugby players sanctioned under anti-doping rules in urine sample substitution case - The Washington Post](https://www.washingtonpost.com/sports/2026/03/13/georgia-rugby-doping-world-cup/dd4a809a-1ee7-11f1-a29c-fd43da9a479a_story.html) — The Washington Post
-- [Georgia rugby caught in doping scandal as players allegedly swapped urine samples – The Irish Times](https://www.irishtimes.com/sport/rugby/2026/03/13/georgia-rugby-caught-in-doping-scandal-as-players-allegedly-swapped-urine-samples/) — The Irish Times
-- [Georgian rugby rocked by major anti-doping scandal](https://www.rte.ie/sport/rugby/2026/0313/1563300-georgian-rugby-rocked-by-major-anti-doping-scandal/) — RTÉ
-- [Rugby doping scandal: How deep does it run?](https://insidersport.com/2026/03/16/world-rugby-doping-scandal-georgia/) — Insider Sport
-- [How to Attend Lelo Burti, Special Easter Festival in Guria](https://wander-lush.org/lelo-burti-shukhuti-georgia/) — Wander-Lush
-- [In a Georgian Village, Easter Is Celebrated with a Game of Lelo](https://nara.lt/en/articles-en/lelo-burti) — NARA
-- [Tonga v Georgia, Rugby World Cup qualifying, 6 March 1999](https://www.world.rugby/beta/match/2328) — World Rugby (official) *(confirms the date and Teufaiva Stadium, Nuku'alofa; the page renders **no score**)*
-- [Time to re-think World Cup repechage?](https://www.americasrugbynews.com/2015/06/30/forward-thinking-vol-1-iss-3-time-to-re-think-world-cup-repechage/) — Americas Rugby News *("Tonga faced Georgia home and away and, despite losing 28-27 in Tbilisi, advanced to the final." ⚠️ The **37–6** first-leg score asserted in the text is **not** confirmed by any non-Wikipedia source found — see `notes/georgia.md`.)*
-- [New Georgian Rugby Union President Elected Amid Clashes](https://civil.ge/archives/404918) — Civil Georgia
+- [Be brave, be strong: the brutal ancient sport that shaped Georgia](https://www.theroar.com.au/2023/09/06/be-brave-be-strong-the-brutal-ancient-sport-that-shaped-georgia-and-makes-them-a-dangerous-foe-for-wallabies/) — The Roar *(the Lelos nickname drawn from lelo burti; the 16–17 kg ball of wine-soaked dirt and sawdust)*
+- [How to Attend Lelo Burti, Special Easter Festival in Guria](https://wander-lush.org/lelo-burti-shukhuti-georgia/) — Wander-Lush *(the 16 kg ball, the stuffing, the priest's blessing, the grave-placement ritual)*
+- [In a Georgian Village, Easter Is Celebrated with a Game of Lelo](https://nara.lt/en/articles-en/lelo-burti) — NARA *(ball weight and contents; Easter Sunday at Shukhuti; the ball placed on the grave of the most recently deceased)*
+- [Lelo Burti: 11 Tips to Know About Georgia's Oldest Ball Game](https://www.redfedoradiary.com/lelo-burti-game-shukhuti-georgia/) — Red Fedora Diary
+- [Swing Lelo: Georgia and Britain's shared rugby history](https://jonathancampion.com/2021/05/19/georgia-rugby-six-nations-world-cup/) — Jonathan Campion, Eurasian Echoes *(the "Lelo, Lelo, Sakartvelo" chant; the Batumi and Poti stories, explicitly flagged by the author as rumour; the federation dated 1964)*
+- [A history of Russian rugby](https://www.ospreysrugby.com/news/russian-rugby-history) — Ospreys Rugby *(the **1949** ban — rugby declared "a game not relevant to the principles of the Soviet people" under the campaign against cosmopolitanism, treated as bourgeois and incompatible with socialist ideals; the revival after Stalin's death and the **1957 World Youth Games** at the Luzhniki; the RFSU re-established **1967**; the All-Union championship resumed **1968**)*
+- [Georgia possess rich rugby history](https://www.wru.wales/2017/10/georgia-possess-rich-rugby-history/) — Welsh Rugby Union *(the **only** non-mirror source found for the failed attempts of **1928, 1940 and 1948**; carries them in a single uncited line with no names, cities or institutions. ⚠️ The same article dates the federation to **1966** against four sources saying **1964** — weigh accordingly.)*
+- [Georgian rugby, and the link between Newport RFC and AIA Kutaisi RFC](https://blog-nkta.org/georgian-rugby-and-the-link-between-newport-rfc-and-aia-kutaisi-rfc/) — Newport–Kutaisi Twinning Association *("it is claimed" Haspekian taught the game to his Georgian students from the late 1950s into the 1960s; twenty people at a meeting in Tbilisi in **October 1959** to discuss forming a club, producing the Georgian Polytechnic Institute side now known as **Qochebi**; **ten clubs** established between **1958 and 1962** and the Tbilisi Championship set up)*
+- [Georgia — country profile](https://www.therugbyjournal.com/rugby-blog/georgia) — The Rugby Journal *("after a number of false dawns, the first green shoots of rugby's potential were seen in 1959 when a training session was organised at the **Tbilisi Hippodrome** by a university team")*
+- [RedSaint's Total Rugby, Part III](https://www.rugbynetwork.net/main/northampton-saints/s99/st129481/news-redsaints-total-rugby-part-iii) — RugbyNetwork *(Haspekian a **professional cyclist** from Marseilles; the founding session at **a local polytechnic** with about twenty participants; an 81-year-old Jako Haspekian applauded at a Georgia match at the 2007 World Cup)*
+
+- [AIA Kutaisi — palmares and identity](https://www.the-sports.org/rugby-aia-kutaisi-results-identity-equ45406.html) — The-Sports.org *(club founded **1966**; Soviet Union top-flight champions **three times, 1987, 1988 and 1989**, with a second place in **1984**; ten Georgian championships since)*
+
+⚠️ **Deliberately NOT asserted in the text above:** the widely repeated "**15 October 1959**" date and the single fused "racecourse founding scene." No non-mirror source confirms the exact day, and the racecourse and the polytechnic appear in *different* accounts of what are probably *two* events. See `notes/georgia.md`.
+
+- [Georgia — union membership record](https://www.world.rugby/organisation/membership/europe/georgia) — World Rugby (official) *(Georgian Rugby Union; affiliated **Feb 1992**; Full Member)*
+- [34 years since Georgia restored independence — timeline of key events](https://jam-news.net/34-years-since-georgia-restored-independence-timeline-of-key-events-1991-2025/) — JAMnews *(independence restored **9 April 1991**; Gamsakhurdia elected **26 May 1991**; fighting in Tbilisi from December 1991, a two-year civil war, his death at Khibula **31 December 1993**; the Abkhaz war **14 August 1992** to **27 September 1993**, "thirteen months and thirteen days", some **265,000** ethnic Georgians displaced)*
+
+- [Rugby World Cup 2003 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2003/) — RugbyPass *(**Pool C**: England, South Africa, Samoa, Uruguay, Georgia. Georgia **played 4, won 0, drew 0, lost 4**, points difference **−154**, **tries scored 1**, bonus points **0**.)*
+- [Rugby World Cup 2003 — group stage results](https://globalsportsarchive.com/competition/rugby/rugby-world-cup-2003-australia/group-stage/26239/) — Global Sports Archive *(**Georgia 12–24 Uruguay, 28 October 2003**)*
+- [Rugby Europe Championship all-time winners](https://www.florugby.com/articles/13569492-rugby-europe-championship-all-time-winners-heres-a-list) — FloRugby *(Georgia **first won in 2001**; the tally of subsequent titles is listed inconsistently there — treat the total as approximate and do not harden it)*
+
+- [Georgia: the next big thing in rugby union](https://www.rugby.com.au/news/georgia-the-next-big-thing-in-rugby-union-2024718) — Rugby Australia *("the equivalent of **£80 million** into Georgia rugby"; "**14 high-performance centres** across the country"; the funding "targeted at infrastructure rather than the operational costs")*
+- [Rugby World Cup 2007 — results](https://www.worldcup.org.uk/rugby/2007/results.shtml) — worldcup.org.uk *(Georgia's Pool D: **Argentina 33–3 Georgia**, 11 Sep, Lyon; **Ireland 14–10 Georgia**, 15 Sep, Bordeaux; **Georgia 30–0 Namibia**, 26 Sep, Lens; **France 64–7 Georgia**, 30 Sep, Marseille)*
+- [Rugby World Cup 2007 — Bordeaux](https://www.worldcup.org.uk/rugby/2007/bordeaux.shtml) — worldcup.org.uk *(the Ireland match: Georgia's try by **Shkinin**, conversion and penalty by **Kvirikashvili**; Georgia holding territory and possession for the closing twenty minutes; on **78 minutes Denis Leamy** getting his body under the ball with the TMO ruling **"held up"**)*
+- [Rugby World Cup 2007 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2007/) — RugbyPass *(Pool D table: Georgia **won 1, lost 3**, points difference **−61**, **5 tries**, 1 bonus point)*
+- [Rugby World Cup 2015 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2015/) — RugbyPass *(Pool C: Georgia **2 wins, 2 defeats**, points difference **−70**, 5 tries, 8 points; New Zealand and Argentina beat Georgia, Namibia and Tonga each "by a margin of at least 29 points")*
+- [Youngest player to appear in a Rugby Union World Cup (male)](https://www.guinnessworldrecords.com/world-records/82217-youngest-player-to-appear-in-a-rugby-union-world-cup-male) — Guinness World Records *("The youngest player to appear in a Rugby Union World Cup is **Vasil Lobzhanidze** (Georgia, b. **14 October 1996**), who played for Georgia vs Tonga, aged **18 years 340 days**, at **Kingsholm in Gloucester**, England, UK, on **19 September 2015**.")*
+
+- [Rugby World Cup 2019 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2019/) — RugbyPass *(Pool D: Australia, Fiji, Georgia, Uruguay, Wales. Georgia **won 1, lost 3**, points difference **−57**, 9 tries, 1 bonus point)*
+- [Wales 12–13 Georgia — Los Lelos pick up historic Test victory at the Principality Stadium](https://www.skysports.com/rugby-union/news/12321/12750251/wales-12-13-georgia-les-lelos-pick-up-historic-test-victory-at-the-principality-stadium-in-cardiff) — Sky Sports *(**19 November 2022**; Jac Morgan's two tries, 20th and 24th minutes, one converted by Rhys Priestland; half-time **Wales 12–3**; **Alexander Todua**'s try on 59 minutes converted by **Tedo Abzhandadze**; **Luka Matkava**'s penalty on **78 minutes**; "one of the greatest upsets in international rugby union history", "the greatest victory in their history", "beating Wales for the first time")*
+- [Rugby World Cup 2023 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2023/) — RugbyPass *(Pool C: Australia, Fiji, Georgia, Portugal, Wales. Georgia **0 wins, 1 draw, 3 losses**, points difference **−49**, 7 tries; the **18–18 draw with Portugal**)*
+- [World Rugby statement relating to anti-doping regulation breaches by members of the Georgian Rugby Union senior men's team](https://www.world.rugby/news/1042846/world-rugby-statement-relating-to-anti-doping-regulation-breaches-by-members-of-the-georgian-rugby-union-senior-mens-team) — World Rugby (official, **13 March 2026**) *("six players and one member of the support personnel" charged and sanctioned; "an orchestrated scheme involving recreational drugs and sample substitution"; a parallel WADA investigation "relating to the Georgian Anti-Doping Agency"; no names or sanction lengths given, the process then incomplete)*
+- [World Rugby sanctions six players, a team doctor and the Georgia Rugby Union over historical urine sample substitution cases](https://www.world.rugby/news/1043909/world-rugby-sanctions-six-players-a-team-doctor-and-the-georgia-rugby-union-over-historical-urine-sample-substitution-cases) — World Rugby (official, **12 May 2026**) *(**"the most extensive anti-doping investigation ever undertaken in rugby"** — four years, targeted testing and DNA analysis of historical samples; substitution "over an extended period prior to Men's Rugby World Cup 2023 in France"; bans: **Giorgi Chkoidze 6 years, Lasha Khmaladze 3, Merab Sharikadze 11, Miriani Modebadze 3, Otar Lashkhi 3, Lasha Lomidze 9 months, Dr Nutsa Shamatava 9 years**; the **Georgian Rugby Union accepted a misconduct charge**, a financial penalty and a mandated anti-doping reform programme)*
+- [World Rugby issue statement as Georgia rocked by anti-doping sanctions](https://www.planetrugby.com/news/world-rugby-issue-statement-as-georgia-rocked-by-anti-doping-sanctions) — Planet Rugby *(reports that WADA's investigative unit "unearthed collusion between members of the Georgian Anti-Doping Agency (GADA) and an 'Entourage Member' of the Georgian national team" — this detail is **not** in World Rugby's own statements and is attributed in the text accordingly)*
+- [Georgia equal rankings high as quartet confirm Men's RWC 2027 qualification](https://www.world.rugby/news/984400/georgia-equal-rankings-high-as-quartet-confirm-mens-rwc-2027-qualification?lang=en) — World Rugby (official) *(Georgia qualified for their **seventh consecutive** World Cup, 24 years after their debut, by reaching the Rugby Europe Championship semi-finals; climbed to **11th** in the rankings, equalling their best; RWC 2027 expands to **24 teams**)*
+- [Georgia and Spain secure Men's Rugby World Cup 2027 qualification](https://www.world.rugby/news/983870/spain-and-georgia-qualify-for-mens-rugby-world-cup-2027) — World Rugby (official)
+- [New Georgian Rugby Union president elected amid clashes](https://civil.ge/archives/404918) — Civil Georgia *(the 2020–21 presidential crisis: Abuseridze's election, the **National Agency of Public Registry**'s refusal to register him citing "procedural violations", the failed attempt of 24 February 2021, and Tkemaladze's election on 10 March 2021)*
 - [MP from Georgian Dream satellite party elected president of Rugby Union](https://oc-media.org/mp-from-georgian-dream-satellite-party-elected-president-of-rugby-union/) — OC Media
-- [World Rugby Nations Cup 2026 — official tournament site](https://www.world.rugby/nations-cup/en) — World Rugby (official)
-- [World Rugby Nations Cup 2026 — round one preview](https://www.world.rugby/nations-cup/en/news/1045110/nations-cup-r1-preview) — World Rugby (official)
+
+- [Gorgodze: "I loved every single minute on the pitch"](https://www.world.rugby/news/569718/gorgodze-disfrute-cada-minuto-de-jugador?lang=en) — World Rugby (official) *(Mamuka Gorgodze's "16-year international career, from 2003-19", **75 tests**, **four Rugby World Cups**; "the former Montpellier man"; a second retirement in 2019 after answering an injury call for the World Cup in Japan; "a role model for future generations of Lelos players" with "no peers"; the Georgian union's "Thank you MAMUKA for your sensational career")*
+- [Mamuka Gorgodze — fiche joueur](https://itsrugby.fr/joueurs/mamuka-gorgodze-3463/) — It's Rugby (French database) *(195 cm, 118 kg, troisième ligne; **Montpellier 168 appearances, 2005–2014**; **Toulon 110 appearances**; **European Rugby Champions Cup with Toulon, 2015**; Top 14 finals 2011, 2016, 2017)*
+- ["J'avais l'impression d'y être déjà allé des centaines de fois": Dimitri Yachvili raconte son lien avec la Géorgie](https://agurarmenie.com/2021/11/14/javais-limpression-dy-etre-deja-alle-des-centaines-de-fois-dimitri-yachvili-raconte-son-lien-avec-la-georgie/) — Agur Arménie *(the paternal grandfather who "arrived in France during the Second World War", fought at Stalingrad, escaped a German camp and settled in Corrèze; the father **Michel**; **"Mon frère Grégoire a joué pour la Géorgie lors de la Coupe du monde 2003"**, based at Manly while France stayed at Bondi; Dimitri's choice of France and his regret at missing the 2007 France–Georgia fixture)*
+
+⚠️ **Gorgodze cap-count discrepancy — do not "correct" it.** World Rugby's own tribute says **75 tests**; the French database It's Rugby lists **52** (counting from a 2007 debut); other reports give 71–72. The text uses **World Rugby's figure** as the governing-body count and does not reconcile the others.
+
+⚠️ **Gen 6 gaps — NOT asserted in the text:** the reported **28–19 win over Italy in July 2022** could only be traced to Wikipedia and is **left out**, which understates the Cardiff generation slightly. Whether the **18–18 Portugal draw was Georgia's first World Cup draw** is not confirmed and is not claimed. **Black Lion**'s founding year and competition record could not be sourced acceptably, so the club is named without detail. Georgia's **final placing in the 2026 Nations Cup** and their **November 2026 fixtures** were not found; the snapshot therefore stops at the July window. **Merab Sharikadze**'s playing role is not described, as his captaincy could not be confirmed from an acceptable source.
+
+⚠️ **Gen 5 gaps — NOT asserted in the text:** **Mamuka Gorgodze — GAP NOW CLOSED (August 2026)**, via World Rugby's own tribute and the French database It's Rugby. He has his own section in Gen 5. Georgia's **European championship title total** is reported inconsistently (16 on FloRugby, 17 elsewhere, with a garbled year list) and is therefore **left uncounted** in the prose. Individual **RWC 2011** results were not found. No source was found linking Ivanishvili's **premiership** to the rugby funding, so no such link is drawn.
+
+⚠️ **Gen 4 gaps — NOT asserted in the text:** no source could be found naming **which Georgian players went to which French clubs** in 1997–2006, or how many. Saurel's strategy is documented in principle (Campion) and not in detail, and the prose reflects that. Also unfound: **Ilia Zedginidze**'s details; the individual RWC 2003 scores other than the Uruguay match; and the **Yachvili family connection — GAP NOW CLOSED (August 2026)** from a French-language source, and written into Gen 4 as "Two brothers".
+
+⚠️ **Still NOT asserted:** the day of the first Test. **"12 September 1989" remains unconfirmed** — Campion gives only "September 1989", *The Rugby Journal* only the year, and no non-mirror source found states the date. The Kutaisi **venue name** is likewise unfound.
+
+⚠️ **Dropped from the old chapter's Gen 2 as unsourceable:** a **1967 visit by a French trade-union selection**; a **1988 Tbilisi sevens tournament** presented as the turning point that opened the way to independent Georgian rugby; **Dynamo Tbilisi** finishing second in a first Soviet championship of 1966; and the claim that the **Soviet Cup was introduced in 1976**. None could be traced to a source that will bear weight. Also unfound: any named Georgian USSR international, any cap figures, and any account of rugby's domestic standing in Soviet Georgia. See `notes/georgia.md`.
 
 # Romania
 

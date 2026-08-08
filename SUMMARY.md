@@ -173,37 +173,46 @@ DESIGN, the per-generation briefs and the audit trail.)
   unverified as Lemoine quotes** — never attribute them.
 
 ### 4. Georgia — `04-georgia.md`  (Gen 0–6)
-🚧 **THE ONLY CHAPTER NOT YET REWRITTEN — this is the next job.** Still in the book's original
-conversational voice (1,052 lines; 8 authorial "I" intrusions and 5 reader-commands, vs 0–3 in the
-rewritten chapters). It also has the **thinnest fact base in the repo** — `notes/georgia.md` is 5.4 KB
-/ 14 links, **5 of them Wikipedia (36%)**, against Romania 0/14, Scotland 0/30, Wales 0/80, England
-1/108 — and it has **no REWRITE DESIGN block**. So Georgia needs the SA/Romania-standard **no-wiki
-re-verification pass first**, then a design block, then the gen-by-gen redraft in `drafts/04-georgia.md`.
-**The sourcing half is now DONE** (August 2026): all 6 wiki/Grokipedia citations are replaced or
-deleted, a `REWRITE DESIGN` block is in `notes/georgia.md`, and the fact base is rebuilt and audited.
-What remains is the **gen-by-gen redraft into `drafts/04-georgia.md`**.
-- **Two traps the research turned up — do not write these as fact:**
-  - **Haspekian's first session.** The notes used to record "15 Oct 1959, Tbilisi racecourse, 20
-    attendees ✓" as verified. It is not. The only source for *15 October* and *the racecourse* is a
-    **Geocities mirror**; rugbynetwork.net independently confirms 1959 and ~20 attendees but places
-    it at **a polytechnic, not the racecourse**. Safe to assert: **1959**, **~20 attendees**,
-    **Jacques "Jako" Haspekian, an Armenian from Marseille**. The day and the venue are not.
-  - **The 1999 Tonga repechage first leg "37–6"** is unconfirmed outside Wikipedia (see §6).
-- **"Lelo" as the word for a try**: the *nickname* and the *chant* are now properly sourced; the flat
-  linguistic claim is not. Phrase it as the nickname's origin, not a dictionary fact.
-- **Structural problems to fix in the redraft:** 60+ FAQ-shaped `###` subheads ("What is happening
-  here", "How old", "What was said"); a thesis-first ending literally titled **"The thesis, held up
-  one last time"**; and two generation ranges that don't hold — **Gen 0 "Antiquity–1927"** is a
-  category, not a range, and **Gen 1 (1928–1963)** puts its centrepiece (Haspekian) in its last five
-  years.
-- Gen 6 has strong verified material the current chapter predates — **"Operation Obsidian"**, the
-  13 Mar 2026 sanctions and the GADA tip-off scandal, with World Rugby's own statement among the
-  sources. Note the investigation **began in 2023**, not 2026.
-
-Rugby maps onto the folk mass-ball game **lelo**, giving it deep popular roots.
-- Gen 0 origins · Gen 1 · Gen 2 the Soviet "machine" · Gen 3 **Kutaisi 1989** / independence · Gen 4
-  strategy · Gen 5 the **billionaire** patron (Ivanishvili) · Gen 6 "the problem with winning
-  everything" — dominates Tier 2 but locked out of Tier 1.
+The **control case**: the one country in this book where rugby did *not* arrive as a foreign
+gentleman's possession, because the ground was not empty when it landed. (**Rewritten August 2026** —
+the last chapter to get the treatment; 1,051 → 474 lines, 50 `###` subheads → 24, 8 first-person
+intrusions → 0, 6 Wikipedia/Grokipedia citations → 0. `notes/georgia.md` holds the REWRITE DESIGN, the
+per-generation briefs and the audit trail.)
+- **Gen 0** Lelo Burti (**c.1200–1928**) · **Gen 1** The Armenian from Marseille (1928–1963) ·
+  **Gen 2** The Soviet Machine (1964–1988) · **Gen 3** Independence and Ruin (1989–1996) · **Gen 4**
+  The French Connection (1997–2006) · **Gen 5** The Billionaire (2007–2018) · **Gen 6** The Locked Door
+  and the Scandal (2019–2026), closing on a dated mid-2026 snapshot.
+- **Generation ranges fixed:** Gen 0 was "Antiquity–1927", a category rather than a range. Both bounds
+  are now real — **c.1200** is Rustaveli's *Knight in the Panther's Skin*, the earliest datable
+  reference to *burtaoba*; **1928** is the first failed attempt to introduce organised rugby.
+- **The two set-pieces, and do not break the pair:** Gen 5 opens at **Bordeaux, 2007, 78 minutes** —
+  Georgia four points down, over the Irish line, Denis Leamy getting his body under the ball, TMO "held
+  up". Gen 6 opens at **Cardiff, 19 Nov 2022, 78 minutes** — Luka Matkava's penalty beating Wales
+  13–12. Same minute, opposite outcome, fifteen years apart. Both are exact from the sources.
+- **Traps for future editors — deliberately absent, do NOT reinstate:**
+  - **"15 October 1959" and the "Tbilisi racecourse" founding scene.** The only source for the day and
+    the racecourse is a **Geocities mirror**. Two better accounts describe *different* events — a
+    session at the Hippodrome (*The Rugby Journal*) and a twenty-man club-forming meeting at the
+    **Georgian Polytechnic Institute** producing **Qochebi** (Newport–Kutaisi; RugbyNetwork). Safe:
+    **1959**, **~20 attendees**, **Jacques "Jako" Haspekian**, an Armenian from Marseille and a
+    professional cyclist.
+  - **"12 September 1989"** — Campion gives only "September 1989" for the first Test (Kutaisi, Georgia
+    **16–3** Zimbabwe, **Liparteliani** captain, **Dzagnidze** scoring all the points).
+  - **The 1999 Tonga repechage first leg "37–6"** — World Rugby's official match page gives the date
+    and Teufaiva Stadium but renders **no score**.
+  - The **1967 French trade-union XV**, the **1988 Tbilisi sevens** (the old chapter's turning point —
+    nothing confirms it happened), and the **July 2022 win over Italy** (Wikipedia-only).
+- **The European championship title total is deliberately uncounted** and this is settled, not
+  deferred: **Rugby Europe's own championship page carries no honours list at all.** State the **2001**
+  first win and the post-2006 pattern; give no total.
+- **Gorgodze's caps: use World Rugby's 75.** It's Rugby says 52 (counting from a 2007 debut), other
+  reports 71–72. The chapter uses the governing body's own figure and flags the discrepancy.
+- **The 1949 Soviet ban is the key to Gen 1.** Rugby was declared "a game not relevant to the
+  principles of the Soviet people" under the campaign against cosmopolitanism. The old chapter framed
+  1928/1940/1948 as an inexplicable triple failure; each simply landed where there was no room for it.
+- **The doping case has CONCLUDED** — outcomes published **12 May 2026**, seven banned (up to 11 years,
+  incl. the team doctor at 9), and the **Georgian Rugby Union itself accepted a misconduct charge**.
+  The GADA-collusion detail is **Planet Rugby's**, not in World Rugby's own statements.
 
 ### 5. Romania — `05-romania.md`  (Gen 0–6)
 The **"Oaks" (Stejarii).** The communist state embraced rugby **because it was amateur** — inverting
@@ -325,7 +334,7 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
-- 🚧 **Georgia** is the last chapter still in the original voice — see §5.4. **Next job.**
+- ✅ **Georgia is done** (August 2026) — all nine chapters are now in the rewritten voice.
 - **Ireland** is referenced in cross-comparisons but has no chapter.
 - **Sourcing: the book is now at ONE Wikipedia citation**, down from **20** before the August 2026
   no-wiki pass. The survivor is deliberate — a records page in Romania cited *against itself* as
