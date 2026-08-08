@@ -178,3 +178,33 @@ exception in Romania. Retrieval ran as a Haiku Explore subagent; every URL was r
 Two sources here are JS-rendered or bot-blocked and cannot be checked with `curl` alone:
 glasgowwarriors.org-style SPAs need WebFetch, while **The Critic** and **The Roar** return 403 to
 WebFetch and need `curl` with a browser User-Agent. Use both tools before concluding a page is empty.
+
+### GEN 0 — DRAFTED (August 2026), `drafts/04-georgia.md`
+- **Range resolved: `Generation 0: Lelo Burti (c.1200–1928)`.** The old "Antiquity–1927" was a
+  category, not a range. Both bounds are now real and defensible:
+  - **c.1200** = Rustaveli's *The Knight in the Panther's Skin*, which has the characters playing
+    *burtaoba*. A dated text is the earliest thing that can actually be pointed at.
+  - **1928** = the **first failed attempt to introduce organised rugby** (the old chapter's own Gen 1
+    hinge: 1928, 1940, 1948). Gen 0 therefore ends the moment somebody first tries. Gen 1's start is
+    unchanged, so the spine is intact.
+- 151 lines → **67**; 8 `###` subheads → **2**; the FAQ headings ("What is happening here", "How it is
+  played", "What it means", "How old", "The word that gives the game away") are gone, their content
+  carried in prose.
+- Sources named in flow: *Civil Georgia* for the no-rules/no-referee structure, *The Roar* quoted
+  directly for the Lelos nickname and the ball, Rustaveli for the dating, Campion for the chant and
+  for the Batumi/Poti rumours (flagged as rumour in the text, as he flags them).
+- **Guards honoured:** "eight thousand years" is named as tourist literature and dismissed in the
+  same sentence; the solar-worship/Sumerian etymology is reported as *what Georgians say about their
+  own game*, explicitly "not worth reporting as history"; and the section states outright that **lelo
+  burti did not evolve into rugby union** — the relationship is an affinity, not a lineage.
+- The unreliable **"Tbilisi racecourse, 15 October 1959"** does not appear. Gen 0 closes on the 1928
+  attempt without pre-empting Haspekian.
+- Cross-country motif threaded: Montevideo/Buenos Aires/Valparaíso got the game from British
+  commerce and spent a century asking whether it could escape the enclave; Georgia is the case where
+  that question never applies, because the ground was not empty.
+
+⚠️ **FOR GEN 1 — CHECK BEFORE WRITING:** the three failed attempts (**1928, 1940, 1948**) are the
+hinge of Gen 1 and are **not in this fact base**. The old chapter says of them: *"That is all we know.
+The record is that bare… No names have survived in the accessible sources."* Given what this pass
+found elsewhere, treat those three dates as **probably wiki-derived until sourced**. Verify them
+before building a generation on them.
