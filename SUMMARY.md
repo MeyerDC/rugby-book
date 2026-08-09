@@ -335,7 +335,13 @@ combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
 - ✅ **Georgia is done** (August 2026) — all nine chapters are now in the rewritten voice.
-- **Ireland** is referenced in cross-comparisons but has no chapter.
+- **Ireland** — 🚧 **STEP 0 DONE (August 2026), awaiting author approval of the generation map.**
+  `notes/ireland.md` holds a proposed **Gen 0–6** outline, a verified fact base for Gen 0–3 and 5–6,
+  a chapter design block, and eight flagged open questions. It would be the **tenth** chapter,
+  `10-ireland.md` (verified: `combine_book.py`'s `sorted()` places a `10-` prefix after `09-`).
+  The spine is that **rugby is the only major Irish team sport organised on an all-island basis** —
+  the IRFU's remit predates the 1921 partition and it chose to stay whole. **Gen 4, the Troubles
+  (1970–1994), is entirely unresearched** and is the main gap.
 - **Sourcing: the book is now at ONE Wikipedia citation**, down from **20** before the August 2026
   no-wiki pass. The survivor is deliberate — a records page in Romania cited *against itself* as
   negative evidence for the debunked unbeaten streak, and labelled as such in its Sources block.
