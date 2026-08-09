@@ -328,3 +328,59 @@ See [[rugby-book-workflow]].
 **NEXT: Gen 2 (1921–1947)** — partition; the IRFU choosing to stay whole; **Ravenhill funded in the
 early 1920s**; Ulster's two of five selection seats; the 1930s anthem protocol; and the **1929 IRFU ban
 on Sunday rugby**, which lands directly on the Limerick mechanism established in Gen 1.
+
+---
+
+## GEN 2 — DRAFTED (August 2026). 212 lines of prose cumulative (Gen 0–2).
+
+**⚠️⚠️ CORRECTION TO THESE NOTES — the Ravenhill "unity motive" is NOT established.**
+An earlier entry above recorded the IRFU buying Ravenhill as "an institutional act of holding the
+island together, in concrete." That over-reached, and the club's own history contradicts it:
+- **Ulster Rugby (official):** "An area of **nine acres** was eventually found in the Ravenhill area
+  and bought for **£2380** in **1923**", and the stated reason is purely practical — "the game's
+  increasing popularity then meant that an alternative ground was needed to meet the public demand for
+  rugby." **No unity motive appears on the page.**
+- **Cormac Moore** frames the same funding decision as part of accommodating the north after partition.
+- A search summary claiming the ground was bought "to maintain the unity of Irish rugby union and the
+  linkages between North and South" at a cost of **£2,300** is **unsupported** — wrong figure, and a
+  motive the club does not give. **Not used.**
+→ The draft presents **both accounts** and declines to choose, noting that a union wanting to keep
+Belfast inside the tent and a union that had outgrown its Belfast ground would have acted identically.
+The *effect* is what the chapter rests on: within two years of the border the north had a
+national-standard stadium paid for from Dublin, and something to lose by leaving.
+
+**Verified and used:**
+- **Ravenhill**: nine acres, **£2,380**, **1923**; architects **Henry Hobart** and **Samuel Heron**;
+  inaugural fixture "An Interprovincial derby against Leinster on **Saturday 12th January 1924**
+  (kick-off, 2.45pm)", **Ulster 14–6 Leinster**. Used as the generation's cold open.
+- **Ulster's two of five seats** on the international selection committee (Moore) — the 1874 grievance
+  answered in the constitution rather than in goodwill.
+- **The anthem protocol**: no anthem and an IRFU flag at first; by the 1930s *Amhrán na bhFiann* in the
+  Republic, *God Save the King* in Northern Ireland, **none away**.
+- **⭐ THE 1929 SUNDAY BAN — the generation's cost side.** The IRFU tried to ban Sunday rugby in 1929,
+  driven by **"violent outbursts in junior cup ties between Limerick clubs"** *and* **"protestations
+  from the religious section of the Ulster branch"** — producing "a classic instance of the Cork and
+  Limerick fraternities riling against the parent body." Munster had been playing Sundays "in complete
+  disregard of the **Sabbatarian** demands of leading officials in Dublin and Belfast."
+  → The draft makes the point plainly: the mechanism that had opened the game to working men in
+  Limerick (Gen 1) was legislated against by an all-island body in which northern Protestant opinion
+  carried weight. **The single union that held the island together was also the union in which
+  Limerick's dockers were outvoted. Both are the same institution.** ⚠️ Whether the ban was ever
+  enforced is unresolved; the draft says only that Munster "largely went on playing on Sundays."
+- **Near-misses:** **1926**, unbeaten into the last match with the Grand Slam at stake, **lost to Wales
+  at Swansea**; **1927**, sole defeat **8–6** to England.
+- **⭐ WWII — one union, two belligerencies.** De Valera declared neutrality (Feb 1939); Northern
+  Ireland went to war and Belfast was bombed. So the IRFU spanned belligerent and neutral members —
+  a position no other union in this book occupies. A **Red Cross match, 16 December 1939** at Richmond,
+  England and Wales v Scotland and Ireland. The **CWGC records eight Irish rugby internationals dead**
+  in the war, incl. **Cdr Charles Hallaran** (21 Mar 1941, trying to rescue a fellow sailor) and
+  **Capt Robert Alexander** (Sicily, 19 Jul 1943); **Robert Blair Mayne** of the SAS is noted among the
+  internationals who served.
+
+**FOR GEN 3 (1948–1969), already in hand:** the **1948 Grand Slam** — "inspired by tactician and
+fly-half **Jack Kyle**, they beat France in Paris, England at Twickenham and a **6–0** win over
+Scotland at **Lansdowne Road**. They clinched their first Grand Slam in the Five Nations with a win
+against Wales at **Ravenhill, Belfast**." Plus the **1950 tricolour incident**, the **1953–54 strike
+threat** resolved by moving all internationals to Dublin, and Moore's "unity… briefly threatened in the
+1950s." **The Belfast pattern to land: first Triple Crown 1894 in Belfast; first Grand Slam 1948 at the
+ground the union had bought there in 1923.**
