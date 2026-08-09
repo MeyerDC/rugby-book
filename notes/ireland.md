@@ -169,3 +169,50 @@ football?" (5 Sept 2023) — [link](https://www.irishnews.com/opinion/columnists
 6. **Cross-references to place:** Scotland's two-club ceiling and Wales's regional cull (both chapters
    already name Ireland's four provinces); England's schism, as the counter-case of a union that *did*
    split; Limerick alongside Tucumán and the Borders.
+
+---
+
+## GEN 0 — DRAFTED (August 2026), `drafts/10-ireland.md`. 64 lines of prose.
+
+**The find that gave the generation its shape: the 1874 split was about SELECTION, not religion or
+the national question.** The Irish Football Union's founding meeting (Dublin, **14 December 1874**)
+included Dublin University, Wanderers, Lansdowne, Bray, the Engineers, Portora Royal School, Dungannon
+Royal School and Monaghan — and **North of Ireland FC, the most prominent Belfast club, was not
+represented.** Belfast's answer was the **Northern Football Union of Ireland**, formed, per the World
+Rugby Museum, to "make sure that northern clubs be proper represented in the side."
+→ Belfast did not form a rival *country*; it formed a rival *union*, in order to be properly
+represented in **one** Ireland team. Both parties took a single Irish side as the thing worth arguing
+over. That is the generation's point and the whole chapter's tee-up: the union is **seven years older
+than the border**, and its founding quarrel was already about the terms of inclusion.
+
+**Trinity's archive is the best single source in the chapter so far** (`dufc.ie/history` — 403s
+WebFetch, **use curl with a browser User-Agent**):
+- **1854** foundation gives "a substantial claim to be the oldest rugby club in continuous existence";
+  **Guy's Hospital FC** (London, **1843**) is older "but went into abeyance."
+- The pre-code game: "The club had no rules, written or unwritten. They just played and ran with the
+  ball, no touch line, no goal lines." **Eton rules** used out of courtesy against military sides.
+- **Charles Burton Barrington**, captain **1867–1870**, "the father of Irish rugby." He and **Wall**
+  drew up laws in Botany Bay in early **1868**, taking Rugby School as the model — though "Rugby
+  [School] itself though had no written rules! They were traditional, like the British Constitution or
+  the Secrets of Free Masonry."
+- **17 October 1868**: "we have forwarded to the principal leading clubs the rules by which we play."
+  A college posted a rulebook round the country so it would have somebody to play. Institution-building,
+  not sport — and the direct Irish parallel to the England chapter's 1845 written rules.
+
+**The debut (World Rugby Museum):** **15 February 1875**, the Oval, **3,000 spectators**, **nine
+Trinity players**, captain **George Stack**, and the northern selections "most of whom had never met or
+played with their Dublin teammates before." Ireland the **third** country to play international rugby.
+
+**⚠️ CONFLICT LEFT OPEN — do not resolve without a third source.** RugbyFootballHistory has **twenty a
+side** and implies 12 Leinster / 8 Ulster; the World Rugby Museum's breakdown (9 Trinity + 6 North of
+Ireland) implies fifteen. Internationals were 20-a-side until 1877, so the twenty is very likely right
+and the museum's list is probably partial — but the draft carries only what both agree on. Also open:
+**Wanderers' founding year** (1869 vs 1870; the club's own site says 1870) — the text says "at the end
+of the decade."
+
+**Early clubs for Gen 1:** NIFC **1868**, Wanderers **1869/70** (founded by ex-DUFC men), Queen's
+University **1869**, Lansdowne **1873**, Dungannon **1873**, Co. Carlow 1873, UCC 1874, Ballinasloe 1875.
+
+**NEXT: Gen 1 (1879–1920)** — the Connacht branch of **1886** sealing the quadripartite structure on
+cultural provinces; the Championship from 1883; and the **Limerick divergence** (Garryowen's Sunday
+fixtures from the late 1880s). Mine **Liam O'Callaghan, *Rugby in Munster*** for the Limerick material.
