@@ -216,3 +216,115 @@ University **1869**, Lansdowne **1873**, Dungannon **1873**, Co. Carlow 1873, UC
 **NEXT: Gen 1 (1879–1920)** — the Connacht branch of **1886** sealing the quadripartite structure on
 cultural provinces; the Championship from 1883; and the **Limerick divergence** (Garryowen's Sunday
 fixtures from the late 1880s). Mine **Liam O'Callaghan, *Rugby in Munster*** for the Limerick material.
+
+---
+
+## ⭐⭐ LIMERICK — O'CALLAGHAN MINED (August 2026). This is the chapter's best material.
+
+**Source:** Liam O'Callaghan, ***Rugby in Munster: A Social and Cultural History*** (Cork University
+Press, 2011) — "the first book-length treatment of rugby in Ireland", covering the 1870s to the
+professional era, with **violence, masculinity, class and politics** as its named themes. Accessed via
+a [detailed summary](https://dodonovan.com/?p=352) and an academic review in
+[*Études Irlandaises*](https://journals.openedition.org/etudesirlandaises/10407?lang=en).
+
+### ⭐ THE NATURAL EXPERIMENT — two cities, one province, one sport, opposite class outcomes
+- **"Rugby in Limerick was a game of the inner city, while in Cork it had a clear suburban bias."**
+- **The mechanism, stated plainly:** early Garryowen figures "helped to organise **Sunday (junior)
+  rugby in the city from the late 1880s**", which "**facilitated the expansion of rugby in the parishes
+  and working class areas of Limerick's inner city**." Saturday was a working day. Sunday rugby is what
+  put the game within reach of men who worked.
+- **⭐ AND THE CONTROL CASE — Cork, where it did not happen, and why:** "Sunday rugby could have taken
+  off in Cork too **if there had been Godfathers in the senior clubs to organise it; but there were
+  not**, and a golden opportunity to broaden the game across the social classes of Cork was missed."
+  In Cork "rugby was and is mainly played by members of the professions living in the wealthy suburbs."
+  → **This is the book's whole thesis as a controlled experiment.** Same sport, same province, same
+  decade, same British-derived origin. One city had organisers who put on Sunday fixtures; one did not.
+  A century later their class characters are still opposite. *Not the founders — the fixture list.*
+- The Limerick organisers were "**an improbable trio of men of widely different education, ethos and
+  political inclinations**", and the Sunday tournaments gave working-class males unprecedented sporting
+  opportunity while building "**masculine and parish identity**". (Get the trio's names if possible.)
+- **O'Callaghan's own summary judgement, quotable:** "The generalization which sees rugby in Ireland as
+  a homogenously middle-class pursuit save for a degree of **proletarian infiltration in Limerick**, is
+  broadly true" (p. 65). He concedes the rule *and* the exception — use both halves.
+- **⭐ CROSS-CHAPTER GOLD:** Limerick developed "a very specific rugby culture characterised by
+  competitiveness and toughness which was **unique in Ireland but could also be observed in Northern
+  England and France**." That is a direct line to the **England** chapter's North (league country) and
+  to France. Thread it.
+- **⭐ THE BACKLASH — the IRFU banned Sunday rugby in 1929**, in response to violence and religious
+  objection. Limerick's junior game was "**a rugby culture much at odds with the professed ideals of
+  contemporary Muscular Christians and gentleman amateurs**." The governing body moved against the
+  precise mechanism that had broadened the sport. (**1929 sits in Gen 2** — carry it forward.)
+- Cork–Limerick relations: "unity of purpose between the two main rugby centres of Cork and Limerick
+  was at best **an occasional flag of convenience**."
+
+### ⭐ THE GAA BAN — a force the chapter must handle, and handle from inside
+The Gaelic Athletic Association's ban on members playing "foreign games" (rugby among them) is the
+other great institutional pressure on Irish rugby. O'Callaghan's treatment is exactly the register the
+design block requires — **no villains, evolutionary, contested**:
+- "the attachment of politico-cultural significance to different sports in Ireland was an
+  **evolutionary, contested process**, the success of which was **both regionally and chronologically
+  varied**" (p. 143);
+- the ban "attained **extreme ideological importance only in the decades after independence**", despite
+  originally being intended to boost GAA interest.
+→ Do **not** write the GAA as an antagonist. Write it as an institution whose meaning changed over
+time, unevenly by region — which is also why Limerick could be a rugby city in a nationalist country.
+
+⚠️ **To chase:** the names of the "improbable trio"; Garryowen's founding date; Young Munster's and
+Shannon's founding dates and their working-class associations; and whether the 1929 Sunday ban was
+enforced or evaded.
+
+---
+
+## GEN 1 — DRAFTED (August 2026). 140 lines of prose cumulative (Gen 0–1).
+
+**Verified and used:**
+- **Connacht branch 1886** completes the quadripartite structure, built on **cultural provinces**
+  "rather than the country's administrative areas, like the 26 counties in the Republic and six
+  counties in Northern Ireland" (Berkley Center, Georgetown). Ulster the *province* has nine counties;
+  Northern Ireland has six. The game's internal geography never acknowledged the border.
+- **The shaky start** (World Rugby Museum): Ireland "lost **nine consecutive matches between 1883 and
+  1887**" and "won only **3 of their first 16 matches between 1883 and 1889**."
+- **⭐ FIRST TRIPLE CROWN, 10 March 1894, BELFAST** — England beaten at Blackheath, Scotland on
+  24 February, Wales in Belfast. Of the eighteen players used, **thirteen from three Dublin clubs**
+  (Wanderers, Dublin University, Bective Rangers) and **five from Ulster**; captain **Edmund Forrest**.
+  The 1894 pack "proved too strong for the other countries."
+  → **Note the pattern for Gen 3:** the first Triple Crown (1894) *and* the first Grand Slam (1948)
+  were both sealed **in Belfast**.
+- **⭐ THE CLASS/RELIGION LINE, quotable:** "In the 1890s, rugby is primarily a game for the **Protestant
+  middle class**, the only Catholic in Edmund Forrest's 1894 team is **Thomas Crean**" — who later won
+  a **Victoria Cross** in the Boer War (World Rugby Museum). One man carries the whole composition of
+  the era.
+- Further Championships **1896** and **1899**, then **no Triple Crown for 49 years**, until 1948.
+- **WWI** (O'Callaghan, open-access paper): "the response of the IRFU was much in keeping with that of
+  their English counterpart: fixtures were cancelled and clubs were encouraged to urge enlistment among
+  players and members" — but "though rugby players in significant numbers signed up, the motivations
+  for enlistment were **complex and contingent upon multiple factors, many of which may not have been
+  rugby-related**." Exactly the from-inside register the design block wants.
+- **The dead** (Irish Post): Basil Maclear (May 1915, "a gunshot wound to the neck in battle"), Ernest
+  Deane (Sept 1915), Robbie Smyth (1916), **Jasper Brett** (Feb 1917 — played in the 1914 "Battle of
+  Balmoral" against Wales, survived Gallipoli, died by his own hand in Dublin), George McAllan (1918),
+  William John Beatty (1919).
+  ⚠️ **Count unresolved:** the Irish Post names **six**; another account gives **nine** dead as a result
+  of the war, seven on active service. The draft reports both rather than choosing.
+
+**Structure of the section:** cold open on Belfast 1894 → the four provinces and why the map matters →
+the class composition → **Limerick/Cork as the book's controlled experiment** → the GAA ban handled
+from inside → 1896/1899 and the 49-year drought → the war → handoff to partition.
+
+## ⚠️⚠️ RETRIEVAL AGENTS ARE NOW A NET NEGATIVE ON THIS CHAPTER — RECOMMEND STOPPING
+The Gen 1 agent ran **105 tool calls over 12 minutes** and returned **zero usable sources**, reporting
+NOT FOUND on every item — including declaring **O'Callaghan's work inaccessible** and
+**rugbyfootballhistory.com's Irish page a 404**. Both claims are false: while it was running, the main
+thread fetched and quoted the O'Callaghan summary, the *Études Irlandaises* review, the World Rugby
+Museum, the Triple Crown account and the Irish Post gallery, and had already fetched
+`rugbyfootballhistory.com/ireland.html` successfully for Gen 0.
+Across the Georgia chapter and this one, **every decisive fact has come from hand-searching.** The
+agent did do one useful thing: it correctly identified and refused a **prompt injection** — a dead
+rugby domain now redirecting to a GoDaddy parking page. Worth knowing that some Irish club domains
+(garryowenfc.com, youngmunsterrfc.ie, corkuniversitypress.ie) are dead or parked.
+**Recommendation to the author: drop the subagent step for this chapter and retrieve by hand.**
+See [[rugby-book-workflow]].
+
+**NEXT: Gen 2 (1921–1947)** — partition; the IRFU choosing to stay whole; **Ravenhill funded in the
+early 1920s**; Ulster's two of five selection seats; the 1930s anthem protocol; and the **1929 IRFU ban
+on Sunday rugby**, which lands directly on the Limerick mechanism established in Gen 1.
