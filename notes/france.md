@@ -564,3 +564,52 @@ had reached for the same sport's *amateur and ruralist values*.
 **1999 Twickenham semi-final** (France beat New Zealand — one of the great matches); the Grand Slams of
 **1997, 1998, 2002, 2004**; **hosting RWC 2007** and the semi-final defeat; and **Albert Ferrasse**'s
 long autocracy at the FFR, which is the direct counterweight to Gen 5's autogestion.
+
+---
+
+## GEN 6 — DRAFTED (August 2026). 458 lines of prose cumulative (Gen 0–6). Seven of eight.
+
+**⭐ THE COLD OPEN, verified (World Rugby Museum):** **31 October 1999, Twickenham.** "The All Blacks
+started strongly with **two first half tries from Lomu** setting up a **24-10** half time lead." Then
+"**France … were inspired. Three tries in quick succession floored New Zealand**", with **Lamaison**
+adding "**two dropped goals and two penalties**" to his first-half try; tries by **Dominici**,
+**Dourthe** and **Bernat-Salles** (the last off **Olivier Magne**'s work); **33 points to 7** after the
+break; **43–31**. The museum's verdict: "**the most spectacular comeback in World Cup history**."
+Then France lost the final. *"That, too, is the pattern."*
+⚠️ Minor conflict: the museum has the 24–10 established **by half-time**, Planet Rugby **46 minutes in**.
+The draft gives the scoreline without fixing the minute.
+
+**⭐⭐ FERRASSE — the deliberate counterweight to Gen 5's autogestion, and the section's argument.**
+FFR president **23 years, 1968–1991**; former **Agen** second row; **SU Agen** president 1965–85; **IRB
+president 1979–87**; **Legion of Honour**; **credited with originating the idea of a Rugby World Cup in
+the 1970s**; and "known for **resisting the evolution of his sport toward professionalism**".
+→ The draft holds all of it at once: **the man who resisted professionalism longest invented the
+tournament that made it inevitable**; he led a federation whose clubs had recruited by finding players
+jobs since the 1920s and had been **expelled for exactly that in 1931**; and he governed for 23 years in
+precisely the manner Béziers made its name by rejecting — "**one personality**, usually a patron".
+**The judgement:** *"French rugby produced, in the same era, the most radically self-governing club in
+world rugby and one of its longest personal autocracies. Both were French. Neither cancels the other."*
+
+**⭐ 2007 PAYS BACK TO CHAPTER 2.** France hosted, and **Argentina beat them 17–12 in the opening match
+at the Stade de France** — the same Argentine side ch. 2 calls **"the team that didn't exist"**, third
+in the world with no professional league at home. France then beat **New Zealand 20–18** in the
+**Cardiff** quarter-final, lost the semi **14–9 to England** and **Wilkinson**, and lost to Argentina
+again in the third-place match. *A home World Cup that began and ended with defeats by Argentina and
+contained one of the great victories of the modern game in between.*
+
+**1995:** the game went open, ending the amateur fiction France had maintained since the USFSA's
+foreigners' licence — through the jobs at the tannery, the expulsion, and Ferrasse's resistance.
+
+⚠️ **The four Grand Slams "between 1997 and 2004" are given as a count and a span, NOT as a year list.**
+The individual years (1997, 1998, 2002, 2004) were not verified this pass. **Source them or keep the
+span.**
+
+**NEXT: Gen 7 — The Richest League in the World (2008–2026).** The chapter's close. In hand but needing
+re-sourcing: the **Canal+ deal of €696.8m for the Top 14 and ProD2, 2027–2032**; the **€259,000 average
+salary** across 520 players, five times ProD2 and a third above the Premiership and Japan; the **2011
+final** (France lost 8–7 to New Zealand); the **2023 home World Cup** and the **29–28** quarter-final
+defeat by South Africa; the **2025 Six Nations** won **35–16 v Scotland**, a first title since 2022; the
+**Laporte** conviction of December 2022 (two years and €75,000 over €180,000 from **Mohed Altrad**),
+his resignation in January 2023 and the **appeal listed for 9–25 September 2026**. Still needed: a
+**dated mid-2026 snapshot**, and — the thread this chapter owes the rest of the book — **what the Top
+14's money does to Georgia, Romania, Fiji and the Pacific**, which is where Section 5 begins.

@@ -402,9 +402,63 @@ And in the first World Cup it had lost the final.
 
 The tournament that beat them was about to change everything about the sport — including, within eight years, the amateur pretence that France had been quietly ignoring since the 1920s.
 
+## Generation 6: Open (1988–2007)
+
+**31 October 1999. Twickenham.** France are losing a World Cup semi-final to New Zealand by **24–10**, and **Jonah Lomu** has scored both of the All Black tries.
+
+There is no reason to expect what follows. In the World Rugby Museum's account, "France, who would never have experienced such overwhelming support inside the stadium before, were inspired. **Three tries in quick succession floored New Zealand.**" The fly-half **Christophe Lamaison**, who had scored in the first half, added **two drop goals and two penalties**; inside about twenty-four minutes **Christophe Dominici**, **Richard Dourthe** and **Philippe Bernat-Salles** crossed the New Zealand line, the last of them a breakaway finished off work by the flanker **Olivier Magne**.
+
+France score **thirty-three points to seven** after the interval and win **43–31**. The museum's verdict is unambiguous: **the most spectacular comeback in World Cup history**.
+
+They then lost the final to Australia. That, too, is the pattern.
+
+---
+
+The years between the first World Cup and the second one France hosted are the years in which the sport stopped pretending, and France — which had never pretended very hard — had to work out what it actually believed.
+
+### Ferrasse
+
+For most of the run-up, French rugby was one man.
+
+**Albert Ferrasse** was president of the **FFR for twenty-three years, from 1968 to 1991**. A former second row for **Agen**, he had run **SU Agen** from 1965 to 1985 before ascending to the federation, and he was president of the **International Rugby Board from 1979 to 1987**. He is credited with originating, in the 1970s, the idea of a **Rugby World Cup**. He was decorated with the Legion of Honour. And he was known, to the end, for **resisting his sport's evolution towards professionalism** — a stance that made him enemies.
+
+Every part of that is worth holding at once.
+
+The man who resisted professionalism longest was the man who had done most to invent the tournament that made professionalism inevitable. He led a federation whose clubs had been recruiting players by finding them jobs since the 1920s, and whose national side had been expelled for exactly that in 1931. And he governed for twenty-three years in precisely the manner that Béziers had made its name by rejecting: **one personality**, in Astre's phrase, on whom the whole thing depends.
+
+French rugby produced, in the same era, the most radically self-governing club in world rugby and one of its longest personal autocracies. Both were French. Neither cancels the other.
+
+### Open
+
+The game went open in **1995**, and the amateur fiction that had been maintained in France since the USFSA's foreigners' licence — through the jobs at the tannery, through the expulsion, through Ferrasse's long resistance — simply ended.
+
+What it ended into was not modesty. Within a decade the French championship would be the wealthiest domestic league in the sport, and that is the subject of the next generation.
+
+On the field the period was the most consistently successful France had ever had. Between **1997 and 2004** they won **four Grand Slams**, alongside the World Cup run of 1999, and were for the first time a side that arrived at tournaments expected to win rather than hoped to entertain.
+
+### 2007
+
+Then they hosted a World Cup, and it went wrong in the most French way available.
+
+**Opening night, Stade de France.** **Argentina beat the hosts 17–12**, a superb defensive performance that crashed the party in the first match of the tournament. This book has met that Argentine side already: it is the one from chapter two, the team that finished third in the world while their country had no professional league at all — *"the team that didn't exist."*
+
+France recovered. In the quarter-final, in **Cardiff**, they beat **New Zealand 20–18** — an upset ranked among the greatest in the tournament's history, and the second time France had ended an All Black World Cup at the knockout stage.
+
+And then, in the semi-final, **England won 14–9**, steered by **Jonny Wilkinson**. Argentina beat France again in the third-place match.
+
+A home World Cup that began and ended with defeats by Argentina, and contained in the middle one of the great victories of the modern game. Beauty and calamity in a single tournament, which is what this chapter has been describing since the Bois de Boulogne.
+
+### What this generation leaves behind
+
+A professional sport, a rich league forming underneath it, and a federation that had spent a century arguing with itself about money and had now lost the argument permanently.
+
+By 2007 France had four Grand Slams in eleven years, the most spectacular comeback in World Cup history, a quarter-final win over New Zealand on home soil, and no World Cup. It had buried the amateur pretence that had been contradicted by its own clubs since the 1920s.
+
+What came next was the money — more of it than any other rugby country has ever had — and what that money would do to France, and to everybody who sold players into it.
+
 ## Sources
 
-*(Gen 0–5 sources — the full chapter list will be assembled once all eight generations are drafted.)*
+*(Gen 0–6 sources — the full chapter list will be assembled once all eight generations are drafted.)*
 
 - Pascal Charitas, ["La combination au Havre Athletic Club (1872-1914) : les « origines » du football-rugby ?"](https://www.persee.fr/doc/etnor_0014-2158_2011_num_60_1_1833) — *Études Normandes*, 2011, vol. 60 no. 1, pp. 15–28, via Persée *(la combination as a mixed sport combining rugby and association football, "a game practice without pre-defined conditions" as to rules or field; the HAC's statutes marginalising rugby and football separately **between 1872 and 1894** in favour of the hybrid, read as **an institutional strategy to prevent the club dividing into sections**; the epigraph quoting **Jean-Pierre Bodis** — "rugby arrives in France at Le Havre in 1872. **This is false!**" — and crediting **Paris (1877)** and **Bordeaux (1892)** instead; the article's emphasis on cultural transfer rather than mythologised "firsts")*
 - [1892 : le premier Titre de Champion de France de Rugby](https://www.memosport.fr/1892-le-premier-titre-de-champion-de-france-de-rugby.html) — Mémosport *("Le premier Championnat de France officiel a lieu le **20 mars 1892**"; Racing and Stade Français; "Disputée sur la pelouse du **stade de Bagatelle dans le bois de Boulogne**"; "le Racing … décroche la victoire **4 points à 3**"; "arbitrée par le **Baron Pierre de Coubertin en personne**"; "le Stade Français rate de peu une pénalité égalisatrice lors de la dernière minute de jeu")*
@@ -433,6 +487,15 @@ The tournament that beat them was about to change everything about the sport —
 - [Philippe Sella](https://ellisrugby.com/france-rugby-philippe-sella/) — Ellis Rugby *(Agen; **Jacques Fouroux** on him — "the **strength of a bull but the touch of a piano player**")*
 - [Solving the French rugby paradox](https://www.rugbypass.com/plus/solving-the-french-rugby-paradox/) — RugbyPass *(the British "***rugby de tradition***" of "discipline, fair play, and the Corinthian spirit" against the southern "***rugby de terroir***" rooted in "**impetuous emotion, instinct and liberté**" which "rejected authority and rigid rules")*
 - [1968 France Grand Chelem](https://ellisrugby.com/1968-france-grand-chelem-five-nations/) — Ellis Rugby *(France's **first Grand Slam, 1968**, captain **Christian Carrère**, won "without having a head coach, **in self-management**")*
+
+- [Classic match report — France 43-31 New Zealand](https://worldrugbymuseum.com/from-the-vaults/international-rugby/classic-match-report-france-43-31-new-zealand) — World Rugby Museum *("The All Blacks started strongly with **two first half tries from Lomu** setting up a **24-10** half time lead"; "**France, who would never have experienced such overwhelming support inside the stadium before, were inspired. Three tries in quick succession floored New Zealand**"; "**Fly-Half Christophe Lamaison added to his first-half try by kicking two dropped goals and two penalties**"; and the verdict — "**the most spectacular comeback in World Cup history**")*
+- [Greatest games: France stun the All Blacks in the 1999 World Cup](https://www.planetrugby.com/greatest-games-france-shock-all-blacks-in-1999-world-cup) — Planet Rugby *(**31 October 1999**, Twickenham; France **33 points to 7** after the interval; the tries by **Christophe Dominici**, **Richard Dourthe** and **Philippe Bernat-Salles** inside 24 minutes, the last following work by flanker **Olivier Magne**)* ⚠️ **Minor conflict:** the museum has New Zealand's 24–10 lead established **by half-time**; Planet Rugby has it reached **46 minutes in**, after Lomu's second try. The draft states the scoreline without fixing the minute.
+- [Albert Ferrasse, un monument du rugby](https://www.europe1.fr/sport/Albert-Ferrasse-un-monument-du-rugby-327252) — Europe 1, and [Décès d'Albert Ferrasse](https://www.franceinfo.fr/sports/rugby/coupe-du-monde/deces-de-l-ancien-president-de-la-federation-francaise-de-rugby-albert-ferrasse_4407851.html) — franceinfo *(president of the FFR for **23 years, 1968–1991**; a former second row for **Agen** and president of **SU Agen 1965–1985**; president of the **IRB 1979–1987**; credited with originating the idea of a **Rugby World Cup** in the 1970s; decorated with the **Legion of Honour**; and "known for **resisting the evolution of his sport toward professionalism**, a stance that made him some enemies")*
+- [RWC #17: Argentina tear up the script in the 2007 opener](https://www.irishtimes.com/sport/rugby/international/rwc-17-argentina-tear-up-the-script-in-2007-opener-1.2337435) — *The Irish Times*, with [Rugby World Cup 2007 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2007/) — RugbyPass *(**Argentina 17–12 France** in the opening match at the **Stade de France**; France beating **New Zealand 20–18** in the **Cardiff** quarter-final; **England 14–9 France** in the semi-final, steered by **Jonny Wilkinson**; Argentina beating France again in the third-place match)*
+
+⚠️ **Gen 6 — France's four Grand Slams "between 1997 and 2004" are asserted without a per-year source.** The individual years (1997, 1998, 2002, 2004) were **not** verified in this pass, so the draft gives the count and the span rather than listing them. **Source the years before print, or keep the span.**
+
+⚠️ **Gen 6 — the argument the section is built on.** Ferrasse is the deliberate counterweight to Gen 5's autogestion: the man who **resisted professionalism longest** also **originated the World Cup idea** that made professionalism inevitable; he led a federation whose clubs had recruited by finding players jobs since the 1920s and had been **expelled for exactly that in 1931**; and he governed for 23 years in precisely the manner Béziers made its name by rejecting — "**one personality**, usually a patron". The draft's judgement: *"French rugby produced, in the same era, the most radically self-governing club in world rugby and one of its longest personal autocracies. Both were French. Neither cancels the other."*
 
 ⚠️ **Gen 5 — the Palmié case, and how it is sourced.** In **1978** the Béziers second row **Michel Palmié** was **suspended for life** for striking **Armand Clerc** of Racing, leaving Clerc blind or almost blind in one eye; his international career was ended under pressure from the British unions; he later became a director of the FFR. This is **corroborated across French rugby media** ([Le Rugbynistère](https://www.lerugbynistere.fr/news/le-top-20-brutes-xv-france-journaliste-gallois-2702151755.php), [Ruck'n'Maul](https://rucknmaul.wordpress.com/2011/02/20/le-top-10-des-francais-les-plus-effrayants/), finalesrugby.fr) but **not from an official disciplinary record or an archival source**. It is a serious claim about identifiable people; the draft states it plainly and without embellishment, and **an official or contemporary press source should be found before print**.
 
