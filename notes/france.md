@@ -239,3 +239,60 @@ presented as "the standard answer" and immediately contested; **Racing Club de F
 **France's first international (1 Jan 1906 v New Zealand, 38–8)** — currently unsourced; the 1906
 England match (World Rugby Museum, already held); the **FFR's founding, 11 October 1920**, and
 **Frantz Reichel**; and the first signs of the game moving south.
+
+---
+
+## GEN 1 — DRAFTED (August 2026). 106 lines of prose cumulative (Gen 0–1).
+
+**Source note: both Gen 1 anchors are the Bibliothèque nationale de France (Gallica).** Both **403
+WebFetch** and were fetched with **`curl` and a browser User-Agent** — record that for later passes.
+
+**⭐⭐ THE FACT I DID NOT EXPECT — France's first XV, 1 January 1906, included two players of colour.**
+Gallica, verbatim: "**Autre particularité de taille, la France ce jour-là compte deux joueurs de couleur
+André Vergès et le Guyanais Georges Jérôme.**" Plus **two foreigners**: the English full-back **William
+Crichton** of Le Havre and the American second row **Allan Muhr** of Racing.
+→ Set against **South Africa**, where the state spent the century using this sport to build a race, and
+against the **Home Unions**, then policing their own game to keep working men out of it. France's first
+international side had an Englishman, an American and two men of colour, and the record treats it as a
+line of colour rather than a controversy. **Do not over-claim it** — the draft states the fact and the
+contrast and stops there.
+
+**The rest of the 1906 match (Gallica):** Parc des Princes; the **Originals** "virevoltent ballon en
+main, relancent inlassablement et marquent beaucoup d'essais", **31 wins from 32** before Paris; the
+December 1905 press notice "**Ce match, dans lequel les nôtres n'ont aucune chance de vaincre**, est un
+évènement considérable dans tous les milieux sportifs"; France beaten **38–8, ten tries to two**, tries
+**Cessieux** and **Dufourcq**, conversion **Pujol**; captain **Henri Armand**. ⚠️ **Name conflict:**
+Gallica has **Armand**, other accounts **Amand** — the draft follows Gallica.
+
+**⭐ THE MONEY WAS THERE BEFORE THE CROWDS (Gallica), and it sets up the 1931 expulsion:**
+"les clubs français fleurissent pour recruter les meilleurs joueurs contre une **rémunération
+garantie**. La FFR est démunie face à ce fléau." The USFSA's answer was **"une licence pour les
+étrangers afin d'empêcher le commerce de talents"** — a foreigners' licence to stop the trade in talent.
+→ **The contrast the draft draws with ch. 7:** the RFU met the same problem in the 1880s with a
+**doctrine** — an amateur creed written into the laws that drove twenty-two clubs out in 1895. The
+USFSA met it with **a paperwork control on imported players**. The RFU was defending a definition of
+*who ought to play*; the USFSA was trying to stop clubs outbidding each other.
+
+**⭐ THE FFR, founded broke and already losing (Gallica):** emancipated from the USFSA in October 1920;
+"**La FFR existe officiellement depuis le 11 octobre 1920**", succeeding the USFSA's rugby committee,
+under **Frantz Reichel** (who left the SCUF presidency in 1919 to chair a provisional committee amid the
+USFSA's "déliquescence"). And verbatim: "**Si elle est sans le sou dans un premier temps, cette toute
+jeune Fédération cherche à maintenir l'idée de l'amateurisme ; elle doit pourtant lutter contre le
+« fléau » qui gangrène le rugby des clubs : l'argent.**"
+
+**⭐ THE HANDOFF, in the BnF's own words — the whole Gen 2 thesis, pre-stated:**
+"Dans les années 30 … **On frôle les 600 clubs alors qu'ils étaient au nombre de 241 à la création de la
+FFR**." And: "**En dessous de la Loire, le rugby s'implante vigoureusement, chaque village a son club,
+chaque club a son derby.**" And: "**Le rugby n'est plus seulement l'affaire des cols blancs du Racing ou
+du Stade français, c'est aussi celui des territoires et des petits entrepreneurs.**"
+→ Gen 1 ends: *The white collars kept the federation. They lost the sport.*
+
+**Still unsourced, therefore NOT asserted:** Stade Français's eight championships 1893–1908; Reichel's
+own playing record; Racing (1882) and Stade Français (1883) founding years (still "the early 1880s");
+the USFSA's founding on 20 November 1887 (still "from 1887").
+
+**NEXT: Gen 2 — Up the Garonne (1921–1930).** The material is already strong (Bordeaux 1888 and the
+wine traders; Pociello's "wildfire"; the mines, farms, leatherworks and livestock markets; Dine's
+"catalogue of southern grievances"). Still needed: **Toulouse's five titles of the 1920s**; the
+**violence** record before 1931 beyond Pradié and the 1930 Wales match; and **Philip Dine's book**,
+which remains the chapter's most important unmined source.
