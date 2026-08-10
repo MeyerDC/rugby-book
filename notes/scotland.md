@@ -25,7 +25,7 @@ Progress:
       2021 Twickenham 11–6 (first since 1983); Calcutta Cup 7 of 9 (2018–2026); Duhan record scorer
       (2023 Try of the Year, 2024 hat-trick); heritage/residency recruitment (Tuipulotu/Greenock
       granny, SA-born props); Glasgow URC 2024 (21–16 Bulls, Loftus); 3 straight RWC pool exits
-      (2011/2019/2023); never won Six Nations (best 3rd); 2026 3rd, Ireland 41–21 (12th in a row);
+      (2011/2019/2023); never won Six Nations (best 3rd); 2026 3rd, Ireland 43–21 (12th in a row);
       two-club ceiling vs Ireland's four provinces; mid-2026 cutoff toward RWC 2027.
 
 ---
@@ -1149,8 +1149,8 @@ two-club base can't produce enough) — a modern institutional adaptation of the
   generation that never reached a World Cup knockout. (Sources: Scotsman; autumn-internationals.)
 - **The ceiling — Six Nations.** **Never won the Six Nations** (since Italy joined in 2000); best
   finish **third** (four times). **2026:** finished **third** again; on the final day **Ireland beat
-  Scotland 41–21** — a **12th consecutive** Irish win over the Scots — denying a first title/Triple
-  Crown in 36 years. France won the 2026 title. (Sources: ESPN Ireland 41–21 Scotland; Wikipedia
+  Scotland 43–21** — a **12th consecutive** Irish win over the Scots — denying a first title/Triple
+  Crown in 36 years. France won the 2026 title. (Sources: ESPN Ireland 43–21 Scotland; Wikipedia
   2026 Six Nations; Rugby World.)
 - **Structural contrast to thread:** Ireland (four provinces) became world No. 1 with Grand Slams;
   Scotland (two clubs) kept hitting the same lid. The two-club trap as a talent ceiling.

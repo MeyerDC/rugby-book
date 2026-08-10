@@ -569,7 +569,7 @@ RWC 2027 Pool D with **Scotland and Uruguay** — two more chapters of this book
 - **Leinster ×4** (URC): 2009 (Leicester, Murrayfield), 2011 (Northampton, from 22–6 down), **2012
   (Ulster 42–14, an all-Ireland final)**, 2018 (Racing 92, Bilbao).
   → With Ulster 1999 and Munster 2006/2008, **the four provinces have won seven European Cups**.
-- **Mid-2026 close:** 2026 Six Nations **runners-up** with the **Triple Crown**, sealed **41–21 over
+- **Mid-2026 close:** 2026 Six Nations **runners-up** with the **Triple Crown**, sealed **43–21 over
   Scotland**; **Japan 36–20** in Newcastle; **New Zealand 40–21 at Eden Park, 18 July 2026** (six tries;
   the All Blacks' **53rd** straight there); **Dan Sheehan** captain for the third time; ranked **third**
   going in, **fourth** after. **RWC 2027 Pool D: Portugal (4 Oct, Sydney), Scotland (10 Oct, Perth),
@@ -588,7 +588,7 @@ controlled experiment: **"In Limerick they still play on Sundays."**
 
 ### ⚠️ VERIFY BEFORE PROMOTION (all flagged in the draft's Sources block)
 1. **The 2026 Triple Crown scoreline.** A search summary says **43–21**; ESPN and the already-published
-   `chapters/09-scotland.md` both say **41–21**. The draft uses **41–21 so the two chapters agree** —
+   `chapters/09-scotland.md` both said **41–21**, from an ESPN headline. **RESOLVED: the score was 43–21** (Six Nations official, Sky Sports); both chapters corrected —
    confirm against a match report and **correct both together** if wrong.
 2. **1948 try-scorers** (Mullan, Daly, Williams) — newsletter.co.uk 403s both fetch methods; from
    search extracts only.
