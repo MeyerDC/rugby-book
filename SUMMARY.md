@@ -314,6 +314,55 @@ Tucumán). Runs the 7-gen tier.
 
 ---
 
+### 10. Ireland — `10-ireland.md`  (Gen 0–6)
+**The institution that refused to divide when the country did.** The IRFU's remit predates the 1921
+partition by forty-two years, and after partition it kept a single team for all thirty-two counties.
+Rugby is the **only major Irish team sport organised on an all-island basis**. (Written from scratch
+August 2026 — the book's tenth chapter and its first new country since Scotland; 496 lines of prose.
+`notes/ireland.md` holds the fact base, the chapter design block and the verification log.)
+- **Gen 0** Dublin University and the Two Unions (1854–1879) · **Gen 1** The Four Provinces (1879–1920)
+  · **Gen 2** Partition, and the Union That Did Not Split (1921–1947) · **Gen 3** Ravenhill, and the
+  Anthem Wars (1948–1969) · **Gen 4** The Troubles (1970–1994) · **Gen 5** Professionalism and the
+  Provinces (1995–2008) · **Gen 6** The Best Team in the World, and the Quarter-Final (2009–2026),
+  closing on a dated mid-2026 snapshot.
+- **⭐ THE BOOK'S ONLY CONTROLLED EXPERIMENT (Gen 1).** Liam O'Callaghan's *Rugby in Munster* gives two
+  cities in one province, same sport, same decade, same British-derived origin, diverging permanently
+  on one variable. **Limerick** got **Sunday junior fixtures from the late 1880s** (Saturday being a
+  working day), which "facilitated the expansion of rugby in the parishes and working class areas of
+  Limerick's inner city." **Cork** did not: "Sunday rugby could have taken off in Cork too **if there
+  had been Godfathers in the senior clubs to organise it; but there were not**." A century later
+  Limerick's game is inner-city and Cork's belongs to the professions in the wealthy suburbs. *Not the
+  founders — the fixture list.* Sits alongside **Tucumán** and the **Borders**.
+- **⭐ THE ANSWER TO SCOTLAND AND WALES (Gen 5).** Both chapters measure their failures against
+  "Ireland's four provinces." In fact the **IRFU drew up advanced plans to disband Connacht** at the end
+  of 2002/03 and was **stopped from outside** by the *March on Lansdowne Road*, January 2003. Scotland
+  cut four districts to two; Wales went five regions → four → three; **Ireland attempted the identical
+  economy at the identical moment and lost.** Its four provinces have since won **seven European Cups**
+  (Ulster 1999, Munster 2006/2008, Leinster 2009/2011/2012/2018). The model world rugby admires began
+  as an **underfunded default** — "In 1996 the provinces were an also ran."
+- **The all-island spine, and its cost.** 1874's split was about **selection**, not religion — Belfast
+  formed a rival *union*, not a rival country. Ravenhill bought 1923 (**£2,380**, nine acres); Ulster
+  given **two of five** selection seats; a 1930s anthem protocol of deferring to the local anthem. Then
+  **1954**: Republic-based players refused to take the field until *God Save the Queen* finished, the
+  IRFU moved all internationals to Dublin, and **no senior international was played in Northern Ireland
+  from 1954 until 2007** — **fifty-three years**. The union kept one team by removing half the island
+  from its fixture list. The chapter refuses both sentimental readings.
+- **Gen 4 is the strongest section.** April 1987: **Nigel Carr, David Irwin and Philip Rainey**, driving
+  Belfast→Dublin for Ireland training, were caught by the IRA landmine at **Killeen** that killed **Lord
+  Justice Maurice Gibson and his wife Cecily**; Carr never played again. **That bombing is why Ireland
+  had no anthem at RWC 1987** — *Amhrán na bhFiann* "wasn't deemed a suitable song" — which produced the
+  **Rose of Tralee** farce at Athletic Park, which produced **Ireland's Call** (Phil Coulter, 1995).
+  Also: the **1972 Five Nations abandoned**, the only time ever, after Scotland and Wales refused to
+  travel; and England turning up in **1973** to a five-minute ovation, with **John Pullin**'s "We may
+  not be any good, but at least we turn up."
+- **⚠️ VERIFY BEFORE PRINT — see the verification log at the end of the chapter.** Chiefly: the **2026
+  Triple Crown scoreline** (draft uses **41–21** to agree with `09-scotland.md`; one summary says
+  43–21 — **correct both chapters together** if wrong); the **1948 try-scorers**; the **Croke Park
+  43–13**; and the **2006 Munster final date**. Deliberately omitted as unverified: the 1954 names
+  (McCarthy, Hogan, "the Salute", "eleven players") and the **1982 Triple Crown**.
+
+---
+
 ## 6. How to add a new generation or chapter
 
 **For a new country (or one expanded past its current last generation): map the generations first** —
@@ -335,13 +384,7 @@ combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
 - ✅ **Georgia is done** (August 2026) — all nine chapters are now in the rewritten voice.
-- **Ireland** — 🚧 **STEP 0 DONE (August 2026), awaiting author approval of the generation map.**
-  `notes/ireland.md` holds a proposed **Gen 0–6** outline, a verified fact base for Gen 0–3 and 5–6,
-  a chapter design block, and eight flagged open questions. It would be the **tenth** chapter,
-  `10-ireland.md` (verified: `combine_book.py`'s `sorted()` places a `10-` prefix after `09-`).
-  The spine is that **rugby is the only major Irish team sport organised on an all-island basis** —
-  the IRFU's remit predates the 1921 partition and it chose to stay whole. **Gen 4, the Troubles
-  (1970–1994), is entirely unresearched** and is the main gap.
+- ✅ **Ireland is written** (August 2026) — see §5.10. The book now has **ten chapters** and no unwritten country on its list.
 - **Sourcing: the book is now at ONE Wikipedia citation**, down from **20** before the August 2026
   no-wiki pass. The survivor is deliberate — a records page in Romania cited *against itself* as
   negative evidence for the debunked unbeaten streak, and labelled as such in its Sources block.
