@@ -439,3 +439,61 @@ anyone will travel to Dublin at all. Needed: **Scotland and Wales refusing to tr
 **1973 England visit** and the standing ovation for John Pullin's side (famous, still unverified — do
 not write until sourced); the 1982 and 1985 Triple Crowns; and how Ulster players and clubs functioned
 through the conflict.
+
+---
+
+## GEN 4 — DRAFTED (August 2026). 360 lines of prose cumulative (Gen 0–4). The gap is closed.
+
+This was flagged at Step 0 as "entirely unresearched… the hardest and most important gap." It is now
+the strongest generation in the chapter, and the two big stories turn out to be **causally linked**.
+
+**⭐⭐ THE KILLEEN BOMB, April 1987** (*Irish Times*, "Shoulder to Shoulder"):
+**Nigel Carr**, **David Irwin** and **Philip Rainey** were driving from Belfast to Dublin for an Ireland
+training session. Coming the other way were **Lord Justice Sir Maurice Gibson**, Northern Ireland's
+second most senior judge, and his wife **Cecily**. The IRA detonated a **500lb** roadside landmine just
+over the border. The Gibsons were killed. Irwin and Rainey escaped with minor injuries — Irwin: "**I
+pulled him so hard I actually pulled him out of his trainers**." Carr, **27**, a **1985 Triple
+Crown-winning flanker** on **11 caps**, had rib fractures, an injured spleen and a broken leg: "**The
+27-year-old flanker would never play rugby again.**"
+→ Three men crossing the border to represent a team that exists on both sides of it, caught by a bomb
+meant for someone else, **at the border itself**. The chapter's cold open.
+
+**⭐⭐ AND IT CAUSED THE ANTHEM FARCE.** RWC 1987 made anthems central where previously only the home
+side's was played — so Ireland's sixty-year fudge (nothing away from home) finally broke. And
+*Amhrán na bhFiann* could not be used: with three Irish players just injured by an IRA bomb and Carr
+retired, "**In this light, Amhrán na bhFiann wasn't deemed a suitable song.**" So the prop **Phil Orr**
+produced a cassette of *James Last in Concert* from **Tralee 1984**; nobody listened to the tape; and at
+**Athletic Park**, Wellington, the huddled Irish team heard "**the pale moon was rising**" warble out of
+the speakers and realised in horror it was for them. The episode was "partially the catalyst" behind
+**Ireland's Call**, commissioned from **Phil Coulter** and first played at the **1995** World Cup.
+→ **The causal chain is the generation's spine: the bomb made the Republic's anthem unusable, which
+produced the Rose of Tralee, which produced Ireland's Call.** Forty-one years after the union stopped
+playing in Belfast to dodge the anthem question, it answered it by writing a new one.
+
+**⭐ 1972 — the fixture list breaks.** After **Bloody Sunday** (30 Jan 1972) **Scotland and Wales
+refused to travel to Dublin**, and the **Five Nations was abandoned — the first and only time in its
+history** — through fear of uncontainable violence off the pitch. Ireland had beaten France and England
+and were plausibly heading for a Grand Slam; the tournament simply stopped. The point the draft makes:
+the IRFU could design an anthem protocol, but **it could not make Cardiff and Edinburgh get on a plane**.
+
+**⭐ 1973 — England turn up.** England travelled when two unions would not, and Lansdowne Road gave them
+a **five-minute standing ovation**. Captain **John Pullin** at the dinner: "**We may not be any good,
+but at least we turn up.**" England lost; it has never mattered. The draft notes what the gesture
+actually was — England resolved nothing about Ireland; they got on a plane, played, and went home, and
+in doing so performed Irish rugby's own method with somebody else's team.
+
+**The closing quote**, from the *Shoulder to Shoulder* documentary coverage and the plainest statement
+of the chapter's argument anyone has made: "**what seals it all together is you play and support one
+team in one jersey**."
+
+⚠️ **Open:** Ireland's **1982 Triple Crown** is **not asserted** — only 1985 is sourced (via the Carr
+coverage). The 1972 abandonment rests on the Irish Post alone; a second source would be worth having.
+Not sourced: week-to-week life for Ulster clubs through the conflict beyond the Carr episode, or
+whether any player faced a direct threat.
+
+**NEXT: Gen 5 — Professionalism and the Provinces (1995–2008).** Ireland's Call arrives; the four
+provinces become professional entities; Ulster win the European Cup in 1999, Munster in 2006 and 2008.
+This is the **positive case** the Scotland chapter's two-club ceiling and the Wales chapter's regional
+cull are already measured against — both name Ireland's four provinces, and this generation must answer
+them. Needed: when each province turned professional, the European Cup finals, and any documented
+account of *why* four worked.

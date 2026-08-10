@@ -276,9 +276,91 @@ And the next thing coming was not an administrative problem. In August 1969 Brit
 
 It would be whether anyone would travel to Dublin at all.
 
+## Generation 4: The Troubles (1970–1994)
+
+**April 1987. Killeen, on the border.** Three Ulster rugby players are driving south from Belfast to Dublin for an Ireland training session: **Nigel Carr**, **David Irwin** and **Philip Rainey**.
+
+Coming the other way is a car carrying **Lord Justice Sir Maurice Gibson**, the second most senior judge in Northern Ireland, and his wife **Cecily**.
+
+The IRA detonate a five-hundred-pound landmine at the roadside. The Gibsons are killed. The three players, in the wrong place by seconds, are caught in the blast. Irwin and Rainey escape with minor injuries; Irwin's memory of pulling his teammate clear is that "I pulled him so hard I actually pulled him out of his trainers."
+
+**Nigel Carr** — a Triple Crown-winning flanker, twenty-seven years old, with eleven caps and his best years ahead of him — has rib fractures, an injured spleen and a broken leg. He will miss that year's World Cup. He will never play rugby again.
+
+Three men crossing the border to represent a team that exists on both sides of it, blown up by a bomb intended for someone else, at the border itself.
+
+That is this generation.
+
+---
+
+British troops deployed onto the streets of Northern Ireland in August 1969, and for the next thirty years the IRFU governed a sport across a frontier that had become one of the most militarised in Europe.
+
+The union's position was, on paper, unchanged. One team, four provinces, all thirty-two counties, internationals in Dublin since 1954. In practice it meant that every Ulster player selected for Ireland — and there were many, throughout — made a regular journey south through checkpoints and border country to train and play. They kept making it for thirty years.
+
+### 1972
+
+The first thing to break was the fixture list.
+
+On 30 January 1972, in Derry, British paratroopers shot dead thirteen civil-rights marchers. In the aftermath of **Bloody Sunday** and the violence that followed it, **Scotland and Wales refused to travel to Dublin**.
+
+The consequence is the starkest single fact in the history of the Championship: the **1972 Five Nations was abandoned** — the **first and only time** that has ever happened — through what was frankly acknowledged as fear of uncontainable violence off the field.
+
+Ireland had beaten France and England that season and were, in all likelihood, on their way to a Grand Slam. They never got to find out. The tournament simply stopped.
+
+For a sport that had spent a century constructing elaborate arrangements to avoid exactly this, 1972 was the moment the arrangements ran out. The IRFU could design an anthem protocol. It could not make Cardiff and Edinburgh get on a plane.
+
+### 1973
+
+A year later, England came.
+
+There was no obligation on them to do so and considerable pressure not to. Two teams had already refused. But England travelled to Dublin in **1973** and played the fixture, and when they ran out at Lansdowne Road the crowd stood and applauded them for **five minutes**.
+
+At the dinner afterwards, the England captain **John Pullin** got to his feet and said the line that has outlived every score from that afternoon:
+
+> "We may not be any good, but at least we turn up."
+
+England lost the match. It did not matter, and it has not mattered since. They were the first side to come back, and the ovation was for the coming rather than the playing.
+
+It is worth noting what the gesture actually was, because the sentiment can obscure it. England did not resolve anything about Ireland. They got on a plane to a city where two other unions had judged it unsafe to go, played a game of rugby, and went home. The whole of Irish rugby's method — build the structure, keep turning up, decline to settle the argument — was performed that afternoon by somebody else's team.
+
+### The long crossing
+
+Then twenty years of ordinary life conducted under abnormal conditions.
+
+Ulstermen went on being picked for Ireland and went on driving to Dublin. Ireland won a **Triple Crown in 1985**. The Ulster and Leinster and Munster clubs went on playing each other. None of it was heroic in the way the 1973 ovation was heroic; it was simply continued, week after week, by people who had decided that the alternative was worse.
+
+And then April 1987 happened on the road at Killeen, and the thirty years of continuing acquired a casualty list that included a rugby player.
+
+### The Rose of Tralee
+
+Two months later Ireland went to the first **Rugby World Cup**, and the consequences of the bombing followed them to New Zealand in a form nobody could have designed.
+
+The tournament made anthems central to the pre-match ritual. Until then only the home side's anthem was played — which had allowed Ireland's fudge to survive for sixty years, because away from home the question never arose. Now it did. Ireland stood for *Amhrán na bhFiann* in Dublin, and had **no song at all** anywhere else.
+
+*Amhrán na bhFiann* itself was not thought usable. As one account puts it, with three Irish players having just been injured by an IRA bomb and Carr forced to retire, "in this light, *Amhrán na bhFiann* wasn't deemed a suitable song." The Republic's national anthem could not be played over a team half of whose members were from the north, weeks after northern members of it had been blown up on their way to training.
+
+So the squad improvised. The prop **Phil Orr** produced a cassette of *James Last in Concert*, recorded at Tralee in 1984, on which the German bandleader had struck up **"The Rose of Tralee"** to please the local audience. Nobody, in the words of the account, bothered to listen to the tape.
+
+The following day at **Athletic Park** in Wellington — windswept, rickety — the Irish team gathered in a huddle for the anthems, and out of the speakers came a faint big-band rendition of *the pale moon was rising*. They realised, in horror, that it was for them.
+
+It is the funniest thing in this chapter and it is not really funny at all. A team that had held an island together for sixty-six years stood in a New Zealand gale with no song to sing, because the only songs available belonged to one half of it or the other, and because a bomb on the border had made the choice unbearable.
+
+It worked, in the end. The episode was part of what pushed the IRFU to commission something of its own. They went to the songwriter **Phil Coulter**, and what he wrote — **"Ireland's Call"** — was first played at the **1995** World Cup, alongside the IRFU flag.
+
+Forty-one years after the union stopped playing in Belfast to avoid the anthem question, it finally answered it by writing a new one.
+
+### What this generation leaves behind
+
+A team that came through, and a bill.
+
+By 1994 Irish rugby had survived the worst thirty years in the modern history of the island without splitting, and it had done so by the same unglamorous method it had used since 1874: keep the structure, keep turning up, refuse to make anyone choose. The Championship had been abandoned once. England had come when others would not. An international had lost his career on a border road. The team had stood in silence, and then to a dance-band tune, before finding a song that belonged to nobody's tradition and therefore to everybody's.
+
+The documentary made about those years took its title from the anthem that came out of them — *Shoulder to Shoulder* — and its conclusion is the plainest statement of this chapter's argument that anyone has made: "what seals it all together is you play and support one team in one jersey."
+
+In 1995 the game turned professional, and Irish rugby faced a question it had never had to answer before: not how to hold four provinces together, but what to *do* with them.
+
 ## Sources
 
-*(Gen 0–3 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Gen 0–4 sources — the full chapter list will be assembled once all seven generations are drafted.)*
 
 - [Ireland — rugby history](https://www.rugbyfootballhistory.com/ireland.html) — RugbyFootballHistory.com *("Dublin University, founded in 1854, was the first organised Rugby Football Club in Ireland"; the two unions of 1874 — the **Irish Football Union** over "Leinster, Munster and parts of Ulster" and the **Northern Football Union of Ireland** controlling "the Belfast area" — amalgamating in **1879** into the IRFU with branches in Ulster, Leinster and Munster; the first international at Kennington Oval won by England "by two goals and a try to nil" before 3,000 spectators, **twenty players per side**)*
 - [National unions — founding dates](https://www.rugbyfootballhistory.com/national_unions.htm) — RugbyFootballHistory.com *("**1879** Irish Rugby Football Union (a merger of two Irish unions both formed in 1874)", between Scotland 1873 and Wales 1880)*
@@ -299,6 +381,13 @@ It would be whether anyone would travel to Dublin at all.
 - [Ireland's Call: the story of Irish rugby, part 2](https://greenandgoldrugby.com/irelands-call-the-story-of-irish-rugby-part-2/) — Green & Gold Rugby *(the anthem protocol — "Amhrán na bhFiann" in the Republic, "God Save the King" in Northern Ireland, "no anthem at away matches"; "Even this caused issues with Republic of Ireland players in **1954 refusing to take the field until 'God Save the Queen' was finished**. This, little, disagreement resulted in **no senior Irish international matches being played in Northern Ireland from 1954 until 2007**. It took until 1995 World Cup to resolve the matter when the IRFU commissioned a new anthem (Ireland's Call) and use the IRFU flag")*
 - [A tale of tricolours, the Triple Crown and a terrible tragedy](https://www.irishnews.com/opinion/cormac-moore-tricolours-the-triple-crown-and-a-terrible-tragedy-5VJDH6RLERHO3EEOOA6CQAURXU/) — Cormac Moore, *The Irish News* *(the IRFU choosing Dublin as the sole venue for internationals from 1954 "to avoid awkward and controversial incidents over flags and anthems in Belfast, particularly after a strike was threatened by southern-based players"; the **Llandow air disaster of 12 March 1950**, which "killed 80 of 83 people aboard a Tudor V aircraft carrying Welsh rugby supporters returning from the match in Belfast")*
 - [Remembering Ireland's inaugural Grand Slam in 1948](https://www.newsletter.co.uk/sport/rugby-union/six-nations-remembering-irelands-inaugural-grand-slam-in-1948-4070667) — The News Letter *(Ireland beat Wales **6–3 at Ravenhill** on **13 March** to seal a first Triple Crown in fifty years and the first Grand Slam; a **Jack Kyle** break and long pass putting **Barney Mullan** over; **Bleddyn Williams** levelling for Wales; **John Christopher Daly** scoring the winner; **Karl Mullen** captain, having led Ireland at Twickenham on **14 February 1948**; that side winning **14 of 16 matches over four years**)* ⚠️ 403s both WebFetch and curl — the detail above is drawn from search-result extracts of this page, not a direct read. **Verify before print.**
+
+- [Shoulder to Shoulder: how Irish rugby survived the Troubles](https://www.irishtimes.com/sport/rugby/shoulder-to-shoulder-how-irish-rugby-survived-the-troubles-1.3648137) — *The Irish Times* *("The IRA detonated a road side bomb just over the border, killing their intended victim, **lord justice Maurice Gibson and his wife Cecily**"; of Nigel Carr, "**The 27-year-old flanker would never play rugby again**"; **David Irwin**: "I pulled him so hard I actually pulled him out of his trainers . . . I thought he was going to miss the World Cup"; and on the union's cohesion, "**what seals it all together is you play and support one team in one jersey**")*
+- [Fifty years ago this weekend Troubles riots saw the rugby Five Nations tournament cancelled](https://www.irishpost.com/sport/fifty-years-ago-this-weekend-troubles-riots-saw-the-rugby-five-nations-tournament-cancelled-229920) — The Irish Post *(**Scotland and Wales refused to travel to Dublin in 1972** after Bloody Sunday; the Championship **abandoned for the first and only time in its history** through fears of uncontainable violence off the pitch)*
+- [The team that turned up — 1973 remembered](https://www.bangorrfc.com/news/the-team-that-turned-up--1973-remembered-2767430.html) — Bangor RFC *(England travelling to Dublin at the height of the Troubles; the **five-minute standing ovation** at Lansdowne Road; captain **John Pullin** at the after-dinner speech: "**We may not be any good, but at least we turn up**"; England the first side to agree to play Ireland in Dublin after the crisis)*
+- [When the Rose of Tralee was Ireland's Rugby World Cup anthem](https://www.balls.ie/rugby/rose-of-tralee-anthem-1987-rugby-world-cup-308991) — Balls.ie *(anthems becoming central at RWC 1987 where previously only the home team's was played; Ireland having "no song away from home"; **Davey Irwin, Nigel Carr and Philip Rainey** injured by the IRA car bomb before the tournament and Carr, "a Triple Crown winning back-row from **1985**", forced to retire — "In this light, Amhrán na bhFiann wasn't deemed a suitable song"; **Phil Orr**'s cassette of *James Last in Concert* from Tralee 1984; the squad not bothering to listen to the tape; the huddle at **Athletic Park** as "the pale moon was rising" played; the episode as "partially the catalyst" behind **Ireland's Call**, commissioned from **Phil Coulter** and first played at the **1995** World Cup)*
+
+⚠️ **Gen 4 open items.** Ireland's **1982 Triple Crown** is not asserted — only **1985** is sourced here (via the Carr coverage). The **1972** section relies on the Irish Post's account; a second source for the abandonment would be worth having. Not sourced this pass: how Ulster clubs and players functioned week-to-week through the conflict beyond the Carr episode, and whether any player faced direct threat.
 
 ⚠️ **Gen 3 — deliberately NOT named.** Widely circulated accounts of the 1954 crisis name the captain (**Jim McCarthy**), the IRFU president (**Sarsfield Hogan**), an abbreviated anthem known in Ulster as "**the Salute**", and **eleven** Republic-based players. **None of that survived direct checking** — the Irish News piece, when fetched, contains none of it. The draft therefore carries only the verified core: Republic-based players refused to take the field until "God Save the Queen" had finished, internationals moved to Dublin, and no senior international was played in Northern Ireland from 1954 until 2007.
 
