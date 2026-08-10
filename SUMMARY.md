@@ -363,6 +363,59 @@ August 2026 — the book's tenth chapter and its first new country since Scotlan
 
 ---
 
+## 5A. SCOPE (decided August 2026): **all 24 teams of Rugby World Cup 2027**
+
+The book covers **every nation in the RWC 2027 field** — the first 24-team World Cup, in Australia,
+1 October–13 November 2027. This was already latent in the structure: every chapter closes on a dated
+mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to that tournament.
+
+**The field, from [rugbyworldcup.com](https://www.rugbyworldcup.com/2027/en/teams) (✅ = written):**
+
+| Pool | Teams |
+|---|---|
+| **A** | New Zealand · Australia · ✅ Chile · Hong Kong China |
+| **B** | ✅ South Africa · Italy · ✅ Georgia · ✅ Romania |
+| **C** | ✅ Argentina · Fiji · Spain · Canada |
+| **D** | ✅ Ireland · ✅ Scotland · ✅ Uruguay · Portugal |
+| **E** | France · Japan · USA · Samoa |
+| **F** | ✅ England · ✅ Wales · Tonga · Zimbabwe |
+
+12 qualified automatically from RWC 2023 (France, New Zealand, Italy, Ireland, South Africa, Scotland,
+Wales, Fiji, Australia, England, Argentina, Japan); 12 through regional qualifying (Georgia, Spain,
+Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kong China).
+
+**Status: 10 written, 14 to go.**
+
+### The existing sections, and the proposed remainder
+The written chapters already group thematically, and the remaining fourteen extend that logic:
+1. **The British enclave in South America** (1–3): Uruguay, Argentina, Chile
+2. **Governments use rugby** (4–6): Georgia, Romania, South Africa
+3. **The home nations** (7–10): England, Wales, Scotland, Ireland
+4. **The game that stopped being English** (11–13): **France, New Zealand, Australia**
+5. **The Pacific** (14–16): **Fiji, Samoa, Tonga**
+6. **Latin Europe** (17–19): **Italy, Spain, Portugal**
+7. **The new world and the newcomers** (20–24): **Japan, USA, Canada, Zimbabwe, Hong Kong China**
+
+### Why France is chapter 11
+It is the most overdue chapter in the book by a wide margin. France is mentioned **154 times across all
+ten existing chapters** — more than any unwritten country, and approaching the density of one that has
+a chapter (Argentina, 220). It is **structurally load-bearing** in two: **Romania** invokes it **64
+times** (the whole Oaks golden age is defined by beating France) and **Georgia 37 times** (Saurel's
+export pipeline into French clubs *is* Georgia's development model). The book has been using France as
+a mechanism without ever explaining it. It also opens Section 4 against the home nations just finished:
+France was **expelled from the Five Nations in 1931 for professionalism** — a fact `07-england.md`
+already carries — and the country the home unions threw out for paying players is the one that later
+built the pipeline that made Georgian and Romanian rugby.
+
+### ⚠️ Sourcing risk, flagged now rather than at chapter 23
+The later sections will be far harder to source to this book's standard than anything so far. **Hong
+Kong China, Zimbabwe, Canada and Spain** have thin English-language rugby historiography; Georgia — a
+Tier 2 nation with a *famous* story — still required hand-verification of nearly every fact and yielded
+several NOT FOUNDs that stayed out of the text. Expect the same or worse, budget for it, and hold the
+line: **hedge or omit rather than assert**. See the no-Wikipedia rule in §6.
+
+---
+
 ## 6. How to add a new generation or chapter
 
 **For a new country (or one expanded past its current last generation): map the generations first** —
