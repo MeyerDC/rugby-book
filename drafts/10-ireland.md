@@ -358,9 +358,81 @@ The documentary made about those years took its title from the anthem that came 
 
 In 1995 the game turned professional, and Irish rugby faced a question it had never had to answer before: not how to hold four provinces together, but what to *do* with them.
 
+## Generation 5: Professionalism and the Provinces (1995–2008)
+
+**24 February 2007. Croke Park, Dublin.** England are playing Ireland, and a British military band's anthem is about to be played on the ground where British troops killed fourteen people.
+
+On **21 November 1920** — Bloody Sunday — the IRA assassinated fourteen British agents and informers in Dublin. In reprisal, British forces surrounded Croke Park during a Gaelic football match to search the crowd as it left. The crowd panicked, shots were fired, and **fourteen people died**.
+
+Eighty-seven years later the ground belongs to the Gaelic Athletic Association still, and the GAA's own rules had for most of a century forbidden this afternoon twice over: "until **1972**, the GAA wouldn't allow its members to play 'foreign' games, including soccer and rugby. And up until **2005**, it wouldn't allow foreign games to be played in its stadiums." With Lansdowne Road being rebuilt, the GAA suspended **Rule 42** and let the rugby in.
+
+Not everyone was pleased. A republican party objected to "bringing a team representing a country that still occupies part of Ireland to play a game in Croke Park," and sympathetic observers conceded that for many people hearing *God Save the Queen* there "will still stick in their throats."
+
+It was played. It was heard in silence, and applauded — by both sets of supporters. Then Ireland beat England **43–13**, the largest win they have ever recorded over them.
+
+An occasion described afterwards as reconciliation conducted "outside the formal peace process," on the ground with the strongest possible claim to refuse it.
+
+---
+
+Now go back twelve years, to the decision that produced the team standing there.
+
+### The unit
+
+Rugby went professional in **1995**, and every union in this book had to answer the same question: what is the thing we are going to pay?
+
+England paid the clubs, and spent twenty years at war with them. Wales paid the clubs, then invented regions, then cut them. Scotland created four professional districts and, as its chapter records, had two of them merged out of existence within three years.
+
+Ireland chose the **four provinces** — Leinster, Munster, Ulster, Connacht — the units created between 1879 and 1886 on the island's medieval map. And it is important not to gild this. The IRFU picked the provinces and then, on one insider's account, "didn't resource the provinces as they might have." In **1996** the provinces "were an also ran. Nobody cared about the provinces. It was all about the clubs."
+
+The four-province model is now cited across world rugby as a masterstroke of structural planning. It began as an underfunded default that nobody much liked.
+
+### 1999
+
+The first return came from the north.
+
+On **30 January 1999**, in front of **49,000** people at Lansdowne Road, **Ulster** beat **Colomiers 21–6** to win the **Heineken Cup** — the first Irish province to become champions of Europe, and one of the first outside England and France.
+
+It is worth pausing on where that happened and to whom. Nine years before, Ulster's supporters had been watching an Irish team that had not played a home international in their province for four decades. Now the province itself was the best club side on the continent, and it won the thing in Dublin.
+
+### 2003, and the province that was nearly cut
+
+Then the IRFU did exactly what Scotland and Wales did.
+
+Facing the spiralling costs of a game that was no longer amateur, the union assessed the viability of its parts and drew up **advanced plans to disband Connacht as a professional entity at the end of the 2002/03 season**. Four provinces were to become three. The weakest and westernmost — founded on **8 December 1885** by six clubs meeting in Corless's Burlington Dining Rooms — was to be closed.
+
+What happened next is the reason this chapter can answer the Scotland and Wales chapters at all.
+
+Connacht did not accept it. The threat produced what the academic account calls "an unprecedented movement of resistance which mobilized the western rugby community, garnered support from wider society and earned the backing of a number of senior political figures, culminating in the now famous **'March on Lansdowne Road' in January 2003**." Before the month was out, the IRFU announced it would not proceed.
+
+Hold that against the neighbours. **Scotland** cut four professional districts to two in 1998 and left the Borders — its most productive region — with no professional team at all. **Wales** reduced its clubs to five regions in 2003, then four, then three. **Ireland** attempted the identical economy at the identical moment, and was **stopped from outside** by the region it intended to cut.
+
+The four-province model that the rest of the world admires was very nearly a three-province model. What preserved it was not the foresight of the union — the union was the one wielding the knife — but a mobilised community in the west of Ireland that the union could not face down. Institutions are not only what their administrators intend. They are also what the people inside them refuse.
+
+Connacht's survival is the single most consequential thing in Irish professional rugby, and the IRFU opposed it.
+
+### Munster
+
+The province that made the model famous did it twice.
+
+**Munster** — Limerick and Cork, the two cities of the last chapter's controlled experiment, in one team — were beaten European finalists twice before they won it. On **20 May 2006** they beat **Biarritz** at the Millennium Stadium to be "crowned Champions of Europe". In **2008** they beat **Toulouse**, again in Cardiff, and "the Heineken Cup returns to the province for the second time in three seasons."
+
+Thomond Park in those years became the best-known small ground in European rugby, and the crowd that filled it was the one the 1880s Sunday fixtures had built.
+
+### What this generation leaves behind
+
+A structure that works, and a season that proved it.
+
+By 2008 Ireland had four professional provinces where it might easily have had three, three European Cups between two of them, a national team that had won Triple Crowns and was about to win more, and — in the same year as Croke Park — **a return to Northern Ireland**, where no senior international had been played since 1954.
+
+Fifty-three years after the union left Belfast to avoid an anthem, and one year after the GAA let the same anthem be played at Croke Park, Irish rugby was whole in a way it had not been since before the Troubles, before partition's hardest decades, arguably since 1875.
+
+What it had not done was win anything of the first rank since 1948.
+
+That was next, and so was a decade nobody in Irish rugby had ever had.
+
 ## Sources
 
-*(Gen 0–4 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Gen 0–5 sources — the full chapter list will be assembled once all seven generations are drafted.)*
 
 - [Ireland — rugby history](https://www.rugbyfootballhistory.com/ireland.html) — RugbyFootballHistory.com *("Dublin University, founded in 1854, was the first organised Rugby Football Club in Ireland"; the two unions of 1874 — the **Irish Football Union** over "Leinster, Munster and parts of Ulster" and the **Northern Football Union of Ireland** controlling "the Belfast area" — amalgamating in **1879** into the IRFU with branches in Ulster, Leinster and Munster; the first international at Kennington Oval won by England "by two goals and a try to nil" before 3,000 spectators, **twenty players per side**)*
 - [National unions — founding dates](https://www.rugbyfootballhistory.com/national_unions.htm) — RugbyFootballHistory.com *("**1879** Irish Rugby Football Union (a merger of two Irish unions both formed in 1874)", between Scotland 1873 and Wales 1880)*
@@ -386,6 +458,15 @@ In 1995 the game turned professional, and Irish rugby faced a question it had ne
 - [Fifty years ago this weekend Troubles riots saw the rugby Five Nations tournament cancelled](https://www.irishpost.com/sport/fifty-years-ago-this-weekend-troubles-riots-saw-the-rugby-five-nations-tournament-cancelled-229920) — The Irish Post *(**Scotland and Wales refused to travel to Dublin in 1972** after Bloody Sunday; the Championship **abandoned for the first and only time in its history** through fears of uncontainable violence off the pitch)*
 - [The team that turned up — 1973 remembered](https://www.bangorrfc.com/news/the-team-that-turned-up--1973-remembered-2767430.html) — Bangor RFC *(England travelling to Dublin at the height of the Troubles; the **five-minute standing ovation** at Lansdowne Road; captain **John Pullin** at the after-dinner speech: "**We may not be any good, but at least we turn up**"; England the first side to agree to play Ireland in Dublin after the crisis)*
 - [When the Rose of Tralee was Ireland's Rugby World Cup anthem](https://www.balls.ie/rugby/rose-of-tralee-anthem-1987-rugby-world-cup-308991) — Balls.ie *(anthems becoming central at RWC 1987 where previously only the home team's was played; Ireland having "no song away from home"; **Davey Irwin, Nigel Carr and Philip Rainey** injured by the IRA car bomb before the tournament and Carr, "a Triple Crown winning back-row from **1985**", forced to retire — "In this light, Amhrán na bhFiann wasn't deemed a suitable song"; **Phil Orr**'s cassette of *James Last in Concert* from Tralee 1984; the squad not bothering to listen to the tape; the huddle at **Athletic Park** as "the pale moon was rising" played; the episode as "partially the catalyst" behind **Ireland's Call**, commissioned from **Phil Coulter** and first played at the **1995** World Cup)*
+
+- [Symbolic step of peace at Irish stadium](https://www.csmonitor.com/2007/0223/p06s01-woeu.html) — *The Christian Science Monitor* *(Bloody Sunday, **21 Nov 1920** — "the assassination of 14 British agents and informers by the Irish Republican Army. In response, British troops surrounded Croke Park stadium during a Gaelic football match to search spectators as they left the ground, but the crowd panicked and in the confusion **14 were killed**"; "Until **1972**, the GAA wouldn't allow its members to play 'foreign' games, including soccer and rugby. And up until **2005**, it wouldn't allow foreign games to be played in its stadiums"; a republican party objecting to "bringing a team representing a country that still occupies part of Ireland to play a game in Croke Park"; the concession that for many it "will still stick in their throats"; the occasion as "hugely symbolic" reconciliation "outside the formal peace process")* — the **43–13** result and the anthem being "sung without interruption or incident, and applauded by both sets of supporters" are from search-result extracts of related coverage; **verify before print.**
+- [History](https://www.connachtrugby.ie/about/history/272/) — Connacht Rugby (official) *(founded **8 December 1885**, when "six fledging clubs came together in Corless' Burlington Dining Rooms" — Ballinasloe, Castlebar, Galway Town, Galway Grammar School, Queen's College Galway and Ranelagh School Athlone, with Dr Richard Biggs as first president; "the Club risking near extinction in **2003**")*
+- [IRF Off: Connacht's Fight for Survival and the Foundation Myth of a Rugby Identity](https://www.tandfonline.com/doi/abs/10.1080/09523367.2017.1359162) — *The International Journal of the History of Sport*, vol. 34, nos. 3–4 *(the IRFU's "advanced plans to disband Connacht as a professional entity at the end of the 2002/2003 season"; the response as "an unprecedented movement of resistance which mobilized the western rugby community, garnered support from wider society and earned the backing of a number of senior political figures, culminating in the now famous **'March on Lansdowne Road' in January 2003**"; the IRFU announcing before the month was out that it would not proceed)* ⚠️ The article **403s**; this is quoted from the published abstract as returned in search results. Corroborated in outline by Connacht's own site ("near extinction in 2003") and by the *Irish Examiner*, which refers to "the Connacht march" of 2003 as a known event.
+- [1999 European Cup win — Ulster v Colomiers](https://ulster.rugby/content/1999-european-cup-win-ulster-rugby-vs-colomiers) — Ulster Rugby (official) *(**30 January 1999**, Ulster **21–6** Colomiers, **Lansdowne Road**, crowd of **49,000**)*
+- [Munster Rugby — history timeline](https://www.munsterrugby.ie/the-club/about-munster-rugby/history-timeline/) — Munster Rugby (official) *("Munster are crowned Champions of Europe after victory over a gallant Biarritz side" (2006, Millennium Stadium); Toulouse beaten in the 2008 final "at the Millennium Stadium, with the Heineken Cup returns to the province for the second time in three seasons")*
+- ["It was rugby's Wild West!" — the difficult early years of professionalism](https://www.the42.ie/rugby-transition-professional-class-of-95-3215691-Feb2017/) — The 42 *(the IRFU choosing the four provinces as its professional model but not resourcing them as it might have; "In 1996, the provinces were an also ran. Nobody cared about the provinces. It was all about the clubs")*
+
+⚠️ **Gen 5 open items.** The **exact date of the 2006 Munster final** (given as 20 May in the draft) and the **43–13** Croke Park scoreline both come from secondary extracts rather than direct reads — verify. Also unverified: whether **2007** saw the return of a senior international to Ravenhill specifically, or another Northern Ireland venue. The *Irish Examiner* suggests the **2008** financial review (Morgan Buckley's analysis) may have been a closer call for Connacht than 2003 — worth a look if the Connacht material is expanded.
 
 ⚠️ **Gen 4 open items.** Ireland's **1982 Triple Crown** is not asserted — only **1985** is sourced here (via the Carr coverage). The **1972** section relies on the Irish Post's account; a second source for the abandonment would be worth having. Not sourced this pass: how Ulster clubs and players functioned week-to-week through the conflict beyond the Carr episode, and whether any player faced direct threat.
 

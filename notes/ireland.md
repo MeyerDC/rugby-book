@@ -497,3 +497,58 @@ This is the **positive case** the Scotland chapter's two-club ceiling and the Wa
 cull are already measured against — both name Ireland's four provinces, and this generation must answer
 them. Needed: when each province turned professional, the European Cup finals, and any documented
 account of *why* four worked.
+
+---
+
+## GEN 5 — DRAFTED (August 2026). 432 lines of prose cumulative (Gen 0–5). One generation left.
+
+**⭐⭐ THE FINDING THAT ANSWERS THE SCOTLAND AND WALES CHAPTERS — and it inverts the received story.**
+Both of those chapters already measure their own failures against "Ireland's four provinces." The truth
+is that **the IRFU tried to do exactly what Scotland and Wales did, and was stopped.**
+- Facing professional-era costs, the union drew up **"advanced plans to disband Connacht as a
+  professional entity at the end of the 2002/2003 season."** Four provinces were to become three.
+- The response was **"an unprecedented movement of resistance which mobilized the western rugby
+  community, garnered support from wider society and earned the backing of a number of senior political
+  figures, culminating in the now famous 'March on Lansdowne Road' in January 2003."** Before the month
+  was out the IRFU announced it would not proceed.
+→ **Scotland** cut four districts to two in 1998 and left the Borders with nothing. **Wales** went
+clubs → five regions → four → three. **Ireland attempted the identical economy at the identical moment
+and lost.** The model the rest of world rugby admires was nearly a three-province model, and what saved
+it was **not** the union's foresight — the union was holding the knife — but a community it could not
+face down. *Institutions are not only what their administrators intend; they are also what the people
+inside them refuse.* **Connacht's survival is the most consequential thing in Irish professional rugby,
+and the IRFU opposed it.**
+- Also punctures the myth at the other end: the IRFU picked the provinces and then "didn't resource the
+  provinces as they might have" — "In **1996** the provinces were an also ran. Nobody cared about the
+  provinces. It was all about the clubs." The masterstroke began as an **underfunded default**.
+
+**⭐ CROKE PARK, 24 February 2007 — the cold open.** *God Save the Queen* played on the ground where
+British forces killed **fourteen** people on **Bloody Sunday, 21 Nov 1920** (itself a reprisal for the
+IRA's assassination of fourteen British agents that morning). The GAA had barred members from "foreign"
+games **until 1972** and foreign games from its stadiums **until 2005**; with Lansdowne Road being
+rebuilt it suspended **Rule 42**. A republican party objected to "bringing a team representing a country
+that still occupies part of Ireland"; sympathetic observers conceded it would "still stick in their
+throats." The anthem was heard in silence and applauded by both sets of supporters; Ireland won
+**43–13**. Described as reconciliation "outside the formal peace process."
+→ Ties back to Gen 1's GAA material: the ban that "attained extreme ideological importance only in the
+decades after independence" is the same ban lifted here.
+
+**Also verified:** **Ulster 21–6 Colomiers**, **30 January 1999**, Lansdowne Road, **49,000** — the
+first Irish province to win Europe, and won in Dublin by the province whose supporters had gone four
+decades without a home international. **Munster** European champions **2006** (Biarritz) and **2008**
+(Toulouse), both at the Millennium Stadium — Limerick and Cork, Gen 1's controlled experiment, in one
+team. **Connacht founded 8 December 1885** at Corless's Burlington Dining Rooms (six clubs, first
+president Dr Richard Biggs) — note this is the *province's* founding; the Berkley Center dates the
+**IRFU branch** to 1886.
+
+**⚠️ Verify before print:** the **43–13** Croke Park scoreline and the **20 May 2006** Munster final date
+(both from secondary extracts, not direct reads); whether **2007**'s return to Northern Ireland was at
+**Ravenhill** specifically; and the tandfonline article (403) beyond its published abstract. The *Irish
+Examiner* hints the **2008** review may have been a closer call for Connacht than 2003.
+
+**NEXT — GEN 6: The Best Team in the World, and the Quarter-Final (2009–2026).** The 2009 Grand Slam
+(first in 61 years), 2018 and 2023 Grand Slams, world No. 1, Leinster's four European Cups — against
+**never having reached a World Cup semi-final**. Still needed: the count of quarter-final exits and
+confirmation of the never-a-semi record; when Ireland first reached No. 1; Leinster's four titles;
+and a dated mid-2026 close (Ireland lost 40–21 to New Zealand at Eden Park; captain Dan Sheehan;
+RWC 2027 Pool D with **Scotland and Uruguay** — two more chapters of this book).
