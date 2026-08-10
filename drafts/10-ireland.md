@@ -430,9 +430,73 @@ What it had not done was win anything of the first rank since 1948.
 
 That was next, and so was a decade nobody in Irish rugby had ever had.
 
+## Generation 6: The Best Team in the World, and the Quarter-Final (2009–2026)
+
+**October 2023. Stade de France.** Ireland are the number one team in the world. They have won a Grand Slam five months earlier. They have beaten New Zealand in New Zealand. They are playing New Zealand in a World Cup quarter-final, and they are about to go out.
+
+The All Blacks lead **13–0** inside the first quarter. Ireland claw it back to **18–17** by half-time. The last passage of the match runs to thirty-seven phases of Irish pressure five metres out, and it ends without a try.
+
+**New Zealand 28, Ireland 24.**
+
+It is the eighth time Ireland have reached a World Cup quarter-final. It is the eighth time they have gone no further. World Rugby's own profile of them puts it without ceremony: "Generations have tried but Ireland are yet to shake their Men's Rugby World Cup quarter-final hoodoo."
+
+---
+
+Everything else about this generation is the best period in the history of Irish rugby.
+
+### The Slams
+
+In **2009**, in Cardiff, Ireland won the **Grand Slam** — their first in **sixty-one years**, since Karl Mullen's side at Ravenhill. It came down to a late Welsh penalty from Stephen Jones that drifted the wrong side of the posts.
+
+In **2018**, under **Joe Schmidt**, they won another, sealed with a win over England **at Twickenham**, in a Championship in which **Jacob Stockdale** scored seven tries — a Six Nations-era record.
+
+In **2023**, under **Andy Farrell**, they won a third, beating France in Dublin in a match remembered as a classic and closing it out against England.
+
+Three Grand Slams in fourteen years, by a country that had managed one in the previous hundred and thirty.
+
+### The provinces deliver
+
+Underneath the national side, the structure that survived 2003 was producing champions of Europe on a scale no other country's system matched in the same span.
+
+**Leinster** won the European Cup **four times**: in **2009** against Leicester at Murrayfield; in **2011** against Northampton at the Millennium Stadium, having trailed **22–6** at half-time; in **2012**, beating **Ulster 42–14** in an all-Ireland final; and in **2018** against Racing 92 in Bilbao.
+
+Add Ulster's 1999 and Munster's 2006 and 2008, and the four Irish provinces had won **seven European Cups** — from a playing population smaller than that of several English counties, in a country that had come within a month of closing one of the four in 2003.
+
+This is the answer to the question the Scotland and Wales chapters leave open. Scotland's two clubs have produced two major trophies in thirty years of professionalism. Wales's regions, cut from five to three, have produced none since 2010. Ireland kept four, and its four won seven.
+
+The difference is not money, and it is not talent. It is the number of professional teams a country decided it could carry — and, in Ireland's case, the number it was **prevented** from cutting.
+
+### And then the quarter-final
+
+Against all of that stands a record that has now outlived four generations of players.
+
+Ireland have reached the last eight of a World Cup **eight times** — **1987, 1991, 1995, 2003, 2011, 2015, 2019, 2023** — and have **never reached a semi-final.** They have gone into tournaments ranked first in the world and gone out at the same stage as they did when they were ranked tenth.
+
+There is no institutional explanation for it, which is what makes it interesting in a book that has explained almost everything else institutionally. The four-province system works. The schools and clubs produce players. The union is solvent, unified, and no longer fighting itself. Ireland simply keep losing one match, and it is always the same match.
+
+### Where things stood, mid-2026
+
+The **2026 Six Nations** finished with Ireland as **runners-up** — four wins from five — and holding the **Triple Crown**, sealed against **Scotland** on the final afternoon, **41–21**, a twelfth consecutive win over them.
+
+In July they went south for the inaugural **Nations Championship**. They beat **Japan 36–20** in Newcastle. Then, on **18 July 2026**, they went to **Eden Park** to play New Zealand, where the All Blacks had not lost in **fifty-three** matches. **New Zealand won 40–21**, scoring six tries. **Dan Sheehan** captained Ireland for the third time. Going into that campaign Ireland were ranked **third**, behind South Africa and New Zealand; afterwards, a fourth.
+
+Ahead of them is **Rugby World Cup 2027** in Australia, and a pool that reads like a table of contents for this book: **Pool D — Portugal in Sydney on 4 October, Scotland in Perth on the 10th, Uruguay in Melbourne on the 17th.** Two of the three are chapters you have already read.
+
+Andy Farrell, who took over from Schmidt after the 2019 tournament, will take a side there trying, as World Rugby puts it, "to break their cycle of eight quarter-finals without reaching a semi-final."
+
+### What this generation leaves behind
+
+A hundred and fifty-two years after two rival unions in Dublin and Belfast sent a team of strangers to the Oval, the same governing body still picks one side for the whole island.
+
+It has survived a partition, an abandoned Championship, a bomb on the border, fifty-three years of exile from its own northern ground, an anthem it could not sing, and a decision to close a quarter of its own professional structure that it was forced to reverse. It has never split. Association football split within a decade of the border; rugby has now gone more than a century without doing so, not because the sport is nobler but because at every point where a division could have been formalised, somebody built a structure around it instead — a second union that merged, a stadium in Belfast, two seats on a selection committee, a fixture list moved south, a song commissioned from a man in Derry that belongs to no tradition at all.
+
+None of it was principled. Almost all of it was expedient. And it produced the one thing in Irish public life that has never been partitioned.
+
+In Limerick they still play on Sundays.
+
 ## Sources
 
-*(Gen 0–5 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Full chapter sources.)*
 
 - [Ireland — rugby history](https://www.rugbyfootballhistory.com/ireland.html) — RugbyFootballHistory.com *("Dublin University, founded in 1854, was the first organised Rugby Football Club in Ireland"; the two unions of 1874 — the **Irish Football Union** over "Leinster, Munster and parts of Ulster" and the **Northern Football Union of Ireland** controlling "the Belfast area" — amalgamating in **1879** into the IRFU with branches in Ulster, Leinster and Munster; the first international at Kennington Oval won by England "by two goals and a try to nil" before 3,000 spectators, **twenty players per side**)*
 - [National unions — founding dates](https://www.rugbyfootballhistory.com/national_unions.htm) — RugbyFootballHistory.com *("**1879** Irish Rugby Football Union (a merger of two Irish unions both formed in 1874)", between Scotland 1873 and Wales 1880)*
@@ -465,6 +529,17 @@ That was next, and so was a decade nobody in Irish rugby had ever had.
 - [1999 European Cup win — Ulster v Colomiers](https://ulster.rugby/content/1999-european-cup-win-ulster-rugby-vs-colomiers) — Ulster Rugby (official) *(**30 January 1999**, Ulster **21–6** Colomiers, **Lansdowne Road**, crowd of **49,000**)*
 - [Munster Rugby — history timeline](https://www.munsterrugby.ie/the-club/about-munster-rugby/history-timeline/) — Munster Rugby (official) *("Munster are crowned Champions of Europe after victory over a gallant Biarritz side" (2006, Millennium Stadium); Toulouse beaten in the 2008 final "at the Millennium Stadium, with the Heineken Cup returns to the province for the second time in three seasons")*
 - ["It was rugby's Wild West!" — the difficult early years of professionalism](https://www.the42.ie/rugby-transition-professional-class-of-95-3215691-Feb2017/) — The 42 *(the IRFU choosing the four provinces as its professional model but not resourcing them as it might have; "In 1996, the provinces were an also ran. Nobody cared about the provinces. It was all about the clubs")*
+
+- [Ireland — team spotlight, Rugby World Cup 2027](https://www.rugbyworldcup.com/2027/en/teams/ireland/spotlight) — Rugby World Cup (official) *(quarter-finals in **1987, 1991, 1995, 2003, 2011, 2015, 2019, 2023** and never beyond — "Generations have tried but Ireland are yet to shake their Men's Rugby World Cup quarter-final hoodoo"; "Andy Farrell's Ireland will be keen to break their cycle of **eight quarter-finals without reaching a semi-final** at Australia 2027"; **Pool D** — Portugal, **4 October, Sydney**; **Scotland, 10 October, Perth**; **Uruguay, 17 October, Melbourne**; Farrell taking over from Joe Schmidt after RWC 2019)*
+- [Rugby World Cup 2023 quarter-final review](https://www.world.rugby/news/881121/rugby-world-cup-2023-quarter-final-review?lang=en) — World Rugby (official) *(New Zealand **28–24**, having led **13–0** in the first quarter and been pulled back to **18–17** by half-time)*
+- [Six Nations — history](https://www.sixnationsrugby.com/history/) — Six Nations (official) *("Ireland had won their first Grand Slam in **61 years**" (2009, decided in Cardiff by Stephen Jones's late penalty); the **2018** Grand Slam under **Joe Schmidt** "with an impressive win over England at Twickenham" and **Jacob Stockdale**'s "Six Nations era record with seven tries in a single championship"; the **2023** Grand Slam "after winning a classic against France in Dublin before closing out the Championship with a hard-fought win over England")*
+- [A look back at Leinster's past Heineken Champions Cup triumphs](https://www.unitedrugby.com/latest/analysis-opinion/a-look-back-at-leinsters-past-heineken-champions-cup-triumphs-as-they-close-in-on-fifth-title) — United Rugby Championship *(**2009** v Leicester at Murrayfield; **2011** v Northampton at the Millennium Stadium after trailing **22–6** at half-time; **2012** v **Ulster 42–14**; **2018** v Racing 92 in Bilbao)*
+- [New Zealand 40 Ireland 21: All Blacks ease to victory at Eden Park](https://www.irishtimes.com/sport/rugby/2026/07/18/ireland-v-new-zealand-live-updates-both-sides-out-to-continue-winning-nations-championship-run/) — *The Irish Times*, **18 July 2026** *(the Nations Championship match at Eden Park; New Zealand six tries, Ireland three; the All Blacks' **53-match** unbeaten run at the ground)*
+- [Dan Sheehan returns to captain Ireland against the All Blacks at Eden Park](https://www.rugbypass.com/news/dan-sheehan-returns-to-captain-ireland-against-all-blacks-at-eden-park/) — RugbyPass *(Sheehan captaining for the third time, after missing the **36–20** win over Japan in Newcastle)*
+- [Ireland 41–21 Scotland, 2026 Six Nations](https://www.espn.com/rugby/story/_/id/48204484/ireland-scotland-match-report-six-nations-2026-rugby-championship) — ESPN *(the final-day win and a twelfth consecutive Irish victory over Scotland)* — the same fixture is cited in `chapters/09-scotland.md`; **the two chapters must agree.**
+- [Ireland are world's fourth best side, but hungrier rivals could overtake](https://www.irishtimes.com/sport/rugby/2026/07/21/gerry-thornley-ireland-are-worlds-fourth-best-side-but-hungrier-rivals-could-overtake/) — Gerry Thornley, *The Irish Times*, 21 July 2026
+
+⚠️ **Gen 6 — one scoreline conflict, resolved for internal consistency.** A search summary gives the final-day 2026 Triple Crown win over Scotland as **43–21**; ESPN and the already-published **Scotland chapter** both have **41–21**. The draft uses **41–21** so the two chapters agree. **Confirm against a match report before print** and correct both chapters together if wrong. Also from secondary extracts rather than direct reads: the **thirty-seven phases** of the 2023 quarter-final endgame, and the detail of Stephen Jones's 2009 penalty.
 
 ⚠️ **Gen 5 open items.** The **exact date of the 2006 Munster final** (given as 20 May in the draft) and the **43–13** Croke Park scoreline both come from secondary extracts rather than direct reads — verify. Also unverified: whether **2007** saw the return of a senior international to Ravenhill specifically, or another Northern Ireland venue. The *Irish Examiner* suggests the **2008** financial review (Morgan Buckley's analysis) may have been a closer call for Connacht than 2003 — worth a look if the Connacht material is expanded.
 

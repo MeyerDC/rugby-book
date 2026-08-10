@@ -552,3 +552,56 @@ Examiner* hints the **2008** review may have been a closer call for Connacht tha
 confirmation of the never-a-semi record; when Ireland first reached No. 1; Leinster's four titles;
 and a dated mid-2026 close (Ireland lost 40–21 to New Zealand at Eden Park; captain Dan Sheehan;
 RWC 2027 Pool D with **Scotland and Uruguay** — two more chapters of this book).
+
+---
+
+## ⭐ GEN 6 — DRAFTED. **IRELAND CHAPTER DRAFT COMPLETE (August 2026).**
+**496 lines of prose, 554 with sources. All seven generations.** Sits with the rewritten chapters
+(Georgia 474, Romania 641, Scotland 578, England 580).
+
+**Verified from official sources:**
+- **THE RECORD THE GENERATION IS BUILT ON** (rugbyworldcup.com, official): quarter-finals in **1987,
+  1991, 1995, 2003, 2011, 2015, 2019, 2023** — **eight, and never a semi-final.** "Generations have
+  tried but Ireland are yet to shake their Men's Rugby World Cup quarter-final hoodoo."
+- **2023 QF** (World Rugby): **NZ 28–24**, from **13–0** up to **18–17** at the break.
+- **Three Grand Slams** (Six Nations official): **2009**, the first in **61 years**; **2018** under
+  Schmidt, sealed at Twickenham, with **Stockdale**'s seven-try record; **2023** under Farrell.
+- **Leinster ×4** (URC): 2009 (Leicester, Murrayfield), 2011 (Northampton, from 22–6 down), **2012
+  (Ulster 42–14, an all-Ireland final)**, 2018 (Racing 92, Bilbao).
+  → With Ulster 1999 and Munster 2006/2008, **the four provinces have won seven European Cups**.
+- **Mid-2026 close:** 2026 Six Nations **runners-up** with the **Triple Crown**, sealed **41–21 over
+  Scotland**; **Japan 36–20** in Newcastle; **New Zealand 40–21 at Eden Park, 18 July 2026** (six tries;
+  the All Blacks' **53rd** straight there); **Dan Sheehan** captain for the third time; ranked **third**
+  going in, **fourth** after. **RWC 2027 Pool D: Portugal (4 Oct, Sydney), Scotland (10 Oct, Perth),
+  Uruguay (17 Oct, Melbourne)** — two of the three are chapters of this book.
+
+**⭐ THE CROSS-CHAPTER ANSWER, now stated plainly in the text:** Scotland's two clubs have produced two
+major trophies in thirty professional years; Wales's regions, cut five → three, none since 2010;
+**Ireland kept four and its four won seven.** The variable is not money or talent but *how many
+professional teams a country decided it could carry* — and, in Ireland's case, how many it was
+**prevented from cutting** (Gen 5, Connacht 2003).
+
+**The ending, per the design block:** no thesis restatement. The chapter closes on the accumulation —
+"None of it was principled. Almost all of it was expedient. And it produced the one thing in Irish
+public life that has never been partitioned." — and then a single short line that pays off Gen 1's
+controlled experiment: **"In Limerick they still play on Sundays."**
+
+### ⚠️ VERIFY BEFORE PROMOTION (all flagged in the draft's Sources block)
+1. **The 2026 Triple Crown scoreline.** A search summary says **43–21**; ESPN and the already-published
+   `chapters/09-scotland.md` both say **41–21**. The draft uses **41–21 so the two chapters agree** —
+   confirm against a match report and **correct both together** if wrong.
+2. **1948 try-scorers** (Mullan, Daly, Williams) — newsletter.co.uk 403s both fetch methods; from
+   search extracts only.
+3. **Croke Park 43–13** and the **20 May 2006** Munster final date — secondary extracts.
+4. **1954 detail deliberately omitted**: Jim McCarthy, Sarsfield Hogan, "the Salute", the figure of
+   eleven players — widely circulated, none verified.
+5. **1982 Triple Crown** not asserted (only 1985 is sourced).
+6. **Connacht 2003 march** — the tandfonline article 403s; quoted from its published abstract,
+   corroborated in outline by Connacht's own site and the *Irish Examiner*.
+7. The **thirty-seven phases** of the 2023 quarter-final endgame, and **Stephen Jones's 2009 penalty**.
+
+### STILL TO DO BEFORE PROMOTION
+- Consolidate the per-generation source lists into one deduplicated `## Sources` block.
+- Add the chapter to `SUMMARY.md` §5 as **10. Ireland**, and update §6's open-threads list.
+- `git mv drafts/10-ireland.md chapters/10-ireland.md`, then `python3 combine_book.py`.
+  (`combine_book.py` uses `sorted()`; a `10-` prefix sorts correctly after `09-` — already verified.)
