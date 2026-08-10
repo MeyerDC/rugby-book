@@ -367,3 +367,76 @@ Both academic PDFs here were read that way. **This also means `notes/ireland.md`
 solvable:** Liam O'Callaghan's *Irish Rugby and the First World War* (hira.hope.ac.uk) was earlier
 recorded as abstract-only because the naive extractor failed — it has now been extracted in full
 (17 pages, ~60k chars) and can answer several of the Ireland chapter's Gen 1 open questions.
+
+---
+
+## GEN 3 — DRAFTED (August 2026). 248 lines of prose cumulative (Gen 0–3). Half the chapter.
+
+The hinge, and the longest section so far (~82 lines). Four sources, all verified.
+
+**⭐ THE EXPULSION, 2 March 1931 — quoted in full.** The Home Unions' statement is now in the text in
+French and English, including the condition attached (*"la certitude que le contrôle et la conduite du
+jeu sont organisés de manière satisfaisante"*). **Clubs were banned as well as the national side** —
+every fixture at every level.
+**The four grounds** (AS Lagny): disguised professionalism; unregulated club recruitment; internal
+strife in the FFR, with clubs in **dissidence from December 1930**; and brutality. **Michel Pradié**,
+18, dead on **4 May 1930**, is the human centre. France then won their last match, **England 14–13**.
+
+**⭐⭐ THE ISOLATION YEARS — the detail that gives the section its weight.** Cut off from Britain and
+Ireland, French rugby *"had to be satisfied with matches against **Nazi Germany and fascist Italy**"*.
+→ The draft states this **attributed** ("in the words of one French account of the period"), not as
+its own assertion, and draws the conclusion without editorialising: *"That is where a sport goes when
+the democracies stop playing it. Not into reform. Into the only fixtures available."*
+**Readmission resolved:** FFR settles with the dissidents **1932** → formally **readmitted 1939** → war
+→ France not in the Championship again until **1947**.
+
+**⭐ GALIA, verified (Treize Mondial).** *"Jean Galia, rugbyman à XV et aventurier dans l'âme"*, a former
+French international, taken on an England tour by *"la liberté du jeu, la vitesse des passes et
+**l'esprit ouvrier des tribunes**"* — **the working-class spirit of the stands**. Founded the **Ligue
+Française de Rugby à XIII in Paris on 6 April 1934**; took the train to London within weeks; *"en moins
+de deux ans, les terrains se remplissent"*; **200+ clubs by 1939**.
+**⭐ THE GEN 2 PLANT PAYS OFF:** Galia was in the French pack at Colombes in April 1930 (WRU team
+sheet) — he played in the match that helped get France expelled, and then founded the code that
+profited from the expulsion. The draft calls back to it explicitly.
+**And Dine supplies the causation:** union's violence "led British teams to refuse to play their French
+counterparts. **This created an opening** for … rugby '**league**'", which became a "**credible
+alternative**" in the 1930s. → *A code invented in the north of England as the working man's answer to
+the RFU's amateur laws arrived in the one country expelled by those same laws' authors, and found the
+constituency it was built for.*
+
+**⭐⭐ 19 DECEMBER 1941 — the FFR uses the state.** Décret **n° 5285**, signed by **Pétain**, published
+**27 December**; the LFR XIII dissolved, the sport **entirely prohibited**, assets **seized** to the
+**Comité national des sports**, **155–159 clubs** gone. **Albert Ginesty** and **Paul Voivenel** pushed
+it, apparently by report to **Jean Borotra**.
+**Why Vichy agreed (Dine):** it "decided that the **amateur and ruralist values** embodied by *le rugby
+à quinze* more closely fit its ideological program and, **with the ready cooperation of that sport's
+grateful officials**, took concrete measures to reassert the primacy of rugby union." The draft reads
+this against *Travail, Famille, Patrie* — union had a story about itself that fitted the new state's
+programme, and thirteen-a-side had one that did not, being openly professional, urban and working-class
+by design.
+**The judgement the draft actually makes** (and it is the most careful sentence in the chapter): *"The
+FFR did not invent Vichy's ideology. It recognised that its own myth about itself was the one the new
+state wanted to hear, and it said so, at the moment when saying so would destroy a rival."*
+Then the pairing: **RFU 1895, bylaws, northern working class pushed out. FFR 1941, a collaborationist
+government, the working-class code abolished and its money taken.**
+
+**⭐ AND IT RAN TO 1993.** Forbidden its own name, the code was made to call itself *jeu à XIII* until
+the **Cour de cassation** *"déboute définitivement la FFR"* on **4 June 1993** — **fifty-two years**.
+
+**How the two hard judgements were handled (Latham standard):**
+- **The Home Unions from inside** — a boy was dead, spectators had been carried off, payments were
+  proven, and "from inside their own logic, the decision follows" — *and* the draft states that the same
+  unions had built the amateur creed as an instrument of exclusion and used it on their own northern
+  clubs in 1895. It says explicitly that both are true and **declines to choose**.
+- **The FFR** — stated plainly, not softened, and not pushed past the evidence. Dine's reviewer's phrase
+  is **quoted rather than paraphrased**.
+
+⚠️ **Verify before print:** the AS Lagny page was read through a search extract, not opened directly —
+in particular the **Nazi Germany / fascist Italy** characterisation (attributed in the text) and the
+**14–13** win over England.
+
+**NEXT: Gen 4 — Monsieur Rugby (1947–1962).** Already in hand: **Jean Prat** of **FC Lourdes**, "Monsieur
+Rugby", first international to 50 caps; **27 February 1954, Colombes, France 3–0 New Zealand**, Prat
+scoring the only try, a defeat the All Blacks "remembered as a tragedy"; the **1954** shared title,
+**1959** first outright, and **four in a row 1959–62**; the **Boniface brothers**, and **Guy Boniface's
+death on 1 January 1968**. The Gen 3 close already points at Lourdes.

@@ -164,9 +164,91 @@ Two weeks after that Wales match, on **4 May 1930**, in an **Agen–Pau** champi
 
 In London, the four Home Unions were watching all of it, and had begun to compare notes.
 
+## Generation 3: Expelled (1931–1946)
+
+**2 March 1931. London.** The four Home Unions meet, and issue a sentence that removes France from international rugby for the next sixteen years.
+
+> *Étant donné les conditions peu satisfaisantes dans lesquelles le rugby-football est dirigé et joué en France, ni nos fédérations ni les clubs dépendant de notre juridiction ne pourront organiser de match avec la France ou les clubs français.*
+
+Given the unsatisfactory conditions in which rugby football is directed and played in France, neither our federations nor the clubs under our jurisdiction may organise a match with France or French clubs — until, the statement went on, they had *la certitude que le contrôle et la conduite du jeu sont organisés de manière satisfaisante*: certainty that the control and conduct of the game were satisfactorily organised.
+
+Not just the national side. **The clubs too.** Every fixture, at every level, between France and Britain, stopped.
+
+---
+
+Understand what the men in that room believed they were doing, because the easy reading is the wrong one.
+
+Four charges lay behind the decision. **Disguised professionalism** — the jobs and payments of the previous generation, which the Welsh union's account records baldly: "in 1931, it was revealed that some French players were being paid by their clubs — in breach of the amateur ethos of the game." **Unregulated recruitment** between clubs. **Internal strife** inside the FFR, where a group of clubs had gone into open dissidence in December 1930. And **brutality**, in internationals and in the French championship alike.
+
+The last of those was not an abstraction. Ten months before the meeting, on **4 May 1930**, in an **Agen–Pau** championship semi-final, an eighteen-year-old called **Michel Pradié** was tackled, suffered a displaced vertebra, and died within hours. Six weeks before that, at Colombes, police had carried unconscious spectators off the side of the pitch during the Wales match.
+
+A boy was dead. The four unions that had spent sixty years insisting rugby was a moral training for gentlemen looked at France and saw a game they no longer recognised — being played for jobs, recruited for like labour, and killing people. From inside their own logic, the decision follows.
+
+It is also true that those same unions had built the amateur creed in the first place as an instrument for deciding who was entitled to play, had used it in 1895 to expel their own northern clubs for compensating working men, and were now applying it to a foreign country whose game had passed into the hands of tanners and stockmen. Both things are true at once, and the chapter does not need to choose between them.
+
+France, for the record, won their last match before the door closed: **England beaten 14–13**, in what one French account calls a surreal atmosphere.
+
+### Sixteen years outside
+
+The isolation ran, in practice, from 1931 to 1947.
+
+The FFR reached an agreement with its dissident clubs in **1932**, and France was formally **readmitted in 1939** — at which point the war removed the Championship altogether, and France did not play in it again until **1947**.
+
+What France did in the meantime is the part that ought to be stated plainly. Cut off from Britain and Ireland, the French were left, in the words of one French account of the period, *à se contenter de matchs contre l'Allemagne nazie et l'Italie fasciste* — to make do with matches against **Nazi Germany and Fascist Italy**.
+
+That is where a sport goes when the democracies stop playing it. Not into reform. Into the only fixtures available.
+
+### Galia
+
+And into a rival code, which is the consequence the Home Unions did not intend and could not have prevented.
+
+Dine's account of the mechanism is exact: union's violent reputation "led British teams to refuse to play their French counterparts. **This created an opening** for a more recent version of the sport, rugby *league*." Playing a more attractive style and achieving some international success, professional rugby league "emerged as a **credible alternative** to rugby union in France in the 1930s."
+
+The man who walked through the opening was **Jean Galia** — *rugbyman à XV et aventurier dans l'âme*, a former French international, and, as the last generation noted, a member of the French pack in that bruising Colombes afternoon of April 1930.
+
+On a trip to England, Galia saw rugby league and was taken by three things: *la liberté du jeu, la vitesse des passes et **l'esprit ouvrier des tribunes*** — the freedom of the play, the speed of the passing, and **the working-class spirit of the stands**.
+
+On **6 April 1934, in Paris**, he founded the **Ligue Française de Rugby à XIII**. Within weeks he and his team took the train to London to play their first official match against a British side.
+
+It caught immediately. *En moins de deux ans, les terrains se remplissent de curieux et de passionnés* — inside two years the grounds were filling. By **1939 there were more than two hundred affiliated clubs**.
+
+Consider what that means. A code invented in the north of England as the working man's answer to the RFU's amateur laws had arrived in the one country in Europe whose rugby had just been expelled by those same laws' authors — and it had found, in the towns of the south-west, precisely the constituency it was built for.
+
+### 19 December 1941
+
+The FFR's answer was not to compete. It was to have rugby league abolished.
+
+**Décret n° 5285, signed by Maréchal Philippe Pétain on 19 December 1941** and published in the *Journal Officiel* on the 27th, dissolved the Ligue française de rugby à XIII. **The practice of the sport was entirely prohibited.** Its property, moveable and immoveable, was **seized and transferred to the Comité national des sports** for liquidation. The **155 to 159 clubs** on its books as of June 1940 ceased to exist.
+
+The federation's own historians name who pushed for it: **Albert Ginesty**, president of the FFR, and **Paul Voivenel**, its honorary president, who appear to have submitted a report on rugby to **Jean Borotra**, Vichy's Commissioner for Sport.
+
+And the regime had its own reason to agree, which Dine identifies: **Vichy decided that the amateur and ruralist values embodied by *le rugby à quinze* more closely fitted its ideological programme** and, in his reviewer's phrase, "**with the ready cooperation of that sport's grateful officials**, took concrete measures to reassert the primacy of rugby union."
+
+Read that against the regime's motto. *Travail, Famille, Patrie*; the cult of the soil and the village; the return to a rural France uncorrupted by money and cities. Fifteen-a-side rugby, by 1941, had a story about itself that fitted that programme perfectly — the amateur game of the countryside — and thirteen-a-side had a story that did not, being openly professional, urban and working-class by design.
+
+The FFR did not invent Vichy's ideology. It recognised that its own myth about itself was the one the new state wanted to hear, and it said so, at the moment when saying so would destroy a rival.
+
+England's RFU had used bylaws in 1895 to push the northern working class out of its union. The FFR, in 1941, used a collaborationist government to abolish the working-class code outright and take its money.
+
+### Fifty-two years
+
+The code came back after the Liberation, but not under its own name. Forbidden the words *rugby à XIII*, it was made to call itself *jeu à XIII* — the game of thirteen — and the FFR fought to keep it that way through the courts for decades.
+
+It ended on **4 June 1993**, when the **Cour de cassation** *déboute définitivement la FFR*: definitively dismissed the French Rugby Federation's case.
+
+Fifty-two years after Pétain signed the decree, a French court finally allowed the other code to call itself rugby.
+
+### What this generation leaves behind
+
+A game readmitted to a world that had stopped, a rival destroyed by decree, and a country about to be extremely good at this sport.
+
+By 1946 France had been outside British rugby for fifteen years, had spent the 1930s playing the Axis states, had watched an entire rival federation dissolved and asset-stripped in its favour, and had emerged from occupation with its own governing body's hands not remotely clean.
+
+None of it made the French worse at rugby. In eight years they would beat the All Blacks; in thirteen they would be champions of Europe outright; and the man who did most to make that happen was already playing, in Lourdes, for a club nobody outside the Pyrenees had heard of.
+
 ## Sources
 
-*(Gen 0–2 sources — the full chapter list will be assembled once all eight generations are drafted.)*
+*(Gen 0–3 sources — the full chapter list will be assembled once all eight generations are drafted.)*
 
 - Pascal Charitas, ["La combination au Havre Athletic Club (1872-1914) : les « origines » du football-rugby ?"](https://www.persee.fr/doc/etnor_0014-2158_2011_num_60_1_1833) — *Études Normandes*, 2011, vol. 60 no. 1, pp. 15–28, via Persée *(la combination as a mixed sport combining rugby and association football, "a game practice without pre-defined conditions" as to rules or field; the HAC's statutes marginalising rugby and football separately **between 1872 and 1894** in favour of the hybrid, read as **an institutional strategy to prevent the club dividing into sections**; the epigraph quoting **Jean-Pierre Bodis** — "rugby arrives in France at Le Havre in 1872. **This is false!**" — and crediting **Paris (1877)** and **Bordeaux (1892)** instead; the article's emphasis on cultural transfer rather than mythologised "firsts")*
 - [1892 : le premier Titre de Champion de France de Rugby](https://www.memosport.fr/1892-le-premier-titre-de-champion-de-france-de-rugby.html) — Mémosport *("Le premier Championnat de France officiel a lieu le **20 mars 1892**"; Racing and Stade Français; "Disputée sur la pelouse du **stade de Bagatelle dans le bois de Boulogne**"; "le Racing … décroche la victoire **4 points à 3**"; "arbitrée par le **Baron Pierre de Coubertin en personne**"; "le Stade Français rate de peu une pénalité égalisatrice lors de la dernière minute de jeu")*
@@ -177,6 +259,13 @@ In London, the four Home Unions were watching all of it, and had begun to compar
 - [Rugby in south-west France](https://www.completefrance.com/travel/activities/rugby-in-south-west-france-6243950/) — Complete France *("The biggest sports committee outside of Paris was set up in **Bordeaux in 1888**, chiefly promoting rugby and gymnastics. Rugby took hold quickly in the city, **aided by the large number of British wine traders then in residence**"; the sociologist **Christian Pociello** on the spread from Bordeaux "like a wind whipping up and channelling rugby's spread like wildfire, towards **Agen, Toulouse and Carcassonne**, before the flames went on to take hold in **Perpignan**"; "many of the most prized players **recruited from jobs reliant on manual labour: mines, farms, leatherworks and livestock markets**"; **Philip Dine** on rugby becoming "a focus for a catalogue of southern grievances against the north in general and Paris in particular")*
 - Christopher S. Thompson, [review of Philip Dine, *French Rugby Football: A Cultural History*](https://h-france.net/vol2reviews/vol2no83thompson.pdf) — *H-France Review* vol. 2 (August 2002), no. 83 *(Dine's thesis that rugby "has actually played a significant role in the imaginative construction of the contemporary French nation" and its "close association with both the reality and mythology of rurality"; "**After this initial period when social elites developed and played the sport, in the southwest especially rugby became the sport of working-class neighborhoods and then of villages**, hence its enduring and intimate association with a traditional, rural *France profonde*"; "**teams recruited top players from other towns by promising them jobs in local businesses and industry**, a particularly effective enticement in times of high unemployment like the 1930s"; "Secular sports clubs and federations promoted and played rugby, while their Catholic rivals of the **Fédération Gymnastique et Sportive des Patronages de France** … **favored the less violent game of soccer**"; and — **held for Gen 3** — that union's "violent style of play led British teams to refuse to play their French counterparts. **This created an opening for** a more recent version of the sport, rugby '**league**'", and that "**Vichy decided that the amateur and ruralist values embodied by *le rugby à quinze* more closely fit its ideological program and, with the ready cooperation of that sport's grateful officials, took concrete measures to reassert the primacy of rugby union**")* ⚠️ PDF; extracted locally with `pypdf`.
 - [Crowd chaos causes casualties in 1930 Paris match](https://www.wru.wales/2021/04/crowd-chaos-causes-casualties-in-1930-paris-match/) — Welsh Rugby Union *(**21 April 1930**, Easter Monday, **Stade Olympique Yves du Manoir**, the Championship's final fixture; the surviving photograph of "**Police officers treat unconscious fans pitchside**"; **Wales 11–0**; the French XV including **Jean Galia**; the same ground having staged the **1924 Olympic final** in which the United States beat France "in a raucous and violent final that ended in a pitch invasion and the Americans needing police protection"; and — **held for Gen 3** — "**In 1931, it was revealed that some French players were being paid by their clubs – in breach of the amateur ethos of the game, and described as 'administrative deficiencies' – which resulted in the national team's exclusion from the Five Nations for eight years. By the time they were readmitted, World War Two had broken out, and they wouldn't feature again until 1947**")* ⚠️ 403s WebFetch; fetched with `curl`.
+
+- [1931 : la France est exclue du Tournoi](https://rucknmaul.wordpress.com/2011/02/19/1931-la-france-est-exclue-du-tournoi/) — Ruck'n'Maul *(the decision of **2 March 1931** by the Home Unions meeting in London; the statement "Étant donné les **conditions peu satisfaisantes** dans lesquelles le rugby-football est dirigé et joué en France, **ni nos fédérations ni les clubs dépendant de notre juridiction ne pourront organiser de match avec la France ou les clubs français**" pending "la certitude que le contrôle et la conduite du jeu sont organisés de manière satisfaisante"; the death of **Michel Pradié**, 18, on **4 May 1930** in an **Agen–Pau** championship semi-final, of a displaced vertebra hours after a tackle)*
+- [1931 — La France exclue du Tournoi](https://www.aslagnyrugby.net/1931-La-France-exclue-du-Tournoi.html?lang=fr) — AS Lagny Rugby *(the four grounds: **disguised professionalism**, **unregulated club recruitment**, **internal struggles within the FFR** including clubs in dissidence from **December 1930**, and **brutality** in internationals and the championship; France winning their last match, **England beaten 14–13**, "in a surreal atmosphere"; the **FFR's 1932 agreement** with the dissident clubs and **readmission in 1939**, the Tournament resuming in **1947**; and the isolation years — French rugby "had to be satisfied with matches against **Nazi Germany and fascist Italy**")* ⚠️ Fetched via search extract; **verify directly before print**, particularly the Germany/Italy characterisation, which the draft attributes rather than asserts.
+- [1934 : Jean Galia, le jour où le rugby à XIII est né en France](https://treizemondial.fr/1-1934-jean-galia-le-jour-ou-le-rugby-a-xiii-est-ne-en-france/) — Treize Mondial *("**Jean Galia, rugbyman à XV et aventurier dans l'âme**", a former French international; on an England tour taken by "**la liberté du jeu, la vitesse des passes et l'esprit ouvrier des tribunes**"; "**Le 6 avril 1934, à Paris, il fonde la Ligue Française de Rugby à XIII**"; the team taking the train to London weeks later for the first official match; "**En moins de deux ans, les terrains se remplissent de curieux et de passionnés**"; **more than 200 affiliated clubs by 1939**)*
+- [Interdiction du rugby à XIII en France](https://www.ffr13.fr/interdiction-du-rugby-a-xiii-en-france/) — FFR XIII (the French rugby league federation's own account) *(**Décret n° 5285**, "signé par le maréchal Philippe Pétain le **19 décembre 1941**", published in the *Journal Officiel* on **27 December 1941**, dissolving the **Ligue française de rugby à XIII**; the practice of the sport **entirely prohibited**; its assets seized and transferred to the **Comité national des sports** for liquidation; the **155–159 clubs** on the LFR XIII's books as of June 1940 dissolved; **Albert Ginesty** (FFR president) and **Paul Voivenel** (FFR honorary president) advocating the ban, apparently by report to **Jean Borotra**, Vichy's Sports Commissioner; and "**le 4 juin 1993 … la Cour de Cassation … déboute définitivement la FFR**", ending the enforced use of "*jeu à XIII*")*
+
+⚠️ **Gen 3 — the two hardest judgements in the chapter, and how they were made.** (a) The **Home Unions** are written from inside their own logic — a boy was dead, spectators had been carried off at Colombes, and payments had been proven — *and* the draft states that the same unions had built the amateur creed as an instrument of exclusion and used it against their own northern clubs in 1895. It declines to choose between the two readings. (b) The **FFR's collaboration** is stated without softening and without editorialising past the evidence: the draft says the federation "recognised that its own myth about itself was the one the new state wanted to hear, and it said so, at the moment when saying so would destroy a rival." **Dine's reviewer's phrase — "with the ready cooperation of that sport's grateful officials" — is quoted rather than paraphrased.**
 
 ⚠️ **Gen 2 — Stade Toulousain's five 1920s championships** (1922, 1923, 1924, 1926, 1927) and the "sport-king" characterisation come from search-result extracts, not a page opened and read. The draft asserts the five titles and the years; **verify before print**. The **1924 Olympic bronze for Romania** is carried from `notes/romania.md`, where it is sourced to Olympedia and World Rugby.
 
