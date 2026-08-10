@@ -314,9 +314,97 @@ What had not changed was any of the things it had been expelled for. The clubs s
 
 The next twenty-five years would take both halves of that — the beauty and the violence — to their limit, in a town on the Mediterranean that won everything and terrified everyone.
 
+## Generation 5: Flair and Castagne (1963–1987)
+
+**13 June 1987. Concord Oval, Sydney.** A minute or so left, France and Australia level in the first World Cup semi-final ever played, and the ball goes through **eleven pairs of French hands**.
+
+Rodriguez, Charvet, Berbizier, Lagisquet — each running at pace, each somehow finding a blue shirt as he offloads, a move that looks at every phase as though it must break down and does not. It reaches **Serge Blanco** just inside the Australian 22, with one line to run and what seems like half of Australia coming across to cover.
+
+It is a foot race for the corner. Blanco wins it. **France 30, Australia 24.**
+
+Seven days later, at Eden Park, New Zealand beat France **29–9** in the first World Cup final. But the semi-final is the match everyone remembers, and it is the perfect summation of what French rugby had become across the previous quarter-century: the most beautiful team in the world, and not quite the best.
+
+---
+
+This generation is remembered for two things that appear to contradict each other — **le beau jeu** and **la castagne**, the beautiful game and the brawl. Both are real. But the story underneath them is stranger and better than either, and it comes from a wine town on the Mediterranean.
+
+### Béziers
+
+Between **1971 and 1984** the **Association Sportive Biterroise** won the French championship **ten times**, along with three Yves du Manoir challenges and other trophies. Across **1971–1978** the club was, in the academic study of it, *quasiment invincible* — very nearly unbeatable.
+
+The obvious question is how. The answer everyone gives is that Béziers were frightening. The answer the scholarship gives is different.
+
+David Wozniak, writing in *Études Héraultaises*, frames the puzzle exactly: how did a team from a **medium-sized town, plunged into the great wine crisis of the 1950s**, extract itself from an unfavourable economic and social context to become, for more than a decade, the world reference in its sport? *La réponse tient en deux mots : **la recherche et l'innovation***. The answer is in two words: research and innovation.
+
+Note the setting first, because this book has seen it before. Béziers is in the Languedoc, and its crisis was **viticultural** — the wine trade that had carried the game into Bordeaux eighty years earlier, now collapsing in the south and taking a town's economy with it. Rugby did not arrive in these places despite the wine. It arrived with it, and rose again out of its failure.
+
+What the club actually did was build a laboratory.
+
+The long midweek session ran two to three hours, physical preparation and technique together, with **Raoul Barrière** analysing every movement — passes, catches, contacts, tackles, kicking — from the touchline and restarting the exercise from the beginning when it was not right. A physiotherapist was brought in specifically to improve the players' conditioning. In December 1983 the club took its squad to **Rizoul, in the Alps, for an altitude oxygenation camp**; the same year it adopted a new strength method.
+
+And at the end of the Friday session, the players **voted by secret ballot on the team for the weekend.**
+
+The captain **Richard Astre** put the club's self-conception in a series of questions:
+
+> *Qui introduit la concertation entre l'entraîneur et les joueurs ? l'AS Béziers. Qui systématise les recherches pour rationaliser l'entraînement ? l'AS Béziers. Qui fait entrer tous les joueurs qui le désirent dans tous les rouages du club ? Béziers encore.*
+
+Who introduced consultation between coach and players? AS Béziers. Who systematised research to rationalise training? AS Béziers. Who brings every player who wants it into every working part of the club? Béziers again. And all of it, Astre said, began by questioning a notion accepted by almost all of French rugby — **that a club depends on one personality**, usually a patron.
+
+The **BBC** sent people to investigate what they called *the Béziers Phénomène*. A former England scrum-half, by then a commentator, advised the English to copy it.
+
+Béziers once beat the French national team **50–14**.
+
+### What Béziers gave France
+
+The national side then took the method wholesale.
+
+In **1977** France won the **Grand Slam** using the **same fifteen players in every match and without conceding a single try** — playing, in Wozniak's account, Béziers' way, under Astre's influence, from the South African tour of 1975 onwards.
+
+That is not a flair story. That is a story about a club that treated rugby as a research problem, handed its method to a national team, and produced the most controlled Five Nations campaign anyone had managed.
+
+It also rhymes with something from a decade earlier. France's **first Grand Slam, in 1968**, under the captaincy of **Christian Carrère**, was won — by one account — *without having a head coach, in self-management*.
+
+Secret ballots for selection; a Grand Slam without a coach; every player admitted into every working part of the club. Whatever else French rugby was in these years, it had a persistent instinct for **running itself from below** — which is a strange thing to find in the sport that this book has otherwise watched being administered from above at every turn.
+
+### The castagne
+
+And then the other half, which cannot be left out.
+
+French club rugby in this period was violent in a way that the rest of the sport found genuinely shocking, and the most serious documented case belongs to the same Béziers side. In **1978** the second row **Michel Palmié** was **suspended for life** for striking **Armand Clerc** of Racing, leaving Clerc blind or almost blind in one eye. French accounts record that his international career was ended under pressure from the British unions. He later became a director of the FFR.
+
+That is the ledger, and both columns are real. The club that invented player self-government and altitude training also produced the worst disciplinary case in French rugby. The country whose 1977 side conceded no tries in a Grand Slam was the country whose championship the Home Unions had once refused to be in the same competition as.
+
+The framing that French writers use for the split is *rugby de tradition* against *rugby de terroir*: the British inheritance of discipline, fair play and the Corinthian spirit, against a southern game rooted in *impetuous emotion, instinct and liberté* that declined to accept either authority or rigid rules. It produced both columns of the ledger. It was never going to produce only one.
+
+### The state, again
+
+One more thread, because it places France partly in this book's second section as well as its fourth.
+
+After the **1960 Rome Olympics**, embarrassed by French athletes' performance and wanting to project *la France qui gagne* — the France that wins — **Charles de Gaulle** sought to associate the nation with its stylish and successful rugby side. Dine's judgement, in his reviewer's summary, is that French rugby, "long a vector of regional identity, particularly in the southwest, was **exploited in moments of perceived crisis by national governments** seeking to impose their particular vision of French values and greatness."
+
+Nineteen years after Vichy had reached for rugby's *amateur and ruralist values*, the Fifth Republic reached for its glamour. The sport was serviceable to both.
+
+### Casque d'Or
+
+The player who carried the era's public face was a blond flanker from Toulouse.
+
+**Jean-Pierre Rives** — *Casque d'Or*, the golden helmet — won **59 caps** and captained France **34 times**, then a record. He led the Grand Slams of **1977** and **1981**. And on **Bastille Day 1979**, at **Eden Park**, he led France to **24–19** over New Zealand: the first French victory on New Zealand soil.
+
+Behind him, **Serge Blanco** was assembling the record that would end with **93 caps**, 17 as captain, and **38 tries** from full-back — the position from which, in this era, France attacked. And **Philippe Sella**, of Agen, was beginning a career that Jacques Fouroux would summarise as having "**the strength of a bull but the touch of a piano player**".
+
+### What this generation leaves behind
+
+The best team never to win anything that counted, on the eve of a tournament that would start counting.
+
+By 1987 France had Grand Slams in 1968, 1977 and 1981, a win in New Zealand, the most admired attacking rugby in the world, and a domestic championship still capable of ending a man's sight. It had built, at Béziers, the most sophisticated training system in the sport, and given the method away to its national team.
+
+And in the first World Cup it had lost the final.
+
+The tournament that beat them was about to change everything about the sport — including, within eight years, the amateur pretence that France had been quietly ignoring since the 1920s.
+
 ## Sources
 
-*(Gen 0–4 sources — the full chapter list will be assembled once all eight generations are drafted.)*
+*(Gen 0–5 sources — the full chapter list will be assembled once all eight generations are drafted.)*
 
 - Pascal Charitas, ["La combination au Havre Athletic Club (1872-1914) : les « origines » du football-rugby ?"](https://www.persee.fr/doc/etnor_0014-2158_2011_num_60_1_1833) — *Études Normandes*, 2011, vol. 60 no. 1, pp. 15–28, via Persée *(la combination as a mixed sport combining rugby and association football, "a game practice without pre-defined conditions" as to rules or field; the HAC's statutes marginalising rugby and football separately **between 1872 and 1894** in favour of the hybrid, read as **an institutional strategy to prevent the club dividing into sections**; the epigraph quoting **Jean-Pierre Bodis** — "rugby arrives in France at Le Havre in 1872. **This is false!**" — and crediting **Paris (1877)** and **Bordeaux (1892)** instead; the article's emphasis on cultural transfer rather than mythologised "firsts")*
 - [1892 : le premier Titre de Champion de France de Rugby](https://www.memosport.fr/1892-le-premier-titre-de-champion-de-france-de-rugby.html) — Mémosport *("Le premier Championnat de France officiel a lieu le **20 mars 1892**"; Racing and Stade Français; "Disputée sur la pelouse du **stade de Bagatelle dans le bois de Boulogne**"; "le Racing … décroche la victoire **4 points à 3**"; "arbitrée par le **Baron Pierre de Coubertin en personne**"; "le Stade Français rate de peu une pénalité égalisatrice lors de la dernière minute de jeu")*
@@ -337,6 +425,18 @@ The next twenty-five years would take both halves of that — the beauty and the
 - [France claim historic triumph in South Africa](https://www.espn.com/rugby/story/_/id/15405749/france-claim-historic-triumph-south-africa) — ESPN *(the **1958** tour: France arriving in **Salisbury on 8 July 1958** for its first tour of a Commonwealth country — the first time France had played outside Europe, the first time the team had blazers, the first time they were called **les Tricolores** and the first time they beat the Springboks; captain **Lucien Mias**, a medical doctor, man of the match, who "prescribed his own medicine when overcome with nerves on the eve of the match"; **3–3 drawn at Newlands**, **France 9–5 at Ellis Park**; the series taken **1–0 with one drawn**, "**the first time South Africa had lost a home series in 62 years**"; **Saturday 16 August 1958** at **3:15 pm** before **100,000**; the *Sunday Express* — "**At Ellis Park, a man cried**", and the man was South African)* ⚠️ Details drawn from search extracts across ESPN and Rugby365; **verify directly before print.**
 - [The Six Nations / International Championship](https://www.rugbyfootballhistory.com/6nations.htm) — RugbyFootballHistory.com *(France's first title **shared in 1954** with England and Wales; **first outright in 1959**; champions **four years running, 1959–1962**)*
 - [Guy Boniface remembered on the 50th anniversary](https://www.espn.co.uk/rugby/story/_/id/21931330/mercurial-french-centre-guy-boniface-remembered-50th-anniversary) — ESPN *(**André Boniface** debuting 1954, 48 caps; **Guy** from 1960, 35 caps; both of **Stade Montois**; Guy's death on **1 January 1968**, aged 30, "from injuries sustained in a car accident while traveling home from a match")*
+
+- David Wozniak, ["Le « Grand Béziers » (1961-1984), une épopée sportive"](https://www.etudesheraultaises.fr/wp-content/uploads/2019-53-12-le-grand-beziers.pdf) — *Études Héraultaises* n° 53 (2019), 11 pp. *(**ten French championships 1971–1984**, three Yves du Manoir challenges and "la première Coupe d'Europe"; "**Au cours des années 1971-1978, le club était quasiment invincible**"; the framing question — how a team "**issue d'une ville moyenne, plongée dans la grande crise viticole des années 1950**" became "la référence mondiale de son sport", answered "**en deux mots : la recherche et l'innovation**"; **Raoul Barrière** analysing every movement from the touchline and restarting exercises; a physiotherapist brought in for conditioning; the **December 1983 altitude camp at Rizoul**; "**un vote des joueurs à bulletins secrets, désignait la composition de l'équipe**"; **Richard Astre**'s "Qui introduit la concertation entre l'entraîneur et les joueurs ? l'AS Béziers…"; **Béziers beating the French national team 50–14**; and France's **1977 Grand Slam** won "avec les 15 mêmes joueurs sans encaisser un seul essai", playing Béziers' way under Astre's influence from the 1975 South Africa tour; the **BBC** investigating "the Béziers Phénomène")* ⚠️ PDF; extracted locally with `pypdf`.
+- [1987 Rugby World Cup in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-1987/) — RugbyPass, with [RWC #27: Serge Blanco magic sees France past Australia](https://www.irishtimes.com/sport/rugby/international/rwc-27-serge-blanco-magic-sees-france-past-australia-1.2325905) — *The Irish Times* *(the semi-final at **Concord Oval, Sydney, on 13 June 1987**, **France 30–24 Australia**, the ball through **eleven pairs of French hands** before Blanco touched down "in the corner with just over a minute remaining"; the move through **Rodriguez, Charvet, Berbizier, Lagisquet**, Blanco receiving "just inside the Australia 22" and winning "a foot race for the corner"; and the **final on 20 June 1987 at Eden Park, New Zealand 29–9 France**)* ⚠️ **The mapping pass dated this semi-final "27 December 1987", which is impossible for a tournament played in May–June.** The correct date is **13 June 1987**.
+- [Jean-Pierre Rives](https://www.cnn.com/2018/07/09/sport/jean-pierre-rives-france-rugby-sculptor-intl-spt) — CNN *("**Casque d'Or**"; **59 caps**, captain **34 times**; Grand Slams **1977** and **1981**; leading France to **24–19 over New Zealand at Eden Park on Bastille Day 1979**, the first French win on New Zealand soil)*
+- [Serge Blanco — World Rugby Hall of Fame](https://www.world.rugby/halloffame/inductees/704815) — World Rugby (official) *(**93 caps** at retirement, **17 as captain**, **38 tries**)*
+- [Philippe Sella](https://ellisrugby.com/france-rugby-philippe-sella/) — Ellis Rugby *(Agen; **Jacques Fouroux** on him — "the **strength of a bull but the touch of a piano player**")*
+- [Solving the French rugby paradox](https://www.rugbypass.com/plus/solving-the-french-rugby-paradox/) — RugbyPass *(the British "***rugby de tradition***" of "discipline, fair play, and the Corinthian spirit" against the southern "***rugby de terroir***" rooted in "**impetuous emotion, instinct and liberté**" which "rejected authority and rigid rules")*
+- [1968 France Grand Chelem](https://ellisrugby.com/1968-france-grand-chelem-five-nations/) — Ellis Rugby *(France's **first Grand Slam, 1968**, captain **Christian Carrère**, won "without having a head coach, **in self-management**")*
+
+⚠️ **Gen 5 — the Palmié case, and how it is sourced.** In **1978** the Béziers second row **Michel Palmié** was **suspended for life** for striking **Armand Clerc** of Racing, leaving Clerc blind or almost blind in one eye; his international career was ended under pressure from the British unions; he later became a director of the FFR. This is **corroborated across French rugby media** ([Le Rugbynistère](https://www.lerugbynistere.fr/news/le-top-20-brutes-xv-france-journaliste-gallois-2702151755.php), [Ruck'n'Maul](https://rucknmaul.wordpress.com/2011/02/20/le-top-10-des-francais-les-plus-effrayants/), finalesrugby.fr) but **not from an official disciplinary record or an archival source**. It is a serious claim about identifiable people; the draft states it plainly and without embellishment, and **an official or contemporary press source should be found before print**.
+
+⚠️ **Gen 5 — the corrective the section is built on.** Béziers is popularly remembered for brutality. **The scholarly account attributes its dominance to research, innovation, player self-government and sports science** — secret-ballot selection, a physiotherapist, an altitude camp — and records that France's 1977 Grand Slam was won by adopting the Béziers method. The draft carries **both** columns and refuses to reduce the club to either. Note also the thread it opens: secret ballots at Béziers, a Grand Slam won "in self-management" in 1968 — **French rugby's recurring instinct for running itself from below**, in a sport this book has otherwise watched being administered from above.
 
 ⚠️ **Gen 4 — the cross-chapter claim, and its limits.** The draft sets the 1958 series against `06-south-africa.md`'s Gen 2, "**The Machinery**" (1948–1969). That framing is the book's own; the *fact* it rests on — South Africa's first home series defeat in 62 years, at Ellis Park, before 100,000 — is ESPN's. The draft also says plainly that the 3–0 win over New Zealand in 1954 was **not yet *le rugby-champagne***: a French pack beating a New Zealand pack by the width of a try, not the expansive style France would later be loved for. **Do not backdate the flair.**
 

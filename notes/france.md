@@ -494,3 +494,73 @@ Sella**; the *rugby de tradition* vs *rugby de terroir* framing; and **de Gaulle
 Olympics wanting "*la France qui gagne*" — which puts France partly in this book's Section 2 as well.
 Still to source: the **1987 semi-final date** (the mapping pass's "27 December 1987" is impossible), and
 **Béziers' "94.08% of matches without defeat"**.
+
+---
+
+## GEN 5 — DRAFTED (August 2026). 404 lines of prose cumulative (Gen 0–5). Six of eight.
+
+The chapter's biggest section (~95 lines), and the research **inverted the story I expected to write**.
+
+**⭐⭐ THE BÉZIERS CORRECTIVE.** Popular memory says Béziers dominated because they were brutal. The
+academic study — **David Wozniak, *Études Héraultaises* n° 53 (2019)** — says otherwise, and frames the
+puzzle as: how did a team "**issue d'une ville moyenne, plongée dans la grande crise viticole des années
+1950**" become "la référence mondiale de son sport"? *"La réponse tient en deux mots : **la recherche et
+l'innovation**."*
+- **10 championships 1971–84**; "**quasiment invincible**" across 1971–78; three Yves du Manoir
+  challenges and "la première Coupe d'Europe".
+- **The method:** midweek sessions of 2–3 hours combining conditioning and technique, with **Raoul
+  Barrière** analysing every movement from the touchline and restarting exercises until right; a
+  **physiotherapist** brought in for conditioning; an **altitude camp at Rizoul, December 1983**; a new
+  strength method the same year.
+- **⭐ PLAYERS SELECTED THE TEAM BY SECRET BALLOT** at the Friday session.
+- **⭐ ASTRE'S CREED, quotable:** "*Qui introduit la concertation entre l'entraîneur et les joueurs ?
+  l'AS Béziers. Qui systématise les recherches pour rationaliser l'entraînement ? l'AS Béziers. Qui fait
+  entrer tous les joueurs qui le désirent dans tous les rouages du club ? Béziers encore.*" — beginning,
+  he says, by questioning the notion accepted by almost all French rugby **that a club depends on one
+  personality**, usually a patron.
+- **Béziers beat the French national team 50–14.** The **BBC** came to investigate "the Béziers
+  Phénomène".
+- **⭐ AND FRANCE TOOK THE METHOD:** the **1977 Grand Slam** was won "**avec les 15 mêmes joueurs sans
+  encaisser un seul essai**", playing Béziers' way under Astre's influence from the **1975 South Africa
+  tour**. *That is not a flair story — it is a club that treated rugby as a research problem handing its
+  method to a national team.*
+
+**⭐ THE THREAD THIS OPENS — French rugby's autogestion.** Secret ballots at Béziers; the **1968 Grand
+Slam** under **Christian Carrère** won "without having a head coach, **in self-management**"; every
+player admitted "dans tous les rouages du club". **A recurring instinct for running itself from below**,
+in a sport this book has otherwise watched being administered from above at every turn. Worth carrying
+into Gen 6/7 as a counterweight to Ferrasse's autocracy and the Laporte conviction.
+
+**⭐ THE WINE THREAD CLOSES A LOOP.** Bordeaux's British **wine traders** carried the game inland in
+1888 (Gen 2); Béziers rose out of the Languedoc's **wine crisis** of the 1950s. The draft states it:
+*rugby did not arrive in these places despite the wine — it arrived with it, and rose again out of its
+failure.*
+
+**⚠️ THE CASTAGNE — stated, not softened, and not allowed to swallow the section.** In **1978** the
+Béziers second row **Michel Palmié** was **suspended for life** for striking **Armand Clerc** of Racing,
+leaving Clerc blind or nearly blind in one eye; his international career was ended under British
+pressure; **he later became a director of the FFR**. **Corroborated across French rugby media but NOT
+from an official disciplinary record or contemporary press** — a serious claim about identifiable
+people. The draft states it plainly and without embellishment. **Find an official or contemporary source
+before print.**
+The draft holds both columns: *"The club that invented player self-government and altitude training also
+produced the worst disciplinary case in French rugby."* Framing used: ***rugby de tradition*** vs
+***rugby de terroir*** (RugbyPass).
+
+**✅ DATE CORRECTED:** the RWC 1987 semi-final was **13 June 1987** at **Concord Oval, Sydney** —
+France **30–24** Australia, the ball through **eleven pairs of French hands**, Blanco scoring "with just
+over a minute remaining". The final was **20 June 1987, Eden Park, New Zealand 29–9**. *(The mapping
+pass's "27 December 1987" was impossible.)*
+
+**Also in:** **Rives** — *Casque d'Or*, 59 caps, 34 as captain, Grand Slams 1977 and 1981, and the first
+French win on New Zealand soil, **24–19 at Eden Park on Bastille Day 1979**. **Blanco** — 93 caps, 17 as
+captain, 38 tries. **Sella** — Fouroux's "strength of a bull but the touch of a piano player".
+**De Gaulle** after the **1960 Rome Olympics** wanting "*la France qui gagne*", with Dine's judgement
+that French rugby was "**exploited in moments of perceived crisis by national governments**" — which
+places France partly in this book's **Section 2** as well as its Section 4, nineteen years after Vichy
+had reached for the same sport's *amateur and ruralist values*.
+
+**NEXT: Gen 6 — Open (1988–2007).** Needed: professionalism in **1995** and how France handled it; the
+**1999 Twickenham semi-final** (France beat New Zealand — one of the great matches); the Grand Slams of
+**1997, 1998, 2002, 2004**; **hosting RWC 2007** and the semi-final defeat; and **Albert Ferrasse**'s
+long autocracy at the FFR, which is the direct counterweight to Gen 5's autogestion.
