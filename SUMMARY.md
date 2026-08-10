@@ -386,15 +386,36 @@ Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kon
 
 **Status: 10 written, 14 to go.**
 
-### The existing sections, and the proposed remainder
-The written chapters already group thematically, and the remaining fourteen extend that logic:
-1. **The British enclave in South America** (1–3): Uruguay, Argentina, Chile
-2. **Governments use rugby** (4–6): Georgia, Romania, South Africa
-3. **The home nations** (7–10): England, Wales, Scotland, Ireland
-4. **The game that stopped being English** (11–13): **France, New Zealand, Australia**
-5. **The Pacific** (14–16): **Fiji, Samoa, Tonga**
-6. **Latin Europe** (17–19): **Italy, Spain, Portugal**
-7. **The new world and the newcomers** (20–24): **Japan, USA, Canada, Zimbabwe, Hong Kong China**
+### Section plan — organised by CARRIER MECHANISM, not geography
+Each section names **who carried the game and what that did to its character**. That is the book's
+organising principle and the new sections follow it. (Chapters are *not* grouped by RWC pool — the pool
+table above is a scope checklist only.)
+
+1. **The British enclave in South America** (1–3): Uruguay, Argentina, Chile — *commerce built enclaves;
+   what happened next depended on the institutions that inherited them.*
+2. **Governments use rugby** (4–6): Georgia, Romania, South Africa — *the state as the carrying
+   institution.*
+3. **The home nations** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
+   and what it did at home.*
+4. **The game that left home** (11–13): **France, New Zealand, Australia** — *what rugby became once it
+   escaped British institutional control.* France made it a **rural, working-class regional identity**
+   (the south-west, not Paris); New Zealand made it a **national game with almost no class character**;
+   Australia is the **control case** — same colonial origin as New Zealand, neighbouring country, and
+   union stayed the **private-school game** while league took the working class, re-running **England's
+   1895 schism** on the other side of the world.
+   → This section **hinges off section 3**: it opens with the Home Unions **expelling France in 1931**
+   for professionalism (already carried in `07-england.md`), and the country they threw out is the one
+   that later built the pipeline which made Georgian and Romanian rugby.
+5. **The church and the export** (14–16): **Fiji, Samoa, Tonga** — *missionaries and village schools
+   carried it; European and Japanese clubs now extract it.* The sharpest institutional argument in the
+   modern game, and it connects directly to **Saurel's Georgian pipeline** (Georgia Gen 4) and
+   **Argentina's amateur-rule exodus**.
+6. **The late admissions** (17–19): **Italy, Spain, Portugal** — *Latin Europe, admitted to a British
+   club on somebody else's terms.*
+7. **Company and campus** (20–22): **Japan, USA, Canada** — *carried by employers and universities
+   rather than by class or nation.*
+8. **The colonial remnant** (23–24): **Hong Kong China, Zimbabwe** — *expatriate and settler rugby after
+   the empire that made it.*
 
 ### Why France is chapter 11
 It is the most overdue chapter in the book by a wide margin. France is mentioned **154 times across all
