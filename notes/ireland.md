@@ -384,3 +384,58 @@ against Wales at **Ravenhill, Belfast**." Plus the **1950 tricolour incident**, 
 threat** resolved by moving all internationals to Dublin, and Moore's "unity… briefly threatened in the
 1950s." **The Belfast pattern to land: first Triple Crown 1894 in Belfast; first Grand Slam 1948 at the
 ground the union had bought there in 1923.**
+
+---
+
+## GEN 3 — DRAFTED (August 2026). 278 lines of prose cumulative (Gen 0–3). Chapter halfway.
+
+**⭐⭐ THE CHAPTER'S HINGE, AND IT IS BRUTAL.**
+- **1948:** Ireland win their **first Grand Slam** by beating Wales **6–3 at Ravenhill, Belfast**, on
+  **13 March** — the ground the union bought in 1923, two years after partition.
+- **1954:** Republic-based players **refuse to take the field until "God Save the Queen" had finished**.
+  The IRFU's response is to move **all internationals to Dublin**.
+- **Result: no senior Irish international was played in Northern Ireland from 1954 until 2007.**
+  **Fifty-three years.**
+→ The union kept one team **by removing half the island from its fixture list**. The most concrete
+thing it ever did to keep Belfast inside the tent became a ground the national team could not visit.
+The draft refuses both sentimental readings: not a triumph of unity (the cost fell almost entirely on
+the north), and not a failure (every comparable Irish body had split or would; the alternative was the
+end of the single team). What the IRFU did in 1954 is what it did in 1874, 1879 and 1923 — identify
+what could not be agreed and **build around it rather than through it**. The anthem question was not
+settled, it was **avoided, at a price, for fifty years**.
+
+**Verified and used:**
+- **1948 Grand Slam:** Wales beaten **6–3 at Ravenhill, 13 March**; **Jack Kyle** break and long pass →
+  **Barney Mullan** try; **Bleddyn Williams** levels; **John Christopher Daly** scores the winner;
+  captain **Karl Mullen**; England beaten at Twickenham **14 Feb**, Scotland **6–0** at Lansdowne Road,
+  France in Paris. That side won **14 of 16 over four years**. Ireland also took the 1949 Championship.
+  → **The Belfast pattern now doubled:** first Triple Crown 1894 in Belfast, first Grand Slam 1948 at
+  Ravenhill.
+- **⭐ LLANDOW, 12 March 1950** (Cormac Moore, *Irish News*, fetched directly): an aircraft carrying
+  Welsh supporters home from the match in Belfast crashed in Glamorgan, killing **80 of the 83** aboard
+  — at the time the worst civil aviation disaster in the world. **The only point where the Irish and
+  Welsh chapters of this book physically intersect.**
+- **1953:** the *Connacht Sentinel* accused the IRFU of insulting its own country by having *God Save
+  the Queen* played as the anthem of Ireland at an international in Belfast.
+- **Moore, verbatim:** the IRFU chose Dublin as sole venue from 1954 "to avoid awkward and
+  controversial incidents over flags and anthems in Belfast, particularly after a strike was threatened
+  by southern-based players."
+- **Green & Gold, verbatim:** "This, little, disagreement resulted in no senior Irish international
+  matches being played in Northern Ireland from 1954 until 2007."
+
+**❌ DELIBERATELY NOT NAMED — widely circulated but unverified.** Accounts name the 1954 captain
+(**Jim McCarthy**), the IRFU president (**Sarsfield Hogan**), an abbreviated anthem called "**the
+Salute**", and **eleven** Republic-based players. **None survived direct checking** — the Irish News
+piece, fetched, contains none of it. Kept out. If a real source turns up they would sharpen the scene
+considerably.
+
+⚠️ **newsletter.co.uk 403s both WebFetch and curl.** The 1948 match detail (Mullan, Daly, Williams,
+Mullen, the 6–3) comes from **search-result extracts of that page, not a direct read**. Everything else
+in the section is directly fetched. **Verify the 1948 try-scorers before print.**
+
+**NEXT: Gen 4 — The Troubles (1970–1994).** Still the chapter's biggest research gap. The handoff is
+written: from August 1969 the question stops being which anthem to play in Belfast and becomes whether
+anyone will travel to Dublin at all. Needed: **Scotland and Wales refusing to travel in 1972**; the
+**1973 England visit** and the standing ovation for John Pullin's side (famous, still unverified — do
+not write until sourced); the 1982 and 1985 Triple Crowns; and how Ulster players and clubs functioned
+through the conflict.

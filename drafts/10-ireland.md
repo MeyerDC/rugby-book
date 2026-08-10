@@ -210,9 +210,75 @@ None of that had been reasoned from a principle. It was a series of expedients, 
 
 But the expedients had accumulated into something, and in the season that followed, that something would win everything there was to win — and it would do it in Belfast.
 
+## Generation 3: Ravenhill, and the Anthem Wars (1948–1969)
+
+**13 March 1948. Ravenhill, Belfast.** Ireland beat Wales **6–3**, and win the **Grand Slam** — the first in their history, and a first Triple Crown since 1899.
+
+The match turns on the fly-half. A characteristic **Jack Kyle** break and long pass sends the wing **Barney Mullan** over to make it 3–0; the Wales centre **Bleddyn Williams** crosses to level it before half-time; and **John Christopher Daly** scores the try that wins it. The captain is **Karl Mullen**. France had already been beaten in Paris, England at Twickenham on 14 February, Scotland **6–0** at Lansdowne Road.
+
+Look where they are standing. Ireland's first Grand Slam is completed at **Ravenhill** — the nine acres in Belfast that the union had bought twenty-five years earlier, two years after the island was partitioned. And it is the second time the north has hosted an Irish first: the **1894 Triple Crown** was also sealed in Belfast.
+
+A team drawn from a neutral republic and a British province, playing under an arrangement of deliberate ambiguity, wins everything there is to win, in the second city, in the year the Republic is preparing to declare itself a republic.
+
+It is the high-water mark of the whole arrangement. And within six years the Irish team will stop going to Belfast for **fifty-three years**.
+
+---
+
+First, the good part, because this generation opens with the best Irish side there had ever been.
+
+**Jack Kyle** was regarded as the finest player in that team and became the standard against which Irish fly-halves were measured for half a century. The side he played in **won fourteen of sixteen matches across four years**. Ireland took the Championship again in **1949**. After forty-nine years of nothing, Irish rugby had a golden age, and it lasted about as long as golden ages tend to.
+
+Then, two years later, the sport's first great disaster touched the fixture.
+
+### Llandow
+
+On **12 March 1950**, an aircraft carrying Welsh rugby supporters home from a match in Belfast came down at **Llandow** in Glamorgan. **Eighty of the eighty-three people aboard were killed.**
+
+It was, at the time, the worst civil aviation disaster anywhere in the world. The supporters had travelled to Ravenhill to watch Wales play Ireland, and most of them did not come home. The Irish and Welsh chapters of this book intersect at exactly one point, and it is this one.
+
+### 1954
+
+The arrangement that had held since partition depended on the anthem protocol described in the last generation: *Amhrán na bhFiann* in the Republic, *God Save the King* in Northern Ireland, nothing away. It was a fudge, and fudges have a shelf life.
+
+By the early 1950s the resentment was public. In **1953** the *Connacht Sentinel* accused the IRFU of insulting its own country by having *God Save the Queen* played as the anthem of Ireland at an international in Belfast. Southern players began pressing for the Irish anthem to be played and the tricolour flown at Ravenhill alongside the British ones.
+
+In **1954**, before an international in Belfast, the **Republic-based players refused to take the field until *God Save the Queen* had finished.**
+
+The union's response is the most consequential administrative decision in this chapter. Rather than resolve the symbolism, the IRFU **moved all internationals to Dublin**. Cormac Moore's summary is exact: the IRFU chose Dublin as the sole venue for rugby internationals from 1954 onwards "to avoid awkward and controversial incidents over flags and anthems in Belfast, particularly after a strike was threatened by southern-based players."
+
+And so, as one account puts it: "This, little, disagreement resulted in **no senior Irish international matches being played in Northern Ireland from 1954 until 2007**."
+
+Fifty-three years.
+
+Sit that beside the cold open. In **1948** Ireland won the Grand Slam at Ravenhill. In **1954** Ireland played its last international there for over half a century. The ground the union had bought in the north — the most concrete thing it ever did to keep Belfast inside the tent — became a ground the national team could not visit.
+
+### What it cost, and what it bought
+
+This is where the chapter has to be careful, because the obvious readings are both wrong.
+
+It would be sentimental to call 1954 a triumph of unity. Ireland kept one team by removing half the island from its fixture list. Ulster players went on being selected, and Ulster went on holding its seats on the committee, but for two generations no Ulster supporter could watch Ireland play at home without crossing a border. That is a real loss, borne almost entirely by the north.
+
+It would be equally wrong to call it a failure. Every comparable body in Irish life had already split, or would. Association football had two teams. The alternative to moving the fixtures was not a happier Ravenhill; it was the end of the single team, and everyone in the room knew it.
+
+What the IRFU did in 1954 was what it had done in 1874, in 1879 and in 1923: identify the thing that could not be agreed, and build around it rather than through it. The anthem question was not settled. It was **avoided**, at a price, for fifty years — and the team survived to have the argument again later, on easier terms.
+
+### The lean years
+
+The rugby, meanwhile, got worse. After the Kyle era Ireland spent the late 1950s and the 1960s in the ordinary condition of Irish rugby before professionalism — capable of beating anyone once, incapable of doing it twice, and short of the Championship more often than not.
+
+### What this generation leaves behind
+
+A single team, a divided fixture list, and an unspoken bargain that everyone had agreed not to examine.
+
+By 1969 the IRFU had held the union through partition, a world war fought on two footings, and an anthem crisis that cost it its northern venue. It had a Grand Slam twenty-one years in the past, won in a stadium its own internationals no longer visited.
+
+And the next thing coming was not an administrative problem. In August 1969 British troops deployed onto the streets of Northern Ireland, and for the following thirty years the question facing Irish rugby would not be which anthem to play in Belfast.
+
+It would be whether anyone would travel to Dublin at all.
+
 ## Sources
 
-*(Gen 0–2 sources — the full chapter list will be assembled once all seven generations are drafted.)*
+*(Gen 0–3 sources — the full chapter list will be assembled once all seven generations are drafted.)*
 
 - [Ireland — rugby history](https://www.rugbyfootballhistory.com/ireland.html) — RugbyFootballHistory.com *("Dublin University, founded in 1854, was the first organised Rugby Football Club in Ireland"; the two unions of 1874 — the **Irish Football Union** over "Leinster, Munster and parts of Ulster" and the **Northern Football Union of Ireland** controlling "the Belfast area" — amalgamating in **1879** into the IRFU with branches in Ulster, Leinster and Munster; the first international at Kennington Oval won by England "by two goals and a try to nil" before 3,000 spectators, **twenty players per side**)*
 - [National unions — founding dates](https://www.rugbyfootballhistory.com/national_unions.htm) — RugbyFootballHistory.com *("**1879** Irish Rugby Football Union (a merger of two Irish unions both formed in 1874)", between Scotland 1873 and Wales 1880)*
@@ -229,6 +295,12 @@ But the expedients had accumulated into something, and in the season that follow
 - [100 years of Ulster Rugby's home](https://ulster.rugby/content/100-years-of-ulster-rugbys-home) — Ulster Rugby (official) *("An area of **nine acres** was eventually found in the Ravenhill area and bought for **£2380** in **1923**"; the stated reason being that "the game's increasing popularity then meant that an alternative ground was needed to meet the public demand for rugby"; architects **Henry Hobart** and **Samuel Heron**; the inaugural fixture "An Interprovincial derby against Leinster on **Saturday 12th January 1924** (kick-off, 2.45pm)", finishing "in a fitting **14-6 victory for Ulster**")*
 - [Why is there an all-Ireland team in rugby and not in football?](https://www.irishnews.com/opinion/columnists/2023/09/05/news/why_is_there_an_all-ireland_team_in_rugby_and_not_in_football_-3579613/) — Cormac Moore, *The Irish News* *(the IRFU continuing on a united basis for all 32 counties after 1921; "the IRFU sanctioned and allocated funds for the erection of a new rugby stadium in Belfast, at Ravenhill in the early 1920s"; Ulster holding "**two of the five seats** on the international selection committee"; the anthem protocol; the 1950 tricolour incident; the 1953–54 strike threat; **Ireland's Call** by **Phil Coulter** from the **1995** World Cup)*
 - [Irish rugby internationals in the Second World War](https://archives.wartimeni.com/article/irish-rugby-internationals-at-war/) — WartimeNI *("The **Commonwealth War Graves Commission** lists the deaths of **8 Irish rugby internationals** during the Second World War"; **Commander Charles Francis George Thomas Hallaran**, who "died in a tragic accident while trying to rescue a fellow sailor on **21st March 1941**"; **Captain Robert Alexander**, who "died during the Allied invasion of Sicily on **19th July 1943**"; **Robert Blair Mayne**'s service with the Special Air Service)*
+
+- [Ireland's Call: the story of Irish rugby, part 2](https://greenandgoldrugby.com/irelands-call-the-story-of-irish-rugby-part-2/) — Green & Gold Rugby *(the anthem protocol — "Amhrán na bhFiann" in the Republic, "God Save the King" in Northern Ireland, "no anthem at away matches"; "Even this caused issues with Republic of Ireland players in **1954 refusing to take the field until 'God Save the Queen' was finished**. This, little, disagreement resulted in **no senior Irish international matches being played in Northern Ireland from 1954 until 2007**. It took until 1995 World Cup to resolve the matter when the IRFU commissioned a new anthem (Ireland's Call) and use the IRFU flag")*
+- [A tale of tricolours, the Triple Crown and a terrible tragedy](https://www.irishnews.com/opinion/cormac-moore-tricolours-the-triple-crown-and-a-terrible-tragedy-5VJDH6RLERHO3EEOOA6CQAURXU/) — Cormac Moore, *The Irish News* *(the IRFU choosing Dublin as the sole venue for internationals from 1954 "to avoid awkward and controversial incidents over flags and anthems in Belfast, particularly after a strike was threatened by southern-based players"; the **Llandow air disaster of 12 March 1950**, which "killed 80 of 83 people aboard a Tudor V aircraft carrying Welsh rugby supporters returning from the match in Belfast")*
+- [Remembering Ireland's inaugural Grand Slam in 1948](https://www.newsletter.co.uk/sport/rugby-union/six-nations-remembering-irelands-inaugural-grand-slam-in-1948-4070667) — The News Letter *(Ireland beat Wales **6–3 at Ravenhill** on **13 March** to seal a first Triple Crown in fifty years and the first Grand Slam; a **Jack Kyle** break and long pass putting **Barney Mullan** over; **Bleddyn Williams** levelling for Wales; **John Christopher Daly** scoring the winner; **Karl Mullen** captain, having led Ireland at Twickenham on **14 February 1948**; that side winning **14 of 16 matches over four years**)* ⚠️ 403s both WebFetch and curl — the detail above is drawn from search-result extracts of this page, not a direct read. **Verify before print.**
+
+⚠️ **Gen 3 — deliberately NOT named.** Widely circulated accounts of the 1954 crisis name the captain (**Jim McCarthy**), the IRFU president (**Sarsfield Hogan**), an abbreviated anthem known in Ulster as "**the Salute**", and **eleven** Republic-based players. **None of that survived direct checking** — the Irish News piece, when fetched, contains none of it. The draft therefore carries only the verified core: Republic-based players refused to take the field until "God Save the Queen" had finished, internationals moved to Dublin, and no senior international was played in Northern Ireland from 1954 until 2007.
 
 ⚠️ **Gen 2 — a motive left deliberately unresolved.** Why the IRFU bought Ravenhill has **two competing accounts**, and the draft presents both rather than choosing. Ulster Rugby's own history gives a purely practical reason (popularity, public demand); Cormac Moore frames the funding as part of accommodating the north after partition. A search summary asserting the ground was bought "to maintain the unity of Irish rugby union and the linkages between North and South" for **£2,300** is **not supported** by the club's own page, which gives **£2,380** and no unity motive — that figure and framing are **not used**. Also unresolved: whether the **1929 Sunday ban** was ever enforced.
 
