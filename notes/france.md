@@ -35,13 +35,16 @@ class in 1895; France's union used a collaborationist state to abolish its rival
   the first titles.
 - **Gen 5 — Flair and Castagne (1963–1987).** Le Grand Béziers; the first Grand Slam; Rives; Eden Park
   1979; Blanco's try, and out.
-- **Gen 6 — The Richest League in the World (1988–2026).** Professionalism; the Top 14; hosting 2023;
-  the Laporte conviction; dated mid-2026 close.
+- **Gen 6 — Open (1988–2007).** The last amateur years and the arrival of professionalism in 1995;
+  the Grand Slams of the 1990s and 2000s; the **1999 Twickenham semi-final**; hosting **RWC 2007**.
+- **Gen 7 — The Richest League in the World (2008–2026).** The Top 14's money; the **2011 final**; the
+  **2023 home World Cup**; the **Laporte** conviction; dated mid-2026 close.
 
-⚠️ **Two things for the author to decide.** (a) **Gen 6 spans 38 years** against Gen 2's ten — the
-longest span in the book. It could be split at **1995** (professionalism) or **2007/2011** (the Top 14's
-money arriving), making an eight-generation chapter. (b) The map above ends Gen 5 at **1987**, the first
-World Cup, which is a real epoch boundary rather than a round number.
+**✅ AUTHOR DECISION (August 2026): Gen 6 was SPLIT.** The original single Gen 6 spanned 38 years
+against Gen 2's ten — the longest in the book. It is now two roughly even eras (19 and 18 years),
+divided at **2007/08**: France hosted a World Cup in 2007, and the Top 14 had been created in 2005, so
+the boundary is a real one. **France is therefore an eight-generation chapter (Gen 0–7)**, joining
+South Africa, England, Wales and Scotland. Gen 5 still ends at **1987**, the first World Cup.
 
 ---
 
@@ -194,3 +197,45 @@ without defeat"; the 1977/1981/1987 Grand Slams; Sella's 1986 try-in-every-match
    pipeline into French clubs (ch. 4 Gen 4) and Romania's golden age built on beating France (ch. 5);
    Limerick, whose rugby culture a source in ch. 10 describes as resembling "**Northern England and
    France**"; the Bordeaux wine trade beside Uruguay's saladeros and Chile's nitrate ports (chs. 1, 3).
+
+---
+
+## GEN 0 — DRAFTED (August 2026), `drafts/11-france.md`. 58 lines of prose.
+
+**⭐⭐ THE ORIGIN MYTH IS CONTESTED BY FRENCH SCHOLARSHIP — and the reason is institutional.**
+Source: **Pascal Charitas**, "La combination au Havre Athletic Club (1872-1914) : les « origines » du
+football-rugby ?", *Études Normandes* 2011, 60(1), pp. 15–28, via **Persée** (academic, non-wiki).
+- What was played at Le Havre was **not rugby**. It was "**la combination**" — an English word kept in
+  French — a deliberate **mixture of rugby and association football**, "a game practice without
+  pre-defined conditions" as to rules or field dimensions.
+- **⭐ AND IT SURVIVED FOR INSTITUTIONAL REASONS.** The HAC's own statutes **marginalised rugby and
+  football separately, in favour of the hybrid, from 1872 to 1894**, which Charitas reads as a strategy
+  **to prevent the club splitting into sections** at a time when omnisports clubs competed for members
+  and could not afford to divide. → *The book's thesis appears in the first paragraph of French rugby:
+  France's oldest club played neither code cleanly for twenty-two years because a committee decided an
+  undivided club was stronger than a divided one.*
+- **⭐ BODIS, quoted in Charitas's epigraph:** "**rugby arrives in France at Le Havre in 1872. This is
+  false!**" — **Jean-Pierre Bodis** credits **Paris (1877)** and **Bordeaux (1892)** instead. The draft
+  presents Le Havre as "the standard answer" and then puts Charitas and Bodis against it.
+- Parallels to thread: Georgia Gen 0 (lelo an **affinity, not a lineage**), England Gen 0 (**Webb Ellis
+  told as a myth**), Ireland Gen 0 (a game with **no written rules at all**), Uruguay Gen 0 (archival
+  silence). France now joins them — **four origin stories the book declines to take at face value.**
+
+**⭐ THE COLD OPEN, verified** ([Mémosport](https://www.memosport.fr/1892-le-premier-titre-de-champion-de-france-de-rugby.html)):
+the first official French championship, **20 March 1892**, a single match at **Bagatelle in the Bois de
+Boulogne**; **Racing 4–3 Stade Français**; "arbitrée par le **Baron Pierre de Coubertin en personne**";
+Stade Français missing an equalising penalty in the last minute.
+→ **The payoff written into the section:** the referee would found the IOC two years later and was the
+most articulate French advocate of the English public-school amateur ethic — and this chapter ends with
+France **expelled by the Home Unions for professionalism**. The arc is stated in the opening scene.
+
+**⚠️ HEDGED, NOT ASSERTED (no page opened):** the Le Havre narrative (Oxford/Cambridge men in the
+trading houses, the Royal Navy crews of 1872, HAC formed 1884 under **Frédérick Field Langstaff**) —
+presented as "the standard answer" and immediately contested; **Racing Club de France 1882** and
+**Stade Français 1883** — the draft says only "the early 1880s"; the **USFSA**'s founding on
+**20 November 1887** — given only as "from 1887". Source before print or leave the hedges.
+
+**NEXT: Gen 1 — The Parisian Game (1893–1920).** Needed: Stade Français's eight titles 1893–1908;
+**France's first international (1 Jan 1906 v New Zealand, 38–8)** — currently unsourced; the 1906
+England match (World Rugby Museum, already held); the **FFR's founding, 11 October 1920**, and
+**Frantz Reichel**; and the first signs of the game moving south.
