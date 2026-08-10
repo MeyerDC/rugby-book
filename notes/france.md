@@ -1,0 +1,196 @@
+# France — research notes
+
+Fact + source cache for the France chapter (`chapters/11-france.md`, not yet written).
+Write prose *from* here. **No Wikipedia** — see [[rugby-book-no-wikipedia-rule]] / `SUMMARY.md` §6.
+Chapter 11, opening **Section 4: The Game That Left Home** (France, New Zealand, Australia).
+
+## Thesis
+
+France is where rugby stopped being English and became somebody else's property — not a nation's, a
+**region's**. The game arrived through the same channel as everywhere else in this book (British
+commerce, this time wine traders in Bordeaux) and then did something it did nowhere else: it went **up
+the Garonne into the rural south-west** and was taken over by farmers, miners, tanners and
+stockmen. By the 1920s the French game was working-class, paid under the table, and violent — and the
+unions that had invented amateurism as a class weapon **threw France out of the Championship for it**.
+
+The chapter therefore hinges directly off Section 3. The country the Home Unions expelled in 1931 for
+paying its players is the country that, sixty years later, built the richest league in the world and
+the professional pipeline that made **Georgian** and **Romanian** rugby possible.
+
+**The second spine — and it may be the best single story in the book:** in 1941 the FFR's own leaders
+lobbied the **Vichy regime** to abolish rugby league, had its federation dissolved by decree of
+**Marshal Pétain**, and took its assets. England's union used bylaws to exclude the northern working
+class in 1895; France's union used a collaborationist state to abolish its rival outright.
+
+## PROPOSED GENERATION MAP (Step 0 — for author approval before any prose)
+
+- **Gen 0 — The British in Le Havre and Paris (1872–1892).** Origins to the first championship.
+- **Gen 1 — The Parisian Game (1893–1920).** Stade Français and Racing dominate; the USFSA runs it;
+  first internationals; the FFR founded 1920.
+- **Gen 2 — Up the Garonne (1921–1930).** The south-west takes the game over; shamateurism becomes
+  endemic; the violence that will get France expelled.
+- **Gen 3 — Expelled (1931–1946).** Thrown out of the Championship; rugby league arrives in 1934 and
+  is abolished by Vichy in 1941.
+- **Gen 4 — Monsieur Rugby (1947–1962).** Readmission; Jean Prat; beating the All Blacks in 1954;
+  the first titles.
+- **Gen 5 — Flair and Castagne (1963–1987).** Le Grand Béziers; the first Grand Slam; Rives; Eden Park
+  1979; Blanco's try, and out.
+- **Gen 6 — The Richest League in the World (1988–2026).** Professionalism; the Top 14; hosting 2023;
+  the Laporte conviction; dated mid-2026 close.
+
+⚠️ **Two things for the author to decide.** (a) **Gen 6 spans 38 years** against Gen 2's ten — the
+longest span in the book. It could be split at **1995** (professionalism) or **2007/2011** (the Top 14's
+money arriving), making an eight-generation chapter. (b) The map above ends Gen 5 at **1987**, the first
+World Cup, which is a real epoch boundary rather than a round number.
+
+---
+
+## ⭐⭐ GEN 2 — THE SOUTH-WEST. The chapter's spine, and it is documented.
+
+Source: [Complete France, "Rugby in south-west France"](https://www.completefrance.com/travel/activities/rugby-in-south-west-france-6243950/), quoting two named scholars.
+
+- **The arrival point was Bordeaux, and the carrier was the wine trade:** "The biggest sports committee
+  outside of Paris was set up in **Bordeaux in 1888**, chiefly promoting rugby and gymnastics. Rugby
+  took hold quickly in the city, **aided by the large number of British wine traders then in
+  residence**." → The identical mechanism to Uruguay's saladeros, Chile's nitrate ports and Argentina's
+  railways. **Only the destination differs.**
+- **⭐ THE SPREAD, from the sociologist Christian Pociello:** the enthusiasm flowed from Bordeaux "**like
+  a wind whipping up and channelling rugby's spread like wildfire, towards Agen, Toulouse and
+  Carcassonne, before the flames went on to take hold in Perpignan**."
+- **⭐ WHO PICKED IT UP:** "Countless local clubs were set up in the region's towns and villages in the
+  early 20th century, with many of the most prized players **recruited from jobs reliant on manual
+  labour: mines, farms, leatherworks and livestock markets**." → The exact inverse of the Dublin/Belfast
+  fee-paying schools in ch. 10 and the English public schools in ch. 7.
+- **⭐ WHAT IT CAME TO MEAN, from Philip Dine:** rugby "**became a focus for a catalogue of southern
+  grievances against the north in general and Paris in particular**."
+- **⭐⭐ THE KEY SCHOLARLY SOURCE TO MINE — Philip Dine, *French Rugby Football: A Cultural History***.
+  This is France's **O'Callaghan**: the academic treatment of exactly the class-and-region question the
+  chapter turns on. Mine it the way `notes/ireland.md` mined *Rugby in Munster*.
+
+## ⭐ GEN 3 — THE EXPULSION (verified, and the agent's date was wrong)
+
+Source: [Ruck'n'Maul, "1931 — la France est exclue du Tournoi"](https://rucknmaul.wordpress.com/2011/02/19/1931-la-france-est-exclue-du-tournoi/) (French).
+
+- **Date: 2 March 1931** (⚠️ the retrieval pass said 3 March — **use 2 March**), decided by the **Home
+  Unions meeting in London**.
+- **Stated grounds:** "**conditions peu satisfaisantes**" — unsatisfactory conditions in how rugby was
+  directed and played in France — covering both **violent play** and **professionalism**.
+- **⭐ THE DEATH THAT PRECEDED IT:** on **4 May 1930**, in an **Agen–Pau** championship semi-final,
+  **Michel Pradié**, aged **18**, died hours after a tackle from a displaced vertebra.
+- **The demand, verbatim:** "*ni nos fédérations ni les clubs dépendant de notre juridiction ne pourront
+  organiser de match avec la France ou les clubs français*" — neither our federations nor clubs under
+  our jurisdiction may organise a match with France or French clubs — until they had "*la certitude que
+  le contrôle et la conduite du jeu sont organisés de manière satisfaisante*."
+- **Clubs were banned too**, not just the national side. Total isolation from British rugby.
+- **Readmission: this source says 1947, "after approximately fifteen years."** ⚠️ **CONFLICT** — the
+  retrieval pass says France was **readmitted in 1939** with the war then suspending the Championship
+  until 1947. Both may be partly right (a 1939 vote, a 1947 resumption). **Resolve before drafting Gen
+  3/4; do not assert either date yet.**
+
+## ⭐⭐ GEN 3 — VICHY ABOLISHES RUGBY LEAGUE (verified, and extraordinary)
+
+Source: [FFR XIII, "Interdiction du rugby à XIII en France"](https://www.ffr13.fr/interdiction-du-rugby-a-xiii-en-france/) — the rugby league federation's own account.
+
+- **Jean Galia** founded the Ligue française de rugby à XIII in **1934**, having been drawn to league on
+  a tour of England by "**the freedom of play, the speed of passes and the working-class spirit**"
+  (agent's quote from [treizemondial.fr](https://treizemondial.fr/1-1934-jean-galia-le-jour-ou-le-rugby-a-xiii-est-ne-en-france/) — ⚠️ verify directly).
+- **Décret n° 5285, signed by Maréchal Philippe Pétain on 19 December 1941**, dissolved the LFR XIII;
+  published in the ***Journal Officiel* on 27 December 1941**. The sport's practice was **entirely
+  prohibited**.
+- **The league's assets were seized** and transferred to the **Comité national des sports** for
+  liquidation. **Between 155 and 159 clubs** (the LFR XIII's membership as of June 1940) were dissolved.
+- **⭐ THE FFR'S OWN MEN DROVE IT:** **Albert Ginesty** (FFR president) and **Paul Voivenel** (FFR
+  honorary president) advocated the ban, probably via a report to **Jean Borotra**, Vichy's Sports
+  Commissioner.
+- **⭐ AND IT DID NOT END IN 1944.** The code was reconstituted after the Liberation but was **forbidden
+  its own name** — forced to call itself "*jeu à XIII*" — until **4 June 1993**, when the **Cour de
+  Cassation** "*déboute définitivement la FFR*" (definitively dismissed the FFR's case).
+→ **Fifty-two years.** England's RFU used bylaws to exclude the northern working class in 1895; the FFR
+used a collaborationist state to abolish its rival, take its property, and then litigate for half a
+century to stop it using its own name. **This is the single sharpest institutional story in the book.**
+
+## Other verified facts (from the mapping pass, URLs opened)
+
+- **France v England, 22 March 1906, Parc des Princes** — England won; "strong winds significantly
+  affected play", one French historian describing "*le vent soufflait en ouragan*".
+  [World Rugby Museum](https://worldrugbymuseum.com/from-the-vaults/international-rugby/match-report-france-v-england-1906)
+- **Wales 11–0 France, 21 April 1930, Paris** — "resembled more a combat than a rugby match"; the
+  referee stopped play **five times**, "the first time in an international rugby match where an arbiter
+  needed to remind players to maintain proper conception of the game."
+  [WRU](https://www.wru.wales/2021/04/crowd-chaos-causes-casualties-in-1930-paris-match/) ⚠️ verify directly.
+- **Jean Prat**, "**Monsieur Rugby**", FC Lourdes; **first international to reach 50 caps** (51 total);
+  coached France 1963–67 at a 64% win rate. [World Rugby Hall of Fame](https://www.world.rugby/halloffame/inductees/704826)
+- **27 February 1954, Colombes: France 3–0 New Zealand** — Prat scored the only try; the All Blacks
+  remembered it "as a tragedy". First French win over New Zealand.
+- **1954** first (shared) Five Nations title; **1959** first outright; **champions four years running,
+  1959–1962**. [RugbyFootballHistory](https://www.rugbyfootballhistory.com/6nations.htm)
+- **André and Guy Boniface** (Stade Montois); **Guy died 1 January 1968, aged 30**, of injuries from a
+  car crash driving home from a match. [ESPN](https://www.espn.co.uk/rugby/story/_/id/21931330/mercurial-french-centre-guy-boniface-remembered-50th-anniversary)
+- **Le Grand Béziers**: **11 French championships 1961–1984**, and **10 of 13 titles between 1971 and
+  1984**. [Études Héraultaises](https://www.etudesheraultaises.fr/publi/le-grand-beziers-1961-1984-une-epopee-sportive/)
+- **1968 — France's first Grand Slam**, captain **Christian Carrère**, won "**without having a head
+  coach, in self-management**". [Ellis Rugby](https://ellisrugby.com/1968-france-grand-chelem-five-nations/)
+- **Jean-Pierre Rives**, "**Casque d'Or**", **59 caps, 34 as captain**; Grand Slams **1977** and **1981**;
+  led the **first French win on New Zealand soil, 24–19 at Eden Park, Bastille Day 1979**.
+  [CNN](https://www.cnn.com/2018/07/09/sport/jean-pierre-rives-france-rugby-sculptor-intl-spt)
+- **Serge Blanco** — **93 caps** at retirement, 17 as captain, 38 tries. [World Rugby Hall of Fame](https://www.world.rugby/halloffame/inductees/704815)
+- **RWC 1987 semi-final: France 30–24 Australia**, Blanco's try in the last moments, off a move through
+  **Rodriguez → Charvet → Berbizier → Lagisquet**, Blanco taking it "just inside the Australia 22" and
+  winning "a foot race for the corner."
+  [Irish Times](https://www.irishtimes.com/sport/rugby/international/rwc-27-serge-blanco-magic-sees-france-past-australia-1.2325905)
+  ⚠️ **The retrieval pass dated this "27 December 1987", which is impossible** — RWC 1987 was played in
+  May–June. The Irish Times piece **gives no date**. Source the date before asserting it.
+- **Philippe Sella** — Agen; four French championships (1982, 1988, 1992, 1998); Jacques Fouroux on him:
+  "**strength of a bull but the touch of a piano player**". [Ellis Rugby](https://ellisrugby.com/france-rugby-philippe-sella/)
+- **The paradox, framed:** British "*rugby de tradition*" (discipline, fair play, the Corinthian spirit)
+  against the south-western "*rugby de terroir*" — "impetuous emotion, instinct and *liberté*".
+  [RugbyPass](https://www.rugbypass.com/plus/solving-the-french-rugby-paradox/)
+- **Top 14 money:** Canal+ paying **€696.8m** for Top 14 and ProD2, **2027–2032**; average salary across
+  520 players **€259,000**, five times ProD2 and 33% above the Premiership and Japan Rugby League One.
+  ⚠️ No direct URL was returned — **re-source before use.**
+- **2023 RWC hosted in France**; **South Africa 29–28 France** in the quarter-final; **2025 Six Nations
+  won, 35–16 v Scotland** at the Stade de France, a first title since 2022.
+  [Six Nations](https://www.sixnationsrugby.com/en/m6n/news/france-win-six-nations-rugby-2025-match-report-highlights)
+- **Bernard Laporte** convicted **December 2022** of corruption with **Mohed Altrad**; **two years'
+  imprisonment and a €75,000 fine** over **€180,000** received under an image-rights contract in March
+  2017; resigned as FFR president January 2023. **Appeal listed for 9–25 September 2026.**
+  [Planet Rugby](https://www.planetrugby.com/news/france-ffr-president-bernard-laporte-resigns-after-corruption-conviction) ·
+  [Bat Info](https://batinfo.com/en/actuality/The-Laporte-Altrad-case-to-be-heard-on-appeal-in-September-2026_33626)
+
+## ❌ RETURNED WITHOUT A REAL URL — treat as unverified until sourced
+
+The mapping pass gave "From WebSearch results" or similar in place of a link for roughly half its items.
+**None of the following is usable yet:** Le Havre Athletic Club 1872; Racing Club de France 1882 and
+Stade Français 1883; the **1892 first championship** (Racing 4–3 Stade Français at the Bois de Boulogne,
+refereed by **Pierre de Coubertin**); the **USFSA** founded 20 Nov 1887; Stade Français's eight titles
+1893–1908; **France's first international, 1 January 1906 v New Zealand, 38–8**; the **FFR founded 11
+October 1920** and **Frantz Reichel**; Toulouse's five titles in the 1920s; Béziers' "94.08% of matches
+without defeat"; the 1977/1981/1987 Grand Slams; Sella's 1986 try-in-every-match; the Top 14 financials.
+
+## Open questions before drafting
+
+1. **Mine Philip Dine, *French Rugby Football: A Cultural History*** — the chapter's O'Callaghan.
+2. **Resolve the readmission date** (1939 vote vs 1947 resumption).
+3. **Date the 1987 semi-final** properly.
+4. **The three deaths** the Home Unions were reported to have cited in 1931 — Pradié is confirmed; who
+   were the others, and is the figure of three real?
+5. **What French union clubs actually did during the 1931–47 isolation** — did they build their own
+   competitions? How did the French game survive being cut off?
+6. **Jean Galia's biography**, and the class composition of league versus union in the 1930s.
+7. **Post-Laporte FFR governance**, 2023–2026, and the **mid-2026 snapshot** for the dated close.
+
+## CHAPTER DESIGN (binding, matches the other ten)
+
+1. Draft at **`drafts/11-france.md`**, never `chapters/`. Promote only on approval.
+2. Composed third person; no authorial "I"; no reader-commands; bold-dated cinematic cold opens;
+   `### What this generation leaves behind` closers; sources named in flow.
+3. **Latham standard — no villain people.** This matters at two points: the **Home Unions in 1931** must
+   be rendered from inside their own logic (they believed they were defending an amateur game and
+   responding to a boy's death), and the **FFR men who used Vichy** must be explained rather than simply
+   condemned — what they thought they were protecting, and what the Occupation made possible.
+4. **Lead with the history.** No thesis-first ending — see what was cut from Georgia's Gen 6.
+5. Target **~500–560 lines**, matching Ireland (496 prose) and Georgia (474).
+6. **Cross-references to place:** England's 1895 schism and amateur bylaws (ch. 7); Georgia's Saurel
+   pipeline into French clubs (ch. 4 Gen 4) and Romania's golden age built on beating France (ch. 5);
+   Limerick, whose rugby culture a source in ch. 10 describes as resembling "**Northern England and
+   France**"; the Bordeaux wine trade beside Uruguay's saladeros and Chile's nitrate ports (chs. 1, 3).
