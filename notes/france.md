@@ -440,3 +440,57 @@ Rugby", first international to 50 caps; **27 February 1954, Colombes, France 3�
 scoring the only try, a defeat the All Blacks "remembered as a tragedy"; the **1954** shared title,
 **1959** first outright, and **four in a row 1959–62**; the **Boniface brothers**, and **Guy Boniface's
 death on 1 January 1968**. The Gen 3 close already points at Lourdes.
+
+---
+
+## GEN 4 — DRAFTED (August 2026). 316 lines of prose cumulative (Gen 0–4). Five of eight.
+
+**⭐⭐ THE COLD OPEN CONNECTS DIRECTLY TO CHAPTER 6.** **Saturday 16 August 1958, Ellis Park,
+3.15 p.m., 100,000 people.** France beat South Africa **9–5** (after **3–3** at Newlands) and take the
+series **1–0 with one drawn** — "**the first time South Africa had lost a home series in 62 years**".
+The *Sunday Express*: "**At Ellis Park, a man cried**", and the man was South African.
+→ The draft sets this against `06-south-africa.md`'s Gen 2, "**The Machinery**" (1948–69), the decades
+in which the apartheid state was building the sport into an instrument of race. In August 1958 the
+machinery lost at home for the first time in sixty-two years — to a country that eleven years earlier
+had not been allowed to play British rugby at all. **The framing is the book's; the fact is ESPN's.**
+Also: France's **first tour outside Europe**, arriving in **Salisbury** (now Harare — a nation still to
+be written) on **8 July 1958**; first blazers; first time called **les Tricolores**; captain **Lucien
+Mias**, a medical doctor who "prescribed his own medicine when overcome with nerves on the eve".
+
+**⭐ PRAT (World Rugby Hall of Fame, verified directly).** "**Monsieur Rugby**"; "**the first player in
+international rugby to reach 50 caps**"; debut for **FC Lourdes at full-back aged 14**, loyal to the
+club for his whole career; **all 51 caps** as a flanker; **captain 16 times**; coach **1963–67** at
+**64%**. And the sentence that makes the south-west thesis concrete: "Under his influence **Lourdes
+became the dominant force in French rugby, winning the Championship six times between 1948 and 1958**."
+→ **A Pyrenean pilgrimage town of ~15,000 ran French rugby for a decade.** Not Bordeaux, not Toulouse.
+The draft states it as the south-west's arrival in fact rather than in theory.
+
+**⭐ 1954, and a discipline note.** Hall of Fame: of Prat's nine tries, "the most significant … saw
+**France beat New Zealand for the first time, 3–0, in 1954**". The draft **refuses to backdate the
+flair**: 3–0 is "a French pack beating a New Zealand pack, once, by the width of a try", and *le
+rugby-champagne* is explicitly said not to have arrived yet. **Do not let later generations
+retro-fit the style onto this win.**
+
+**The titles:** shared **1954** (with England and Wales), first outright **1959**, then **four in a row
+1959–62**. **The Bonifaces** of **Stade Montois** — André from 1954 (48 caps), Guy from 1960 (35) — as
+the point where French rugby stopped being admired for its forwards and started being loved for its
+backs. **Guy died 1 January 1968, aged 30**, driving home from a match.
+
+**The generation's closing argument:** by 1962 France had won five Championships in nine seasons, beaten
+New Zealand, and broken a 62-year South African record — and **none of the things it was expelled for
+in 1931 had changed**. The clubs still recruited by finding men work; the championship was still played
+hard enough to frighten visitors; the federation still called it amateur.
+
+⚠️ **Verify before print:** the 1958 tour details are assembled from **search extracts across ESPN and
+Rugby365**, not a page opened and read — particularly the *Sunday Express* quotation, the 100,000 crowd
+and the 3.15 p.m. kick-off.
+
+**NEXT: Gen 5 — Flair and Castagne (1963–1987).** In hand: **Le Grand Béziers** (11 titles 1961–84, and
+10 of 13 between 1971 and 1984); the **1968 first Grand Slam** under **Christian Carrère**, won "without
+having a head coach, in self-management"; **Jean-Pierre Rives**, "Casque d'Or", 59 caps and 34 as
+captain, Grand Slams **1977** and **1981**, and the **first French win on New Zealand soil, 24–19 at
+Eden Park on Bastille Day 1979**; **Serge Blanco** (93 caps) and the **1987 semi-final try**; **Philippe
+Sella**; the *rugby de tradition* vs *rugby de terroir* framing; and **de Gaulle** after the 1960 Rome
+Olympics wanting "*la France qui gagne*" — which puts France partly in this book's Section 2 as well.
+Still to source: the **1987 semi-final date** (the mapping pass's "27 December 1987" is impossible), and
+**Béziers' "94.08% of matches without defeat"**.

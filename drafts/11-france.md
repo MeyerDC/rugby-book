@@ -246,9 +246,77 @@ By 1946 France had been outside British rugby for fifteen years, had spent the 1
 
 None of it made the French worse at rugby. In eight years they would beat the All Blacks; in thirteen they would be champions of Europe outright; and the man who did most to make that happen was already playing, in Lourdes, for a club nobody outside the Pyrenees had heard of.
 
+## Generation 4: Monsieur Rugby (1947–1962)
+
+**Saturday 16 August 1958. Ellis Park, Johannesburg. Kick-off 3.15 p.m., in front of a hundred thousand people.** France beat South Africa **9–5** and take the series.
+
+The Springboks have not lost a home series in **sixty-two years**. They lose this one to a country that, eleven years earlier, had not been allowed to play British rugby at all.
+
+The *Sunday Express* reported the afternoon in five words: **"At Ellis Park, a man cried."** The man was South African.
+
+The French captain is **Lucien Mias**, a lock forward and a medical doctor, who on the eve of the match — overcome with nerves — is said to have prescribed himself his own medicine. Man of the match. The first Test at Newlands had been drawn **3–3**; this one settles it.
+
+For France, almost everything about the tour was a first. The first time the team had played outside Europe. The first time they had toured a Commonwealth country at all, arriving in **Salisbury** on 8 July. The first time they were issued blazers. The first time anyone called them **les Tricolores**. And the first time they beat the Springboks.
+
+Now go back eleven years, and watch how a pariah became the best team in Europe.
+
+---
+
+France re-entered the Five Nations in **1947**, into a Championship and a continent that had both stopped for six years.
+
+The country that came back was not the one that had been thrown out. The clubs of the south-west had gone on playing throughout — the isolation had, if anything, concentrated the domestic game — and the man who now emerged from them had been at his club since he was a boy.
+
+### Prat
+
+**Jean Prat** made his senior debut for **FC Lourdes** at full-back **at the age of fourteen**, and stayed at the club for his entire career. World Rugby's Hall of Fame records the rest of it without needing to embroider: he was "the first player in international rugby to reach **50 caps**", won all **51** of them, played as a flanker, and **captained France sixteen times**.
+
+They called him **Monsieur Rugby**.
+
+His club became the country. "Under his influence **Lourdes became the dominant force in French rugby, winning the Championship six times between 1948 and 1958**" — a market town in the Hautes-Pyrénées of some fifteen thousand people, better known to the world as a place of pilgrimage, running French rugby for a decade.
+
+That is the south-west's arrival, stated as a fact rather than a theory. Not Bordeaux, not Toulouse, not any of the cities. A Pyrenean town.
+
+### 27 February 1954
+
+Of Prat's nine international tries, the Hall of Fame singles out one: "the one that saw **France beat New Zealand for the first time, 3–0**, in 1954."
+
+Colombes, February, the same ground where the police had carried spectators off in 1930. A single try, no conversion, nothing else scored by anybody. The All Blacks of that era remembered the afternoon, in one account, as a tragedy.
+
+Three-nil is not a scoreline that flatters anyone, and it is worth saying that this was not yet *le rugby-champagne*, the expansive attacking style for which French sides would later be celebrated. This was a French pack beating a New Zealand pack, once, by the width of a try.
+
+But it was the first time, and it happened forty-eight years after the Originals had put thirty-eight points on France at the Parc des Princes.
+
+### The titles
+
+The results came in a rush.
+
+**1954**: France won a share of the Five Nations, their first title, level with England and Wales. **1959**: they won it outright for the first time. And then they simply did not stop — **champions four years running, 1959, 1960, 1961 and 1962**.
+
+Between those two dates came South Africa, and Ellis Park, and Mias.
+
+Set the sequence against chapter six. The South Africa chapter calls the years from 1948 the era of **the Machinery** — the decades in which the apartheid state was building this sport into an instrument of race, and the Springboks into proof of a people's superiority. In August 1958, in Johannesburg, in front of a hundred thousand of them, the machinery lost at home for the first time in sixty-two years, to a team of tanners' sons and Pyrenean shopkeepers from a country that had spent the previous decade being told it did not know how to play the game properly.
+
+### The Bonifaces
+
+The style everyone remembers arrived with the backs, and above all with two brothers from **Stade Montois** in the Landes.
+
+**André Boniface** made his debut in 1954 and won 48 caps; his younger brother **Guy** came in in 1960 and won 35. They played together in the French midfield, and they are the point at which French rugby stopped being admired for its forwards and started being loved for what happened behind them.
+
+Guy Boniface did not see the golden age his generation made possible. On **1 January 1968**, aged thirty, he died of injuries from a car crash while driving home from a match.
+
+### What this generation leaves behind
+
+A team that has beaten everybody, and a country that has stopped apologising for how it plays.
+
+By 1962 France had won the Championship five times in nine seasons, four of them consecutively; had beaten New Zealand; and had done what no touring side had managed in sixty-two years by taking a series in South Africa. The pariah of 1931 was the strongest team in European rugby.
+
+What had not changed was any of the things it had been expelled for. The clubs still recruited by finding men work. The championship was still played hard enough to frighten visitors. The federation still called it all amateur.
+
+The next twenty-five years would take both halves of that — the beauty and the violence — to their limit, in a town on the Mediterranean that won everything and terrified everyone.
+
 ## Sources
 
-*(Gen 0–3 sources — the full chapter list will be assembled once all eight generations are drafted.)*
+*(Gen 0–4 sources — the full chapter list will be assembled once all eight generations are drafted.)*
 
 - Pascal Charitas, ["La combination au Havre Athletic Club (1872-1914) : les « origines » du football-rugby ?"](https://www.persee.fr/doc/etnor_0014-2158_2011_num_60_1_1833) — *Études Normandes*, 2011, vol. 60 no. 1, pp. 15–28, via Persée *(la combination as a mixed sport combining rugby and association football, "a game practice without pre-defined conditions" as to rules or field; the HAC's statutes marginalising rugby and football separately **between 1872 and 1894** in favour of the hybrid, read as **an institutional strategy to prevent the club dividing into sections**; the epigraph quoting **Jean-Pierre Bodis** — "rugby arrives in France at Le Havre in 1872. **This is false!**" — and crediting **Paris (1877)** and **Bordeaux (1892)** instead; the article's emphasis on cultural transfer rather than mythologised "firsts")*
 - [1892 : le premier Titre de Champion de France de Rugby](https://www.memosport.fr/1892-le-premier-titre-de-champion-de-france-de-rugby.html) — Mémosport *("Le premier Championnat de France officiel a lieu le **20 mars 1892**"; Racing and Stade Français; "Disputée sur la pelouse du **stade de Bagatelle dans le bois de Boulogne**"; "le Racing … décroche la victoire **4 points à 3**"; "arbitrée par le **Baron Pierre de Coubertin en personne**"; "le Stade Français rate de peu une pénalité égalisatrice lors de la dernière minute de jeu")*
@@ -264,6 +332,13 @@ None of it made the French worse at rugby. In eight years they would beat the Al
 - [1931 — La France exclue du Tournoi](https://www.aslagnyrugby.net/1931-La-France-exclue-du-Tournoi.html?lang=fr) — AS Lagny Rugby *(the four grounds: **disguised professionalism**, **unregulated club recruitment**, **internal struggles within the FFR** including clubs in dissidence from **December 1930**, and **brutality** in internationals and the championship; France winning their last match, **England beaten 14–13**, "in a surreal atmosphere"; the **FFR's 1932 agreement** with the dissident clubs and **readmission in 1939**, the Tournament resuming in **1947**; and the isolation years — French rugby "had to be satisfied with matches against **Nazi Germany and fascist Italy**")* ⚠️ Fetched via search extract; **verify directly before print**, particularly the Germany/Italy characterisation, which the draft attributes rather than asserts.
 - [1934 : Jean Galia, le jour où le rugby à XIII est né en France](https://treizemondial.fr/1-1934-jean-galia-le-jour-ou-le-rugby-a-xiii-est-ne-en-france/) — Treize Mondial *("**Jean Galia, rugbyman à XV et aventurier dans l'âme**", a former French international; on an England tour taken by "**la liberté du jeu, la vitesse des passes et l'esprit ouvrier des tribunes**"; "**Le 6 avril 1934, à Paris, il fonde la Ligue Française de Rugby à XIII**"; the team taking the train to London weeks later for the first official match; "**En moins de deux ans, les terrains se remplissent de curieux et de passionnés**"; **more than 200 affiliated clubs by 1939**)*
 - [Interdiction du rugby à XIII en France](https://www.ffr13.fr/interdiction-du-rugby-a-xiii-en-france/) — FFR XIII (the French rugby league federation's own account) *(**Décret n° 5285**, "signé par le maréchal Philippe Pétain le **19 décembre 1941**", published in the *Journal Officiel* on **27 December 1941**, dissolving the **Ligue française de rugby à XIII**; the practice of the sport **entirely prohibited**; its assets seized and transferred to the **Comité national des sports** for liquidation; the **155–159 clubs** on the LFR XIII's books as of June 1940 dissolved; **Albert Ginesty** (FFR president) and **Paul Voivenel** (FFR honorary president) advocating the ban, apparently by report to **Jean Borotra**, Vichy's Sports Commissioner; and "**le 4 juin 1993 … la Cour de Cassation … déboute définitivement la FFR**", ending the enforced use of "*jeu à XIII*")*
+
+- [Jean Prat — World Rugby Hall of Fame](https://www.world.rugby/halloffame/inductees/704826) — World Rugby (official) *("Known as **Monsieur Rugby**, legendary French star Jean Prat was **the first player in international rugby to reach 50 caps**"; his debut "for **FC Lourdes** at full-back at the tender age of **14**", staying loyal to the club throughout; "**Won all 51 of his caps there**" as a flanker; "**He captained France 16 times**"; "The most significant of his nine tries was the one that saw **France beat New Zealand for the first time, 3-0 in 1954**"; "Prat coached the national team from **1963-67** with an impressive win rate of **64 per cent**"; "Under his influence **Lourdes became the dominant force in French rugby, winning the Championship six times between 1948 and 1958**")*
+- [France claim historic triumph in South Africa](https://www.espn.com/rugby/story/_/id/15405749/france-claim-historic-triumph-south-africa) — ESPN *(the **1958** tour: France arriving in **Salisbury on 8 July 1958** for its first tour of a Commonwealth country — the first time France had played outside Europe, the first time the team had blazers, the first time they were called **les Tricolores** and the first time they beat the Springboks; captain **Lucien Mias**, a medical doctor, man of the match, who "prescribed his own medicine when overcome with nerves on the eve of the match"; **3–3 drawn at Newlands**, **France 9–5 at Ellis Park**; the series taken **1–0 with one drawn**, "**the first time South Africa had lost a home series in 62 years**"; **Saturday 16 August 1958** at **3:15 pm** before **100,000**; the *Sunday Express* — "**At Ellis Park, a man cried**", and the man was South African)* ⚠️ Details drawn from search extracts across ESPN and Rugby365; **verify directly before print.**
+- [The Six Nations / International Championship](https://www.rugbyfootballhistory.com/6nations.htm) — RugbyFootballHistory.com *(France's first title **shared in 1954** with England and Wales; **first outright in 1959**; champions **four years running, 1959–1962**)*
+- [Guy Boniface remembered on the 50th anniversary](https://www.espn.co.uk/rugby/story/_/id/21931330/mercurial-french-centre-guy-boniface-remembered-50th-anniversary) — ESPN *(**André Boniface** debuting 1954, 48 caps; **Guy** from 1960, 35 caps; both of **Stade Montois**; Guy's death on **1 January 1968**, aged 30, "from injuries sustained in a car accident while traveling home from a match")*
+
+⚠️ **Gen 4 — the cross-chapter claim, and its limits.** The draft sets the 1958 series against `06-south-africa.md`'s Gen 2, "**The Machinery**" (1948–1969). That framing is the book's own; the *fact* it rests on — South Africa's first home series defeat in 62 years, at Ellis Park, before 100,000 — is ESPN's. The draft also says plainly that the 3–0 win over New Zealand in 1954 was **not yet *le rugby-champagne***: a French pack beating a New Zealand pack by the width of a try, not the expansive style France would later be loved for. **Do not backdate the flair.**
 
 ⚠️ **Gen 3 — the two hardest judgements in the chapter, and how they were made.** (a) The **Home Unions** are written from inside their own logic — a boy was dead, spectators had been carried off at Colombes, and payments had been proven — *and* the draft states that the same unions had built the amateur creed as an instrument of exclusion and used it against their own northern clubs in 1895. It declines to choose between the two readings. (b) The **FFR's collaboration** is stated without softening and without editorialising past the evidence: the draft says the federation "recognised that its own myth about itself was the one the new state wanted to hear, and it said so, at the moment when saying so would destroy a rival." **Dine's reviewer's phrase — "with the ready cooperation of that sport's grateful officials" — is quoted rather than paraphrased.**
 
