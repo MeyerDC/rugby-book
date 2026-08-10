@@ -296,3 +296,74 @@ wine traders; Pociello's "wildfire"; the mines, farms, leatherworks and livestoc
 "catalogue of southern grievances"). Still needed: **Toulouse's five titles of the 1920s**; the
 **violence** record before 1931 beyond Pradié and the 1930 Wales match; and **Philip Dine's book**,
 which remains the chapter's most important unmined source.
+
+---
+
+## GEN 2 — DRAFTED (August 2026). 166 lines of prose cumulative (Gen 0–2). The chapter's spine is in.
+
+**⭐⭐ THE MECHANISM — and it is not cash.** Philip Dine, via Christopher S. Thompson's *H-France
+Review* (vol. 2, Aug 2002, no. 83): "**teams recruited top players from other towns by promising them
+jobs in local businesses and industry, a particularly effective enticement in times of high
+unemployment like the 1930s.**"
+→ A place at the tannery, the sawmill, the wine warehouse. **The draft sets this against ch. 7:** the
+RFU's 1886 amateur laws banned precisely this — the job found for the player, compensation for broken
+time — in more detail than they banned cash, and drove twenty-two northern clubs out in 1895 for it.
+**France was doing the same thing at regional scale, in the open, and calling itself amateur.**
+
+**⭐ DINE ON THE SEQUENCE, and the order matters:** "After this initial period when social elites
+developed and played the sport, in the southwest especially rugby became the sport of **working-class
+neighbourhoods and then of villages**, hence its enduring and intimate association with a traditional,
+rural *France profonde*." → **Neighbourhoods first, villages second.** The rural image came last; the
+draft says so rather than repeating the myth.
+
+**⭐ THE CHURCH CUTS THE OTHER WAY FROM EVERYWHERE ELSE IN THE BOOK.** Thompson on Dine: "Secular
+sports clubs and federations promoted and played rugby, while their Catholic rivals of the **Fédération
+Gymnastique et Sportive des Patronages de France** … **favored the less violent game of soccer**."
+→ In **Uruguay** (ch. 1 Gen 2) the Christian Brothers *chose* rugby and the Jesuits football, and the
+choice defined Uruguayan sport. In France the Catholic federation looked at rugby, found it too
+violent, and took football — making rugby **the secular republic's game**. Written into the draft.
+
+**⭐ THE COLD OPEN, verified (WRU):** **Easter Monday, 21 April 1930, Stade Olympique Yves du Manoir** —
+the surviving photograph captioned "**Police officers treat unconscious fans pitchside**"; **Wales
+11–0**. The same ground had staged the **1924 Olympic final**, USA beating France "in a raucous and
+violent final that ended in a pitch invasion and the Americans needing police protection" — where
+**Romania took bronze** (ch. 5).
+**⭐ AND JEAN GALIA WAS IN THAT FRENCH PACK.** The man who would found French rugby league in 1934 —
+and whose federation the FFR would have abolished by Pétain in 1941 — played in the match that helped
+get France expelled. The draft plants him: *"remember him, because in four years he will do more damage
+to the French rugby establishment than any opponent ever managed."*
+
+**✅ THE READMISSION CONFLICT IS RESOLVED (WRU), verbatim:** "In **1931**, it was revealed that some
+French players were being paid by their clubs – in breach of the amateur ethos of the game, and
+described as '**administrative deficiencies**' – which resulted in the national team's **exclusion from
+the Five Nations for eight years**. By the time they were **readmitted, World War Two had broken out,
+and they wouldn't feature again until 1947**." → Both dates in the earlier conflict were right: a
+readmission around **1939**, a resumption in **1947**. Held for Gen 3/4.
+
+**⭐ HELD FOR GEN 3 — Dine explains BOTH halves of the rugby-league story:**
+- **The expulsion created French rugby league.** "its violent style of play led British teams to refuse
+  to play their French counterparts. **This created an opening for** a more recent version of the sport,
+  rugby '**league**'… professional rugby league emerged as a **credible alternative** to rugby union in
+  France in the 1930s."
+- **And why Vichy killed it.** "**Vichy decided that the amateur and ruralist values embodied by *le
+  rugby à quinze* more closely fit its ideological program and, with the ready cooperation of that
+  sport's grateful officials, took concrete measures to reassert the primacy of rugby union.**"
+  → *"the ready cooperation of that sport's grateful officials"* — an academic reviewer's phrasing for
+  the FFR's collaboration. **Use it; do not soften it, and do not editorialise past it.**
+
+**⭐ HELD FOR GEN 5 — France belongs partly in this book's Section 2 as well.** Thompson on Dine: after
+the **1960 Rome Olympics**, embarrassed by French athletes' showing and wanting "*la France qui
+gagne*", **de Gaulle** sought to associate the nation with its rugby side; "French rugby thus was
+exploited in moments of perceived crisis by national governments seeking to impose their particular
+vision of French values and greatness." Also for later gens: **le rugby-champagne** (1945–68) and the
+"autocratic" **Albert Ferrasse**, who ran the federation from the late 1960s.
+
+⚠️ **Verify before print:** Stade Toulousain's five 1920s titles (1922, 1923, 1924, 1926, 1927) and the
+"sport-king" phrasing — asserted in the draft from search extracts, not a page read.
+
+### 🔧 TOOLING NOTE — PDFs are extractable after all
+`pdftotext`/poppler is absent on this machine, but **`pypdf` is installed** and extracts cleanly.
+Both academic PDFs here were read that way. **This also means `notes/ireland.md`'s open item is now
+solvable:** Liam O'Callaghan's *Irish Rugby and the First World War* (hira.hope.ac.uk) was earlier
+recorded as abstract-only because the naive extractor failed — it has now been extracted in full
+(17 pages, ~60k chars) and can answer several of the Ireland chapter's Gen 1 open questions.

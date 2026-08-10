@@ -104,15 +104,81 @@ And with it went the ownership of the game. *Le rugby n'est plus seulement l'aff
 
 The white collars kept the federation. They lost the sport.
 
+## Generation 2: Up the Garonne (1921–1930)
+
+**Easter Monday, 21 April 1930. Stade Olympique Yves du Manoir, Colombes.** France play Wales in the final fixture of the Championship, and the photograph that survives the afternoon is not of the rugby. It is of police officers treating unconscious spectators at the side of the pitch.
+
+Wales win **11–0**. In the French pack that day, at number eight, is a twenty-four-year-old from Ille-sur-Têt named **Jean Galia** — remember him, because in four years he will do more damage to the French rugby establishment than any opponent ever managed.
+
+The ground itself has form. Six years earlier it staged the **Olympic rugby final of 1924**, in which the United States beat France in a match violent enough to end in a pitch invasion and the American team requiring police protection to leave. (Romania took the bronze; this book has already met them there.)
+
+Within a year of this Easter Monday, France will be expelled from international rugby.
+
+Now go back and see how a Parisian gentlemen's game became a sport that needed police at the touchline.
+
+---
+
+It went south, and it went south along a river.
+
+The vehicle was the one this book has watched in Montevideo, in Buenos Aires and in Valparaíso: **British merchants in a port, selling something**. In France the something was **wine**. "The biggest sports committee outside of Paris was set up in **Bordeaux in 1888**, chiefly promoting rugby and gymnastics. Rugby took hold quickly in the city, **aided by the large number of British wine traders then in residence**."
+
+From there it moved inland fast. The sociologist **Christian Pociello** describes the enthusiasm spreading out of Bordeaux "**like a wind whipping up and channelling rugby's spread like wildfire, towards Agen, Toulouse and Carcassonne, before the flames went on to take hold in Perpignan**."
+
+Look at that list. Agen, Toulouse, Carcassonne, Perpignan — market towns and provincial cities strung along the Garonne and down to the Mediterranean, none of them Paris, none of them rich. By the 1930s French rugby had gone from the **241 clubs** the FFR counted at its founding to **close to six hundred**, and the growth was all in one direction: *en dessous de la Loire, le rugby s'implante vigoureusement, chaque village a son club, chaque club a son derby* — below the Loire, every village with its club and every club with its derby.
+
+### Who picked it up
+
+The men who played it were not the men who had played it in the Bois de Boulogne.
+
+"Countless local clubs were set up in the region's towns and villages in the early 20th century, with many of the most prized players **recruited from jobs reliant on manual labour: mines, farms, leatherworks and livestock markets**."
+
+The historian **Philip Dine**, whose *French Rugby Football: A Cultural History* is the standard scholarly account, describes the sequence precisely — and the order matters. "After this initial period when social elites developed and played the sport, in the southwest especially rugby became the sport of **working-class neighbourhoods and then of villages**, hence its enduring and intimate association with a traditional, rural *France profonde*."
+
+Neighbourhoods first, then villages. The game went from the Parisian bourgeoisie to the urban working class of the southern towns, and only then out into the countryside that would become its permanent image.
+
+There was also a fight over French children's souls going on, and it cut the other way from everywhere else in this book. As Dine's reviewer summarises it: "The battle between Church and State under the early Third Republic was also waged in sport. **Secular sports clubs and federations promoted and played rugby, while their Catholic rivals of the Fédération Gymnastique et Sportive des Patronages de France** — determined to compete for the bodies (and souls) of French youth — **favoured the less violent game of soccer**."
+
+That is worth setting beside chapter one. In Uruguay, the Christian Brothers *chose* rugby for their boys and the Jesuits chose football, and the choice defined Uruguayan sport for a century. In France the Catholic sporting federation looked at rugby, decided it was too violent, and took football instead — and so rugby in France became, among other things, the **secular republic's game**.
+
+### The jobs
+
+And then the money, which was never quite money.
+
+Dine's finding on how the great southern clubs actually assembled their sides is the most useful sentence in this chapter: "**teams recruited top players from other towns by promising them jobs in local businesses and industry, a particularly effective enticement in times of high unemployment like the 1930s.**"
+
+Not a wage for playing. **A job.** A place at the tannery, the sawmill, the wine warehouse, the municipal works — arranged by men who wanted the club to win, in towns where work was scarce and a strong young man's alternative was the fields.
+
+Set that against chapter seven. When the RFU wrote its amateur laws in 1886 it banned exactly this, and in far more detail than it banned cash: it went after the job found for the player, the compensation for time lost, the "broken time" that would split English rugby in 1895. The northern English clubs had done the same thing for the same reason, and the RFU had driven them out of the union for it.
+
+France was now doing it at scale, across an entire region, in the open, and calling itself amateur.
+
+**Stade Toulousain** won five championships in the decade — 1922, 1923 and 1924 in succession, then 1926 and 1927 — before crowds that made rugby the *sport-king* of the south-west. The game was, in the phrase of the period, torn between amateur and professional status, with a great many nominally amateur players receiving something.
+
+### What this generation leaves behind
+
+A sport that has changed hands, and a bill about to be presented.
+
+By 1930 French rugby was the possession of the working towns and villages below the Loire; it had six hundred clubs where it had lately had two hundred and forty-one; it recruited by finding men work; and it was played hard enough that a Championship afternoon in Colombes needed police to carry spectators off the field.
+
+Two weeks after that Wales match, on **4 May 1930**, in an **Agen–Pau** championship semi-final, an eighteen-year-old named **Michel Pradié** was tackled, suffered a displaced vertebra, and died within hours.
+
+In London, the four Home Unions were watching all of it, and had begun to compare notes.
+
 ## Sources
 
-*(Gen 0–1 sources — the full chapter list will be assembled once all eight generations are drafted.)*
+*(Gen 0–2 sources — the full chapter list will be assembled once all eight generations are drafted.)*
 
 - Pascal Charitas, ["La combination au Havre Athletic Club (1872-1914) : les « origines » du football-rugby ?"](https://www.persee.fr/doc/etnor_0014-2158_2011_num_60_1_1833) — *Études Normandes*, 2011, vol. 60 no. 1, pp. 15–28, via Persée *(la combination as a mixed sport combining rugby and association football, "a game practice without pre-defined conditions" as to rules or field; the HAC's statutes marginalising rugby and football separately **between 1872 and 1894** in favour of the hybrid, read as **an institutional strategy to prevent the club dividing into sections**; the epigraph quoting **Jean-Pierre Bodis** — "rugby arrives in France at Le Havre in 1872. **This is false!**" — and crediting **Paris (1877)** and **Bordeaux (1892)** instead; the article's emphasis on cultural transfer rather than mythologised "firsts")*
 - [1892 : le premier Titre de Champion de France de Rugby](https://www.memosport.fr/1892-le-premier-titre-de-champion-de-france-de-rugby.html) — Mémosport *("Le premier Championnat de France officiel a lieu le **20 mars 1892**"; Racing and Stade Français; "Disputée sur la pelouse du **stade de Bagatelle dans le bois de Boulogne**"; "le Racing … décroche la victoire **4 points à 3**"; "arbitrée par le **Baron Pierre de Coubertin en personne**"; "le Stade Français rate de peu une pénalité égalisatrice lors de la dernière minute de jeu")*
 
 - [France – Nouvelle-Zélande : histoire d'une compétition](https://gallica.bnf.fr/accueil/fr/html/france-nouvelle-zelande-histoire-dune-competition) — Gallica / Bibliothèque nationale de France *(the first France XV, **1 January 1906**, Parc des Princes; the **Originals** "virevoltent ballon en main, relancent inlassablement et marquent beaucoup d'essais", winning **31 of 32** before Paris; the December 1905 press notice "Ce match, dans lequel les nôtres n'ont aucune chance de vaincre, est un évènement considérable dans tous les milieux sportifs"; France losing **38 à 8 (10 essais à 2)** in the wet, tries by **Cessieux** and **Dufourcq**, conversion by **Pujol**; **Henri Armand** "le premier capitaine de l'histoire du XV de France"; the first white jersey with two interlaced red and blue circles; two foreigners selected — the English full-back **William Crichton** of Le Havre and the American second row **Allan Muhr** of Racing; and "**Autre particularité de taille, la France ce jour-là compte deux joueurs de couleur André Vergès et le Guyanais Georges Jérôme**"; **Dave Gallaher** and the note that the Originals would soon be "rattrapés par un autre devoir : défendre la liberté")* ⚠️ **403s WebFetch — fetched with `curl` and a browser User-Agent.**
 - [Les premières années de la Fédération française de Rugby](https://gallica.bnf.fr/accueil/fr/html/les-premieres-annees-de-la-federation-francaise-de-rugby) — Gallica / Bibliothèque nationale de France *("En octobre 1920, la Fédération française de Rugby (FFR) s'émancipe de l'Union des sociétés françaises de sports athlétiques (USFSA) et devient une fédération sportive à part entière"; "**La FFR existe officiellement depuis le 11 octobre 1920**. Elle a pris la suite du comité de rugby de l'USFSA. Ses débuts sont humbles, sous la houlette de **Frantz Reichel**"; "**Si elle est sans le sou dans un premier temps, cette toute jeune Fédération cherche à maintenir l'idée de l'amateurisme ; elle doit pourtant lutter contre le « fléau » qui gangrène le rugby des clubs : l'argent**"; "les clubs français fleurissent pour recruter les meilleurs joueurs contre une **rémunération garantie**. La FFR est démunie face à ce fléau"; the USFSA inventing "une licence pour les étrangers afin d'empêcher le **commerce de talents**"; "Dans les années 30 … **On frôle les 600 clubs alors qu'ils étaient au nombre de 241 à la création de la FFR**"; "**En dessous de la Loire, le rugby s'implante vigoureusement, chaque village a son club, chaque club a son derby**"; "**Le rugby n'est plus seulement l'affaire des cols blancs du Racing ou du Stade français, c'est aussi celui des territoires et des petits entrepreneurs**")* ⚠️ **403s WebFetch — fetched with `curl`.**
+
+- [Rugby in south-west France](https://www.completefrance.com/travel/activities/rugby-in-south-west-france-6243950/) — Complete France *("The biggest sports committee outside of Paris was set up in **Bordeaux in 1888**, chiefly promoting rugby and gymnastics. Rugby took hold quickly in the city, **aided by the large number of British wine traders then in residence**"; the sociologist **Christian Pociello** on the spread from Bordeaux "like a wind whipping up and channelling rugby's spread like wildfire, towards **Agen, Toulouse and Carcassonne**, before the flames went on to take hold in **Perpignan**"; "many of the most prized players **recruited from jobs reliant on manual labour: mines, farms, leatherworks and livestock markets**"; **Philip Dine** on rugby becoming "a focus for a catalogue of southern grievances against the north in general and Paris in particular")*
+- Christopher S. Thompson, [review of Philip Dine, *French Rugby Football: A Cultural History*](https://h-france.net/vol2reviews/vol2no83thompson.pdf) — *H-France Review* vol. 2 (August 2002), no. 83 *(Dine's thesis that rugby "has actually played a significant role in the imaginative construction of the contemporary French nation" and its "close association with both the reality and mythology of rurality"; "**After this initial period when social elites developed and played the sport, in the southwest especially rugby became the sport of working-class neighborhoods and then of villages**, hence its enduring and intimate association with a traditional, rural *France profonde*"; "**teams recruited top players from other towns by promising them jobs in local businesses and industry**, a particularly effective enticement in times of high unemployment like the 1930s"; "Secular sports clubs and federations promoted and played rugby, while their Catholic rivals of the **Fédération Gymnastique et Sportive des Patronages de France** … **favored the less violent game of soccer**"; and — **held for Gen 3** — that union's "violent style of play led British teams to refuse to play their French counterparts. **This created an opening for** a more recent version of the sport, rugby '**league**'", and that "**Vichy decided that the amateur and ruralist values embodied by *le rugby à quinze* more closely fit its ideological program and, with the ready cooperation of that sport's grateful officials, took concrete measures to reassert the primacy of rugby union**")* ⚠️ PDF; extracted locally with `pypdf`.
+- [Crowd chaos causes casualties in 1930 Paris match](https://www.wru.wales/2021/04/crowd-chaos-causes-casualties-in-1930-paris-match/) — Welsh Rugby Union *(**21 April 1930**, Easter Monday, **Stade Olympique Yves du Manoir**, the Championship's final fixture; the surviving photograph of "**Police officers treat unconscious fans pitchside**"; **Wales 11–0**; the French XV including **Jean Galia**; the same ground having staged the **1924 Olympic final** in which the United States beat France "in a raucous and violent final that ended in a pitch invasion and the Americans needing police protection"; and — **held for Gen 3** — "**In 1931, it was revealed that some French players were being paid by their clubs – in breach of the amateur ethos of the game, and described as 'administrative deficiencies' – which resulted in the national team's exclusion from the Five Nations for eight years. By the time they were readmitted, World War Two had broken out, and they wouldn't feature again until 1947**")* ⚠️ 403s WebFetch; fetched with `curl`.
+
+⚠️ **Gen 2 — Stade Toulousain's five 1920s championships** (1922, 1923, 1924, 1926, 1927) and the "sport-king" characterisation come from search-result extracts, not a page opened and read. The draft asserts the five titles and the years; **verify before print**. The **1924 Olympic bronze for Romania** is carried from `notes/romania.md`, where it is sourced to Olympedia and World Rugby.
 
 ⚠️ **Gen 1 — one name in conflict.** Gallica gives France's first captain as **Henri Armand**; other accounts render him **Henri Amand**. The draft follows **Gallica**. Also still unsourced and therefore **not asserted**: Stade Français's eight championships between 1893 and 1908, and Reichel's own playing record.
 
