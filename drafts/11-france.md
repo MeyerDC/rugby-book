@@ -456,9 +456,81 @@ By 2007 France had four Grand Slams in eleven years, the most spectacular comeba
 
 What came next was the money — more of it than any other rugby country has ever had — and what that money would do to France, and to everybody who sold players into it.
 
+## Generation 7: The Richest League in the World (2008–2026)
+
+**14 March 2026. Stade de France.** The last kick of the Six Nations, and **Thomas Ramos** has a penalty to win the championship.
+
+England have scored forty-six points in Paris and are still in it. France have scored forty-eight, four of the tries from the wing **Louis Bielle-Biarrey** and one from **Théo Attissogbe**, and Ramos has had a perfect night off the tee. The title has been in the balance all afternoon and is still in the balance now.
+
+He kicks it. **France 48, England 46**, and a **second successive championship**.
+
+The final table reads France 21, Ireland 19, Scotland 16, Italy 9, England 8 — the worst campaign England have ever had — and Wales with a third consecutive Wooden Spoon.
+
+The captain is **Antoine Dupont**. The coach is **Fabien Galthié**. And the league those players go back to on Monday is the wealthiest in the history of the sport.
+
+---
+
+### The money
+
+The scale of it is worth setting out plainly, because no other chapter in this book has anything to compare.
+
+**Canal+**, which has broadcast French top-flight rugby since **1998**, agreed a deal worth **€696.8 million** for the **Top 14 and ProD2 across 2027–2032** — roughly **€139 million a season**, and a **14.7 per cent increase** on the arrangement it replaced. It is the most valuable domestic broadcast contract in world rugby, in what is by common consent the most commercially successful domestic competition the sport has.
+
+The wages follow. Across the Top 14's **520 players** the average salary is about **€259,000 a season** — **five times** the ProD2 average, and **a third higher** than the Premiership or Japan Rugby League One. The best-paid earn in the region of **€600,000**: **Dupont**, **Owen Farrell**, **Grégory Alldritt**, **Will Skelton**, **Mathieu Jalibert**.
+
+And then the distribution, which is the part that belongs in this book rather than in a business page.
+
+**Four per cent** of Top 14 players earn more than €480,000 a season. **Twenty-seven per cent earn less than €60,000.**
+
+More than a quarter of the professionals in the richest rugby league on earth are on wages that would not keep a family comfortably in Paris. The competition that pays a handful of men €600,000 also employs, in the same changing rooms, a large minority earning a fraction of it — playing in Agen and Castres and Perpignan and Brive, in the same market towns where the jobs at the tannery were being arranged a century ago.
+
+The mechanism changed completely. The shape did not.
+
+### What the money does to everybody else
+
+This is where France stops being only its own story.
+
+The Top 14's wealth is the single largest force acting on the rugby of countries that cannot compete with it, and this book has already watched it work.
+
+In **Georgia** (chapter four), **Claude Saurel** concluded in the 1990s that the Georgian game could not be built in Georgia, and arranged for **French clubs to sign Georgian players** — an entire national development strategy outsourced to the French league, which is why Georgia has a Test pack and why it still cannot keep its best players at home. In **Romania** (chapter five), the same pull helped hollow out a domestic game that had once beaten France in Bucharest. The **Pacific islands**, whose chapters are still to come, supply the Top 14 and the Japanese league with players their own unions can neither pay nor retain.
+
+France did not design this. It built a rich league in a country that likes rugby, and the gravity did the rest. But the gravity is the story of modern Tier 2 rugby, and its source is the competition described above.
+
+### The World Cups
+
+Twice in this generation France came close enough to touch it.
+
+At **RWC 2011** they reached the final and lost to New Zealand by a single point, **8–7**.
+
+At **RWC 2023**, hosting for the second time, they met **South Africa** in the quarter-final and lost **29–28** — a one-point defeat in a seven-try match, at home, to the eventual champions. Two World Cup exits, two decades apart, by a total of two points.
+
+### Laporte
+
+And then the federation, again.
+
+In **December 2022** the FFR president **Bernard Laporte** was convicted of corruption, alongside **Mohed Altrad**, the president of Montpellier: **two years' imprisonment and a €75,000 fine**, over **€180,000** received under an image-rights contract in March 2017, in connection with arbitration decisions favourable to Altrad's club. He **resigned in January 2023**. His **appeal is listed for 9–25 September 2026**, and had not been heard when this account closes.
+
+Set that beside the last two generations. Béziers, in the 1970s, selected its team by secret ballot and admitted every player who wanted it into every working part of the club. Ferrasse then governed the federation alone for twenty-three years. And the presidency ended, in this generation, in a criminal conviction over payments from a club owner.
+
+French rugby has spent a hundred and thirty years oscillating between the most democratic instincts in the sport and the most concentrated power in it. It has never settled the question, and 2022 is not an aberration from the pattern but the far end of it.
+
+### Where things stood, mid-2026
+
+France go to **Rugby World Cup 2027** in Australia as **back-to-back Six Nations champions**, captained by the best player in the world, coached by a man who has been in the job since 2019, and supplied by a domestic league richer than any that has ever existed.
+
+They have won three World Cup knockout matches against New Zealand and no World Cup. They have a federation whose recent past is a corruption case awaiting appeal. And they have, still, the thing the Home Unions expelled them for in 1931 and the thing that has never left: a game that belongs to the small towns below the Loire, played harder than anyone else plays it, and paid for.
+
+### What this generation leaves behind
+
+In **1892**, on a field in the Bois de Boulogne, Baron Pierre de Coubertin refereed a match between two clubs of the Parisian professional class, played by young men for whom the entire point was that nobody was paid.
+
+A hundred and thirty-four years later, the country he was refereeing in runs a competition that pays five hundred and twenty men an average of a quarter of a million euros a season, and it does so in Agen, Castres, Perpignan, Toulouse, Pau, Bayonne and Brive.
+
+Coubertin's amateur ideal did not survive in France. What survived was the wine towns, the market towns, the villages below the Loire that took the game off him — and the thing they built out of it, which by any measure the founders would have recognised as everything they were trying to prevent, and which is now the richest rugby in the world.
+
 ## Sources
 
-*(Gen 0–6 sources — the full chapter list will be assembled once all eight generations are drafted.)*
+*(Full chapter sources.)*
 
 - Pascal Charitas, ["La combination au Havre Athletic Club (1872-1914) : les « origines » du football-rugby ?"](https://www.persee.fr/doc/etnor_0014-2158_2011_num_60_1_1833) — *Études Normandes*, 2011, vol. 60 no. 1, pp. 15–28, via Persée *(la combination as a mixed sport combining rugby and association football, "a game practice without pre-defined conditions" as to rules or field; the HAC's statutes marginalising rugby and football separately **between 1872 and 1894** in favour of the hybrid, read as **an institutional strategy to prevent the club dividing into sections**; the epigraph quoting **Jean-Pierre Bodis** — "rugby arrives in France at Le Havre in 1872. **This is false!**" — and crediting **Paris (1877)** and **Bordeaux (1892)** instead; the article's emphasis on cultural transfer rather than mythologised "firsts")*
 - [1892 : le premier Titre de Champion de France de Rugby](https://www.memosport.fr/1892-le-premier-titre-de-champion-de-france-de-rugby.html) — Mémosport *("Le premier Championnat de France officiel a lieu le **20 mars 1892**"; Racing and Stade Français; "Disputée sur la pelouse du **stade de Bagatelle dans le bois de Boulogne**"; "le Racing … décroche la victoire **4 points à 3**"; "arbitrée par le **Baron Pierre de Coubertin en personne**"; "le Stade Français rate de peu une pénalité égalisatrice lors de la dernière minute de jeu")*
@@ -492,6 +564,16 @@ What came next was the money — more of it than any other rugby country has eve
 - [Greatest games: France stun the All Blacks in the 1999 World Cup](https://www.planetrugby.com/greatest-games-france-shock-all-blacks-in-1999-world-cup) — Planet Rugby *(**31 October 1999**, Twickenham; France **33 points to 7** after the interval; the tries by **Christophe Dominici**, **Richard Dourthe** and **Philippe Bernat-Salles** inside 24 minutes, the last following work by flanker **Olivier Magne**)* ⚠️ **Minor conflict:** the museum has New Zealand's 24–10 lead established **by half-time**; Planet Rugby has it reached **46 minutes in**, after Lomu's second try. The draft states the scoreline without fixing the minute.
 - [Albert Ferrasse, un monument du rugby](https://www.europe1.fr/sport/Albert-Ferrasse-un-monument-du-rugby-327252) — Europe 1, and [Décès d'Albert Ferrasse](https://www.franceinfo.fr/sports/rugby/coupe-du-monde/deces-de-l-ancien-president-de-la-federation-francaise-de-rugby-albert-ferrasse_4407851.html) — franceinfo *(president of the FFR for **23 years, 1968–1991**; a former second row for **Agen** and president of **SU Agen 1965–1985**; president of the **IRB 1979–1987**; credited with originating the idea of a **Rugby World Cup** in the 1970s; decorated with the **Legion of Honour**; and "known for **resisting the evolution of his sport toward professionalism**, a stance that made him some enemies")*
 - [RWC #17: Argentina tear up the script in the 2007 opener](https://www.irishtimes.com/sport/rugby/international/rwc-17-argentina-tear-up-the-script-in-2007-opener-1.2337435) — *The Irish Times*, with [Rugby World Cup 2007 in review](https://www.rugbypass.com/rugby-world-cup/history/rwc-2007/) — RugbyPass *(**Argentina 17–12 France** in the opening match at the **Stade de France**; France beating **New Zealand 20–18** in the **Cardiff** quarter-final; **England 14–9 France** in the semi-final, steered by **Jonny Wilkinson**; Argentina beating France again in the third-place match)*
+
+- [Canal+ agrees record €696.8m extension to show French rugby](https://www.sportspro.com/news/canal-plus-top-14-pro-d2-rugby-broadcast-rights-2027-2032/) — SportsPro, with [Improved Canal Plus deal gives Top 14 clubs security to 2032](https://www.sportbusiness.com/news/improved-canal-plus-deal-gives-top-14-clubs-security-to-2032/) — SportBusiness *(**€696.8 million** for the **Top 14 and ProD2, 2027–2032**, averaging c. **€139.4m per season**; a **14.7% increase** on the previous deal; Canal+ the broadcaster of French top-flight rugby **since 1998**; the Top 14 "the world's most commercially successful domestic rugby competition")*
+- [Ranked: highest-paid positions in the Top 14](https://www.planetrugby.com/news/ranked-highest-paid-positions-in-the-top-14-as-rare-species-earn-top-euro) — Planet Rugby, reporting an audit by **Nexia S&A** via *Midi Olympique* *(the **520 players**' average salary of about **€259,000** a season, "**five times** more than in the PRO D2 or **33% higher** than that of the Premiership or Japan"; top earners "in the region of **€600,000**", including **Antoine Dupont, Owen Farrell, Grégory Alldritt, Will Skelton and Mathieu Jalibert"**; and the distribution — "**Just 4% of the Top 14 players earn more than €480,000 with 27% earning less than €60,000**")*
+- [Six Nations: France retain title after captivating, chaotic tournament](https://www.espn.com/rugby/story/_/id/48207832/six-nations-france-retain-title-england-ireland-scotland-wales-italy) — ESPN, with [France claim back-to-back Six Nations titles with win over England, 48-46](https://www.florugby.com/articles/15638338-france-claims-back-to-back-six-nations-titles-with-win-over-england-48-46) — FloRugby *(the final table — **France 21, Ireland 19, Scotland 16, Italy 9, England 8**, England's worst campaign, Wales a third successive Wooden Spoon; **France 48–46 England** at the Stade de France with **Thomas Ramos** "kicking a penalty to win the match with the last kick of the game"; four tries for **Louis Bielle-Biarrey**, one for **Théo Attissogbe**)*
+- [France win the 2025 Six Nations](https://www.sixnationsrugby.com/en/m6n/news/france-win-six-nations-rugby-2025-match-report-highlights) — Six Nations (official) *(the **2025** title, **35–16** against Scotland at the Stade de France, France's first since 2022)*
+- [France president Bernard Laporte resigns after corruption conviction](https://www.planetrugby.com/news/france-ffr-president-bernard-laporte-resigns-after-corruption-conviction) — Planet Rugby, with [The Laporte–Altrad case to be heard on appeal in September 2026](https://batinfo.com/en/actuality/The-Laporte-Altrad-case-to-be-heard-on-appeal-in-September-2026_33626) — Bat Info *(**Laporte** and **Mohed Altrad** "found guilty of entering into a corruption pact"; **two years in prison and a €75,000 fine** over **€180,000** received in **March 2017** in connection with arbitration decisions favourable to the Montpellier president; his resignation as FFR president; the **appeal listed for 9–25 September 2026**, postponed from December 2025)*
+
+⚠️ **Gen 7 — what the section asserts about other countries, and on whose authority.** The claim that the Top 14's wealth is the largest single force acting on Tier 2 rugby is **the book's own argument**, built on facts established in earlier chapters: **Saurel arranging for French clubs to sign Georgian players** (ch. 4 Gen 4, sourced to Jonathan Campion) and Romania's decline (ch. 5). The **Pacific** case is asserted here in outline and **will be sourced properly in Section 5** (Fiji, Samoa, Tonga). Do not harden the Pacific sentence until those chapters are researched.
+
+⚠️ **Gen 7 — still not directly sourced:** the **2011 final** (France 7–8 New Zealand) and the **2023 quarter-final** (South Africa 29–28 France) are carried from the mapping pass without a page opened. **Verify both before print.**
 
 ⚠️ **Gen 6 — France's four Grand Slams "between 1997 and 2004" are asserted without a per-year source.** The individual years (1997, 1998, 2002, 2004) were **not** verified in this pass, so the draft gives the count and the span rather than listing them. **Source the years before print, or keep the span.**
 

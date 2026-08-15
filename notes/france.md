@@ -613,3 +613,70 @@ defeat by South Africa; the **2025 Six Nations** won **35–16 v Scotland**, a f
 his resignation in January 2023 and the **appeal listed for 9–25 September 2026**. Still needed: a
 **dated mid-2026 snapshot**, and — the thread this chapter owes the rest of the book — **what the Top
 14's money does to Georgia, Romania, Fiji and the Pacific**, which is where Section 5 begins.
+
+---
+
+## ⭐ GEN 7 — DRAFTED. **FRANCE CHAPTER DRAFT COMPLETE (August 2026).**
+**530 lines of prose, 594 with sources. All eight generations.** The book's longest chapter, and
+appropriately so — France is the pivot between Section 3 (the home nations) and Section 5 (the Pacific).
+
+**⭐ THE FACT THIS BOOK NEEDED, and it is a class fact.** Planet Rugby, reporting a **Nexia S&A** audit
+via *Midi Olympique*: across the Top 14's **520 players** the average is **€259,000** a season — five
+times ProD2, a third above the Premiership and Japan — with top earners near **€600,000** (Dupont,
+Farrell, Alldritt, Skelton, Jalibert). **But: "Just 4% of the Top 14 players earn more than €480,000
+with 27% earning less than €60,000."**
+→ **More than a quarter of the professionals in the richest rugby league on earth are on wages that
+would not keep a family comfortably in Paris** — playing in Agen, Castres, Perpignan and Brive, the
+same market towns where the jobs at the tannery were arranged a century ago. The draft's line: *"The
+mechanism changed completely. The shape did not."*
+
+**⭐ THE MONEY:** **Canal+ €696.8m** for Top 14 + ProD2, **2027–2032** (~€139.4m/season), a **14.7%
+increase**, from a broadcaster that has held French rugby **since 1998**; the most valuable domestic
+broadcast deal in world rugby.
+
+**⭐ THE SECTION 5 HANDOFF — the thread this chapter owes the rest of the book.** The Top 14's wealth is
+the largest single force acting on rugby that cannot compete with it, and the book has already shown it
+working: **Saurel's Georgian pipeline** (ch. 4 Gen 4) was an entire national development strategy
+outsourced to the French league; **Romania** (ch. 5) was hollowed out by the same pull. The **Pacific**
+sentence is asserted in outline only and **must be sourced when Fiji, Samoa and Tonga are written**.
+*"France did not design this. It built a rich league in a country that likes rugby, and the gravity did
+the rest."*
+
+**⭐ THE POWER OSCILLATION — the chapter's through-line, now closed.** Béziers selecting by **secret
+ballot** and admitting every player "dans tous les rouages du club" (Gen 5) → **Ferrasse** governing
+alone for **23 years** (Gen 6) → **Laporte** convicted in **December 2022** of a corruption pact with
+**Mohed Altrad** (two years, €75,000, over €180,000 from March 2017), resigning January 2023, **appeal
+listed 9–25 September 2026** and unheard when the account closes. The draft's judgement: *"French rugby
+has spent a hundred and thirty years oscillating between the most democratic instincts in the sport and
+the most concentrated power in it… 2022 is not an aberration from the pattern but the far end of it."*
+
+**THE ENDING — no thesis restatement, per the design block.** It bookends Gen 0: Coubertin refereeing
+two Parisian professional-class clubs in 1892 "for whom the entire point was that nobody was paid",
+against a competition 134 years later paying 520 men an average of a quarter of a million euros — *in
+Agen, Castres, Perpignan, Toulouse, Pau, Bayonne and Brive*. **Coubertin's amateur ideal did not survive
+in France. What survived was the wine towns and the villages below the Loire that took the game off
+him.**
+
+**2026 close (dated):** France **back-to-back Six Nations champions**, sealed **48–46 v England** by
+**Ramos's penalty off the last kick**; final table **France 21, Ireland 19, Scotland 16, Italy 9,
+England 8** (England's worst ever), **Wales** a third straight Wooden Spoon. **Dupont** captain,
+**Galthié** coach. Three World Cup knockout wins over New Zealand and no World Cup; **2011 final lost
+8–7**, **2023 home quarter-final lost 29–28** — two exits two decades apart by a total of two points.
+
+### ⚠️ VERIFY BEFORE PROMOTION
+1. **2011 final (8–7)** and **2023 quarter-final (29–28)** — carried from the mapping pass, no page read.
+2. **Stade Toulousain's five 1920s titles**; **Racing (1882) / Stade Français (1883)** founding years and
+   the **USFSA (20 Nov 1887)** — all still hedged in the text as "the early 1880s" / "from 1887".
+3. **The four Grand Slams 1997–2004** — given as a count and a span, not a year list.
+4. **The Palmié–Clerc case** — corroborated across French rugby media, **not** from an official
+   disciplinary record. A serious claim about identifiable people.
+5. **The AS Lagny page** (the "Nazi Germany and fascist Italy" characterisation, the 14–13 win over
+   England) — read via search extract only.
+6. **Le Havre 1872 / Frédérick Field Langstaff** — presented as "the standard answer" and immediately
+   contested by Charitas and Bodis; never asserted.
+
+### STILL TO DO BEFORE PROMOTION
+- Consolidate the per-generation source lists into one deduplicated `## Sources` block with a
+  verification log, as `chapters/10-ireland.md` has.
+- Add to `SUMMARY.md` §5 as **11. France**, and tick it off the §5A scope table.
+- `git mv drafts/11-france.md chapters/11-france.md`, then `python3 combine_book.py`.
