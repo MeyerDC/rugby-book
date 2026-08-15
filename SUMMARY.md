@@ -367,6 +367,57 @@ August 2026 — the book's tenth chapter and its first new country since Scotlan
   43–13**; and the **2006 Munster final date**. Deliberately omitted as unverified: the 1954 names
   (McCarthy, Hogan, "the Salute", "eleven players") and the **1982 Triple Crown**.
 
+### 11. France — `11-france.md`  (Gen 0–7)
+**Where rugby stopped being English and became a region's property.** The game arrived by the same
+channel as everywhere else in this book — British commerce, here **wine traders in Bordeaux from 1888**
+— then went **up the Garonne into the rural south-west** and was taken over by miners, farmers, tanners
+and stockmen. By the 1920s it was working-class, paid under the table, and violent, and the unions that
+had invented amateurism as a class weapon **expelled France for it**. (Written August 2026, chapter 11,
+opening **Section 4: The Game That Left Home**; 530 lines of prose, the book's longest chapter.
+`notes/france.md` holds the fact base, the design block and the proofreading record.)
+- **Gen 0** The British in Le Havre and Paris (1872–1892) · **Gen 1** The Parisian Game (1893–1920) ·
+  **Gen 2** Up the Garonne (1921–1930) · **Gen 3** Expelled (1931–1946) · **Gen 4** Monsieur Rugby
+  (1947–1962) · **Gen 5** Flair and Castagne (1963–1987) · **Gen 6** Open (1988–2007) · **Gen 7** The
+  Richest League in the World (2008–2026), closing on a dated mid-2026 snapshot.
+- **⭐ THE ORIGIN MYTH IS CONTESTED, AND THE REASON IS INSTITUTIONAL (Gen 0).** What was played at
+  **Le Havre from 1872** was not rugby but "**la combination**", a deliberate hybrid of rugby and
+  association football — and **Pascal Charitas** (*Études Normandes*, via Persée) shows the club's own
+  statutes **marginalised both codes in favour of the hybrid from 1872 to 1894**, to stop the club
+  splitting into sections. France's oldest club played neither code cleanly for twenty-two years
+  because a committee decided an undivided club was stronger. Charitas quotes **Jean-Pierre Bodis**:
+  "rugby arrives in France at Le Havre in 1872. **This is false!**"
+- **⭐ THE MECHANISM WAS JOBS, NOT CASH (Gen 2).** **Philip Dine**, via Christopher Thompson's *H-France
+  Review*: "teams recruited top players from other towns by **promising them jobs in local businesses
+  and industry**". The RFU's 1886 laws banned precisely this, in more detail than they banned cash, and
+  drove twenty-two northern clubs out in 1895 — see `07-england.md`. France did it at regional scale,
+  in the open, and called itself amateur.
+- **⭐⭐ THE FFR HAD RUGBY LEAGUE ABOLISHED BY VICHY (Gen 3).** **Décret n° 5285, signed by Pétain on
+  19 December 1941**, dissolved the Ligue française de rugby à XIII, **prohibited the sport entirely**,
+  **seized its assets**, and ended **155–159 clubs**. The FFR's own president **Albert Ginesty** and
+  honorary president **Paul Voivenel** pushed for it; Dine records that Vichy found union's "**amateur
+  and ruralist values**" fitted its programme and acted "**with the ready cooperation of that sport's
+  grateful officials**". The code was **forbidden its own name until the Cour de cassation dismissed
+  the FFR's case on 4 June 1993 — fifty-two years.** *England's RFU used bylaws in 1895; the FFR used a
+  collaborationist state.*
+- **⭐ BÉZIERS WAS WON BY RESEARCH, NOT BRUTALITY (Gen 5).** **David Wozniak** (*Études Héraultaises*)
+  asks how a team from a town "**plongée dans la grande crise viticole des années 1950**" became the
+  world reference, and answers "**la recherche et l'innovation**": touchline movement analysis, a
+  physiotherapist, a **1983 altitude camp**, and **players selecting the team by secret ballot**.
+  France's **1977 Grand Slam** — same fifteen players, no tries conceded — was won playing Béziers' way.
+  **Do not reduce Béziers to *la castagne*.**
+- **The chapter's through-line is power:** Béziers' secret ballots and the **1968 Grand Slam won "in
+  self-management"** → **Ferrasse** governing the FFR alone for **23 years** → **Laporte** convicted of
+  corruption in December 2022. *"French rugby has spent a hundred and thirty years oscillating between
+  the most democratic instincts in the sport and the most concentrated power in it."*
+- **⚠️ VERIFY BEFORE PRINT — see the verification log at the end of the chapter (11 items).** Chiefly:
+  the **2011 final (8–7)** and **2023 quarter-final (29–28)**, carried without a page read; **Stade
+  Toulousain's five 1920s titles**; the **Palmié–Clerc case**, corroborated across French rugby media
+  but not from an official disciplinary record; and the **AS Lagny** page (the "Nazi Germany and fascist
+  Italy" characterisation, attributed rather than asserted).
+- **Hedged, never asserted:** **Le Havre 1872** (given as "the standard answer" and immediately
+  contested); **Racing (1882)/Stade Français (1883)** — the text says "the early 1880s"; the **USFSA**'s
+  founding — "from 1887"; the **four Grand Slams 1997–2004** — a count and a span, not a year list.
+
 ---
 
 ## 5A. SCOPE (decided August 2026): **all 24 teams of Rugby World Cup 2027**
@@ -383,14 +434,14 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 | **B** | ✅ South Africa · Italy · ✅ Georgia · ✅ Romania |
 | **C** | ✅ Argentina · Fiji · Spain · Canada |
 | **D** | ✅ Ireland · ✅ Scotland · ✅ Uruguay · Portugal |
-| **E** | France · Japan · USA · Samoa |
+| **E** | ✅ France · Japan · USA · Samoa |
 | **F** | ✅ England · ✅ Wales · Tonga · Zimbabwe |
 
 12 qualified automatically from RWC 2023 (France, New Zealand, Italy, Ireland, South Africa, Scotland,
 Wales, Fiji, Australia, England, Argentina, Japan); 12 through regional qualifying (Georgia, Spain,
 Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kong China).
 
-**Status: 10 written, 14 to go.**
+**Status: 11 written, 13 to go.**
 
 ### Section plan — organised by CARRIER MECHANISM, not geography
 Each section names **who carried the game and what that did to its character**. That is the book's
@@ -403,7 +454,7 @@ table above is a scope checklist only.)
    institution.*
 3. **The home nations** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
    and what it did at home.*
-4. **The game that left home** (11–13): **France, New Zealand, Australia** — *what rugby became once it
+4. **The game that left home** (11–13): ✅ **France**, New Zealand, Australia — *what rugby became once it
    escaped British institutional control.* France made it a **rural, working-class regional identity**
    (the south-west, not Paris); New Zealand made it a **national game with almost no class character**;
    Australia is the **control case** — same colonial origin as New Zealand, neighbouring country, and
