@@ -680,3 +680,55 @@ England 8** (England's worst ever), **Wales** a third straight Wooden Spoon. **D
   verification log, as `chapters/10-ireland.md` has.
 - Add to `SUMMARY.md` §5 as **11. France**, and tick it off the §5A scope table.
 - `git mv drafts/11-france.md chapters/11-france.md`, then `python3 combine_book.py`.
+
+---
+
+## PROOFREADING PASS (August 2026) — 15 fixes applied before promotion
+
+**Seven errors of fact or logic:**
+1. **Dave Gallaher implied to be French.** Gen 1 read "The war took the generation that would have run
+   French rugby … and killed a great many of them — **including** … Dave Gallaher himself." Gallaher was
+   a New Zealander. Rewritten to separate the two, and to state plainly that he **was killed at
+   Passchendaele in 1917**.
+2. **"eleven years earlier, had not been allowed to play British rugby"** (Gen 4, from 1958) → **twelve**.
+   1958 − 11 = 1947, the year France *returned*.
+3. **"Bordeaux eighty years earlier"** (Gen 5) → **"some sixty years earlier"**. Bordeaux is **1888**;
+   the Béziers wine crisis is "of the **1950s**".
+4. **"three World Cup knockout matches against New Zealand"** (Gen 7) → **two** (1999 SF, 2007 QF).
+   Gen 6 already said "the second time", so the chapter contradicted itself.
+5. **"Two World Cup exits, two decades apart"** (Gen 7) → **"Two World Cup defeats, twelve years
+   apart"**. 2011→2023 is twelve years, and losing a final is not an "exit".
+6. **"By 1930 … it had six hundred clubs"** (Gen 2 close) — the BnF says *"dans les années 30"*, during
+   the 1930s. Replaced with "it was adding clubs faster than the federation could count them."
+7. **"The best team never to win anything that counted"** (Gen 5 close) — contradicted two lines later
+   by "Grand Slams in 1968, 1977 and 1981". Now: *"The most admired team in the world, on the eve of the
+   tournament that would decide what admiration was worth."*
+
+**One repetition:** the **241 → ~600 clubs** figure and the ***"En dessous de la Loire"*** quote were
+used **in full twice** (Gen 1 close and Gen 2) with a third mention in Gen 2's close. Gen 1 keeps them;
+Gen 2 now says only that the Garonne–Mediterranean arc "is where the four hundred new clubs of the
+following decade would appear." **Prose occurrences of the French quote: 1. Of the stat: 1 (plus its
+setup line).**
+
+**Grammar:** "came in in 1960" → "arrived in 1960".
+**Unhedged judgement:** "captained by the best player in the world" → "captained by a scrum-half widely
+reckoned the best player in the world".
+
+### ⚠️ CORRECTION TO MY OWN EARLIER CALL — the "reader-command" finding was overstated
+I initially flagged six phrases ("Hold the picture", "look at the team sheet", "Look at that list",
+"Consider what that means", "Understand what the men in that room believed", "Note the setting first")
+as violations of the design block. **A widened audit across the whole book shows this construction is
+part of the established house voice, not a defect:** England has **7** ("Hold onto that number", "Look
+at the second name", "note the teams, because", "look at the date, because", "look at the shape of the
+whole thing"), Scotland **4** ("Hold onto that schoolyard", "Look at the spine", "look at the map"),
+Georgia **2**, Romania **2**. What the design block actually forbids is narrower — commands telling the
+reader *how to feel* ("Stop and appreciate that", "Read that again", "Think about that inversion for a
+moment"). The France rewrites were kept because they read at least as well, but they were **tightening,
+not error correction**, and the chapter was never out of line with its neighbours.
+
+### 🔧 AUDIT-GREP NOTE for the remaining thirteen chapters
+The per-generation audit pattern used all session tested only six literal phrases and **missed this
+family entirely**. A wider pattern is:
+`stop and appreciate|read that again|sit with that|you have to understand|hold onto|hold the picture|look at that|look at the|consider what|understand what|think about that|ask yourself`
+— but note it produces **false positives on ordinary prose** ("look at the map", "picture the"), so the
+hits must be read rather than counted.

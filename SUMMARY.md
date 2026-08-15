@@ -43,6 +43,12 @@ class-question conversation, not a rule to keep repeating.)
 - **"What this generation leaves behind":** each generation closes by teasing the next.
 - **Devices:** **bold** for emphasis, em-dashes, occasional *italics*, parenthetical asides that
   draw cross-country comparisons.
+- **Proofread each chapter before promotion.** The France pass (Aug 2026) caught **seven** factual or
+  logical errors that the per-generation audits missed — a New Zealander implied to be French, three
+  arithmetic slips ("eleven years earlier" for twelve, "eighty years" for sixty, "two decades" for
+  twelve), a self-contradiction across two generations ("three" knockout wins where an earlier section
+  said "the second time"), a statistic inflated by repetition, and a closing line contradicted two
+  sentences later. **Automated greps do not find these; reading the whole chapter does.**
 - **Dated snapshot, never relative time (must read the same in 2 years):** anchor every statement to
   an explicit date or year ("In July 2026…", "By 2023…", "As of the 2026 season…"), never to
   relative time ("currently", "right now", "yesterday", "this year", "recently"). Treat even the

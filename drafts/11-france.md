@@ -8,7 +8,7 @@ Racing Club de France beat Stade Français **4–3**. It is close to the end: *l
 
 Two years after this afternoon, the man with the whistle will found the International Olympic Committee. He is, at this point in his life, the most articulate advocate in France of the English public-school games ethic — of athletics as moral training, played by gentlemen, for nothing.
 
-Hold the picture, because the rest of this chapter dismantles it. Within forty years French rugby will have left Paris for the farms and tanneries of the south-west, will be paying its players under the table, and will be expelled from international rugby by the very unions whose amateur creed Coubertin spent his life exporting.
+It is a picture the rest of this chapter dismantles. Within forty years French rugby will have left Paris for the farms and tanneries of the south-west, will be paying its players under the table, and will be expelled from international rugby by the very unions whose amateur creed Coubertin spent his life exporting.
 
 ---
 
@@ -60,7 +60,7 @@ The French press has no illusions. A notice in December 1905: *"Ce match, dans l
 
 It is played in the wet. France lose **38–8**, ten tries to two, the French tries scored by **Cessieux** and **Dufourcq** with a conversion from **Pujol**. The captain is **Henri Armand**, the first man to lead a French XV.
 
-And then look at the team sheet, because it is not what a reader of the previous four chapters would expect.
+The team sheet is not what the previous four chapters would lead anyone to expect.
 
 Two of the fifteen are not French at all: **William Crichton**, an English full-back from Le Havre, and **Allan Muhr**, an American second row from Racing. And, in the Bibliothèque nationale's phrasing, *autre particularité de taille* — another notable peculiarity — **la France ce jour-là compte deux joueurs de couleur, André Vergès et le Guyanais Georges Jérôme**: France that day fielded two players of colour, André Vergès and Georges Jérôme, a Guyanese.
 
@@ -86,7 +86,7 @@ The difference matters, because it tells you what each body thought it was defen
 
 ### 1920
 
-The war took the generation that would have run French rugby into its twenties, and killed a great many of them — including, on the other side of the world's admiration, Dave Gallaher himself, whose Originals the BnF notes would soon be *rattrapés par un autre devoir : défendre la liberté*.
+The war took the generation of Frenchmen who would have run this sport in their maturity, and killed a great many of them. It took the other side of that 1906 afternoon too: the BnF notes that the Originals would soon be *rattrapés par un autre devoir : défendre la liberté* — overtaken by another duty, defending liberty — and their captain **Dave Gallaher** was killed at Passchendaele in 1917.
 
 What emerged afterwards was a governing body of rugby's own. **In October 1920 the Fédération française de rugby emancipated itself from the USFSA** and became a full sporting federation in its own right; *la FFR existe officiellement depuis le 11 octobre 1920*, succeeding the USFSA's rugby committee. Its first leader was **Frantz Reichel**, a Racing man and an experienced administrator, who had left the presidency of the SCUF in 1919 to chair a provisional committee set up to deal with the USFSA's decay.
 
@@ -124,7 +124,7 @@ The vehicle was the one this book has watched in Montevideo, in Buenos Aires and
 
 From there it moved inland fast. The sociologist **Christian Pociello** describes the enthusiasm spreading out of Bordeaux "**like a wind whipping up and channelling rugby's spread like wildfire, towards Agen, Toulouse and Carcassonne, before the flames went on to take hold in Perpignan**."
 
-Look at that list. Agen, Toulouse, Carcassonne, Perpignan — market towns and provincial cities strung along the Garonne and down to the Mediterranean, none of them Paris, none of them rich. By the 1930s French rugby had gone from the **241 clubs** the FFR counted at its founding to **close to six hundred**, and the growth was all in one direction: *en dessous de la Loire, le rugby s'implante vigoureusement, chaque village a son club, chaque club a son derby* — below the Loire, every village with its club and every club with its derby.
+Agen, Toulouse, Carcassonne, Perpignan: market towns and provincial cities strung along the Garonne and then down towards the Mediterranean, none of them Paris, none of them rich. That arc is where the four hundred new clubs of the following decade would appear.
 
 ### Who picked it up
 
@@ -158,7 +158,7 @@ France was now doing it at scale, across an entire region, in the open, and call
 
 A sport that has changed hands, and a bill about to be presented.
 
-By 1930 French rugby was the possession of the working towns and villages below the Loire; it had six hundred clubs where it had lately had two hundred and forty-one; it recruited by finding men work; and it was played hard enough that a Championship afternoon in Colombes needed police to carry spectators off the field.
+By 1930 French rugby was the possession of the working towns and villages below the Loire; it was adding clubs faster than the federation could count them; it recruited by finding men work; and it was played hard enough that a Championship afternoon in Colombes needed police to carry spectators off the field.
 
 Two weeks after that Wales match, on **4 May 1930**, in an **Agen–Pau** championship semi-final, an eighteen-year-old named **Michel Pradié** was tackled, suffered a displaced vertebra, and died within hours.
 
@@ -176,7 +176,7 @@ Not just the national side. **The clubs too.** Every fixture, at every level, be
 
 ---
 
-Understand what the men in that room believed they were doing, because the easy reading is the wrong one.
+What the men in that room believed they were doing matters, because the easy reading is the wrong one.
 
 Four charges lay behind the decision. **Disguised professionalism** — the jobs and payments of the previous generation, which the Welsh union's account records baldly: "in 1931, it was revealed that some French players were being paid by their clubs — in breach of the amateur ethos of the game." **Unregulated recruitment** between clubs. **Internal strife** inside the FFR, where a group of clubs had gone into open dissidence in December 1930. And **brutality**, in internationals and in the French championship alike.
 
@@ -212,7 +212,7 @@ On **6 April 1934, in Paris**, he founded the **Ligue Française de Rugby à XII
 
 It caught immediately. *En moins de deux ans, les terrains se remplissent de curieux et de passionnés* — inside two years the grounds were filling. By **1939 there were more than two hundred affiliated clubs**.
 
-Consider what that means. A code invented in the north of England as the working man's answer to the RFU's amateur laws had arrived in the one country in Europe whose rugby had just been expelled by those same laws' authors — and it had found, in the towns of the south-west, precisely the constituency it was built for.
+The shape of that is worth being exact about. A code invented in the north of England as the working man's answer to the RFU's amateur laws had arrived in the one country in Europe whose rugby had just been expelled by those same laws' authors — and it had found, in the towns of the south-west, precisely the constituency it was built for.
 
 ### 19 December 1941
 
@@ -250,7 +250,7 @@ None of it made the French worse at rugby. In eight years they would beat the Al
 
 **Saturday 16 August 1958. Ellis Park, Johannesburg. Kick-off 3.15 p.m., in front of a hundred thousand people.** France beat South Africa **9–5** and take the series.
 
-The Springboks have not lost a home series in **sixty-two years**. They lose this one to a country that, eleven years earlier, had not been allowed to play British rugby at all.
+The Springboks have not lost a home series in **sixty-two years**. They lose this one to a country that, twelve years earlier, had not been allowed to play British rugby at all.
 
 The *Sunday Express* reported the afternoon in five words: **"At Ellis Park, a man cried."** The man was South African.
 
@@ -300,7 +300,7 @@ Set the sequence against chapter six. The South Africa chapter calls the years f
 
 The style everyone remembers arrived with the backs, and above all with two brothers from **Stade Montois** in the Landes.
 
-**André Boniface** made his debut in 1954 and won 48 caps; his younger brother **Guy** came in in 1960 and won 35. They played together in the French midfield, and they are the point at which French rugby stopped being admired for its forwards and started being loved for what happened behind them.
+**André Boniface** made his debut in 1954 and won 48 caps; his younger brother **Guy** arrived in 1960 and won 35. They played together in the French midfield, and they are the point at which French rugby stopped being admired for its forwards and started being loved for what happened behind them.
 
 Guy Boniface did not see the golden age his generation made possible. On **1 January 1968**, aged thirty, he died of injuries from a car crash while driving home from a match.
 
@@ -336,7 +336,7 @@ The obvious question is how. The answer everyone gives is that Béziers were fri
 
 David Wozniak, writing in *Études Héraultaises*, frames the puzzle exactly: how did a team from a **medium-sized town, plunged into the great wine crisis of the 1950s**, extract itself from an unfavourable economic and social context to become, for more than a decade, the world reference in its sport? *La réponse tient en deux mots : **la recherche et l'innovation***. The answer is in two words: research and innovation.
 
-Note the setting first, because this book has seen it before. Béziers is in the Languedoc, and its crisis was **viticultural** — the wine trade that had carried the game into Bordeaux eighty years earlier, now collapsing in the south and taking a town's economy with it. Rugby did not arrive in these places despite the wine. It arrived with it, and rose again out of its failure.
+The setting is one this book has seen before. Béziers is in the Languedoc, and its crisis was **viticultural** — the wine trade that had carried the game into Bordeaux some sixty years earlier, now collapsing in the south and taking a town's economy with it. Rugby did not arrive in these places despite the wine. It arrived with it, and rose again out of its failure.
 
 What the club actually did was build a laboratory.
 
@@ -394,7 +394,7 @@ Behind him, **Serge Blanco** was assembling the record that would end with **93 
 
 ### What this generation leaves behind
 
-The best team never to win anything that counted, on the eve of a tournament that would start counting.
+The most admired team in the world, on the eve of the tournament that would decide what admiration was worth.
 
 By 1987 France had Grand Slams in 1968, 1977 and 1981, a win in New Zealand, the most admired attacking rugby in the world, and a domestic championship still capable of ending a man's sight. It had built, at Béziers, the most sophisticated training system in the sport, and given the method away to its national team.
 
@@ -502,7 +502,7 @@ Twice in this generation France came close enough to touch it.
 
 At **RWC 2011** they reached the final and lost to New Zealand by a single point, **8–7**.
 
-At **RWC 2023**, hosting for the second time, they met **South Africa** in the quarter-final and lost **29–28** — a one-point defeat in a seven-try match, at home, to the eventual champions. Two World Cup exits, two decades apart, by a total of two points.
+At **RWC 2023**, hosting for the second time, they met **South Africa** in the quarter-final and lost **29–28** — a one-point defeat in a seven-try match, at home, to the eventual champions. Two World Cup defeats, twelve years apart, by a total of two points.
 
 ### Laporte
 
@@ -516,9 +516,9 @@ French rugby has spent a hundred and thirty years oscillating between the most d
 
 ### Where things stood, mid-2026
 
-France go to **Rugby World Cup 2027** in Australia as **back-to-back Six Nations champions**, captained by the best player in the world, coached by a man who has been in the job since 2019, and supplied by a domestic league richer than any that has ever existed.
+France go to **Rugby World Cup 2027** in Australia as **back-to-back Six Nations champions**, captained by a scrum-half widely reckoned the best player in the world, coached by a man who has been in the job since 2019, and supplied by a domestic league richer than any that has ever existed.
 
-They have won three World Cup knockout matches against New Zealand and no World Cup. They have a federation whose recent past is a corruption case awaiting appeal. And they have, still, the thing the Home Unions expelled them for in 1931 and the thing that has never left: a game that belongs to the small towns below the Loire, played harder than anyone else plays it, and paid for.
+They have won two World Cup knockout matches against New Zealand and no World Cup. They have a federation whose recent past is a corruption case awaiting appeal. And they have, still, the thing the Home Unions expelled them for in 1931 and the thing that has never left: a game that belongs to the small towns below the Loire, played harder than anyone else plays it, and paid for.
 
 ### What this generation leaves behind
 
