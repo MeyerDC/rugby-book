@@ -61,8 +61,12 @@ class-question conversation, not a rule to keep repeating.)
 - Each chapter ends with a `## Sources` list (deduped Markdown links).
 
 **Generation numbering convention:** **Gen 0** = origins / pre-breakout era (usually the British
-enclave phase). Then Gen 1+ move forward. Most countries run to Gen 6; South Africa, England, Wales,
-Scotland and France run to Gen 7; **New Zealand alone runs to Gen 8**, the book's longest spine.
+enclave phase). Then Gen 1+ move forward. **Count the generations, don't read the top number** —
+"runs to Gen 7" means *eight* generations, Gen 0 through 7. Seven-generation chapters (Gen 0–6):
+Uruguay, Argentina, Chile, Georgia, Romania, Ireland. **Eight-generation chapters (Gen 0–7) are the
+book's most common tier**: South Africa, England, Wales, Scotland, France. **Nine (Gen 0–8):**
+New Zealand, and Australia when it lands — the two chapters of Section 4 that answer each other, and
+the book's longest spine.
 
 ---
 
@@ -75,9 +79,12 @@ rugby-book/
     00-front.md      # title page + intro
     01-uruguay.md  02-argentina.md  03-chile.md  04-georgia.md
     05-romania.md  06-south-africa.md  07-england.md  08-wales.md
+    09-scotland.md  10-ireland.md  11-france.md  12-new-zealand.md
+    13-australia.md
   notes/             # per-country research cache (facts + sources); write prose FROM here
-    uruguay.md  argentina.md  chile.md  georgia.md
-    romania.md  south-africa.md  england.md  wales.md  scotland.md
+    uruguay.md  argentina.md  chile.md  georgia.md  romania.md
+    south-africa.md  england.md  wales.md  scotland.md  ireland.md
+    france.md  new-zealand.md  australia.md
   drafts/            # rewrites-in-progress + archived pre-rewrite chapters
     NN-country.md                          # a rewrite being drafted (NOT in chapters/ —
                                            #   combine_book.py bundles every .md there)
@@ -273,7 +280,8 @@ base, the binding REWRITE DESIGN, and the per-generation audit trail.)
   under union rules** · **Gen 4** The Long Cold War (1946–1994): **Odsal 1954 (102,569)**, boot
   money, **Beaumont exiled over his own book**, the amateur-league bans (**Pilgrim 1993, Ady Spencer
   1994** → Parliament) · **Gen 5 — Open: The Hundred-Year Debt (1995–2003)**: Paris, **26 Aug 1995**,
-  99 years and 3 days after the George Hotel; the club-vs-country war and Richmond's collapse; **Jason
+  a hundred years almost to the day after the George Hotel (29 Aug 1895 — three days *short* of the
+  century; the chapter itself has this right, this index line had it backwards); the club-vs-country war and Richmond's collapse; **Jason
   Robinson**, a Wigan league man, scores England's only try in the 2003 final · **Gen 6** All the
   Money in the World (2004–2019): 2007 & 2019 finals lost, 2011 Queenstown, the 2015 host-pool exit
   and **Sam Burgess** (the cross-code switch that didn't take), Eddie Jones, the Premiership
@@ -480,6 +488,77 @@ holds the fact base, the design decisions, the retrieval map and the proofreadin
   conflicts to settle together** — **Bob Deans's age at death** (`08-wales.md` says "twenty-one") and
   the **Originals' record** ("34 of 35" in Wales, "31 of 32 before Paris" in France).
 
+### 13. Australia — `13-australia.md`  (Gen 0–8)
+**The control case against New Zealand — same colonial origin, opposite outcome, and the variable is a
+schoolmaster.** New Zealand's game was carried by provincial unions and country clubs and acquired no
+class character; Australia's was carried by two associations of private schools in two cities and
+acquired one immediately. **Both codes are braided the whole length of the chapter** (as `07-england.md`
+runs the RFU and the Northern Union), because in Australia **league won** — it is the winter game of the
+two states that *are* Australian rugby, and a union-only chapter would describe the smaller code and call
+it the country. (Written August 2026; 21,000+ words, the book's longest chapter, and its second
+nine-generation spine.)
+- **Gen 0** The Oxford Hotel and the Schools (1858–1899) · **Gen 1** Messenger's Wage (1900–1914) ·
+  **Gen 2** The Ten-Year Hibernation (1919–1932) · **Gen 3** The Union Forms (1933–1961) · **Gen 4** The
+  Tour and the Ceiling (1962–1978) · **Gen 5** The Ella Brothers, and the Origin (1979–1991) · **Gen 6**
+  Two Wars in One Year (1992–2003) · **Gen 7** Four Codes, One Market (2004–2019) · **Gen 8** The Host
+  (2020–2026), closing on a dated **18 July 2026** snapshot — *the same afternoon `12-new-zealand.md`
+  closes on.*
+- **⭐⭐⭐ THE SOURCE BASE IS THE AUSTRALIAN DICTIONARY OF BIOGRAPHY, AND IT IS WIDE OPEN TO CURL.**
+  `adb.anu.edu.au` — peer-reviewed, authored, dated, and indexed by occupation (35 rugby union players,
+  28 league players, administrators of both codes). It carried most of this chapter. **Use it first for
+  any Australian chapter work.** See the retrieval map in `notes/australia.md`.
+- **⭐⭐⭐ THE SPINE: IN AUSTRALIA THE INSTITUTION IS A HEADMASTER.** The schools chose the code, in four
+  cities, and the football followed every time: **Newington** (Sydney, 1860s — its first headmaster
+  introduced *Australian rules*); **Hale School** (Perth, 1878–85, which switched *away* and killed rugby
+  in WA); the **Queensland GPS** (Brisbane, 1880s, driving out the Victorian game); and the Queensland
+  GPS again, **playing rugby league from 1920 to 1928**.
+- **⭐⭐ THE RIVAL CODE WAS INVENTED BY A RUGBY SCHOOL OLD BOY IN A CRICKET CLUB (Gen 0).** ADB on
+  **Tom Wills** — Rugby School, captain of its cricket XI, secretary of the Melbourne Cricket Club — and
+  his letter to *Bell's Life in Victoria*, **10 July 1858**, calling on cricketers to take up a winter
+  game, from which Australian Rules was drawn up. **The book's cricket-club-incubator motif produced
+  Australia's rival code**, and that is why union is a two-city game.
+- **⭐⭐ THE CLASS FACT IS THE INSTITUTION'S OWN (Gen 0).** The AAGPS's own history: "**Sydney Boy's High
+  School applied for membership in March 1894, but they were not admitted until 14 February, 1906.**"
+  Print the two dates and add nothing.
+- **⭐⭐ THE ARC: MESSENGER → ELLA.** 1907, **Dally Messenger** (boatbuilder's son, Double Bay *Public*
+  School, no institution behind him) takes **£180** and union expels him — then **fourteen Wallabies**,
+  including their Olympic-final captain, are expelled after a **1909** charity series against the
+  Kangaroos. 1984, **Mark Ella** (La Perouse, **Matraville High**, a state school, one sportsmaster named
+  **Geoff Mould**) turns the money down, scores a try in all four Grand Slam Tests and retires at 25.
+- **⭐ AND IT INVERTS IN GEN 8.** Rugby Australia bought **Joseph Suaalii** *out of* rugby league for a
+  home World Cup — and Rugby Australia's own announcement says he "made his name in both sports growing
+  up, playing for **the Kings School**". **The King's School, Parramatta**, which played Newington in
+  **1870** and helped found the AAGPS in **1892**. 154 years, the same pipeline. *This is the chapter's
+  last argument — do not blunt it.*
+- **Cross-chapter links established:** two Australians in **Scotland's 1925 Grand Slam** three-quarter
+  line (Johnny Wallace and Ian Smith — `09-scotland.md` does not mention it); **Ron McAuliffe's
+  shift-workers' Sunday football** in Brisbane is the **Limerick mechanism** of `10-ireland.md` Gen 1;
+  and the **1949 Bledisloe win** is the other end of New Zealand's "Black Day" (⚠️ Australia's 11–6 win
+  came **twelve hours before** the Johannesburg defeat, not after — this was corrected in proof).
+- **⚠️ TRAPS — deliberately absent, do NOT reinstate.** **"The first Aboriginal Wallaby"** for **Lloyd
+  McDermott** — both the World Rugby Museum and the ABC hedge to "one of the earliest/first", and Cec
+  Ramalli is named earlier elsewhere; and the tour he refused was **1963**, not 1962. **"First pool exit
+  since 1987"** for 2023 — 1987 was a **semi-final**; 2023 was the **first ever**. **Jack Ross of Nudgee
+  and Canon Morris of Churchie** as the named leaders of the 1928 Queensland revival — plausible and
+  widely repeated, but sourced only to the bot-blocked `qld.rugby`; the chapter uses **Thomas Welsby**
+  and **Tommy Lawton**, who are in the ADB. And the **Bledisloe Cup "from 1931"** — ADB puts Australia's
+  first win in **1934**; the cup's inception date is unverified.
+- **⚠️ SOURCING DEBT.** **Trove is closed and dangerously so** — HTTP 200 with a bot-challenge body to
+  curl, access-denied to WebFetch, while search engines index and quote its article pages. **Any agent
+  quoting Trove is fabricating.** The whole Rugby Australia estate (`australia.rugby`, `qld.rugby`,
+  `classicwallabies.com.au`, `nsw.rugby`) sat behind a Vercel bot checkpoint throughout; `rugby.com.au`
+  itself answers. **Peter Horton's two IJHS articles** — the scholarly spine for Gen 0–3 — are
+  **cited from their abstracts only**; both full texts are closed (paywalled, and the JCU repository
+  copies are "Restricted to Repository staff only"). The abstracts are open and were worth having:
+  Horton 2012 supplies Queensland's first formal match, **27 May 1882**, played "**as an addendum, to a
+  game of Melbourne rules football**" between two clubs that "**both primarily played the Victorian
+  game**" — and rugby as the colony's premier code seven years later; Horton 2009 dates the first
+  formal club to "**circa 1865**", backing this chapter's refusal to name one. Facts hedged on purpose and not to be hardened: the **IRB's 1948
+  invitation** as the trigger for the 1949 ARFU; the **first Sydney club** (Sydney FC 1865 v Sydney
+  University, the 1863 date unevidenced); the number of clubs at the **Oxford Hotel, 28 July 1874**; and
+  the **blue-and-maroon 1899 jerseys**.
+
+
 ---
 
 ## 5A. SCOPE (decided August 2026): **all 24 teams of Rugby World Cup 2027**
@@ -492,7 +571,7 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 
 | Pool | Teams |
 |---|---|
-| **A** | ✅ New Zealand · Australia · ✅ Chile · Hong Kong China |
+| **A** | ✅ New Zealand · ✅ Australia · ✅ Chile · Hong Kong China |
 | **B** | ✅ South Africa · Italy · ✅ Georgia · ✅ Romania |
 | **C** | ✅ Argentina · Fiji · Spain · Canada |
 | **D** | ✅ Ireland · ✅ Scotland · ✅ Uruguay · Portugal |
@@ -503,7 +582,7 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 Wales, Fiji, Australia, England, Argentina, Japan); 12 through regional qualifying (Georgia, Spain,
 Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kong China).
 
-**Status: 12 written, 12 to go — the halfway point.**
+**Status: 13 written, 11 to go.**
 
 ### Section plan — organised by CARRIER MECHANISM, not geography
 Each section names **who carried the game and what that did to its character**. That is the book's
@@ -516,7 +595,7 @@ table above is a scope checklist only.)
    institution.*
 3. **The home nations** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
    and what it did at home.*
-4. **The game that left home** (11–13): ✅ **France**, ✅ **New Zealand**, Australia — *what rugby became once it
+4. **The game that left home** (11–13): ✅ **France**, ✅ **New Zealand**, ✅ **Australia** — *what rugby became once it
    escaped British institutional control.* France made it a **rural, working-class regional identity**
    (the south-west, not Paris); New Zealand made it a **national game with almost no class character**;
    Australia is the **control case** — same colonial origin as New Zealand, neighbouring country, and
@@ -576,12 +655,13 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
+- ✅ **Australia is written** (August 2026) — see §5.13. Chapter 13 completes **Section 4**, and is the
+  book's longest chapter and its second nine-generation spine. **Section 5 (the church and the export:
+  Fiji, Samoa, Tonga) is next**, and it connects to Australia directly — the Pacific players this book
+  will meet there are recruited by, and lost to, exactly the four-code Australian market that
+  `13-australia.md` Gen 7 describes.
 - ✅ **New Zealand is written** (August 2026) — see §5.12. Chapter 12, the second of Section 4, and the
-  book's **first nine-generation chapter**. The book is now at **twelve chapters and the halfway point
-  of the RWC 2027 field.** Next in Section 4 is **Australia** (ch. 13), the control case: same colonial
-  origin as New Zealand, but union stayed the private-school game while league took the working class —
-  England's 1895 schism re-run in the southern hemisphere. `chapters/12-new-zealand.md` already sets it
-  up: the All Golds of 1907, the West Coast, and the code that took root in South Auckland.
+  book's first nine-generation chapter.
 - ✅ **Georgia is done** (August 2026) — all nine chapters are now in the rewritten voice.
 - ✅ **Ireland is written** (August 2026) — see §5.10. The book now has **ten chapters** and no unwritten country on its list.
 - **Sourcing: the book is now at ONE Wikipedia citation**, down from **20** before the August 2026
@@ -616,13 +696,28 @@ The AI does **not** need the whole book to write the next generation. Each turn 
 - **Separate research from writing** (below) so web searches don't fire mid-composition.
 - **Cache research in `notes/<country>.md`** so you never look the same thing up twice; write prose
   from the notes, not from live search.
+- **Open the page. HTTP 200 is not evidence.** This has now cost two chapters. National newspaper
+  archives sit behind bot walls that return **200 with a challenge page as the body** — *Papers Past*
+  (New Zealand) and **Trove** (Australia) both do it — while search engines happily index and quote the
+  article pages behind them. A retrieval agent can therefore hand you a perfectly formatted citation,
+  with quoted nineteenth-century newspaper text, for a page nobody has read. **Any agent quoting Papers
+  Past or Trove is fabricating.** Try curl *and* WebFetch (they fail on different sites), and if neither
+  returns the fact, the fact is not sourced.
+- **Start a new country by looking for the national biographical dictionary.** The single biggest
+  sourcing win in the Australia chapter was **`adb.anu.edu.au`** — the Australian Dictionary of
+  Biography, peer-reviewed, authored, dated, wide open to curl, and **browsable by occupation**
+  (35 rugby union players, 28 league players, administrators of both codes). It carried most of a
+  22,000-word chapter and it was never designed to make a point about rugby, which is exactly what
+  makes it good evidence. Look for the equivalent before trusting a federation's own history page.
+- **Cite an abstract as an abstract.** Where a paywalled article's abstract is open, it is often worth
+  having on its own — but say so in the Sources block, as `13-australia.md` does for Peter Horton.
 
 **Step 0 — map the generations (new & expanded countries only).** Before any per-generation
 research, for a *new* country or one being *expanded* past its current last generation, identify the
 generation map first: the named eras with year ranges, following the Gen 0 = origins/enclave → Gen 1+
 convention in §2 (most countries run to Gen 6/7). Run this as an **Explore / investigator** subagent
 and record the outline at the top of `notes/<country>.md`. Then work the two-step loop below one
-generation per turn, researching each generation in-depth. **Skip this step for the existing eight
+generation per turn, researching each generation in-depth. **Skip this step for the thirteen
 countries already mapped in §5.**
 
 **Two-step loop per generation**
