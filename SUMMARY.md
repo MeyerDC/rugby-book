@@ -61,8 +61,8 @@ class-question conversation, not a rule to keep repeating.)
 - Each chapter ends with a `## Sources` list (deduped Markdown links).
 
 **Generation numbering convention:** **Gen 0** = origins / pre-breakout era (usually the British
-enclave phase). Then Gen 1+ move forward. Most countries run to Gen 6; South Africa, England, and
-Wales run to Gen 7.
+enclave phase). Then Gen 1+ move forward. Most countries run to Gen 6; South Africa, England, Wales,
+Scotland and France run to Gen 7; **New Zealand alone runs to Gen 8**, the book's longest spine.
 
 ---
 
@@ -418,6 +418,68 @@ opening **Section 4: The Game That Left Home**; 530 lines of prose, the book's l
   contested); **Racing (1882)/Stade Français (1883)** — the text says "the early 1880s"; the **USFSA**'s
   founding — "from 1887"; the **four Grand Slams 1997–2004** — a count and a span, not a year list.
 
+### 12. New Zealand — `12-new-zealand.md`  (Gen 0–8)
+**The country where rugby had no class — and spent a century and a half arguing about who was holding
+it instead.** The game arrived by the same British channel as everywhere else, but was carried by
+provincial unions, country clubs and men who moved towns for work, so it never acquired a class
+character; the fault lines it did produce were **race** and **ownership**. (Written August 2026, the
+book's first nine-generation chapter and its longest spine; 789 lines of prose. `notes/new-zealand.md`
+holds the fact base, the design decisions, the retrieval map and the proofreading record.)
+- **Gen 0** The Game in Somebody's Luggage (1870–1888) · **Gen 1** The Natives (1888–1902) · **Gen 2**
+  The Originals and the All Golds (1903–1919) · **Gen 3** The Invincibles and the Colour Bar
+  (1920–1948) · **Gen 4** No Maoris, No Tour (1949–1969) · **Gen 5** The Tour (1970–1986) · **Gen 6**
+  Open (1987–2007) · **Gen 7** The Best Team in the World (2008–2019) · **Gen 8** The Bill
+  (2019–2026), closing on a dated **18 July 2026** snapshot toward RWC 2027.
+- **⭐ THE SPINE IS OWNERSHIP, AND IT RUNS IN EVERY GENERATION** (author decision, August 2026 — the
+  class question is settled in a paragraph and cannot carry a chapter). Before 1892 there is no owner
+  at all; the **1888 Natives** — a private, largely Māori venture — invent the black jersey, the silver
+  fern, the haka and the name before a national union exists; **Ellison** then moves the motion that
+  makes the union adopt them (**27 April 1893**); **Baskerville's 1907 professionals** are threatened
+  with life bans; the union spends its **Māori players** to keep the South African fixture; the
+  **Cavaliers** go anyway in 1986; the **World Rugby Corporation** nearly buys every player in 1995;
+  **central contracting** answers it; and in **2022 the twenty-six provinces vote to sell** a share of
+  the commercial rights to Silver Lake.
+- **⭐⭐ THE ROWLAND HILL THROUGH-LINE — set it up in Gen 1 and land it in Gen 3.** The RFU secretary
+  who **refereed the Natives at Blackheath (16 Feb 1889)**, rejected McCausland's first apology and
+  **dictated the second** on pain of barring RFU clubs from playing the tourists, is **in the chair at
+  the 1924 Imperial Rugby Conference**, refusing to let New Zealand's remit on professionalism be
+  discussed at all — while the three colonial unions sit there **affiliated to the RFU rather than to
+  the IRB**. Ellison's own words are the chapter's thesis: Hill's real error was **"refereeing at all
+  in that game; he being the most important official of the English Rugby Union and the father of the
+  team pitted against us."**
+- **⭐ THE CLASS ARGUMENT IS A FIXTURE LIST, NOT AN ASSERTION.** Greymouth, 1875: the club's season
+  included **"a 'Banks and Lawyers' versus 'All Corners' game, which extended over two days"** and a
+  match against the **Fire Brigade**; Auckland, 1873, sorted men by weight and birthplace ("Thirteen
+  Colonials" v "Eight Outsiders"; over 10st 10lb counted as heavy). Same rulebook as England's 1886
+  laws — no institution with an interest in keeping the two sides apart.
+- **⭐ THE CLOSING LOOPS, all verified.** **Otago**, which walked out of the founding meeting in 1892
+  rather than accept a central authority, was **lent $200,000 and sent a change manager in 2012**,
+  having been unable to pay a **$5,000 entry fee to a tournament it was hosting**. And **David Kirk** —
+  one of the two All Blacks who refused the 1986 Cavaliers tour, and the captain who lifted the 1987
+  World Cup — is **chair of NZR**, arriving from the **presidency of the Players' Association**, and
+  sacked Scott Robertson in January 2026.
+- **The women's game is threaded, not appended:** the **women's NPC was cancelled in 2010 to save
+  money, in a World Cup year**; the Black Ferns won that World Cup and the competition was reinstated;
+  **Farah Palmer** took the **Māori seat** on the NZR board in 2016; and on **12 November 2022** the
+  Black Ferns beat England **34–31** at Eden Park before **a record 42,000+**.
+- **Sourcing note — the retrieval map is in `notes/new-zealand.md` and will save the next session
+  hours.** ✅ **`rugbymuseum.co.nz` is wide open to curl** and reproduces **A. C. Swan's 1948 history**,
+  **Greg Ryan's *Forerunners of the All Blacks* (1993)** and contemporary newspaper text, plus a dated
+  **"On This Day"** archive (thinning after ~2018). ✅ **RNZ** carries the modern chapter. ❌
+  **nzhistory.govt.nz and teara.govt.nz 403 both curl and WebFetch.** ❌ **Papers Past returns HTTP 200
+  with an Incapsula block page as the body** — *any agent quoting Papers Past is fabricating.*
+- **Traps for future editors — deliberately absent, do NOT reinstate:** the **"All Backs" printer's
+  error** (the Museum lists it among "incorrect rumours"; the first published use of "All Blacks" is
+  **the Natives, mid-1889**); **Monro as sole founder** (the Museum itself says "introducing the game
+  and as co-founder"); and the claim that the Natives were **"the first to play in a black uniform"**
+  (the Napier report has them in black three months earlier — only the haka claim is made).
+- **⚠️ VERIFY BEFORE PRINT — see the open items at the end of `notes/new-zealand.md`.** Chiefly the
+  **2011 final (8–7)**, which `11-france.md` also carries **without a page read**; the **2015 final**,
+  the **2019 semi-final** and the **Invincibles' match count**, all deliberately left unstated; the
+  **1987 final** given as "by twenty points" per the NZRU's own history; and **two cross-chapter
+  conflicts to settle together** — **Bob Deans's age at death** (`08-wales.md` says "twenty-one") and
+  the **Originals' record** ("34 of 35" in Wales, "31 of 32 before Paris" in France).
+
 ---
 
 ## 5A. SCOPE (decided August 2026): **all 24 teams of Rugby World Cup 2027**
@@ -430,7 +492,7 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 
 | Pool | Teams |
 |---|---|
-| **A** | New Zealand · Australia · ✅ Chile · Hong Kong China |
+| **A** | ✅ New Zealand · Australia · ✅ Chile · Hong Kong China |
 | **B** | ✅ South Africa · Italy · ✅ Georgia · ✅ Romania |
 | **C** | ✅ Argentina · Fiji · Spain · Canada |
 | **D** | ✅ Ireland · ✅ Scotland · ✅ Uruguay · Portugal |
@@ -441,7 +503,7 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 Wales, Fiji, Australia, England, Argentina, Japan); 12 through regional qualifying (Georgia, Spain,
 Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kong China).
 
-**Status: 11 written, 13 to go.**
+**Status: 12 written, 12 to go — the halfway point.**
 
 ### Section plan — organised by CARRIER MECHANISM, not geography
 Each section names **who carried the game and what that did to its character**. That is the book's
@@ -454,7 +516,7 @@ table above is a scope checklist only.)
    institution.*
 3. **The home nations** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
    and what it did at home.*
-4. **The game that left home** (11–13): ✅ **France**, New Zealand, Australia — *what rugby became once it
+4. **The game that left home** (11–13): ✅ **France**, ✅ **New Zealand**, Australia — *what rugby became once it
    escaped British institutional control.* France made it a **rural, working-class regional identity**
    (the south-west, not Paris); New Zealand made it a **national game with almost no class character**;
    Australia is the **control case** — same colonial origin as New Zealand, neighbouring country, and
@@ -514,6 +576,12 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
+- ✅ **New Zealand is written** (August 2026) — see §5.12. Chapter 12, the second of Section 4, and the
+  book's **first nine-generation chapter**. The book is now at **twelve chapters and the halfway point
+  of the RWC 2027 field.** Next in Section 4 is **Australia** (ch. 13), the control case: same colonial
+  origin as New Zealand, but union stayed the private-school game while league took the working class —
+  England's 1895 schism re-run in the southern hemisphere. `chapters/12-new-zealand.md` already sets it
+  up: the All Golds of 1907, the West Coast, and the code that took root in South Auckland.
 - ✅ **Georgia is done** (August 2026) — all nine chapters are now in the rewritten voice.
 - ✅ **Ireland is written** (August 2026) — see §5.10. The book now has **ten chapters** and no unwritten country on its list.
 - **Sourcing: the book is now at ONE Wikipedia citation**, down from **20** before the August 2026
