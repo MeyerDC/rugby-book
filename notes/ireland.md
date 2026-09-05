@@ -605,3 +605,27 @@ controlled experiment: **"In Limerick they still play on Sundays."**
 - Add the chapter to `SUMMARY.md` §5 as **10. Ireland**, and update §6's open-threads list.
 - `git mv drafts/10-ireland.md chapters/10-ireland.md`, then `python3 combine_book.py`.
   (`combine_book.py` uses `sorted()`; a `10-` prefix sorts correctly after `09-` — already verified.)
+
+---
+
+## VERIFICATION LOG — moved out of the chapter, September 2026
+
+*This block previously sat at the end of `chapters/10-ireland.md`. It is editorial working material — it says of itself "Nothing here is asserted in the text" — and it would have been printed in the book. Moved here, where notes belong.*
+
+### Verification log — open items, unresolved conflicts, and deliberate omissions
+
+*Every item below is a decision, not an oversight. Nothing here is asserted in the text.*
+
+⚠️ **Deliberately NOT asserted:** the exact **provincial breakdown** of the 1875 side. RugbyFootballHistory implies twelve from Leinster and eight from Ulster on a twenty-man team; the World Rugby Museum's account gives nine Trinity men and six from North of Ireland. The two cannot both be complete, so the text carries only what they agree on — **nine Trinity players**, a side drawn from Dublin and Belfast, and twenty a side. Also unresolved: **Wanderers' founding year**, given as both **1869** and **1870** (the club's own site says 1870); the text says only "at the end of the decade."
+
+⚠️ **Gen 1 open items.** The **count of Irish internationals killed in the war** is not settled — the Irish Post gallery names **six**, while another account gives **nine** dead as a result of the war, seven on active service. The text reports both rather than choosing. Not yet sourced: the **names of the Limerick "improbable trio"**; **Garryowen's**, **Young Munster's** and **Shannon's** founding dates; the **provincial senior cups'** start dates; and the effect of the **1916 Rising and War of Independence** on the game — O'Callaghan's war paper would answer several of these but only its abstract could be extracted from the PDF (`pdftotext`/poppler is not installed on this machine).
+
+⚠️ **Gen 2 — a motive left deliberately unresolved.** Why the IRFU bought Ravenhill has **two competing accounts**, and the draft presents both rather than choosing. Ulster Rugby's own history gives a purely practical reason (popularity, public demand); Cormac Moore frames the funding as part of accommodating the north after partition. A search summary asserting the ground was bought "to maintain the unity of Irish rugby union and the linkages between North and South" for **£2,300** is **not supported** by the club's own page, which gives **£2,380** and no unity motive — that figure and framing are **not used**. Also unresolved: whether the **1929 Sunday ban** was ever enforced.
+
+⚠️ **Gen 3 — deliberately NOT named.** Widely circulated accounts of the 1954 crisis name the captain (**Jim McCarthy**), the IRFU president (**Sarsfield Hogan**), an abbreviated anthem known in Ulster as "**the Salute**", and **eleven** Republic-based players. **None of that survived direct checking** — the Irish News piece, when fetched, contains none of it. The draft therefore carries only the verified core: Republic-based players refused to take the field until "God Save the Queen" had finished, internationals moved to Dublin, and no senior international was played in Northern Ireland from 1954 until 2007.
+
+⚠️ **Gen 4 open items.** Ireland's **1982 Triple Crown** is not asserted — only **1985** is sourced here (via the Carr coverage). The **1972** section relies on the Irish Post's account; a second source for the abandonment would be worth having. Not sourced this pass: how Ulster clubs and players functioned week-to-week through the conflict beyond the Carr episode, and whether any player faced direct threat.
+
+⚠️ **Gen 5 open items.** The **exact date of the 2006 Munster final** (given as 20 May in the draft) and the **43–13** Croke Park scoreline both come from secondary extracts rather than direct reads — verify. Also unverified: whether **2007** saw the return of a senior international to Ravenhill specifically, or another Northern Ireland venue. The *Irish Examiner* suggests the **2008** financial review (Morgan Buckley's analysis) may have been a closer call for Connacht than 2003 — worth a look if the Connacht material is expanded.
+
+✅ **Gen 6 — scoreline conflict RESOLVED (August 2026).** The final-day Triple Crown win over Scotland was **Ireland 43–21**, at the **Aviva Stadium on 14 March 2026** — confirmed by the **Six Nations' own match report** and **Sky Sports**. Both this chapter and the Scotland chapter previously carried **41–21**, taken from an ESPN *headline* whose own body text says 43–21. **Both chapters have been corrected.** Ireland's tries: Osborne (3'), Sheehan (11'), Baloucoune (19'), Murray (56'), O'Brien (68' and 80'); five conversions and a penalty from Crowley. Scotland's: Graham (7'), Russell (52'), Darge (61'). Also from secondary extracts rather than direct reads: the **thirty-seven phases** of the 2023 quarter-final endgame, and the detail of Stephen Jones's 2009 penalty.

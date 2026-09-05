@@ -617,7 +617,7 @@ That is where the Oaks' story, for now, rests.
 - [England 134–0 Romania, Twickenham, 17 November 2001](https://www.espn.com/rugby/story/_/id/15457981) — ESPN
 - [RWC 1995 on this day: Springbok dirt-trackers struggle against Romania (21–8, Loftus Versfeld)](https://thepost.co.za/sport/rugby/2025-05-30-rugby-world-cup-1995--on-this-day-springbok-dirt-trackers-struggle-against-romania-joy-for-ivory-coast-and-samoa-knock-out-pumas/) — The Post
 - [Rugby Europe: Georgia defeats Romania, wins the Antim Cup (March 2021)](https://georgiatoday.ge/rugby-europe-georgia-defeats-romania-wins-antim-cup/) — Georgia Today *(the cup in play between the two sides)*
-- [Antim Cup coverage](https://georgiatoday.ge/tag/antim-cup/) — Georgia Today *(the trophy takes its name from Antim Iverianul / Antimoz Iverieli, the Georgian-born Metropolitan of Wallachia, d. 1716; the **2002** start date given in the text is the commonly repeated one and is not confirmed outside reference sources — see `notes/romania.md`)*
+- [Antim Cup coverage](https://georgiatoday.ge/tag/antim-cup/) — Georgia Today *(the trophy takes its name from Antim Iverianul / Antimoz Iverieli, the Georgian-born Metropolitan of Wallachia, d. 1716; the **2002** start date given in the text is the commonly repeated one and is not confirmed outside reference sources)*
 - [Romania disqualified from Rugby World Cup in Japan](https://www.cbc.ca/sports/rugby/romania-disqualified-from-rugby-world-cup-in-japan-1.4663683) — CBC
 
 **Rock bottom and rebuild (Gen 6)**

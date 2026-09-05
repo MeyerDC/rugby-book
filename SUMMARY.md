@@ -43,6 +43,15 @@ class-question conversation, not a rule to keep repeating.)
   what a `.md` file is. Filenames belong in `SUMMARY.md` and in `notes/`. **97 of them were removed from
   seven chapters in September 2026**, 37 from Italy and 31 from Tonga alone. Check before promotion:
   `grep -l '`[0-9][0-9]-[a-z-]*\.md`' chapters/*.md` must return nothing.
+- **⚠️ Nothing editor-facing goes in a chapter.** Chapters are **printed**. No `notes/…` or `chapters/…`
+  paths, no "verify before print", no "a future editor should", no "the two chapters must agree", and no
+  **Verification log** sections. Working material belongs in `notes/<country>.md`. A Sources block may
+  say *how* a source was handled — "fetched via search extract rather than read directly", "the PDF's
+  text layer had lost its spacing and every quotation was respaced by hand" — because that is provenance
+  a reader can use. It must not contain instructions to whoever edits next.
+  **September 2026 clean-up:** the **Verification log** sections were moved out of `10-ireland.md` and
+  `11-france.md` into their notes files, and eight internal references were rewritten across five
+  chapters. Check with `grep -rn "notes/\|before print\|future editor\|Verification log" chapters/`.
 - **⚠️ No markdown tables in chapter prose either** — same reason, same rule. Story mode means writing a
   run of results, not pasting a grid. Check with `grep -c "^|" chapters/*.md`; the answer must be zero.
 - **Recurring cross-references:** thread comparisons between countries — the "informal empire,"
