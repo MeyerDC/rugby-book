@@ -594,6 +594,38 @@ generations on Parisse, and do not labour the connection — just put them in th
 
 ---
 
+## ⭐ THE SOVIET FIXTURES HAVE NO SURVIVING VOICE — searched for, and that is the finding
+
+Three targeted searches were run in Italian for any human account of the Italy–USSR matches of 1978–91:
+player memories, contemporary reports, retrospectives, interviews, the Moscow and Kiev away trips.
+**Nothing rugby-related came back.** Italian-language search on those terms returns **basketball and
+football** — Italy's basketball wins over the USSR are extensively commemorated, and the one
+"Italia–URSS" match result that surfaced (20.02.1988, 4–1) is *football*. `onrugby.it/azzurri/`, the
+obvious Italian player database, is a **current-squad** page with **zero** mentions of the USSR or the
+1980s.
+
+**What that means, stated carefully:** three searches failing is not proof that nothing exists — it means
+no account surfaced at reasonable effort, and none is available to this book. **A future session with
+Italian newspaper archives (Gazzetta, Corriere dello Sport) may well find match reports.**
+
+### ⭐⭐⭐ BUT THE ABSENCE IS USABLE, AND IT MAY BE BETTER THAN A QUOTE
+**Fourteen matches across fourteen years. Nine defeats. A draw in Moscow. One-point games at Rovigo and
+L'Aquila. And nobody wrote any of it down.** The Italian federation kept the scores; that is the entire
+surviving record of the longest and closest rivalry Italian rugby had before the Six Nations.
+
+Write the generation that way. `16-tonga.md` does exactly this with the arrival of the game — *"This book
+cannot tell you how"* — and it is one of that chapter's strongest passages. **Here the equivalent line is
+that a fourteen-year rivalry survives as a column of scores**, because once Italy was let in at last, the
+years spent outside stopped being worth remembering. **That is the section's argument delivered by a
+silence rather than by a claim.**
+
+⚠️ **Consequence for drafting: Gen 4 cannot have a conventional cold open with a named person in it.**
+It must open on the ledger itself — a date, a venue, a one-point margin — and say plainly that this is
+all there is. **Do not invent atmosphere for those trips. Do not describe Moscow.** The generation's
+power is that the chapter refuses to.
+
+---
+
 ## ⚠️ STILL UNVERIFIED — do not print
 1. ✅ **RESOLVED BY HEDGING — the wooden spoon count.** The Six Nations' own explainer page returns
    **navigation and footer only**, and a second attempt produced **two figures that disagree**: "**18
