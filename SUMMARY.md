@@ -812,13 +812,19 @@ Each section names **who carried the game and what that did to its character**. 
 organising principle and the new sections follow it. (Chapters are *not* grouped by RWC pool — the pool
 table above is a scope checklist only.)
 
-1. **The British enclave in South America** (1–3): Uruguay, Argentina, Chile — *commerce built enclaves;
+**The headings are institutions, not places** (renamed September 2026). Each one names a room a reader
+could walk into, so that the contents page states the book's thesis before a word of prose does: *rugby
+has no class — institutions do.* Two earlier names were geographic and have gone. **Note that §3 and §6
+are the same institution at two moments** — the committee inventing the bar, then policing the door
+seventy years later — and the headings are built to rhyme.
+
+1. **The Clubhouse** (1–3): Uruguay, Argentina, Chile — *commerce built enclaves;
    what happened next depended on the institutions that inherited them.*
-2. **Governments use rugby** (4–6): Georgia, Romania, South Africa — *the state as the carrying
+2. **The Ministry** (4–6): Georgia, Romania, South Africa — *the state as the carrying
    institution.*
-3. **The home nations** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
+3. **The Committee and the Coalfield** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
    and what it did at home.*
-4. **The game that left home** (11–13): ✅ **France**, ✅ **New Zealand**, ✅ **Australia** — *what rugby became once it
+4. **Out of British Hands** (11–13): ✅ **France**, ✅ **New Zealand**, ✅ **Australia** — *what rugby became once it
    escaped British institutional control.* France made it a **rural, working-class regional identity**
    (the south-west, not Paris); New Zealand made it a **national game with almost no class character**;
    Australia is the **control case** — same colonial origin as New Zealand, neighbouring country, and
@@ -827,7 +833,7 @@ table above is a scope checklist only.)
    → This section **hinges off section 3**: it opens with the Home Unions **expelling France in 1931**
    for professionalism (already carried in `07-england.md`), and the country they threw out is the one
    that later built the pipeline which made Georgian and Romanian rugby.
-5. ✅ **The church and the export** (14–16): ✅ **Fiji**, ✅ **Samoa**, ✅ **Tonga** — *missionaries and
+5. ✅ **The Church and the Export** (14–16): ✅ **Fiji**, ✅ **Samoa**, ✅ **Tonga** — *missionaries and
    village schools carried it; European and Japanese clubs now extract it.* The sharpest institutional
    argument in the modern game, and it connects directly to **Saurel's Georgian pipeline** (Georgia
    Gen 4) and **Argentina's amateur-rule exodus**. Fiji (ch. 14) establishes the section's mechanism:
@@ -842,11 +848,19 @@ table above is a scope checklist only.)
    a District Meeting in 1835 onward. Samoa and Tonga are the harder version of Fiji — **19th and 20th
    in the world in July 2026, against Fiji's 9th**, and in the **second-tier Nations Cup** while Fiji
    went up into the Nations Championship. **Section 5 is complete; Section 6 (Italy, ch. 17) is next.**
-6. **The late admissions** (17–19): **Italy, Spain, Portugal** — *Latin Europe, admitted to a British
-   club on somebody else's terms.*
-7. **Company and campus** (20–22): **Japan, USA, Canada** — *carried by employers and universities
+6. **At the Committee's Door** (17–19): **Italy, Spain, Portugal** — *the same body that invented the
+   bar in §3, seventy years on, deciding who is let in.* ⚠️ **PROVISIONAL — do not carve this in stone
+   until ch. 17 is researched.** The old name, "the late admissions", was dropped because **two of the
+   three were never admitted**: Italy joined the Six Nations in 2000; Spain and Portugal have not. It
+   also took the admitting body's point of view, which is the one this book works against. The current
+   name is accurate about all three and rhymes with §3 deliberately. **But if Italy's research shows the
+   game reached Latin Europe through FRANCE rather than Britain** — plausible, and unchecked — then the
+   carrier is French and the heading should name that instead, tying §6 back to §4 the way §4 hinges off
+   §3. Sections 1–5 all earned their final names *after* their chapters were written; let this one do
+   the same.
+7. **Company and Campus** (20–22): **Japan, USA, Canada** — *carried by employers and universities
    rather than by class or nation.*
-8. **The colonial remnant** (23–24): **Hong Kong China, Zimbabwe** — *expatriate and settler rugby after
+8. **The Garrison** (23–24): **Hong Kong China, Zimbabwe** — *expatriate and settler rugby after
    the empire that made it.*
 
 ### Why France is chapter 11
@@ -890,7 +904,7 @@ combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
 - ✅ **Tonga is written and proofread** (September 2026) — see §5.16. **Section 5 is complete.**
-  **Italy (ch. 17) is next and opens Section 6, "the late admissions".** Tonga hands it one thread: the
+  **Italy (ch. 17) is next and opens Section 6, "At the Committee's Door" — a provisional name; see the section plan.** Tonga hands it one thread: the
   chapter closes pointing at a country "told it did not belong at a table it had been sitting at since
   1929." ⚠️ **Tonga was the hardest chapter to source so far** — the national union's site
   (`tongarugbyunion.net`, not `.to`) has not been updated since 2011 and its whole history is one
