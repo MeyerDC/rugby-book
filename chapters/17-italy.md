@@ -34,13 +34,13 @@ In Milan he set about making it known, created a rugby section inside the **Unio
 
 Hold that against the arrivals this book has already described, because Italy's is the odd one out and the oddity is the argument.
 
-In **Uruguay, Argentina and Chile**, the game came ashore inside British commercial enclaves — the cricket club, the bank, the shipping office, the school got up for the sons of Englishmen abroad. In **Fiji** it arrived in **1884 in the custody of the colonial police**, and `14-fiji.md` can name the province. In **Samoa** it came in **1920 with the Marist Brothers**, a teaching order that had been on the islands since 1845. In **Georgia** and **Romania**, a state picked it up and carried it deliberately.
+In **Uruguay, Argentina and Chile**, the game came ashore inside British commercial enclaves — the cricket club, the bank, the shipping office, the school got up for the sons of Englishmen abroad. In **Fiji** it arrived in **1884 in the custody of the colonial police**, and the Fiji chapter can name the province. In **Samoa** it came in **1920 with the Marist Brothers**, a teaching order that had been on the islands since 1845. In **Georgia** and **Romania**, a state picked it up and carried it deliberately.
 
 Every one of those is an institution arriving with a ball: an empire, a church, a company, a government.
 
 **Italy got none of them.** No governor, no missionary, no regiment, no counting house, no public school. What Italy got was **a man who had gone to France to earn a living and came home with an enthusiasm** — and who happened to work at the opera.
 
-And note which direction the traffic runs. `14-fiji.md`, `15-samoa.md` and `16-tonga.md` are three chapters about **countries that export men and import money**: the village keeps a chosen man so that he can go and act on its behalf somewhere else. **Italy did the same thing and got a sport back.** Bellandi is the emigrant in reverse — the man who went away to work and whose remittance was a game.
+And note which direction the traffic runs. Fiji, Samoa and Tonga are three chapters about **countries that export men and import money**: the village keeps a chosen man so that he can go and act on its behalf somewhere else. **Italy did the same thing and got a sport back.** Bellandi is the emigrant in reverse — the man who went away to work and whose remittance was a game.
 
 ### Turin, the year before
 
@@ -56,7 +56,7 @@ The first game of rugby ever played in Italy was **French against Swiss**, watch
 
 There is no British club, tour, fixture or figure anywhere in the founding record of Italian rugby. **The game did not come to Italy over the sea from England. It came over the Alps from France** — and it came in the luggage of Italians who had gone the other way to find work.
 
-That single fact will govern the next ninety years. The country that carried the game into Italy was the country the Home Unions **expelled in 1931** — `11-france.md` tells that story — and Italy's fortunes in this sport are going to track France's relationship with Britain far more closely than anything Italy does on a field.
+That single fact will govern the next ninety years. The country that carried the game into Italy was the country the Home Unions **expelled in 1931** — the France chapter tells that story — and Italy's fortunes in this sport are going to track France's relationship with Britain far more closely than anything Italy does on a field.
 
 *(A note on primacy, since the record does not quite agree with itself. **Rugby Club Torino** is sometimes said to have been constituted straight after the 1910 match and to have been the first Italian club; the federation's own timeline credits **US Milanese** with the first match by an Italian side. Both can be true, and this book has not been able to settle which came first.)*
 
@@ -120,7 +120,7 @@ And in **December 1928** — three months after the federation existed at all �
 
 Sit with the disproportion. A country with six rugby clubs and no international victory, and the official sporting magazine of the governing party has already decided the game belongs to it.
 
-This book has watched states take an interest in rugby before. `04-georgia.md` and `05-romania.md` are both chapters about governments picking the sport up and carrying it — and in both, the state arrives *after* the game has established itself, and adopts something already there. **In Italy the regime got there almost first.** The federation was three months old.
+This book has watched states take an interest in rugby before. Georgia and Romania are both chapters about governments picking the sport up and carrying it — and in both, the state arrives *after* the game has established itself, and adopts something already there. **In Italy the regime got there almost first.** The federation was three months old.
 
 And it had a general problem with imported games, which it was solving in more than one way at once. Two years after *Lo sport fascista* claimed rugby, the Fascist administration in Florence **revived the *calcio storico fiorentino***, the city's costumed Renaissance ball game, for the **fourth centenary of the siege of 1530**. Its regulations were written, the historian **Leonardo Nesti** records, by Florence's Fascist leader **Alessandro Pavolini** himself, and the message was explicit and aimed squarely at the English: ***"ma quali inglesi? Il calcio è nato in Italia, il calcio è nato a Firenze"*** — *what Englishmen? Football was born in Italy, football was born in Florence.* Nesti's term for the exercise is ***l'invenzione di una tradizione***.
 
@@ -150,11 +150,11 @@ And then the most consequential thing Italian rugby has ever done, which it did 
 
 Count who is absent. **England, Scotland, Wales and Ireland are not in that room**, and were never going to be.
 
-Now read it against `11-france.md`, because the timing is not a coincidence. **In 1931 the Home Unions expelled France from the Five Nations** for professionalism. Two years later, in an Italian city, France sat down with four countries it could still play and founded a European federation of its own.
+Now read it against the France chapter, because the timing is not a coincidence. **In 1931 the Home Unions expelled France from the Five Nations** for professionalism. Two years later, in an Italian city, France sat down with four countries it could still play and founded a European federation of its own.
 
 The French chapter tells those years from the French side, and with a distinct curl of the lip: cut off from Britain and Ireland, the French were "left to make do with matches against **Nazi Germany and Fascist Italy**." *That is where a sport goes when the democracies stop playing it.*
 
-From Italy's side it does not look like making do. **It looks like being a founder.** The organisation constituted at Turin in 1933 outlived the regime that hosted it, outlived the Soviet Union, and is the body now called **Rugby Europe** — the structure through which Romanian and Georgian rugby would later reach the world, as `05-romania.md` and `04-georgia.md` both record without ever explaining where it came from.
+From Italy's side it does not look like making do. **It looks like being a founder.** The organisation constituted at Turin in 1933 outlived the regime that hosted it, outlived the Soviet Union, and is the body now called **Rugby Europe** — the structure through which Romanian and Georgian rugby would later reach the world, as the Romania chapter and the Georgia chapter both record without ever explaining where it came from.
 
 **It came from here.** Two countries locked out of the British game, and three more who were never going to be let in, built the alternative — and they built it in Turin.
 
@@ -217,7 +217,7 @@ The **Museo delle Civiltà** in Rome now holds the photographic archive that sho
 
 This book has heard that argument before, in a chapter about a country ten thousand miles away and a very different kind of power.
 
-`16-tonga.md` records **Lieutenant-Colonel John McLeod, MC**, in early 1941, assessing the material available to the Allies in the Kingdom of Tonga. He found the Tongans "keen to make good soldiers", and reported that they "**took to drill and manoeuvres like ducks to water**", because "the blood of warriors and gentlemen flows in their native veins." The Tongan historian **Amanda SullivanLee** reads that praise for what it was: Polynesians were desirable because they were "**strong and brave but also submissive**", and were seen as "one of the many weapons in the military's advancing arsenals."
+The Tonga chapter records **Lieutenant-Colonel John McLeod, MC**, in early 1941, assessing the material available to the Allies in the Kingdom of Tonga. He found the Tongans "keen to make good soldiers", and reported that they "**took to drill and manoeuvres like ducks to water**", because "the blood of warriors and gentlemen flows in their native veins." The Tongan historian **Amanda SullivanLee** reads that praise for what it was: Polynesians were desirable because they were "**strong and brave but also submissive**", and were seen as "one of the many weapons in the military's advancing arsenals."
 
 **Starace and McLeod are making the same assessment in the same decade.** A body is a military asset; the game that hardens it is therefore a national instrument.
 
@@ -379,7 +379,7 @@ The received account is that Italy spent the second half of the twentieth centur
 
 That is a calendar. It is not the calendar anybody in London was reading, but it was full, it was competitive, and against its two strongest members **Italy lost more than it won**.
 
-⭐ And it connects two chapters of this book that do not know they are connected. `05-romania.md` is a chapter about a communist state that picked rugby up and carried it deliberately, and about the golden age that produced it. **Italy is the opponent Romania played more than any other — forty-one times.** The fixture list Romanian rugby actually lived on, week by week and year by year, is in the Italian federation's ledgers.
+⭐ And it connects two chapters of this book that do not know they are connected. Romania's chapter is about a communist state that picked rugby up and carried it deliberately, and about the golden age that produced it. **Italy is the opponent Romania played more than any other — forty-one times.** The fixture list Romanian rugby actually lived on, week by week and year by year, is in the Italian federation's ledgers.
 
 ### 22 May 1987, Auckland
 
@@ -387,11 +387,11 @@ Into the middle of that comes an afternoon that belongs to a different world ent
 
 **The first Rugby World Cup begins, and the first match ever played in it is New Zealand against Italy.**
 
-`12-new-zealand.md` opens its sixth generation on that whistle. **New Zealand 70, Italy 6.**
+The New Zealand chapter opens its sixth generation on that whistle. **New Zealand 70, Italy 6.**
 
 Sixty-four points, in the first fixture in the tournament's history, in front of the sport's assembled establishment. If any single scoreline fixed the outside world's idea of what Italian rugby was, it is that one — and it was recorded two and a half years after Italy had beaten the Soviet Union by a point at L'Aquila, and six months before losing to them by three in Kishinev.
 
-The tournament did not end there, and the rest of it is more interesting than the opening. **Italy, Fiji and Argentina all finished Pool 3 level on two points**, each with one win and two defeats. Fiji went through on **tries scored — six, against Italy's five and Argentina's four** — as `14-fiji.md` describes from the Fijian side, with some feeling.
+The tournament did not end there, and the rest of it is more interesting than the opening. **Italy, Fiji and Argentina all finished Pool 3 level on two points**, each with one win and two defeats. Fiji went through on **tries scored — six, against Italy's five and Argentina's four** — as the Fiji chapter describes from the Fijian side, with some feeling.
 
 **Italy beat Fiji in that pool and went out anyway**, on a tiebreaker, in the first World Cup ever held.
 
@@ -483,7 +483,7 @@ And then, because this book does not do triumphal endings, the two years between
 
 At the **1999 World Cup**, in **Leicester on 10 October**, Italy played **Tonga** and lost **28–25**.
 
-`16-tonga.md` tells that afternoon from the other side, and it is one of the better passages in that chapter — **Siale Piutau**, a Tongan boy watching, saying what it did to him: *"It was massive just in terms of, for a young Tongan kid growing up, and seeing that **these things were possible**."*
+The Tonga chapter tells that afternoon from the other side, and it is one of the better passages in that chapter — **Siale Piutau**, a Tongan boy watching, saying what it did to him: *"It was massive just in terms of, for a young Tongan kid growing up, and seeing that **these things were possible**."*
 
 Hold the two chapters together for a moment, because the pairing is the whole of Section 6.
 
@@ -507,7 +507,7 @@ Italy play their first match as a member of the Championship, against **Scotland
 
 Ninety years after two foreign clubs played the first game of rugby ever staged on Italian soil, and seventy-two years after a party magazine called the sport *ours*, Italy walk into the oldest competition in the game and beat the reigning champions in their first fixture.
 
-Because that is what Scotland were. `09-scotland.md` records it from the other end: **Scotland won the last Five Nations, in 1999** — and then, "since Italy joined in **2000** to make the Six Nations, **Scotland have never won it.** Not once."
+Because that is what Scotland were. The Scotland chapter records it from the other end: **Scotland won the last Five Nations, in 1999** — and then, "since Italy joined in **2000** to make the Six Nations, **Scotland have never won it.** Not once."
 
 The two facts are consecutive and each chapter holds one of them. Scotland's last title, and Italy's first afternoon.
 
@@ -549,7 +549,7 @@ There was, through almost the whole of it, one figure.
 
 Two of the three men to have played five World Cups are Italian. The country admitted last produced two of the most durable international careers the sport has recorded.
 
-Brian Lima, the first of the three, is in the chapter before this one. `15-samoa.md` has him in the blue shirt at **Cardiff in 1991**, in the side that beat Wales — and again in its closing summary, as one of the two names Samoa is said to have produced. **The man Parisse was chasing spent his career in the other half of this book, playing for a country that has never been let in at all.**
+Brian Lima, the first of the three, is in the chapter before this one. The Samoa chapter has him in the blue shirt at **Cardiff in 1991**, in the side that beat Wales — and again in its closing summary, as one of the two names Samoa is said to have produced. **The man Parisse was chasing spent his career in the other half of this book, playing for a country that has never been let in at all.**
 
 And in **2005**, aged twenty-one, Parisse left **Treviso** for **Stade Français**.
 
@@ -565,7 +565,7 @@ In **2010**, Italian clubs entered the **Celtic League** — the Irish, Welsh an
 
 Look at what that decision actually was. Italy's answer to professionalism was to take its two strongest clubs **out of Italy's own championship** and put them in somebody else's, because the competition worth playing in was elsewhere.
 
-`15-samoa.md` describes a version of the same fact from the other end of the world: **Moana Pasifika**, a Pacific team playing in a New Zealand-based competition, because that is where the Pacific players already live. Samoa's pathway is abroad because its people are. **Italy's pathway went abroad because its opponents were.** The same sentence — *the league that matters is somewhere else* — arrived at from opposite directions, in the same decade, by two countries that have nothing else in common.
+The Samoa chapter describes a version of the same fact from the other end of the world: **Moana Pasifika**, a Pacific team playing in a New Zealand-based competition, because that is where the Pacific players already live. Samoa's pathway is abroad because its people are. **Italy's pathway went abroad because its opponents were.** The same sentence — *the league that matters is somewhere else* — arrived at from opposite directions, in the same decade, by two countries that have nothing else in common.
 
 ### What this generation leaves behind
 
@@ -587,7 +587,7 @@ What happens next takes seven days. In **November 2016**, at home, Italy will pl
 
 It is Italy's **first win over South Africa**, and South Africa's **first defeat by Italy in thirteen meetings**. The Italian defence that afternoon was organised by **Brendan Venter** — a former Springbok.
 
-`06-south-africa.md` carries the same match from the other side, in a paragraph about the lowest floor in Springbok history.
+The South Africa chapter carries the same match from the other side, in a paragraph about the lowest floor in Springbok history.
 
 **Seven days later, Italy played again, at home, and lost.**
 
@@ -599,7 +599,7 @@ It is Italy's **first win over South Africa**, and South Africa's **first defeat
 
 **Lorenzo Cittadini** scores first for Italy. **Siale Piutau** crosses for Tonga's only try. And with a minute to play and Tonga a point behind, the scrum half **Takulua** stands over a penalty from just under forty metres and kicks it.
 
-`16-tonga.md` carries that one from the other side too.
+The Tonga chapter carries that one from the other side too.
 
 Now put the two afternoons next to each other, because Italian rugby has never produced anything that explains it better.
 
@@ -620,7 +620,7 @@ Three years later Italian rugby lost something it could not get back, to weather
 
 **Typhoon Hagibis cancelled it.**
 
-There was no send-off, no final whistle, no last cap. The most decorated career in Italian rugby ended with a fixture that was never played, and the same storm runs through `09-scotland.md`, whose account of Scotland's pool exit that year is filed under the same weather.
+There was no send-off, no final whistle, no last cap. The most decorated career in Italian rugby ended with a fixture that was never played, and the same storm runs through the Scotland chapter, whose account of Scotland's pool exit that year is filed under the same weather.
 
 **One typhoon ended a nation's tournament and a great player's career**, and neither chapter of this book knew it was sharing a storm with the other.
 
@@ -628,7 +628,7 @@ There was no send-off, no final whistle, no last cap. The most decorated career 
 
 The other thing that changed in these years is who Italy beats.
 
-In **2022**, at Cardiff, **Italy beat Wales 22–21**. In **February 2025**, at Cardiff again, Italy beat them once more — and `08-wales.md` records what that one did: it was **Warren Gatland's fourteenth consecutive defeat**, and he left by mutual consent days later, "the second coming ending not in a Grand Slam but in the worst run in the history of Welsh rugby."
+In **2022**, at Cardiff, **Italy beat Wales 22–21**. In **February 2025**, at Cardiff again, Italy beat them once more — and the Wales chapter records what that one did: it was **Warren Gatland's fourteenth consecutive defeat**, and he left by mutual consent days later, "the second coming ending not in a Grand Slam but in the worst run in the history of Welsh rugby."
 
 Italy did not merely win a Six Nations match. **Italy ended a coaching era in one of the countries that invented the Championship.**
 
@@ -638,7 +638,7 @@ The Welsh chapter tells those afternoons as a decline. It is entitled to. But th
 
 **The final table of the 2026 Six Nations reads: France 21, Ireland 19, Scotland 16, Italy 9, England 8.**
 
-`11-france.md` closes on the afternoon that produced it — France 48, England 46, a second successive championship settled by a kick. Its account notes in passing that England had **the worst campaign in their history**, and that Wales took a **third consecutive Wooden Spoon**.
+The France chapter closes on the afternoon that produced it — France 48, England 46, a second successive championship settled by a kick. Its account notes in passing that England had **the worst campaign in their history**, and that Wales took a **third consecutive Wooden Spoon**.
 
 What it does not dwell on, because it is not a chapter about Italy, is the fourth line of that table.
 
@@ -650,11 +650,11 @@ Two wins and fourth place equals the best Six Nations campaign Italy has ever ha
 
 On **15 July 2026**, the World Rugby men's rankings read: South Africa, New Zealand, Ireland, France, England, Scotland, Argentina, Australia, **Fiji**, **Italy**.
 
-**Tenth in the world** — and, as `14-fiji.md` observes from ninth, below a Pacific island nation that has never been admitted to anything.
+**Tenth in the world** — and, as the Fiji chapter observes from ninth, below a Pacific island nation that has never been admitted to anything.
 
-Italy had gone **up** into the inaugural **Nations Championship**, alongside the Six Nations and the Rugby Championship and Japan and Fiji, while **Samoa and Tonga went into the second-tier Nations Cup**. `12-new-zealand.md` records the All Blacks completing the first leg of that competition with victories over France and Italy.
+Italy had gone **up** into the inaugural **Nations Championship**, alongside the Six Nations and the Rugby Championship and Japan and Fiji, while **Samoa and Tonga went into the second-tier Nations Cup**. The New Zealand chapter records the All Blacks completing the first leg of that competition with victories over France and Italy.
 
-Ahead lay **Rugby World Cup 2027 in Australia**, where Italy were drawn in **Pool B** with **South Africa**, **Georgia** and **Romania**. `05-romania.md` carries the draw from the Romanian end, and its French coach's response to being asked about the pool: to write off South Africa in advance and concentrate on Georgia and Italy would be, he said, disrespectful to the sport.
+Ahead lay **Rugby World Cup 2027 in Australia**, where Italy were drawn in **Pool B** with **South Africa**, **Georgia** and **Romania**. The Romania chapter carries the draw from the Romanian end, and its French coach's response to being asked about the pool: to write off South Africa in advance and concentrate on Georgia and Italy would be, he said, disrespectful to the sport.
 
 **Romania.** Forty-one meetings. The opponent Italy has played more than any other country on earth except France, and now a pool fixture at a World Cup.
 
@@ -664,13 +664,13 @@ Begin where the chapter began: with a man coming home.
 
 **Stefano Bellandi** was the steward of La Scala, and he had gone to France to work. He came back with a game nobody in Milan played, put a rugby section inside the Unione Sportiva Milanese, wrote to a French club because there was nobody else to write to, and on **2 April 1911** watched his side lose **15–0** at the Arena while the crowd went home delighted.
 
-Every other arrival in this book is an institution: a British trading enclave, a colonial constabulary, a teaching order, a government. **Italy's is a returning migrant.** And where `14-fiji.md`, `15-samoa.md` and `16-tonga.md` are three chapters about countries that send men abroad and get money back, **Italy sent a man abroad and got a sport back.**
+Every other arrival in this book is an institution: a British trading enclave, a colonial constabulary, a teaching order, a government. **Italy's is a returning migrant.** And where Fiji, Samoa and Tonga are three chapters about countries that send men abroad and get money back, **Italy sent a man abroad and got a sport back.**
 
 Then the institutions took an interest, in the order institutions do.
 
 A **federation** in 1928, and within three months the governing party's own magazine calling this obscure, foreign, six-club game ***il nostro sport*** — *our sport*. A regime that revived a Renaissance ball game in Florence to prove football was Italian, and simply renamed rugby ***palla ovale*** and took it. **Achille Starace** explaining exactly what it was for: ***sport da combattimento***, a combat sport, to be practised and widely spread. The **GUF** and the **GIL** running it through the universities and the youth movement. And then the bill — **at least ten Italian rugby players killed in the war, the heaviest loss of any Italian sporting federation**, out of a sport whose first championship had six clubs in it.
 
-And a **committee**, in 1933, in **Turin**: **FIRA**, founded by Italy, France, Germany, Romania and Czechoslovakia, two years after the Home Unions expelled France. `11-france.md` tells that period from the French side, as making do with Nazi Germany and Fascist Italy. **From here it looks like founding something.** The organisation constituted in Turin became **Rugby Europe**, the structure through which Georgian and Romanian rugby reached the world — as `04-georgia.md` and `05-romania.md` both record without ever saying where it came from.
+And a **committee**, in 1933, in **Turin**: **FIRA**, founded by Italy, France, Germany, Romania and Czechoslovakia, two years after the Home Unions expelled France. The France chapter tells that period from the French side, as making do with Nazi Germany and Fascist Italy. **From here it looks like founding something.** The organisation constituted in Turin became **Rugby Europe**, the structure through which Georgian and Romanian rugby reached the world — as the Georgia chapter and the Romania chapter both record without ever saying where it came from.
 
 Then sixty years of what exclusion actually looks like, which is not a locked door.
 
@@ -704,9 +704,9 @@ The chapter after this one is about the country Italy played in its very first i
 - **Università di Padova, *Il Bo Live* — ["Il rugby, il fascismo e l'università"](https://ilbolive.unipd.it/it/rugby-fascismo-l%E2%80%99universita)**, fetched and read. Source for: the **Leoni di San Marco** founded **29 November 1927** by **Amedeo Fusari** of *Il Gazzettino* and **Pietro Pierobon**; the two parallel tracks of a civilian league and an institutional university game; ***Lo sport fascista*** calling rugby ***"il nostro sport"*** in **December 1928**, citing **Augusto Turati**; the **GUF** at Padua from **autumn 1929** with **nine members**, **24 by 1934**, contesting **ten Italian championships** including **seven consecutive campaigns 1929–1936**; the **Littoriali dello sport** of **1933**; the trainer **Julien Saby** on *"aristocratici di cuore e di pensiero"*; **at least ten rugbyists killed in combat — the heaviest loss among Italian sports federations**; and the **Associazione Rugby Padova** reorganising in the autumn of 1945, with sports writing turning from military metaphor to *"cavalleria, speranza, felicità"*.
 - **Leonardo Nesti — ["Il calcio storico fiorentino, l'invenzione della tradizione"](http://www.leonardonesti.it/2013/11/21/il-calcio-storico-fiorentino-linvenzione-della-tradizione/)**, in Italian, fetched and read (the **1930** revival for the fourth centenary of the **1530** siege; **Alessandro Pavolini** writing the regulations; the *"messaggio nazionalistico e xenofobo"* — *"ma quali inglesi? Il calcio è nato in Italia, il calcio è nato a Firenze"*; and *"l'invenzione di una tradizione"*). ⚠️ **Cited against a claim made for it:** a search summary asserted the revival was mounted "especially to claim the origins of popular sports such as football **and rugby**", and introduced **harpastum** as the Roman ancestor. **Nesti supports neither** — his argument is about *calcio* and the English, and harpastum does not appear in his text. The chapter says so explicitly.
 - **ESPN — ["Italy's false dawn: The 20-year deceleration of the Azzurri"](https://www.espn.co.uk/rugby/story/_/id/18731260/italy-historic-win-france-20-years)**, fetched and read (France treating Italy as a full-cap opponent until **Toulon 1967**, and "**From then on the Italians faced 'A' teams or occasional Espoirs**" until **1995** and the Latin Cup in Argentina; **Treviso, 16 March 1993, Italy 16 France 9**, "the first time Italy had beaten **any team calling itself France in 45 meetings**"; **Grenoble, 22 March 1997, Italy 40 France 32**, the maiden continental title; and **Italy's election to the Six Nations ratified in January 1998**). ⚠️ *A search summary claimed Italy first beat France in **1956 and 1957**. ESPN contradicts it directly and the chapter does not use it.*
-- **Sky Sports — ["Italy 20-18 South Africa: Azzurri claim first ever win over Springboks"](https://www.skysports.com/rugby-union/italy-vs-south-africa/78580)** (**19 November 2016**, **Stadio Artemio Franchi, Florence**; Habana's eighth-minute try on his 124th cap; **Andries van Schalkwyk**'s try from a rolling maul converted by **Carlo Canna**; **Damian de Allende**'s try and South Africa's **12–10** half-time lead; Canna's penalty for **20–18**; the late Fuser try ruled out on review; **Brendan Venter** as defence coach; and South Africa's **first defeat by Italy in thirteen meetings**). Read alongside `06-south-africa.md`, which carries the same match from the losing side.
-- **ESPN — [Italy v Tonga, 26 November 2016](https://www.espn.com/rugby/commentary?gameId=289766&league=289234)** (**Stadio Euganeo, Padua**; **Lorenzo Cittadini**'s opening score; **Siale Piutau**'s try, Tonga's only one; and **Takulua**'s penalty from just under forty metres with a minute to play, Tonga a point behind). Read alongside `16-tonga.md`.
+- **Sky Sports — ["Italy 20-18 South Africa: Azzurri claim first ever win over Springboks"](https://www.skysports.com/rugby-union/italy-vs-south-africa/78580)** (**19 November 2016**, **Stadio Artemio Franchi, Florence**; Habana's eighth-minute try on his 124th cap; **Andries van Schalkwyk**'s try from a rolling maul converted by **Carlo Canna**; **Damian de Allende**'s try and South Africa's **12–10** half-time lead; Canna's penalty for **20–18**; the late Fuser try ruled out on review; **Brendan Venter** as defence coach; and South Africa's **first defeat by Italy in thirteen meetings**). Read alongside the South Africa chapter, which carries the same match from the losing side.
+- **ESPN — [Italy v Tonga, 26 November 2016](https://www.espn.com/rugby/commentary?gameId=289766&league=289234)** (**Stadio Euganeo, Padua**; **Lorenzo Cittadini**'s opening score; **Siale Piutau**'s try, Tonga's only one; and **Takulua**'s penalty from just under forty metres with a minute to play, Tonga a point behind). Read alongside the Tonga chapter.
 - **Six Nations and RugbyPass** on the Championship years (Italy's **34–20** debut win over **Scotland** in Rome, **2000**; the **2007** campaign — a first away win, at **Murrayfield**, and a win over **Wales** in Rome, for two victories and fourth place, matched in **2013**; and Italy having finished bottom more often than any other country while never winning the Championship). ⚠️ **No wooden-spoon total is printed.** The Six Nations' own explainer page returned navigation and footer only, and two secondary sources disagree — **eighteen times between 2000 and 2023** against **seventeen in twenty-three years**. The chapter makes only the claim all sources share.
-- **RugbyPass and Sky Sports** on **Sergio Parisse** and the clubs (**142 caps, 2002–2019**; **five Rugby World Cups**, only the **third player** to do so after **Brian Lima** of Samoa and **Mauro Bergamasco**; the **Six Nations appearance record**; the **first Italian in the World Rugby Hall of Fame**; the **youngest player ever to appear for his country at a World Cup**, against New Zealand in 2003; **Treviso in 2003 and Stade Français from 2005**; Italy's 2019 pool match against New Zealand **cancelled by Typhoon Hagibis**; and **Treviso/Benetton and Aironi** entering the **Celtic League in 2010**, Aironi bottom in both its seasons and its licence revoked, **Zebre** replacing it in **2012**). Read alongside `15-samoa.md`, which names **Brian Lima** in the 1991 Cardiff side, and `09-scotland.md`, whose 2019 pool exit is filed under the same typhoon.
-- **Not established, and therefore absent:** Italy's own three results at **RWC 1991** (the pool of England, Italy, New Zealand and the United States is confirmed; the results are not, and are not guessed at); whether the **1971 Morocco defeat** cost Italy its place in the competition's first division (**the defeat is confirmed from the FIR ledger; the consequence is not**); and the **score of Italy's win over Fiji at RWC 1987** (the win is carried by `14-fiji.md`; the score was never verified and is not printed).
+- **RugbyPass and Sky Sports** on **Sergio Parisse** and the clubs (**142 caps, 2002–2019**; **five Rugby World Cups**, only the **third player** to do so after **Brian Lima** of Samoa and **Mauro Bergamasco**; the **Six Nations appearance record**; the **first Italian in the World Rugby Hall of Fame**; the **youngest player ever to appear for his country at a World Cup**, against New Zealand in 2003; **Treviso in 2003 and Stade Français from 2005**; Italy's 2019 pool match against New Zealand **cancelled by Typhoon Hagibis**; and **Treviso/Benetton and Aironi** entering the **Celtic League in 2010**, Aironi bottom in both its seasons and its licence revoked, **Zebre** replacing it in **2012**). Read alongside the Samoa chapter, which names **Brian Lima** in the 1991 Cardiff side, and the Scotland chapter, whose 2019 pool exit is filed under the same typhoon.
+- **Not established, and therefore absent:** Italy's own three results at **RWC 1991** (the pool of England, Italy, New Zealand and the United States is confirmed; the results are not, and are not guessed at); whether the **1971 Morocco defeat** cost Italy its place in the competition's first division (**the defeat is confirmed from the FIR ledger; the consequence is not**); and the **score of Italy's win over Fiji at RWC 1987** (the win is carried by the Fiji chapter; the score was never verified and is not printed).
 - **Deliberately absent:** **no Wikipedia or Grokipedia** (repo rule), and **no Keith Prowse**, removed from this book repo-wide in the August 2026 no-wiki pass. ⚠️ **And no player's account of any Italy–Soviet Union fixture, because none could be found.** Three targeted Italian-language searches for match reports, memoirs or interviews returned basketball and football; the national player database is a current-squad page. **Fourteen matches over fourteen years survive as a column of scores on the federation's website, and the chapter says so rather than inventing the rest.**

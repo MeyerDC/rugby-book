@@ -5721,7 +5721,7 @@ In Limerick they still play on Sundays.
 
 ⚠️ **Gen 5 open items.** The **exact date of the 2006 Munster final** (given as 20 May in the draft) and the **43–13** Croke Park scoreline both come from secondary extracts rather than direct reads — verify. Also unverified: whether **2007** saw the return of a senior international to Ravenhill specifically, or another Northern Ireland venue. The *Irish Examiner* suggests the **2008** financial review (Morgan Buckley's analysis) may have been a closer call for Connacht than 2003 — worth a look if the Connacht material is expanded.
 
-✅ **Gen 6 — scoreline conflict RESOLVED (August 2026).** The final-day Triple Crown win over Scotland was **Ireland 43–21**, at the **Aviva Stadium on 14 March 2026** — confirmed by the **Six Nations' own match report** and **Sky Sports**. Both this chapter and `09-scotland.md` previously carried **41–21**, taken from an ESPN *headline* whose own body text says 43–21. **Both chapters have been corrected.** Ireland's tries: Osborne (3'), Sheehan (11'), Baloucoune (19'), Murray (56'), O'Brien (68' and 80'); five conversions and a penalty from Crowley. Scotland's: Graham (7'), Russell (52'), Darge (61'). Also from secondary extracts rather than direct reads: the **thirty-seven phases** of the 2023 quarter-final endgame, and the detail of Stephen Jones's 2009 penalty.
+✅ **Gen 6 — scoreline conflict RESOLVED (August 2026).** The final-day Triple Crown win over Scotland was **Ireland 43–21**, at the **Aviva Stadium on 14 March 2026** — confirmed by the **Six Nations' own match report** and **Sky Sports**. Both this chapter and the Scotland chapter previously carried **41–21**, taken from an ESPN *headline* whose own body text says 43–21. **Both chapters have been corrected.** Ireland's tries: Osborne (3'), Sheehan (11'), Baloucoune (19'), Murray (56'), O'Brien (68' and 80'); five conversions and a penalty from Crowley. Scotland's: Graham (7'), Russell (52'), Darge (61'). Also from secondary extracts rather than direct reads: the **thirty-seven phases** of the 2023 quarter-final endgame, and the detail of Stephen Jones's 2009 penalty.
 
 # France
 
@@ -6320,7 +6320,7 @@ Coubertin's amateur ideal did not survive in France. What survived was the wine 
 
 ⚠️ **Gen 1 — one name in conflict.** Gallica gives France's first captain as **Henri Armand**; other accounts render him **Henri Amand**. The draft follows **Gallica**. Also still unsourced and therefore **not asserted**: Stade Français's eight championships between 1893 and 1908, and Reichel's own playing record.
 
-⚠️ **Gen 4 — the cross-chapter claim, and its limits.** The draft sets the 1958 series against `06-south-africa.md`'s Gen 2, "**The Machinery**" (1948–1969). That framing is the book's own; the *fact* it rests on — South Africa's first home series defeat in 62 years, at Ellis Park, before 100,000 — is ESPN's. The draft also says plainly that the 3–0 win over New Zealand in 1954 was **not yet *le rugby-champagne***: a French pack beating a New Zealand pack by the width of a try, not the expansive style France would later be loved for. **Do not backdate the flair.**
+⚠️ **Gen 4 — the cross-chapter claim, and its limits.** The draft sets the 1958 series against the South Africa chapter's Gen 2, "**The Machinery**" (1948–1969). That framing is the book's own; the *fact* it rests on — South Africa's first home series defeat in 62 years, at Ellis Park, before 100,000 — is ESPN's. The draft also says plainly that the 3–0 win over New Zealand in 1954 was **not yet *le rugby-champagne***: a French pack beating a New Zealand pack by the width of a try, not the expansive style France would later be loved for. **Do not backdate the flair.**
 
 ⚠️ **Gen 2 — Stade Toulousain's five 1920s championships** (1922, 1923, 1924, 1926, 1927) and the "sport-king" characterisation come from search-result extracts, not a page opened and read. The draft asserts the five titles and the years; **verify before print**. The **1924 Olympic bronze for Romania** is carried from `notes/romania.md`, where it is sourced to Olympedia and World Rugby.
 
@@ -7104,11 +7104,11 @@ New Zealand made rugby a national possession, and has spent a century and a half
 - New Zealand Rugby Museum — ["'All Blacks' – The Name"](https://www.rugbymuseum.co.nz/stories/history-of-nz-rugby/all-blacks-the-name) (the "incorrect rumours"; the 1889 Natives reference as the first known published use; the 1893 Auckland journalist; "The All Blacks, as they are styled by reason of their sable and unrelieved costume"; the 1955 jubilee account of the "all backs" printer's error)
 - New Zealand Rugby League — [Kiwis Roll of Honour: Albert Baskerville](https://nzrl.co.nz/kiwis-roll-of-honour/albert-baskerville) (the Wellington postal clerk and author of *Modern Rugby Football: New Zealand Methods*; the NZRU's threat of life bans for being "financially compensated for working time lost while playing sport"; George Smith; 28 players including eight All Blacks; the August 1907 Sydney matches and the newly formed NSWRL; the *Sydney Morning Herald*'s "All Golds"; 35 matches in England and Wales, October 1907–February 1908; the try against St Helens; the 11–10 first New Zealand–Australia Test; his death eleven days later aged 25; the 24–12 second Test; the 13 June 1908 Athletic Park exhibition for his widowed mother)
 - New Zealand Rugby Museum, "On This Day" — ["April 5 – 1919 NZ defeat Mother Country"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/april-on-this-day/april-5-1919-nz-defeat-mother-country), quoting a contemporary cable report (the 6–3 win over England at Inverleith before 20,000; tries to Storey and Belliss; the earlier wins over the RAF, the Canadian Expeditionary Force and the South African Forces; the Prince of Wales and Prince Albert present)
-- e-Tangata — ["Neither forgotten nor forgiven"](https://e-tangata.co.nz/history/neither-forgotten-nor-forgiven/) (the 1919 exclusion of Parekura Tureia and Nathaniel "Ranji" Wilson from the South African tour; the 1928 and later exclusions; carried from the other side in `06-south-africa.md`)
+- e-Tangata — ["Neither forgotten nor forgiven"](https://e-tangata.co.nz/history/neither-forgotten-nor-forgiven/) (the 1919 exclusion of Parekura Tureia and Nathaniel "Ranji" Wilson from the South African tour; the 1928 and later exclusions; carried from the other side in the South Africa chapter)
 - New Zealand Rugby Museum, "On This Day" — ["December 12 – 1924 Imperial Rugby Conference, London"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/december-on-this-day/december-12-1924-imperial-rugby-conference-london), from the Museum's 90-page verbatim record of the proceedings (the three colonial unions affiliated to the RFU rather than the IRB; Rowland Hill in the chair refusing discussion of New Zealand's professionalism remit; Remit No. 9 and its adoption in 1973; Stan Dean, NZRFU management committee chairman 1922–47, and Wilson of Canterbury)
 - New Zealand Rugby Museum, "On This Day" — ["August 8 – 1925 'Leave Mr Brownlie alone' 19 year old told"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/august-on-this-day/august-8-1925-leave-mr-brownlie-alone-19-year-old-told) (Hawke's Bay's six Ranfurly Shield defences of 1925; the 31–12 win over Southland; referee Bill Meredith, Bill Hazlett and Maurice Brownlie; the leak to the press and *Truth*'s poem)
 - New Zealand Rugby Museum, "On This Day" — ["November 24 – 1945 'Kiwis' win first international"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/november-on-this-day/november-24-1945-kiwis-win-first-international), quoting Winston McCarthy (the 2NZEF "Kiwis" at Twickenham; Charlie Saxton as the only pre-war All Black in the side; the rucking; Sherratt's try)
-- [stats.allblacks.com](https://stats.allblacks.com/) — All Black match and tour records, including the 1924–25 tour and the 1921, 1928, 1937, 1949, 1956 and 1960 South African series (also cited in `06-south-africa.md`)
+- [stats.allblacks.com](https://stats.allblacks.com/) — All Black match and tour records, including the 1924–25 tour and the 1921, 1928, 1937, 1949, 1956 and 1960 South African series (also cited in the South Africa chapter)
 - New Zealand Rugby Museum, "On This Day" — ["September 3 – 1949 Black Day for All Blacks"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/september-on-this-day/september-3-1949-black-day-for-all-blacks) (the 9–3 third Test defeat in Johannesburg and the 11–6 defeat by Australia twelve hours earlier; six Tests played and six lost in 1949; the other first-class fixtures of the same afternoon)
 - New Zealand Rugby Museum, "On This Day" — ["July 22 – 1981 Springboks tour first match"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/july-on-this-day/july-22-1981-springboks-tour-first-match) and ["July 25 – 1981 Springboks tour match abandoned"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/july-on-this-day/july-25-1981-springboks-tour-match-abandoned), reproducing contemporary press-box accounts (Gisborne: Gladstone Road, the tweed jackets and fore-and-aft hats, the petrol-station and Waioeka Gorge rumours, the crowd cheering the police, Wynand Claassen's cap, the march across the golf course and the "Boks go home" placards. Hamilton: the cancelled Mooloo parade, the paint-splattered bus arriving at 10.15, the helicopter, the trucks behind the grandstand, the abandonment, and Terry Barron of the South African Press Association — "Today, New Zealand turned 21")
 - New Zealand Rugby Museum, "On This Day" — ["May 22 – 1987 First Rugby World Cup kicks off"](https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/may-on-this-day/may-22-1987-first-rugby-world-cup-kicks-off), quoting the New Zealand Rugby Union's own history (the 70–6 win over Italy; New Zealand and Australia persuading the IRB to sanction the tournament "against the opposition of some Northern Hemisphere unions"; the joint chairmen Shehadie, Littlejohn and Kendall-Carpenter; the Westnally marketing contract at US$5 million and KDD's US$3.25 million sponsorship; the Fijian coup and Western Samoa's standby; the final won by twenty points and Wales third)
@@ -8170,7 +8170,7 @@ He looked at the casual, occasional, ship-dependent rugby being played around th
 
 When the first officers were elected, Sheehan became chairman. The governor of the day, **Sir Ernest Bickham Sweet-Escott**, donated the **Escott Shield** for the club championship. The Pacific Club won it, and Suva's clubs were still competing for it when the union wrote up its own chronology nearly ninety years later.
 
-There is a small and pleasing symmetry in this. In `12-new-zealand.md`, **Otago** is the province that walked out of the meeting that founded the New Zealand union in 1892, rather than submit to a central authority. Twenty-one years later a former captain of Otago is in Suva, on a hotel site, in overalls, founding somebody else's union and taking the chair of it.
+There is a small and pleasing symmetry in this. In the New Zealand chapter, **Otago** is the province that walked out of the meeting that founded the New Zealand union in 1892, rather than submit to a central authority. Twenty-one years later a former captain of Otago is in Suva, on a hotel site, in overalls, founding somebody else's union and taking the chair of it.
 
 That December the All Blacks stopped at Suva on the way home from California and played a friendly at Albert Park. Fiji's rugby union was months old and had already hosted New Zealand.
 
@@ -8184,7 +8184,7 @@ Affiliated. Not merged.
 
 Two unions, one colony, from 1915. It would stay that way for thirty years.
 
-It is worth being exact about what this was and what it was not, because it would be easy and wrong to reach for South Africa here. Nothing in Fiji resembled the machinery that `06-south-africa.md` describes — no legislated separation of sport, no state that had decided to build a race out of a football code, no barbed wire. What happened in Fijian rugby in 1914 and 1915 was something duller and, in its way, more instructive. **The colony was already organised in ethnic compartments, from the land law down through the church, and when rugby got big enough to need an institution it simply took the shape of the container it was growing in.** A separate competition, then a separate union, then affiliation on unequal terms.
+It is worth being exact about what this was and what it was not, because it would be easy and wrong to reach for South Africa here. Nothing in Fiji resembled the machinery that the South Africa chapter describes — no legislated separation of sport, no state that had decided to build a race out of a football code, no barbed wire. What happened in Fijian rugby in 1914 and 1915 was something duller and, in its way, more instructive. **The colony was already organised in ethnic compartments, from the land law down through the church, and when rugby got big enough to need an institution it simply took the shape of the container it was growing in.** A separate competition, then a separate union, then affiliation on unequal terms.
 
 The church had done it in **1901**. Rugby did it in **1914–15**. And, from the other side of the same line, soccer would do it too: as the scholars of Fijian football record, the **Fiji Indian Football Association** became the de facto controlling body of that sport in **1938** — which reflected, they write, "not only the community's passion for administering, watching, and playing soccer, but also **the role they were assigned by the British during colonialism** as the merchant class, the intellectual class, the trade unionists, the schoolteachers, and the politicians."
 
@@ -8222,7 +8222,7 @@ The tour tells you where Fijian rugby stood in 1938. On a five-match visit the M
 
 And they left something behind. The **Deans Trophy**, the union records, "was **donated by the Maori All Blacks team that toured Fiji in 1938** to be competed for by the Secondary Schools of Fiji." The competition, introduced in **1939**, is described by the union as the oldest in Fijian rugby — a claim its own chronology slightly complicates, since it also records a schools competition from 1928. **Queen Victoria School won the first Deans Trophy.** Lelean Memorial won its first in 1948, **Ratu Kadavulevu School** — the other great nursery — in 1961, Marist Brothers in 1965.
 
-Sit with the provenance a moment. `12-new-zealand.md` follows the New Zealand Māori side through half a century of being left at home to protect the South African fixture — a team its own union spent, repeatedly, as the price of a tour. That is the team that gave Fijian schools the trophy they have played for ever since.
+Sit with the provenance a moment. The New Zealand chapter follows the New Zealand Māori side through half a century of being left at home to protect the South African fixture — a team its own union spent, repeatedly, as the price of a tour. That is the team that gave Fijian schools the trophy they have played for ever since.
 
 ### What this generation leaves behind
 
@@ -8260,7 +8260,7 @@ He was a great-grandson of the **Cakobau** who had offered Fiji to Queen Victori
 
 That story should be told as a story rather than as a document. The Fiji Rugby Union's own history page carries a heading called "The origins of the cibi" and prints nothing underneath it. What is not in doubt is that a dance came out of 1939 and has been performed before Fijian Test matches ever since.
 
-What is also not in doubt is the shape of the moment. **A chief of Bau, descended from the man who ceded the country, leading a team of barefoot Fijians to an unbeaten record in the country that had already made rugby its own religion.** New Zealand's own game, `12-new-zealand.md` argues, never acquired a class character because the institutions carrying it had no interest in sorting anybody. Fiji's had not acquired one either — and Fiji's had held out against a colonial governor who was actively trying to install one.
+What is also not in doubt is the shape of the moment. **A chief of Bau, descended from the man who ceded the country, leading a team of barefoot Fijians to an unbeaten record in the country that had already made rugby its own religion.** New Zealand's own game, the New Zealand chapter argues, never acquired a class character because the institutions carrying it had no interest in sorting anybody. Fiji's had not acquired one either — and Fiji's had held out against a colonial governor who was actively trying to install one.
 
 ### The men who did not come home
 
@@ -8290,7 +8290,7 @@ A second tour of New Zealand in **1951** was a harder trip than 1939 — played 
 
 The Fiji union's own history makes a striking claim about the **1952** tour: that it "helps the **Australian Rugby Union recover from the brink of bankruptcy**." That is the FRU's telling, and it is not corroborated elsewhere in this book's sources, so take it as the claim of an interested party. What is not in dispute is what surrounded it. **The Test series was drawn 1–1, in front of record crowds.** In **1954** Fiji went back, drew the series **1–1** again, and drew record crowds again.
 
-`13-australia.md` describes those years from the other side: an Australian union founded only in 1949, seventy-five years after the first colonial one, thin, poor, and losing every promising footballer it produced to a rugby league competition that could pay. Into that walked a touring side of Fijians who had been playing barefoot thirteen years earlier, and Australians bought tickets in numbers Australian rugby union had not seen.
+The Australia chapter describes those years from the other side: an Australian union founded only in 1949, seventy-five years after the first colonial one, thin, poor, and losing every promising footballer it produced to a rugby league competition that could pay. Into that walked a touring side of Fijians who had been playing barefoot thirteen years earlier, and Australians bought tickets in numbers Australian rugby union had not seen.
 
 Note the year of that second drawn series: **1954**. Remember it. It will be sixty-nine years before Fiji beat Australia again, and when they do it will be at a World Cup.
 
@@ -8324,7 +8324,7 @@ Now go back, because between 1955 and 1970 Fiji had been finding out exactly how
 
 **1963**: the Fiji Rugby Football Union dropped the second F and became simply the **Fiji Rugby Union**.
 
-**1964**: Fiji toured Europe for the first time, and lost to **Wales 28–22** in a match that was, in the union's phrase, "talked about for years." Read `08-wales.md` for what Wales was in 1964 — deep in the long winter between its two golden eras, three years from Gareth Edwards's debut, a country that would shortly convince itself its salvation lay in a coach. Beating them was still a considerable thing, and Fiji got within six.
+**1964**: Fiji toured Europe for the first time, and lost to **Wales 28–22** in a match that was, in the union's phrase, "talked about for years." Read the Wales chapter for what Wales was in 1964 — deep in the long winter between its two golden eras, three years from Gareth Edwards's debut, a country that would shortly convince itself its salvation lay in a coach. Beating them was still a considerable thing, and Fiji got within six.
 
 **1970**: "A rampant Fijian side **destroy the Barbarians 29–9 at Gosforth**." The Barbarians in 1970 were not a scratch side; they were an invitational assembly of the best men in Britain and Ireland, and they were the fixture through which the four home unions took the temperature of visitors. Fiji did not merely beat them.
 
@@ -8374,7 +8374,7 @@ Soldiers walk into the Fijian parliament and remove the government. The prime mi
 
 **Eight days later, on 22 May, the first Rugby World Cup kicks off in New Zealand and Australia, and Fiji are in it.**
 
-The organisers had assumed they would not be. As `12-new-zealand.md` records from the other side of the arrangement, the coup "raised real doubts about whether the Fijians could travel, and **Western Samoa was put on standby** in case they or anyone else defaulted."
+The organisers had assumed they would not be. As the New Zealand chapter records from the other side of the arrangement, the coup "raised real doubts about whether the Fijians could travel, and **Western Samoa was put on standby** in case they or anyone else defaulted."
 
 Nobody defaulted. The Fijians got on the plane.
 
@@ -8392,7 +8392,7 @@ Now go back ten years, to a stadium in a British colony on the other side of the
 
 The **Hong Kong Sevens** began in 1976. Fiji won the second one, in **1977**, beating **Marlborough 28–18** in the final.
 
-Go back to `09-scotland.md` for what they had just won.
+Go back to the Scotland chapter for what they had just won.
 
 Sevens was invented at **Melrose on 28 April 1883**, by a Border club six years old and short of money, as a way of drawing a paying crowd to a single afternoon. It was a **mill town's improvisation**: seven men a side, short halves, quick knockouts, more matches in an afternoon, a bigger gate. Everything about the format came from poverty, and the Scottish establishment regarded it for decades as a novelty played by the wrong sort of people in the wrong sort of towns.
 
@@ -8446,7 +8446,7 @@ Two days later Fiji beat **South Africa 24–21** in the final and are world cha
 
 The little bags are not a charming detail. They are the entire economic position of Fijian rugby in the year rugby union became a professional sport, expressed in luggage.
 
-Because the other thing about 1997 is what had happened two years earlier, and it is the hinge of this whole generation. In **1995** the game went open — in Paris, in August, a hundred years almost to the day after the George Hotel, as `07-england.md` tells it. And in **1995 Fiji did not qualify for the World Cup at all.**
+Because the other thing about 1997 is what had happened two years earlier, and it is the hinge of this whole generation. In **1995** the game went open — in Paris, in August, a hundred years almost to the day after the George Hotel, as the England chapter tells it. And in **1995 Fiji did not qualify for the World Cup at all.**
 
 Now go back and watch what opening the game actually did to a country of seven hundred and fifty village clubs.
 
@@ -8473,7 +8473,7 @@ The record of the next decade reads as though two different nations were playing
 - **1999**: Fiji lose **28–19 to France in Toulouse** at the World Cup. The union's own history is not neutral about it — it opens the entry with "abysmal refereeing from Kiwi Paddy O'Brien" — which is worth recording not as a finding but as a symptom. A union with no representation on the bodies that appoint officials will experience every marginal decision as a verdict on its standing, and Fiji's did.
 - **2000**: Fiji host an IRB Sevens tournament in Suva and lose the final **31–5** to Eric Rush's New Zealand.
 - **2001**: Fiji are crowned **Pacific Rim champions**, beating **Samoa 28–17** in the final — played in **Tokyo**, which is its own small comment on where Pacific rugby's money lived.
-- **2003**: at the World Cup in Australia, **Rupeni Caucaunibuca** — "the Bua Bullet" — becomes the most talked-about player at the tournament, and Fiji miss the quarter-finals by losing the decider **22–20 to Scotland**. `09-scotland.md` tells that one from a Scottish side deep in its two-club trap. The margin was two points.
+- **2003**: at the World Cup in Australia, **Rupeni Caucaunibuca** — "the Bua Bullet" — becomes the most talked-about player at the tournament, and Fiji miss the quarter-finals by losing the decider **22–20 to Scotland**. The Scotland chapter tells that one from a Scottish side deep in its two-club trap. The margin was two points.
 - **2005**: Fiji win the **Rugby World Cup Sevens** again, in Hong Kong, under the New Zealander **Wayne Pivac** — beating Argentina 22–14, Australia 31–5, England 24–19 and then New Zealand **24–19** in the final. The tournament produces **William Ryder**, who had been playing for **PWD Bure in Lautoka** and whose international debut this was.
 - **2006**: Fiji take the **World Sevens Series title**, ending New Zealand's six-year hold on it, finishing **22 points clear of England**.
 
@@ -8521,7 +8521,7 @@ Then Wales come back at the scrum, and keep coming, and with seven minutes left 
 
 In the seventy-sixth minute the prop **Graham Dewes** goes over, and **Nicky Little** kicks the conversion, and Fiji win **38–34**.
 
-World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." `08-wales.md` tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
+World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." the Wales chapter tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
 
 From Nantes it looked like something else. It looked like the day the sport's oldest joke — *the Fijians are wonderful to watch, aren't they* — stopped being funny.
 
@@ -8535,7 +8535,7 @@ Now pull back, because between that quarter-final and the end of this generation
 
 Here is what the export looked like, once somebody counted it.
 
-In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because `05-romania.md` is a chapter of this book about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
+In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because Romania is a chapter of this book about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
 
 The counts:
 
@@ -8604,7 +8604,7 @@ Fiji declared a **national public holiday**. And the **Reserve Bank of Fiji** is
 
 Look at what that gold medal actually was, institutionally. A country with no professional domestic competition, no money, an administration its own president had criticised forty-three years earlier, and half a thousand of its best players under contract to foreign employers, won an Olympic title — **in the one format where none of those disadvantages is decisive**, and where twelve players and a coach with an idea are enough.
 
-`13-australia.md` notes the ninety-two-year gap from the other end. The last Olympic rugby gold before Rio had been won in 1924; the one Australia won at White City in 1908 belonged to a side that had fourteen of its number expelled the following year for taking money. Fiji's was the first men's rugby gold of the modern era, and by a distance the smallest country ever to have won one.
+The Australia chapter notes the ninety-two-year gap from the other end. The last Olympic rugby gold before Rio had been won in 1924; the one Australia won at White City in 1908 belonged to a side that had fourteen of its number expelled the following year for taking money. Fiji's was the first men's rugby gold of the modern era, and by a distance the smallest country ever to have won one.
 
 ### Kamaishi
 
@@ -8612,7 +8612,7 @@ Look at what that gold medal actually was, institutionally. A country with no pr
 
 Fiji lose to **Uruguay, 30–27**.
 
-`01-uruguay.md` tells this from the winning side and tells it beautifully: a Uruguayan team of part-timers, produced by Uruguayan schools, beating a Fijian side of household names in a stadium built on ground the sea had taken in 2011.
+The Uruguay chapter tells this from the winning side and tells it beautifully: a Uruguayan team of part-timers, produced by Uruguayan schools, beating a Fijian side of household names in a stadium built on ground the sea had taken in 2011.
 
 From the Fijian side there is nothing to soften. It was the first upset of the tournament and it was the clearest possible statement of what the previous twenty-four years had produced: a national team drawn from five hundred professionals scattered across four continents, assembled a handful of times a year, without a domestic professional competition of its own, losing to a country with a small fraction of Fiji's playing population.
 
@@ -8662,7 +8662,7 @@ By the seasons that followed the team was playing in Fiji, in front of Fijian cr
 
 Two Games, two golds, in a country that had won no Olympic medal at all before 2016.
 
-And in the same week, at the same stadium, the **Fijiana** beat **Great Britain 21–12** to take the **bronze medal** in the women's tournament. **Alowesi Nakoci** crossed twice and **Reapi Uluinasau** ran half the field to seal it; the captain was **Rusila Nagasau**. On the way there they had beaten Canada, who took bronze at Rio, and knocked out **Australia**, who had taken the gold there — the Australia that had beaten Fiji **36–0** at Rio five years earlier, as `13-australia.md` records. Fiji's women had finished eighth at those Games.
+And in the same week, at the same stadium, the **Fijiana** beat **Great Britain 21–12** to take the **bronze medal** in the women's tournament. **Alowesi Nakoci** crossed twice and **Reapi Uluinasau** ran half the field to seal it; the captain was **Rusila Nagasau**. On the way there they had beaten Canada, who took bronze at Rio, and knocked out **Australia**, who had taken the gold there — the Australia that had beaten Fiji **36–0** at Rio five years earlier, as the Australia chapter records. Fiji's women had finished eighth at those Games.
 
 It was the team's first medal at any major tournament, and it made them **the first Fijian women to win an Olympic medal**.
 
@@ -8688,7 +8688,7 @@ It is worth being honest about the scale of it. It did not reverse the trade; it
 
 Fiji beat **Australia 22–15** at the Rugby World Cup.
 
-It is Fiji's **first win over Australia in sixty-nine years** — the last one having come in **1954**, on the second of those tours that drew record Australian crowds and which the Fiji union has always claimed helped save Australian rugby from bankruptcy. The Wallabies of 2023 would go out in the pool stage for the first time in their history, and `13-australia.md` carries this defeat as part of how it happened.
+It is Fiji's **first win over Australia in sixty-nine years** — the last one having come in **1954**, on the second of those tours that drew record Australian crowds and which the Fiji union has always claimed helped save Australian rugby from bankruptcy. The Wallabies of 2023 would go out in the pool stage for the first time in their history, and the Australia chapter carries this defeat as part of how it happened.
 
 **Josua Tuisova** scored the try; **Simione Kuruvoli** kicked the points. Afterwards Tuisova said he had told the players at half-time to "**empty the tank**." The coach, **Simon Raiwalui**, said: "I'm **emotionally drained** at the moment. I'm really proud of the boys." The captain, **Waisea Nayacalevu**, said what he had told them before kick-off: "**today is our final.**"
 
@@ -8718,7 +8718,7 @@ And then the July window came, and Fiji's three home matches were played at **Ca
 - **11 July 2026, Liverpool:** **England 73, Fiji 8.** Henry Pollock scored a hat-trick; Fiji played much of it with fourteen men after a red card; it ended a five-Test losing run for England.
 - **18 July 2026, Murrayfield:** **Scotland 33, Fiji 17.**
 
-The competition's own design makes this stranger, not less strange. The Nations Championship divides its twelve into a European pool and a "Rest of the World" pool, and the arrangement is reciprocal: **in July the European teams travel south, and in November the southern teams travel to Europe.** That is what happened elsewhere. `13-australia.md` closes on Australia beating Italy **57–10 in Perth on 18 July 2026** — the same afternoon Fiji were at Murrayfield. Australia's July fixtures were played in Australia, because Australia has stadiums that pay.
+The competition's own design makes this stranger, not less strange. The Nations Championship divides its twelve into a European pool and a "Rest of the World" pool, and the arrangement is reciprocal: **in July the European teams travel south, and in November the southern teams travel to Europe.** That is what happened elsewhere. The Australia chapter closes on Australia beating Italy **57–10 in Perth on 18 July 2026** — the same afternoon Fiji were at Murrayfield. Australia's July fixtures were played in Australia, because Australia has stadiums that pay.
 
 Fiji took the money and moved its half of the bargain to the other hemisphere.
 
@@ -9006,7 +9006,7 @@ Under Grey, Samoa did the things a small union does when someone competent is fi
 
 **1972:** Samoa played **two Tests against the Māori All Blacks in Apia** — seven of the side came from Vaiala.
 
-Under Grey, Samoa went to its first **Hong Kong Sevens**, into the tournament that `14-fiji.md` describes Fiji making its own. And Grey was, in the account of the people who were there, **instrumental in getting Samoa to the 1991 World Cup**. He was given the Western Samoa Order of Merit in 1993, and when he died in 2018 the country gave him a **state funeral**.
+Under Grey, Samoa went to its first **Hong Kong Sevens**, into the tournament that the Fiji chapter describes Fiji making its own. And Grey was, in the account of the people who were there, **instrumental in getting Samoa to the 1991 World Cup**. He was given the Western Samoa Order of Merit in 1993, and when he died in 2018 the country gave him a **state funeral**.
 
 ### The man who scored the first try
 
@@ -9044,7 +9044,7 @@ That is the flat fact, and Pat Lam — who was in his last year at St Peter's Co
 
 Read that as a statement about institutions rather than about ambition, because that is what it is. The reason a generation of Samoan boys in South Auckland wanted the black jersey was not that they preferred it. **It was that the blue one was not on the table.** There was nothing to be exported *from*.
 
-There is one further indignity in the record and it belongs here. When Fiji's May 1987 coup raised doubts about whether the Fijians could travel to the tournament, **Western Samoa was put on standby** to take their place. `12-new-zealand.md` and `14-fiji.md` both carry it.
+There is one further indignity in the record and it belongs here. When Fiji's May 1987 coup raised doubts about whether the Fijians could travel to the tournament, **Western Samoa was put on standby** to take their place. The New Zealand chapter and the Fiji chapter both carry it.
 
 Samoa's relationship to the first Rugby World Cup was as a reserve.
 
@@ -9188,7 +9188,7 @@ Here is the arrangement, laid out flat.
 
 **The governing body.** World Rugby — the IRB as it then was — found itself brokering between a member union and that union's own players, over the finances of a Test match staged in England for the benefit of a broadcast market in the northern hemisphere.
 
-And what was the fixture worth? A November Test at Twickenham is one of the most valuable ninety minutes in the sport, and the money goes overwhelmingly to the home union. Samoa were there because the fee, whatever it was, was worth more to them than any match they could stage at home — the same calculation `14-fiji.md` watches Fiji make, at greater scale, twelve years later.
+And what was the fixture worth? A November Test at Twickenham is one of the most valuable ninety minutes in the sport, and the money goes overwhelmingly to the home union. Samoa were there because the fee, whatever it was, was worth more to them than any match they could stage at home — the same calculation the Fiji chapter watches Fiji make, at greater scale, twelve years later.
 
 By **2017**, in remarks widely reported at the time, the union's chairman — still the Prime Minister — acknowledged that **Samoa Rugby Union was insolvent.** (This book was not able to open the report at source; it is carried here as reported, and flagged as such.)
 
@@ -9230,13 +9230,13 @@ In **2022**, for the first time, a professional rugby team existed for Samoan pl
 
 It is based in **South Auckland**.
 
-Put that beside `14-fiji.md`, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
+Put that beside the Fiji chapter, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
 
 *Samoa's professional pathway is in another country, and it is in that country for reasons that were settled long before rugby.*
 
 ### The rule turns round
 
-In **November 2021** World Rugby amended **Regulation 8**, with effect from the first day of 2022: a capped player could change union once, after a **thirty-six-month stand-down**, if born in the new country or with a parent or grandparent born there. `14-fiji.md` sets out the detail.
+In **November 2021** World Rugby amended **Regulation 8**, with effect from the first day of 2022: a capped player could change union once, after a **thirty-six-month stand-down**, if born in the new country or with a parent or grandparent born there. The Fiji chapter sets out the detail.
 
 For Samoa it was the reversal of the one-way valve after a century of its running the other way. Players who had been capped by New Zealand and Australia — men who, under the old rule, were simply lost — became selectable.
 
@@ -9280,7 +9280,7 @@ Then came thirteen months that put the whole argument on the scoreboard.
 
 Six days earlier that same Scotland side had lost **29–14 to Fiji in Suva**. Two Pacific islands, one touring team, one week, and opposite results.
 
-**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country `03-chile.md` follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
+**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country the Chile chapter follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
 
 The first leg is Samoa's home fixture. It is played at **America First Field, Salt Lake City, Utah.**
 
@@ -9301,7 +9301,7 @@ Fiji went up. Samoa and Tonga did not.
 Samoa's three July matches were all listed by the broadcasters as **home** fixtures. All three were played in **Chile**.
 
 - **4 July 2026, Estadio Nacional Julio Martínez Prádanos, Santiago: Samoa 66, Hong Kong China 19.** Ten tries. Tuna Tuitama inside two minutes, then Aki Seiuli, then Miracle Fai'ilagi, then **Warren Solomona twice**, then Manaaki Boyle-Tiatia, Iakopo Mapu, Connor Tupai, and **Elisapeta Alofipo twice in the last four minutes**. AJ Alatimu kicked eight conversions.
-- **11 July 2026, Estadio Sausalito, Viña del Mar: Georgia 33, Samoa 12.** **Luka Matkava** kicked Georgia's points from the fourth minute onwards — the same Matkava whose penalty beat Wales at Cardiff in November 2022, which is where `04-georgia.md` opens its final generation.
+- **11 July 2026, Estadio Sausalito, Viña del Mar: Georgia 33, Samoa 12.** **Luka Matkava** kicked Georgia's points from the fourth minute onwards — the same Matkava whose penalty beat Wales at Cardiff in November 2022, which is where the Georgia chapter opens its final generation.
 - **18 July 2026: Samoa 37, Romania 38.** By one point, against a country whose own chapter in this book is about a golden age that ended when the regime that funded it fell.
 
 Look at the second of those again. **Samoa's "home" match against Georgia was played in the stadium where Chile had knocked them out of World Cup qualification nine months earlier**, on the same weekends, and twice in the very grounds where Chile was playing its own Nations Cup fixtures, as the undercard of somebody else's home season.
@@ -9461,7 +9461,7 @@ Then the direction reversed, and Tonga became the sender.
 
 A meeting. A minute. A resolution to send men across open sea to work on somebody else's islands.
 
-`14-fiji.md` opens its own church section with the Wesleyans establishing themselves at Lakeba in 1835, "**arriving via Tonga**" — and here is the room they came from and the date they were dispatched. `15-samoa.md` records that Samoans first met Methodism as the ***Lotu Toga***, the **Tongan church**, brought home by a chief in **1828**; and that when John Williams reached Savai'i in 1830 he had already agreed with the Wesleyans **in Tonga** that Samoa would go to the London Missionary Society and Fiji to the Methodists. That handshake is why Fiji is Methodist and Samoa is Congregational, and it was made in Tonga.
+The Fiji chapter opens its own church section with the Wesleyans establishing themselves at Lakeba in 1835, "**arriving via Tonga**" — and here is the room they came from and the date they were dispatched. The Samoa chapter records that Samoans first met Methodism as the ***Lotu Toga***, the **Tongan church**, brought home by a chief in **1828**; and that when John Williams reached Savai'i in 1830 he had already agreed with the Wesleyans **in Tonga** that Samoa would go to the London Missionary Society and Fiji to the Methodists. That handshake is why Fiji is Methodist and Samoa is Congregational, and it was made in Tonga.
 
 **Tonga was exporting trained men, by resolution of a committee, in 1835.** That is eighty-nine years before its first international and a hundred and sixty before the game went open. When people say the Pacific export began with professionalism, this is the sentence to put in front of them.
 
@@ -9475,15 +9475,15 @@ Three years before he built it, Moulton had helped build another one.
 
 *A similar College.* Now go and read what happened to the first one.
 
-`13-australia.md` has Newington opening in 1863 and playing, in **1870**, what is usually called **the first inter-school rugby match in Australia**. And in **1892** it joined the **Athletic Association of the Great Public Schools** — five schools met at Gunsler's Café near Circular Quay on 30 March, and Newington came in with Sydney Grammar and Cooerwull Academy a fortnight later, on **12 April**. That association is the machinery that made Australian rugby union a private-school game and kept it that way for a century, while league took the working class and never gave it back.
+The Australia chapter has Newington opening in 1863 and playing, in **1870**, what is usually called **the first inter-school rugby match in Australia**. And in **1892** it joined the **Athletic Association of the Great Public Schools** — five schools met at Gunsler's Café near Circular Quay on 30 March, and Newington came in with Sydney Grammar and Cooerwull Academy a fortnight later, on **12 April**. That association is the machinery that made Australian rugby union a private-school game and kept it that way for a century, while league took the working class and never gave it back.
 
 **The same man built a school in Sydney that became a pillar of a class system, and a school in Tonga that became a nursery of a national game with no class in it at all.** Same church, same decade, same intention, same model. Two entirely different countries came out of the other end.
 
-`14-fiji.md` makes this comparison through an idea — Governor Im Thurn importing the English public school to Nasinu as a deliberate class instrument, and the instrument failing. **Tonga makes it through a man.** And the reason for the difference is not in Moulton and never was. It is in what stood outside each school's gate: in Sydney, an old boys' club that existed to keep a man among his own kind; in Tonga, a village, a congregation and a kin group that were the same body of people.
+The Fiji chapter makes this comparison through an idea — Governor Im Thurn importing the English public school to Nasinu as a deliberate class instrument, and the instrument failing. **Tonga makes it through a man.** And the reason for the difference is not in Moulton and never was. It is in what stood outside each school's gate: in Sydney, an old boys' club that existed to keep a man among his own kind; in Tonga, a village, a congregation and a kin group that were the same body of people.
 
 And in **1882** the crown built its own. **Tonga College**, at 'Atele, was founded by the Tongan government — by **King George Tupou I** with **Rev. Shirley Waldemar Baker** — in the same year the government took responsibility for an education system the mission had until then run almost entirely. *(This rests on Tongan press accounts rather than on the school or the ministry, and is stated as report rather than record.)*
 
-So by the 1880s the two schools that would supply Tongan rugby for the next century were in place, and they were **a church school and a crown school**, facing each other. Not a private school and a state school, as in Sydney. Not a mission school and a colonial school, as at Nasinu in `14-fiji.md`. **A Tongan church and a Tongan king**, both building for the same boys.
+So by the 1880s the two schools that would supply Tongan rugby for the next century were in place, and they were **a church school and a crown school**, facing each other. Not a private school and a state school, as in Sydney. Not a mission school and a colonial school, as at Nasinu in the Fiji chapter. **A Tongan church and a Tongan king**, both building for the same boys.
 
 ### The kingdom nobody took
 
@@ -9499,7 +9499,7 @@ And then **Bernard Braine**, on what the Bill in front of them actually was:
 
 Luard put it more flatly still: "This is not an independence Bill. **Tonga is, of course, already an independent State.**"
 
-Understand what that does to this section of the book. `14-fiji.md` is a country whose racial division was built by a colonial land policy in 1874 and inherited by a sport that had nothing to do with making it. `15-samoa.md` is a country cut in half in 1899 by three imperial governments and handed two different footballs. **Tonga has neither.** No governor drew a line through it. No administration decided who its people were. There is no coloniser in this chapter to carry the argument — which means that whatever Tongan rugby became, its own institutions made it.
+Understand what that does to this section of the book. The Fiji chapter is a country whose racial division was built by a colonial land policy in 1874 and inherited by a sport that had nothing to do with making it. The Samoa chapter is a country cut in half in 1899 by three imperial governments and handed two different footballs. **Tonga has neither.** No governor drew a line through it. No administration decided who its people were. There is no coloniser in this chapter to carry the argument — which means that whatever Tongan rugby became, its own institutions made it.
 
 That is the hardest version of this book's question, and it is why Tonga is the chapter that closes the section.
 
@@ -9533,7 +9533,7 @@ Now the awkward part, which this book is not going to smooth over.
 
 Somewhere before that match, rugby arrived in Tonga. **This book cannot tell you how.**
 
-There is no founding scene in the record — no equivalent of the Native Constabulary at Ba in 1884, which `14-fiji.md` can date and name, and no equivalent of the Marist Brothers in 1920, which `15-samoa.md` can attribute to an order and a year. The accounts that circulate say "sailors and missionaries, in the 1920s." They trace back, when you follow them, to a tour operator's blog post and to summaries of summaries. There is no first match, no first club, no first ball, and no first man.
+There is no founding scene in the record — no equivalent of the Native Constabulary at Ba in 1884, which the Fiji chapter can date and name, and no equivalent of the Marist Brothers in 1920, which the Samoa chapter can attribute to an order and a year. The accounts that circulate say "sailors and missionaries, in the 1920s." They trace back, when you follow them, to a tour operator's blog post and to summaries of summaries. There is no first match, no first club, no first ball, and no first man.
 
 Even the union cannot help. The **Tonga Rugby Football Union** has an official website and a page headed *History*, and the entire history is a single paragraph that begins with the first Test and gives no founding date at all.
 
@@ -9549,7 +9549,7 @@ A country that is not being administered does not generate paperwork about itsel
 
 What can be dated is the other side of the fixture, because Fiji wrote it down.
 
-In August 1924 a Fijian party of **twenty players** sailed for Samoa and Tonga. The whole trip cost **£160**, raised by public subscription in Fiji, headed by the acting governor of the islands, who put in **£5**. They played Samoa at Apia at seven in the morning on **18 August** — the match around the tree that opens `14-fiji.md`'s and `15-samoa.md`'s first generations both — and they played the return in Apia on **19 September**.
+In August 1924 a Fijian party of **twenty players** sailed for Samoa and Tonga. The whole trip cost **£160**, raised by public subscription in Fiji, headed by the acting governor of the islands, who put in **£5**. They played Samoa at Apia at seven in the morning on **18 August** — the match around the tree that opens the Fiji chapter's and the Samoa chapter's first generations both — and they played the return in Apia on **19 September**.
 
 Tonga sat between those two dates. The Fijians came south, played three Tests and six other matches, and went home having **won seven, drawn one and lost one** of the nine.
 
@@ -9605,7 +9605,7 @@ The historian **Amanda SullivanLee**, a Tongan writing about the Tongan military
 
 Read that against the rugby writing in the two chapters beside this one.
 
-In 1924, at Apia, a Fijian tour manager filed the first adjective ever applied to Samoan rugby by an outsider: **"the big, sturdy men of Apia."** `15-samoa.md` notes that people were still writing that sentence a hundred and two years later. In 2007, at Nantes, after Fiji had knocked Wales out of a World Cup, the beaten fly half explained them like this: **"Give them space and time and they move the ball well and have an offloading game and put you under pressure."** `14-fiji.md` calls it the compliment the rugby world had been paying Fiji since 1939 without ever once letting it cost them anything.
+In 1924, at Apia, a Fijian tour manager filed the first adjective ever applied to Samoan rugby by an outsider: **"the big, sturdy men of Apia."** the Samoa chapter notes that people were still writing that sentence a hundred and two years later. In 2007, at Nantes, after Fiji had knocked Wales out of a World Cup, the beaten fly half explained them like this: **"Give them space and time and they move the ball well and have an offloading game and put you under pressure."** the Fiji chapter calls it the compliment the rugby world had been paying Fiji since 1939 without ever once letting it cost them anything.
 
 **Physically magnificent. Naturally gifted. Needing somebody else's structure to be useful.**
 
@@ -9619,7 +9619,7 @@ The Tongan war was not large and it was not symbolic.
 
 They served in the **First Commando Fiji Guerillas** — a unit, in SullivanLee's description, "comprised of skilled Fijian, Solomon Islander, Tongan, and New Zealander soldiers."
 
-Stop there for a moment. `14-fiji.md` has **eight thousand Fijians** in the Solomon Islands in these same years, where they "gained a reputation for bravery," and builds its entire second half on what that trade in young men became. **The Fijians and the Tongans were in the same campaign, in the same unit, on the same islands.** The two chapters of this section that look most different at the end are, in the middle of the twentieth century, the same story with different numbers.
+Stop there for a moment. The Fiji chapter has **eight thousand Fijians** in the Solomon Islands in these same years, where they "gained a reputation for bravery," and builds its entire second half on what that trade in young men became. **The Fijians and the Tongans were in the same campaign, in the same unit, on the same islands.** The two chapters of this section that look most different at the end are, in the middle of the twentieth century, the same story with different numbers.
 
 Malaria, typhus and dengue did as much damage as the Japanese. When the Tongan platoon took its casualties at **Munda Point**, the Speaker of the Tongan Assembly, **Nuku**, addressed them in the language of a country that had chosen to be there:
 
@@ -9725,7 +9725,7 @@ And then the last turn, which is the one that makes this a Tongan story rather t
 
 Follow it end to end. A Tongan beats Australia at Ballymore in 1973. He emigrates to Australia and lays bitumen on its roads. His sons play for Australia, and one of them wins a World Cup in Australian colours. That son returns and coaches Tonga, and tells reporters that the most iconic moment in Tongan rugby history is the afternoon his father beat the country he himself played sixty Tests for.
 
-`14-fiji.md` argues the Pacific export with numbers — five hundred professionals, eleven per cent of a nation's remittances, the muscle trade. `15-samoa.md` argues it with an institution — the village that maintains a chosen man so that he can act on its behalf. **Tonga can argue it with one household, and every step of it is on the record.**
+The Fiji chapter argues the Pacific export with numbers — five hundred professionals, eleven per cent of a nation's remittances, the muscle trade. The Samoa chapter argues it with an institution — the village that maintains a chosen man so that he can act on its behalf. **Tonga can argue it with one household, and every step of it is on the record.**
 
 ### What this generation leaves behind
 
@@ -9745,7 +9745,7 @@ There are sixteen places and no qualifying tournament. The sport does not hold a
 
 **Tonga gets a letter. Samoa does not.**
 
-That is the whole of it. Two neighbouring Pacific states, a couple of hours apart by air, with intertwined churches and a shared century of rugby against each other and Fiji, and one of them is inside the first World Cup and the other is outside it. `15-samoa.md` records what that did in Auckland — a generation of Samoan boys with nothing of their own to want, and Pat Lam's flat verdict that "**Samoa was not invited and there was nothing for young Samoans to aspire to.**" Samoa's only role in 1987 was to be put on standby in case Fiji could not travel after the coup.
+That is the whole of it. Two neighbouring Pacific states, a couple of hours apart by air, with intertwined churches and a shared century of rugby against each other and Fiji, and one of them is inside the first World Cup and the other is outside it. The Samoa chapter records what that did in Auckland — a generation of Samoan boys with nothing of their own to want, and Pat Lam's flat verdict that "**Samoa was not invited and there was nothing for young Samoans to aspire to.**" Samoa's only role in 1987 was to be put on standby in case Fiji could not travel after the coup.
 
 Tonga was in the tournament. It is worth being honest about what it did there: not much. But it was in the room, and the room was being photographed.
 
@@ -9769,7 +9769,7 @@ Somewhere in this generation the other pipeline opens, and it does not run to Br
 
 The story Tongan and Japanese rugby tell about it is very good. In **1976**, it goes, a visiting teacher from **Daito Bunka University**, who managed its rugby team, taught the Japanese abacus to **King Taufa'āhau Tupou IV**; the King was taken with it; a friendship formed; and Tongan boys began going to Daito Bunka on rugby scholarships to study the abacus.
 
-**This book cannot stand that story up.** Followed to its source, it rests on a single self-published rugby blog. The article most often cited for it contains not one of its details — no university, no abacus, no teacher, no king. It may well be true. It is not documented, and it is told here as the story Tongan rugby tells about itself, in the same way `14-fiji.md` tells the origin of the *cibi* — as a story rather than as a document.
+**This book cannot stand that story up.** Followed to its source, it rests on a single self-published rugby blog. The article most often cited for it contains not one of its details — no university, no abacus, no teacher, no king. It may well be true. It is not documented, and it is told here as the story Tongan rugby tells about itself, in the same way the Fiji chapter tells the origin of the *cibi* — as a story rather than as a document.
 
 What is not in dispute is the residue. **From the 1980s onward there were Tongans playing top-level rugby in Japan**, and some of them played *for* Japan. That is the second door out of Tonga, and it opened decades before the game went professional, exactly as the British Army and the peacekeeping contracts opened for Fiji.
 
@@ -9837,7 +9837,7 @@ What followed was not a scandal. It was a market clearing.
 
 By the 2000s a good Tongan forward could be in a French club academy, a Japanese university, an English Premiership squad, a New Zealand province or an Australian one. What he could not be was a professional rugby player **in Tonga**, because no such job existed. And under the eligibility rules of the day, the moment he was capped by the country he had moved to, he was gone for good.
 
-`14-fiji.md` calls this a **one-way valve** and gives it in numbers — five hundred professionals abroad, eleven per cent of a nation's remittances. `15-samoa.md` gives it as an institution — the village maintaining a chosen man. Tonga's version is the same machine, running on a smaller population, with **no domestic professional structure of any kind** and a diaspora concentrated in exactly the four countries most likely to cap its sons.
+The Fiji chapter calls this a **one-way valve** and gives it in numbers — five hundred professionals abroad, eleven per cent of a nation's remittances. The Samoa chapter gives it as an institution — the village maintaining a chosen man. Tonga's version is the same machine, running on a smaller population, with **no domestic professional structure of any kind** and a diaspora concentrated in exactly the four countries most likely to cap its sons.
 
 ### The wins, and who was watching them
 
@@ -9845,7 +9845,7 @@ What Tonga had instead of a structure was days.
 
 In **1999**, at the World Cup, Tonga beat **Italy 28–25**. Piutau, a boy at the time, remembered it precisely for what it did to boys: "It was massive just in terms of, for a young Tongan kid growing up, and **seeing that these things were possible**."
 
-That is the entire function of a Tier Two national team, stated by someone it worked on. Not trophies. **Evidence that the thing is possible.** `15-samoa.md` records the same mechanism from Cardiff in 1991 — Pat Lam's classroom, Kevin Senio at eleven years old realising *we can do that too*. It is the one thing a country with no money can still manufacture, and it costs a single afternoon.
+That is the entire function of a Tier Two national team, stated by someone it worked on. Not trophies. **Evidence that the thing is possible.** the Samoa chapter records the same mechanism from Cardiff in 1991 — Pat Lam's classroom, Kevin Senio at eleven years old realising *we can do that too*. It is the one thing a country with no money can still manufacture, and it costs a single afternoon.
 
 The trouble is that it has to be manufactured again every few years, and Tonga's fixture list was not built to allow it.
 
@@ -9853,13 +9853,13 @@ The trouble is that it has to be manufactured again every few years, and Tonga's
 
 They lost that one **30–25**. South Africa won the tournament.
 
-Hold that beside 2011 and the pattern is exact. **Tonga lost by five points to the side that won the 2007 World Cup, and beat the side that reached the 2011 final, and did not make a quarter-final in either year.** Meanwhile in Pool B, Fiji beat Wales at Nantes and went through — the fixture `14-fiji.md` calls Fiji's finest hour. **Same ocean, same fortnight, opposite outcomes.**
+Hold that beside 2011 and the pattern is exact. **Tonga lost by five points to the side that won the 2007 World Cup, and beat the side that reached the 2011 final, and did not make a quarter-final in either year.** Meanwhile in Pool B, Fiji beat Wales at Nantes and went through — the fixture the Fiji chapter calls Fiji's finest hour. **Same ocean, same fortnight, opposite outcomes.**
 
 ### The women start
 
 In **2006**, Tonga's women played in the inaugural **Pacific Tri-Nations**, the same tournament in which Fiji's women played their first Test match.
 
-`14-fiji.md` records the result from the other side: the Fijiana **beat Tonga 52–5**.
+The Fiji chapter records the result from the other side: the Fijiana **beat Tonga 52–5**.
 
 That is where the Tongan women's game begins in the international record — on the wrong end of a fifty-point margin, in a tournament invented because the three countries had nobody else to play. It would remain the least resourced of the three. In the world rankings of July 2026, Fiji's women stood thirteenth, Samoa's fifteenth, and **Tonga's twenty-eighth.**
 
@@ -9917,7 +9917,7 @@ And in **2022**, **Moana Pasifika** entered **Super Rugby Pacific**, built to gi
 
 It is based in **South Auckland**.
 
-Set that beside `14-fiji.md`, where the Fijian Drua — after one COVID season in Australia — plays its rugby **in Fiji**, in front of Fijian crowds, and became the single most important institutional event in that country's rugby history: a professional contract a Fijian could sign **without leaving**. Tonga has no such thing. Tonga's professional pathway is a franchise in another country, shared with Samoa, in the city where the diaspora lives — which is to say that **the pathway is still the export, with a better contract attached.**
+Set that beside the Fiji chapter, where the Fijian Drua — after one COVID season in Australia — plays its rugby **in Fiji**, in front of Fijian crowds, and became the single most important institutional event in that country's rugby history: a professional contract a Fijian could sign **without leaving**. Tonga has no such thing. Tonga's professional pathway is a franchise in another country, shared with Samoa, in the city where the diaspora lives — which is to say that **the pathway is still the export, with a better contract attached.**
 
 ### What the union says about itself
 
@@ -9927,7 +9927,7 @@ The Tonga Rugby Football Union's official website has not been substantially upd
 
 Fewer than eight hundred senior players, on the union's own 2011 reckoning. And the word *unfortunately*, chosen by the governing body of the sport, about the sport.
 
-`14-fiji.md` found a peer-reviewed journal stating this book's title as settled background. **Tonga's union states this book's section title as a complaint about itself.**
+The Fiji chapter found a peer-reviewed journal stating this book's title as settled background. **Tonga's union states this book's section title as a complaint about itself.**
 
 ### The sons come back
 
@@ -9961,11 +9961,11 @@ Before there was a ball in these islands, the measure of **Taufa'āhau** — the
 
 Then the institutions arrive, and none of them is imposed.
 
-**Four Tahitians on their way to Fiji stop at Nuku'alofa in the 1820s and build a chapel and a school.** The Wesleyans take the school over in **1828** — eighty pupils, a hundred and fifty within six months. In **1829** the mission sends its first Tongan teacher, **Pita Vi**, to Ha'apai, and the future king complains that they sent a Tongan instead of a European. On **2 January 1835** a District Meeting resolves to send men to Fiji, and Tongan evangelists go, and the church that reaches Lakeba that year — the church at the centre of `14-fiji.md` — **comes from here**. Samoans meet Methodism as the *Lotu Toga*, the **Tongan** church.
+**Four Tahitians on their way to Fiji stop at Nuku'alofa in the 1820s and build a chapel and a school.** The Wesleyans take the school over in **1828** — eighty pupils, a hundred and fifty within six months. In **1829** the mission sends its first Tongan teacher, **Pita Vi**, to Ha'apai, and the future king complains that they sent a Tongan instead of a European. On **2 January 1835** a District Meeting resolves to send men to Fiji, and Tongan evangelists go, and the church that reaches Lakeba that year — the church at the centre of the Fiji chapter — **comes from here**. Samoans meet Methodism as the *Lotu Toga*, the **Tongan** church.
 
 **Tonga was running an export of trained men, by committee resolution, in 1835.** Not because anybody made it. Because it was good at it.
 
-In **1866** a Wesleyan named **James Egan Moulton** founds **Tupou College**, the oldest secondary school in the Pacific — three years after helping to found **Newington College in Sydney**, and explicitly to build "a similar College." Newington played the first inter-school rugby match in Australia and joined the **Great Public Schools**, the association `13-australia.md` shows manufacturing a class-divided game and keeping it that way for a century. The Tongan school produced a nursery of a national game with **no class in it at all**.
+In **1866** a Wesleyan named **James Egan Moulton** founds **Tupou College**, the oldest secondary school in the Pacific — three years after helping to found **Newington College in Sydney**, and explicitly to build "a similar College." Newington played the first inter-school rugby match in Australia and joined the **Great Public Schools**, the association the Australia chapter shows manufacturing a class-divided game and keeping it that way for a century. The Tongan school produced a nursery of a national game with **no class in it at all**.
 
 Same man. Same church. Same decade. Same model. **Opposite countries came out of the other end** — because what stood outside the Sydney gate was an old boys' club that existed to keep a man among his own kind, and what stood outside the Tongan gate was a village, a congregation and a kin group that were the same body of people.
 
@@ -9991,7 +9991,7 @@ And against that, the two families.
 
 **Both families sent their sons to a Tier 1 country. Both sets of sons came back.**
 
-That is not sentiment and it is not a rule change. It is the oldest arrangement in these islands, the one this chapter opened with and the one Section 5 is named after: **a community keeps a chosen man so that he can go and act on its behalf, and the obligation runs in both directions, and it survives the plane.** It is the *faifekau* of 1830 — what `15-samoa.md` meets as the *faifeau*. It is Pita Vi in 1829. It is the four Tahitians who stopped on their way to Fiji and stayed.
+That is not sentiment and it is not a rule change. It is the oldest arrangement in these islands, the one this chapter opened with and the one Section 5 is named after: **a community keeps a chosen man so that he can go and act on its behalf, and the obligation runs in both directions, and it survives the plane.** It is the *faifekau* of 1830 — what the Samoa chapter meets as the *faifeau*. It is Pita Vi in 1829. It is the four Tahitians who stopped on their way to Fiji and stayed.
 
 Rugby has no class, and in Tonga it has no coloniser either. What it has is a church, a school, a village and a kingdom — and every one of them was built by Tongans, and every one of them is a machine for sending men away.
 
@@ -10009,7 +10009,7 @@ Next come the countries that were let in late, and on somebody else's terms — 
 - Revd Dr **Finau Pila 'Ahio**, "Christianity and Taufa'āhau in Tonga: 1800–1850", *Melanesian Journal of Theology* 23-1 (2007), pp. 22–80 — [PDF](https://biblicalstudies.org.uk/pdf/mjt/23-1_22.pdf), downloaded and read in full. 'Ahio is Principal of the **Sia'atoutai Theological College** in Tonga, quoting Turner's and Thomas's journals directly. Source for: the London Missionary Society's failed attempt and Lawry's abandoned mission after fourteen months; **John Thomas and John Hutchinson at Hihifo in 1826**, growing "in spite of strong resistance from the Tongans"; **Nathaniel Turner** ashore at Hihifo on **2 November 1827**; the **four Tahitians — Hape, Tafeta, Borabora and Longi** — who "called at Nuku'alofa on their way to Fiji from Tahiti", built a chapel and a school and were backed by the chiefs **Aleamotu'a Tupou** and **Ulakai**, with about three hundred at worship and "nearly 240" in the congregation Turner found; **Turner and William Cross reviving the school in early 1828 — eighty pupils, a hundred and fifty within six months**, teaching "both children and adults" to read their own language; **Pita Vi** sent to Ha'apai as "the first Tongan preacher and teacher" and Taufa'āhau's disappointment in **August 1829**; the baptism of **7 August 1831** before more than two thousand people, with **Sālote, David and Josiah**, and Thomas's note that "the chief and his three children were ready, seated on the right hand of the pulpit, all neatly dressed"; the **District Meeting of 2 January 1835** resolving to send **William Cross and David Cargill** to Fiji, with the Tongan evangelists **Joel Bulu, Sailosi Fa'one, James Havea and Paula Vea**; and **Basil Thomson** — "a young civil servant from Fiji, who worked in Tonga for 10 months" — on Taufa'āhau's "most careful athletic training".
 - **Martin Daly**, "The Bible and the Sword: John Thomas and the Tongan Civil War of 1837", Methodist Church archive — [PDF](https://media.methodist.org.uk/media/documents/missionary-history-daly-tongan-civil-war-2010.pdf), downloaded and read (the LMS attempt of **1796**; Lawry's short-lived mission of 1822; Thomas and Hutchinson in 1826; Tonga "regarded by the Wesleyan Methodist Missionary Society as one of its great successes"). *Note: Daly gives Lawry's first name as **William** where 'Ahio gives **Walter**; the chapter therefore names him only as Lawry.*
 - **Tupou College** — ["Our History"](http://www.tupou.to/our-history/) (the site serves a self-signed certificate; fetched over plain HTTP). "**Founded in 1866, Tupou College is the oldest secondary school in the Kingdom of Tonga and the Pacific Islands.** The College was established by **Reverend Dr James Egan Moulton**, a Methodist missionary, **under the authority of the Free Wesleyan Church of Tonga**"; created as "a center for Christian education, academic learning, and leadership formation, part of the broader introduction of Western education and **the Tongan alphabet** to the Kingdom"; the first site at **Sia'atoutai** and the **1948** move to **Toloa**, "some 750 acres"; **King Taufa'āhau Tupou IV** (reigned 1967–2006) among its alumni; and the "historic relationship with **Newington College** in Sydney, Australia, which was founded by Dr Moulton shortly before he came to Tonga."
-- **Newington College** — ["His Majesty King Tupou VI of Tonga visits Newington"](https://www.newington.nsw.edu.au/blog/2016/11/07/his-majesty-king-tupou-vi-of-tonga-visits-newington/) ("**Both educational institutions were established by James Egan Moulton**, a nineteenth century Wesleyan Methodist minister who, **after helping to establish Newington in 1863, sailed to Tonga two years later in order to set up a similar College on the Island**"). Read alongside `13-australia.md`, which carries Newington's 1863 opening, the **1870** first inter-school rugby match in Australia, and Newington joining the **Athletic Association of the Great Public Schools** on **12 April 1892**, a fortnight after the founding meeting at Gunsler's Café.
+- **Newington College** — ["His Majesty King Tupou VI of Tonga visits Newington"](https://www.newington.nsw.edu.au/blog/2016/11/07/his-majesty-king-tupou-vi-of-tonga-visits-newington/) ("**Both educational institutions were established by James Egan Moulton**, a nineteenth century Wesleyan Methodist minister who, **after helping to establish Newington in 1863, sailed to Tonga two years later in order to set up a similar College on the Island**"). Read alongside the Australia chapter, which carries Newington's 1863 opening, the **1870** first inter-school rugby match in Australia, and Newington joining the **Athletic Association of the Great Public Schools** on **12 April 1892**, a fortnight after the founding meeting at Gunsler's Café.
 - **Tonga Independent News** — ["A Legacy of Leadership: The Enduring Rivalry and Unity of Tupou College and Tonga College"](https://tongaindependent.com/a-legacy-of-leadership-the-enduring-rivalry-and-unity-of-tupou-college-and-tonga-college/) and **Talanoa 'o Tonga** — ["Tonga College celebrates 141st Anniversary"](https://talanoaotonga.to/tonga-college-celebrates-141st-anniversary/) (**Tonga College**, at **'Atele**, founded by the Tongan government in **1882** by **King George Tupou I** with **Rev. Shirley Waldemar Baker**, in the year the government assumed responsibility for an education system the mission had run almost entirely). ⚠️ *Tongan press rather than the school or the ministry; flagged as report rather than record in the prose.*
 - **Hansard** — [TONGA BILL [Lords], House of Commons, **11 May 1970**](https://api.parliament.uk/historic-hansard/commons/1970/may/11/tonga-bill-lords). **Bernard Braine**: "this is an unusual Bill in the sense that it is not an independence Measure, **since Tonga has never been a British colonial dependency**." **Evan Luard**: "this is not an independence Bill. **Tonga is, of course, already an independent State**"; "**To safeguard his people against the possibility of annexation by some other power, the King of Tonga voluntarily concluded a treaty of friendship with Britain in 1879**"; "the treaty of 1900 that Tonga was put under British protection"; and "responsibility for external affairs and defence revert to Tonga."
 - **US Department of State, Office of the Historian** — [Tonga](https://history.state.gov/countries/tonga) (full independence on **4 June 1970**, when Tonga "officially withdrew from its protectorship agreement with Great Britain"; the 1900 "**Treaty of Friendship and Protectorship**" which "delegated sole authority of Tongan foreign relations to the British Foreign Office, **although it maintained Tongan autonomy**").
@@ -10024,7 +10024,7 @@ Next come the countries that were let in late, and on somebody else's terms — 
 - **RugbyPass** — ["Vunipola brothers could be set for shock Rugby World Cup role"](https://www.rugbypass.com/news/vunipola-brothers-in-talks-about-rugby-world-cup-role/) and **Sky Sports** — ["England vs Tonga is a real World Cup family affair for Billy Vunipola"](https://www.skysports.com/rugby-union/news/12504/11814532/england-vs-tonga-is-a-real-world-cup-family-affair-for-billy-vunipola) (**Fe'ao Vunipola**, former Tonga captain, **33 caps 1988–2001**; **Mako** with **79 England caps** and nine Lions Tests, **Billy** with **75**, the last in 2023; both qualified for England on residency after their father moved to the UK in **1998**, both also qualified for Wales, and Australian- and New Zealand-born respectively; their mother **Rev. Iesinga Vunipola**, a Methodist minister and chaplain to the UK Tongan community; and Mako in talks about Tonga's coaching set-up for **RWC 2027**, with Billy a possible addition to the squad). **RNZ** — ["Former Tonga rugby captain questions new TRU governance"](https://www.rnz.co.nz/news/pacific/427228/former-tonga-rugby-captain-questions-new-tru-governance) (Fe'ao Vunipola stepping down as interim CEO of the Tonga Rugby Union after five years).
 - **RNZ** — ["Pacific Nations Cup 2024: Manu Samoa back on track with big 43-17 win over Tonga"](https://www.rnz.co.nz/international/pacific-news/526662/pacific-nations-cup-2024-manu-samoa-back-on-track-with-big-43-17-win-over-tonga) and ["Pacific Nations Cup clash to kick off 100 years of rugby between Fiji, Samoa and Tonga"](https://www.rnz.co.nz/international/pacific-news/525882/pacific-nations-cup-clash-to-kick-off-100-years-of-rugby-between-fiji-samoa-and-tonga) (**Samoa 43, Tonga 17** at **Apia Park** on **30 August 2024**, in Samoa's centenary year, extending Samoa's unbeaten home record against Tonga in Apia to **twenty matches over forty-four years**).
 - **Sky Sports** — [Tonga 36–26 Zimbabwe](https://www.skysports.com/rugby-union/tonga-vs-zimbabwe/112394) and **World Rugby** — ["Tries aplenty on day one of enthralling Nations Cup action"](https://www.world.rugby/nations-cup/en/news/1045261/world-rugby-nations-cup-2026-round-one-review) (**4 July 2026**, **Dick's Sporting Goods Park, Denver**; half-time **19–5**; **Patrick Pellegrini** kicking; Tonga's tries **Veainu 24', Paea 28', Inisi 38', Moli 69', Tuipulotu 73'**; Zimbabwe's **Mandioma 31', Mavesere 56', Muzanargwo 59', Sigauke 65'**, leading 24–19 with fifteen minutes left).
-- **Iliesa Tora** — ["Fiji keeps World Rugby Top-10 ranking despite Nations Championship losses"](https://www.rnz.co.nz/news/pacific/722158/fiji-keeps-world-rugby-top-10-ranking-despite-nations-championship-losses), RNZ, **15 July 2026** (the men's rankings of 15 July 2026 with **Tonga twentieth**, Samoa nineteenth and Fiji ninth, Tonga and Samoa each down a place; and the women's rankings with the Fijiana thirteenth, Samoa fifteenth and **Tonga twenty-eighth**). The same paragraph closes `14-fiji.md` and `15-samoa.md`.
+- **Iliesa Tora** — ["Fiji keeps World Rugby Top-10 ranking despite Nations Championship losses"](https://www.rnz.co.nz/news/pacific/722158/fiji-keeps-world-rugby-top-10-ranking-despite-nations-championship-losses), RNZ, **15 July 2026** (the men's rankings of 15 July 2026 with **Tonga twentieth**, Samoa nineteenth and Fiji ninth, Tonga and Samoa each down a place; and the women's rankings with the Fijiana thirteenth, Samoa fifteenth and **Tonga twenty-eighth**). The same paragraph closes the Fiji chapter and the Samoa chapter.
 - ⚠️ **Cited against itself: the Daito Bunka story.** The account that in **1976** a Daito Bunka University teacher taught the abacus to **King Taufa'āhau Tupou IV**, opening a rugby-scholarship pipeline to Japan, rests on a single self-published post — [tier2rugby.blogspot.com](http://tier2rugby.blogspot.com/2018/04/the-increasing-influence-of-tongans-in.html), April 2018. The ESPN article usually cited alongside it was fetched and searched and **contains none of its details** (*Daito* 0 hits, *abacus* 0, *Nakano* 0, *Tupou* 0). It is told in Generation 4 **as a story and not as a document**, and nothing is built on it.
 - **Deliberately absent:** no Wikipedia or Grokipedia (repo rule), and no **Keith Prowse**, which was removed from this book repo-wide in the August 2026 no-wiki pass and which is the origin of the widely repeated "sailors and missionaries in the 1920s" account of rugby's arrival in Tonga. **The arrival is therefore left unexplained in the prose, because the record does not explain it.**
 
@@ -10064,13 +10064,13 @@ In Milan he set about making it known, created a rugby section inside the **Unio
 
 Hold that against the arrivals this book has already described, because Italy's is the odd one out and the oddity is the argument.
 
-In **Uruguay, Argentina and Chile**, the game came ashore inside British commercial enclaves — the cricket club, the bank, the shipping office, the school got up for the sons of Englishmen abroad. In **Fiji** it arrived in **1884 in the custody of the colonial police**, and `14-fiji.md` can name the province. In **Samoa** it came in **1920 with the Marist Brothers**, a teaching order that had been on the islands since 1845. In **Georgia** and **Romania**, a state picked it up and carried it deliberately.
+In **Uruguay, Argentina and Chile**, the game came ashore inside British commercial enclaves — the cricket club, the bank, the shipping office, the school got up for the sons of Englishmen abroad. In **Fiji** it arrived in **1884 in the custody of the colonial police**, and the Fiji chapter can name the province. In **Samoa** it came in **1920 with the Marist Brothers**, a teaching order that had been on the islands since 1845. In **Georgia** and **Romania**, a state picked it up and carried it deliberately.
 
 Every one of those is an institution arriving with a ball: an empire, a church, a company, a government.
 
 **Italy got none of them.** No governor, no missionary, no regiment, no counting house, no public school. What Italy got was **a man who had gone to France to earn a living and came home with an enthusiasm** — and who happened to work at the opera.
 
-And note which direction the traffic runs. `14-fiji.md`, `15-samoa.md` and `16-tonga.md` are three chapters about **countries that export men and import money**: the village keeps a chosen man so that he can go and act on its behalf somewhere else. **Italy did the same thing and got a sport back.** Bellandi is the emigrant in reverse — the man who went away to work and whose remittance was a game.
+And note which direction the traffic runs. Fiji, Samoa and Tonga are three chapters about **countries that export men and import money**: the village keeps a chosen man so that he can go and act on its behalf somewhere else. **Italy did the same thing and got a sport back.** Bellandi is the emigrant in reverse — the man who went away to work and whose remittance was a game.
 
 ### Turin, the year before
 
@@ -10086,7 +10086,7 @@ The first game of rugby ever played in Italy was **French against Swiss**, watch
 
 There is no British club, tour, fixture or figure anywhere in the founding record of Italian rugby. **The game did not come to Italy over the sea from England. It came over the Alps from France** — and it came in the luggage of Italians who had gone the other way to find work.
 
-That single fact will govern the next ninety years. The country that carried the game into Italy was the country the Home Unions **expelled in 1931** — `11-france.md` tells that story — and Italy's fortunes in this sport are going to track France's relationship with Britain far more closely than anything Italy does on a field.
+That single fact will govern the next ninety years. The country that carried the game into Italy was the country the Home Unions **expelled in 1931** — the France chapter tells that story — and Italy's fortunes in this sport are going to track France's relationship with Britain far more closely than anything Italy does on a field.
 
 *(A note on primacy, since the record does not quite agree with itself. **Rugby Club Torino** is sometimes said to have been constituted straight after the 1910 match and to have been the first Italian club; the federation's own timeline credits **US Milanese** with the first match by an Italian side. Both can be true, and this book has not been able to settle which came first.)*
 
@@ -10150,7 +10150,7 @@ And in **December 1928** — three months after the federation existed at all �
 
 Sit with the disproportion. A country with six rugby clubs and no international victory, and the official sporting magazine of the governing party has already decided the game belongs to it.
 
-This book has watched states take an interest in rugby before. `04-georgia.md` and `05-romania.md` are both chapters about governments picking the sport up and carrying it — and in both, the state arrives *after* the game has established itself, and adopts something already there. **In Italy the regime got there almost first.** The federation was three months old.
+This book has watched states take an interest in rugby before. Georgia and Romania are both chapters about governments picking the sport up and carrying it — and in both, the state arrives *after* the game has established itself, and adopts something already there. **In Italy the regime got there almost first.** The federation was three months old.
 
 And it had a general problem with imported games, which it was solving in more than one way at once. Two years after *Lo sport fascista* claimed rugby, the Fascist administration in Florence **revived the *calcio storico fiorentino***, the city's costumed Renaissance ball game, for the **fourth centenary of the siege of 1530**. Its regulations were written, the historian **Leonardo Nesti** records, by Florence's Fascist leader **Alessandro Pavolini** himself, and the message was explicit and aimed squarely at the English: ***"ma quali inglesi? Il calcio è nato in Italia, il calcio è nato a Firenze"*** — *what Englishmen? Football was born in Italy, football was born in Florence.* Nesti's term for the exercise is ***l'invenzione di una tradizione***.
 
@@ -10180,11 +10180,11 @@ And then the most consequential thing Italian rugby has ever done, which it did 
 
 Count who is absent. **England, Scotland, Wales and Ireland are not in that room**, and were never going to be.
 
-Now read it against `11-france.md`, because the timing is not a coincidence. **In 1931 the Home Unions expelled France from the Five Nations** for professionalism. Two years later, in an Italian city, France sat down with four countries it could still play and founded a European federation of its own.
+Now read it against the France chapter, because the timing is not a coincidence. **In 1931 the Home Unions expelled France from the Five Nations** for professionalism. Two years later, in an Italian city, France sat down with four countries it could still play and founded a European federation of its own.
 
 The French chapter tells those years from the French side, and with a distinct curl of the lip: cut off from Britain and Ireland, the French were "left to make do with matches against **Nazi Germany and Fascist Italy**." *That is where a sport goes when the democracies stop playing it.*
 
-From Italy's side it does not look like making do. **It looks like being a founder.** The organisation constituted at Turin in 1933 outlived the regime that hosted it, outlived the Soviet Union, and is the body now called **Rugby Europe** — the structure through which Romanian and Georgian rugby would later reach the world, as `05-romania.md` and `04-georgia.md` both record without ever explaining where it came from.
+From Italy's side it does not look like making do. **It looks like being a founder.** The organisation constituted at Turin in 1933 outlived the regime that hosted it, outlived the Soviet Union, and is the body now called **Rugby Europe** — the structure through which Romanian and Georgian rugby would later reach the world, as the Romania chapter and the Georgia chapter both record without ever explaining where it came from.
 
 **It came from here.** Two countries locked out of the British game, and three more who were never going to be let in, built the alternative — and they built it in Turin.
 
@@ -10247,7 +10247,7 @@ The **Museo delle Civiltà** in Rome now holds the photographic archive that sho
 
 This book has heard that argument before, in a chapter about a country ten thousand miles away and a very different kind of power.
 
-`16-tonga.md` records **Lieutenant-Colonel John McLeod, MC**, in early 1941, assessing the material available to the Allies in the Kingdom of Tonga. He found the Tongans "keen to make good soldiers", and reported that they "**took to drill and manoeuvres like ducks to water**", because "the blood of warriors and gentlemen flows in their native veins." The Tongan historian **Amanda SullivanLee** reads that praise for what it was: Polynesians were desirable because they were "**strong and brave but also submissive**", and were seen as "one of the many weapons in the military's advancing arsenals."
+The Tonga chapter records **Lieutenant-Colonel John McLeod, MC**, in early 1941, assessing the material available to the Allies in the Kingdom of Tonga. He found the Tongans "keen to make good soldiers", and reported that they "**took to drill and manoeuvres like ducks to water**", because "the blood of warriors and gentlemen flows in their native veins." The Tongan historian **Amanda SullivanLee** reads that praise for what it was: Polynesians were desirable because they were "**strong and brave but also submissive**", and were seen as "one of the many weapons in the military's advancing arsenals."
 
 **Starace and McLeod are making the same assessment in the same decade.** A body is a military asset; the game that hardens it is therefore a national instrument.
 
@@ -10409,7 +10409,7 @@ The received account is that Italy spent the second half of the twentieth centur
 
 That is a calendar. It is not the calendar anybody in London was reading, but it was full, it was competitive, and against its two strongest members **Italy lost more than it won**.
 
-⭐ And it connects two chapters of this book that do not know they are connected. `05-romania.md` is a chapter about a communist state that picked rugby up and carried it deliberately, and about the golden age that produced it. **Italy is the opponent Romania played more than any other — forty-one times.** The fixture list Romanian rugby actually lived on, week by week and year by year, is in the Italian federation's ledgers.
+⭐ And it connects two chapters of this book that do not know they are connected. Romania's chapter is about a communist state that picked rugby up and carried it deliberately, and about the golden age that produced it. **Italy is the opponent Romania played more than any other — forty-one times.** The fixture list Romanian rugby actually lived on, week by week and year by year, is in the Italian federation's ledgers.
 
 ### 22 May 1987, Auckland
 
@@ -10417,11 +10417,11 @@ Into the middle of that comes an afternoon that belongs to a different world ent
 
 **The first Rugby World Cup begins, and the first match ever played in it is New Zealand against Italy.**
 
-`12-new-zealand.md` opens its sixth generation on that whistle. **New Zealand 70, Italy 6.**
+The New Zealand chapter opens its sixth generation on that whistle. **New Zealand 70, Italy 6.**
 
 Sixty-four points, in the first fixture in the tournament's history, in front of the sport's assembled establishment. If any single scoreline fixed the outside world's idea of what Italian rugby was, it is that one — and it was recorded two and a half years after Italy had beaten the Soviet Union by a point at L'Aquila, and six months before losing to them by three in Kishinev.
 
-The tournament did not end there, and the rest of it is more interesting than the opening. **Italy, Fiji and Argentina all finished Pool 3 level on two points**, each with one win and two defeats. Fiji went through on **tries scored — six, against Italy's five and Argentina's four** — as `14-fiji.md` describes from the Fijian side, with some feeling.
+The tournament did not end there, and the rest of it is more interesting than the opening. **Italy, Fiji and Argentina all finished Pool 3 level on two points**, each with one win and two defeats. Fiji went through on **tries scored — six, against Italy's five and Argentina's four** — as the Fiji chapter describes from the Fijian side, with some feeling.
 
 **Italy beat Fiji in that pool and went out anyway**, on a tiebreaker, in the first World Cup ever held.
 
@@ -10513,7 +10513,7 @@ And then, because this book does not do triumphal endings, the two years between
 
 At the **1999 World Cup**, in **Leicester on 10 October**, Italy played **Tonga** and lost **28–25**.
 
-`16-tonga.md` tells that afternoon from the other side, and it is one of the better passages in that chapter — **Siale Piutau**, a Tongan boy watching, saying what it did to him: *"It was massive just in terms of, for a young Tongan kid growing up, and seeing that **these things were possible**."*
+The Tonga chapter tells that afternoon from the other side, and it is one of the better passages in that chapter — **Siale Piutau**, a Tongan boy watching, saying what it did to him: *"It was massive just in terms of, for a young Tongan kid growing up, and seeing that **these things were possible**."*
 
 Hold the two chapters together for a moment, because the pairing is the whole of Section 6.
 
@@ -10537,7 +10537,7 @@ Italy play their first match as a member of the Championship, against **Scotland
 
 Ninety years after two foreign clubs played the first game of rugby ever staged on Italian soil, and seventy-two years after a party magazine called the sport *ours*, Italy walk into the oldest competition in the game and beat the reigning champions in their first fixture.
 
-Because that is what Scotland were. `09-scotland.md` records it from the other end: **Scotland won the last Five Nations, in 1999** — and then, "since Italy joined in **2000** to make the Six Nations, **Scotland have never won it.** Not once."
+Because that is what Scotland were. The Scotland chapter records it from the other end: **Scotland won the last Five Nations, in 1999** — and then, "since Italy joined in **2000** to make the Six Nations, **Scotland have never won it.** Not once."
 
 The two facts are consecutive and each chapter holds one of them. Scotland's last title, and Italy's first afternoon.
 
@@ -10579,7 +10579,7 @@ There was, through almost the whole of it, one figure.
 
 Two of the three men to have played five World Cups are Italian. The country admitted last produced two of the most durable international careers the sport has recorded.
 
-Brian Lima, the first of the three, is in the chapter before this one. `15-samoa.md` has him in the blue shirt at **Cardiff in 1991**, in the side that beat Wales — and again in its closing summary, as one of the two names Samoa is said to have produced. **The man Parisse was chasing spent his career in the other half of this book, playing for a country that has never been let in at all.**
+Brian Lima, the first of the three, is in the chapter before this one. The Samoa chapter has him in the blue shirt at **Cardiff in 1991**, in the side that beat Wales — and again in its closing summary, as one of the two names Samoa is said to have produced. **The man Parisse was chasing spent his career in the other half of this book, playing for a country that has never been let in at all.**
 
 And in **2005**, aged twenty-one, Parisse left **Treviso** for **Stade Français**.
 
@@ -10595,7 +10595,7 @@ In **2010**, Italian clubs entered the **Celtic League** — the Irish, Welsh an
 
 Look at what that decision actually was. Italy's answer to professionalism was to take its two strongest clubs **out of Italy's own championship** and put them in somebody else's, because the competition worth playing in was elsewhere.
 
-`15-samoa.md` describes a version of the same fact from the other end of the world: **Moana Pasifika**, a Pacific team playing in a New Zealand-based competition, because that is where the Pacific players already live. Samoa's pathway is abroad because its people are. **Italy's pathway went abroad because its opponents were.** The same sentence — *the league that matters is somewhere else* — arrived at from opposite directions, in the same decade, by two countries that have nothing else in common.
+The Samoa chapter describes a version of the same fact from the other end of the world: **Moana Pasifika**, a Pacific team playing in a New Zealand-based competition, because that is where the Pacific players already live. Samoa's pathway is abroad because its people are. **Italy's pathway went abroad because its opponents were.** The same sentence — *the league that matters is somewhere else* — arrived at from opposite directions, in the same decade, by two countries that have nothing else in common.
 
 ### What this generation leaves behind
 
@@ -10617,7 +10617,7 @@ What happens next takes seven days. In **November 2016**, at home, Italy will pl
 
 It is Italy's **first win over South Africa**, and South Africa's **first defeat by Italy in thirteen meetings**. The Italian defence that afternoon was organised by **Brendan Venter** — a former Springbok.
 
-`06-south-africa.md` carries the same match from the other side, in a paragraph about the lowest floor in Springbok history.
+The South Africa chapter carries the same match from the other side, in a paragraph about the lowest floor in Springbok history.
 
 **Seven days later, Italy played again, at home, and lost.**
 
@@ -10629,7 +10629,7 @@ It is Italy's **first win over South Africa**, and South Africa's **first defeat
 
 **Lorenzo Cittadini** scores first for Italy. **Siale Piutau** crosses for Tonga's only try. And with a minute to play and Tonga a point behind, the scrum half **Takulua** stands over a penalty from just under forty metres and kicks it.
 
-`16-tonga.md` carries that one from the other side too.
+The Tonga chapter carries that one from the other side too.
 
 Now put the two afternoons next to each other, because Italian rugby has never produced anything that explains it better.
 
@@ -10650,7 +10650,7 @@ Three years later Italian rugby lost something it could not get back, to weather
 
 **Typhoon Hagibis cancelled it.**
 
-There was no send-off, no final whistle, no last cap. The most decorated career in Italian rugby ended with a fixture that was never played, and the same storm runs through `09-scotland.md`, whose account of Scotland's pool exit that year is filed under the same weather.
+There was no send-off, no final whistle, no last cap. The most decorated career in Italian rugby ended with a fixture that was never played, and the same storm runs through the Scotland chapter, whose account of Scotland's pool exit that year is filed under the same weather.
 
 **One typhoon ended a nation's tournament and a great player's career**, and neither chapter of this book knew it was sharing a storm with the other.
 
@@ -10658,7 +10658,7 @@ There was no send-off, no final whistle, no last cap. The most decorated career 
 
 The other thing that changed in these years is who Italy beats.
 
-In **2022**, at Cardiff, **Italy beat Wales 22–21**. In **February 2025**, at Cardiff again, Italy beat them once more — and `08-wales.md` records what that one did: it was **Warren Gatland's fourteenth consecutive defeat**, and he left by mutual consent days later, "the second coming ending not in a Grand Slam but in the worst run in the history of Welsh rugby."
+In **2022**, at Cardiff, **Italy beat Wales 22–21**. In **February 2025**, at Cardiff again, Italy beat them once more — and the Wales chapter records what that one did: it was **Warren Gatland's fourteenth consecutive defeat**, and he left by mutual consent days later, "the second coming ending not in a Grand Slam but in the worst run in the history of Welsh rugby."
 
 Italy did not merely win a Six Nations match. **Italy ended a coaching era in one of the countries that invented the Championship.**
 
@@ -10668,7 +10668,7 @@ The Welsh chapter tells those afternoons as a decline. It is entitled to. But th
 
 **The final table of the 2026 Six Nations reads: France 21, Ireland 19, Scotland 16, Italy 9, England 8.**
 
-`11-france.md` closes on the afternoon that produced it — France 48, England 46, a second successive championship settled by a kick. Its account notes in passing that England had **the worst campaign in their history**, and that Wales took a **third consecutive Wooden Spoon**.
+The France chapter closes on the afternoon that produced it — France 48, England 46, a second successive championship settled by a kick. Its account notes in passing that England had **the worst campaign in their history**, and that Wales took a **third consecutive Wooden Spoon**.
 
 What it does not dwell on, because it is not a chapter about Italy, is the fourth line of that table.
 
@@ -10680,11 +10680,11 @@ Two wins and fourth place equals the best Six Nations campaign Italy has ever ha
 
 On **15 July 2026**, the World Rugby men's rankings read: South Africa, New Zealand, Ireland, France, England, Scotland, Argentina, Australia, **Fiji**, **Italy**.
 
-**Tenth in the world** — and, as `14-fiji.md` observes from ninth, below a Pacific island nation that has never been admitted to anything.
+**Tenth in the world** — and, as the Fiji chapter observes from ninth, below a Pacific island nation that has never been admitted to anything.
 
-Italy had gone **up** into the inaugural **Nations Championship**, alongside the Six Nations and the Rugby Championship and Japan and Fiji, while **Samoa and Tonga went into the second-tier Nations Cup**. `12-new-zealand.md` records the All Blacks completing the first leg of that competition with victories over France and Italy.
+Italy had gone **up** into the inaugural **Nations Championship**, alongside the Six Nations and the Rugby Championship and Japan and Fiji, while **Samoa and Tonga went into the second-tier Nations Cup**. The New Zealand chapter records the All Blacks completing the first leg of that competition with victories over France and Italy.
 
-Ahead lay **Rugby World Cup 2027 in Australia**, where Italy were drawn in **Pool B** with **South Africa**, **Georgia** and **Romania**. `05-romania.md` carries the draw from the Romanian end, and its French coach's response to being asked about the pool: to write off South Africa in advance and concentrate on Georgia and Italy would be, he said, disrespectful to the sport.
+Ahead lay **Rugby World Cup 2027 in Australia**, where Italy were drawn in **Pool B** with **South Africa**, **Georgia** and **Romania**. The Romania chapter carries the draw from the Romanian end, and its French coach's response to being asked about the pool: to write off South Africa in advance and concentrate on Georgia and Italy would be, he said, disrespectful to the sport.
 
 **Romania.** Forty-one meetings. The opponent Italy has played more than any other country on earth except France, and now a pool fixture at a World Cup.
 
@@ -10694,13 +10694,13 @@ Begin where the chapter began: with a man coming home.
 
 **Stefano Bellandi** was the steward of La Scala, and he had gone to France to work. He came back with a game nobody in Milan played, put a rugby section inside the Unione Sportiva Milanese, wrote to a French club because there was nobody else to write to, and on **2 April 1911** watched his side lose **15–0** at the Arena while the crowd went home delighted.
 
-Every other arrival in this book is an institution: a British trading enclave, a colonial constabulary, a teaching order, a government. **Italy's is a returning migrant.** And where `14-fiji.md`, `15-samoa.md` and `16-tonga.md` are three chapters about countries that send men abroad and get money back, **Italy sent a man abroad and got a sport back.**
+Every other arrival in this book is an institution: a British trading enclave, a colonial constabulary, a teaching order, a government. **Italy's is a returning migrant.** And where Fiji, Samoa and Tonga are three chapters about countries that send men abroad and get money back, **Italy sent a man abroad and got a sport back.**
 
 Then the institutions took an interest, in the order institutions do.
 
 A **federation** in 1928, and within three months the governing party's own magazine calling this obscure, foreign, six-club game ***il nostro sport*** — *our sport*. A regime that revived a Renaissance ball game in Florence to prove football was Italian, and simply renamed rugby ***palla ovale*** and took it. **Achille Starace** explaining exactly what it was for: ***sport da combattimento***, a combat sport, to be practised and widely spread. The **GUF** and the **GIL** running it through the universities and the youth movement. And then the bill — **at least ten Italian rugby players killed in the war, the heaviest loss of any Italian sporting federation**, out of a sport whose first championship had six clubs in it.
 
-And a **committee**, in 1933, in **Turin**: **FIRA**, founded by Italy, France, Germany, Romania and Czechoslovakia, two years after the Home Unions expelled France. `11-france.md` tells that period from the French side, as making do with Nazi Germany and Fascist Italy. **From here it looks like founding something.** The organisation constituted in Turin became **Rugby Europe**, the structure through which Georgian and Romanian rugby reached the world — as `04-georgia.md` and `05-romania.md` both record without ever saying where it came from.
+And a **committee**, in 1933, in **Turin**: **FIRA**, founded by Italy, France, Germany, Romania and Czechoslovakia, two years after the Home Unions expelled France. The France chapter tells that period from the French side, as making do with Nazi Germany and Fascist Italy. **From here it looks like founding something.** The organisation constituted in Turin became **Rugby Europe**, the structure through which Georgian and Romanian rugby reached the world — as the Georgia chapter and the Romania chapter both record without ever saying where it came from.
 
 Then sixty years of what exclusion actually looks like, which is not a locked door.
 
@@ -10734,9 +10734,9 @@ The chapter after this one is about the country Italy played in its very first i
 - **Università di Padova, *Il Bo Live* — ["Il rugby, il fascismo e l'università"](https://ilbolive.unipd.it/it/rugby-fascismo-l%E2%80%99universita)**, fetched and read. Source for: the **Leoni di San Marco** founded **29 November 1927** by **Amedeo Fusari** of *Il Gazzettino* and **Pietro Pierobon**; the two parallel tracks of a civilian league and an institutional university game; ***Lo sport fascista*** calling rugby ***"il nostro sport"*** in **December 1928**, citing **Augusto Turati**; the **GUF** at Padua from **autumn 1929** with **nine members**, **24 by 1934**, contesting **ten Italian championships** including **seven consecutive campaigns 1929–1936**; the **Littoriali dello sport** of **1933**; the trainer **Julien Saby** on *"aristocratici di cuore e di pensiero"*; **at least ten rugbyists killed in combat — the heaviest loss among Italian sports federations**; and the **Associazione Rugby Padova** reorganising in the autumn of 1945, with sports writing turning from military metaphor to *"cavalleria, speranza, felicità"*.
 - **Leonardo Nesti — ["Il calcio storico fiorentino, l'invenzione della tradizione"](http://www.leonardonesti.it/2013/11/21/il-calcio-storico-fiorentino-linvenzione-della-tradizione/)**, in Italian, fetched and read (the **1930** revival for the fourth centenary of the **1530** siege; **Alessandro Pavolini** writing the regulations; the *"messaggio nazionalistico e xenofobo"* — *"ma quali inglesi? Il calcio è nato in Italia, il calcio è nato a Firenze"*; and *"l'invenzione di una tradizione"*). ⚠️ **Cited against a claim made for it:** a search summary asserted the revival was mounted "especially to claim the origins of popular sports such as football **and rugby**", and introduced **harpastum** as the Roman ancestor. **Nesti supports neither** — his argument is about *calcio* and the English, and harpastum does not appear in his text. The chapter says so explicitly.
 - **ESPN — ["Italy's false dawn: The 20-year deceleration of the Azzurri"](https://www.espn.co.uk/rugby/story/_/id/18731260/italy-historic-win-france-20-years)**, fetched and read (France treating Italy as a full-cap opponent until **Toulon 1967**, and "**From then on the Italians faced 'A' teams or occasional Espoirs**" until **1995** and the Latin Cup in Argentina; **Treviso, 16 March 1993, Italy 16 France 9**, "the first time Italy had beaten **any team calling itself France in 45 meetings**"; **Grenoble, 22 March 1997, Italy 40 France 32**, the maiden continental title; and **Italy's election to the Six Nations ratified in January 1998**). ⚠️ *A search summary claimed Italy first beat France in **1956 and 1957**. ESPN contradicts it directly and the chapter does not use it.*
-- **Sky Sports — ["Italy 20-18 South Africa: Azzurri claim first ever win over Springboks"](https://www.skysports.com/rugby-union/italy-vs-south-africa/78580)** (**19 November 2016**, **Stadio Artemio Franchi, Florence**; Habana's eighth-minute try on his 124th cap; **Andries van Schalkwyk**'s try from a rolling maul converted by **Carlo Canna**; **Damian de Allende**'s try and South Africa's **12–10** half-time lead; Canna's penalty for **20–18**; the late Fuser try ruled out on review; **Brendan Venter** as defence coach; and South Africa's **first defeat by Italy in thirteen meetings**). Read alongside `06-south-africa.md`, which carries the same match from the losing side.
-- **ESPN — [Italy v Tonga, 26 November 2016](https://www.espn.com/rugby/commentary?gameId=289766&league=289234)** (**Stadio Euganeo, Padua**; **Lorenzo Cittadini**'s opening score; **Siale Piutau**'s try, Tonga's only one; and **Takulua**'s penalty from just under forty metres with a minute to play, Tonga a point behind). Read alongside `16-tonga.md`.
+- **Sky Sports — ["Italy 20-18 South Africa: Azzurri claim first ever win over Springboks"](https://www.skysports.com/rugby-union/italy-vs-south-africa/78580)** (**19 November 2016**, **Stadio Artemio Franchi, Florence**; Habana's eighth-minute try on his 124th cap; **Andries van Schalkwyk**'s try from a rolling maul converted by **Carlo Canna**; **Damian de Allende**'s try and South Africa's **12–10** half-time lead; Canna's penalty for **20–18**; the late Fuser try ruled out on review; **Brendan Venter** as defence coach; and South Africa's **first defeat by Italy in thirteen meetings**). Read alongside the South Africa chapter, which carries the same match from the losing side.
+- **ESPN — [Italy v Tonga, 26 November 2016](https://www.espn.com/rugby/commentary?gameId=289766&league=289234)** (**Stadio Euganeo, Padua**; **Lorenzo Cittadini**'s opening score; **Siale Piutau**'s try, Tonga's only one; and **Takulua**'s penalty from just under forty metres with a minute to play, Tonga a point behind). Read alongside the Tonga chapter.
 - **Six Nations and RugbyPass** on the Championship years (Italy's **34–20** debut win over **Scotland** in Rome, **2000**; the **2007** campaign — a first away win, at **Murrayfield**, and a win over **Wales** in Rome, for two victories and fourth place, matched in **2013**; and Italy having finished bottom more often than any other country while never winning the Championship). ⚠️ **No wooden-spoon total is printed.** The Six Nations' own explainer page returned navigation and footer only, and two secondary sources disagree — **eighteen times between 2000 and 2023** against **seventeen in twenty-three years**. The chapter makes only the claim all sources share.
-- **RugbyPass and Sky Sports** on **Sergio Parisse** and the clubs (**142 caps, 2002–2019**; **five Rugby World Cups**, only the **third player** to do so after **Brian Lima** of Samoa and **Mauro Bergamasco**; the **Six Nations appearance record**; the **first Italian in the World Rugby Hall of Fame**; the **youngest player ever to appear for his country at a World Cup**, against New Zealand in 2003; **Treviso in 2003 and Stade Français from 2005**; Italy's 2019 pool match against New Zealand **cancelled by Typhoon Hagibis**; and **Treviso/Benetton and Aironi** entering the **Celtic League in 2010**, Aironi bottom in both its seasons and its licence revoked, **Zebre** replacing it in **2012**). Read alongside `15-samoa.md`, which names **Brian Lima** in the 1991 Cardiff side, and `09-scotland.md`, whose 2019 pool exit is filed under the same typhoon.
-- **Not established, and therefore absent:** Italy's own three results at **RWC 1991** (the pool of England, Italy, New Zealand and the United States is confirmed; the results are not, and are not guessed at); whether the **1971 Morocco defeat** cost Italy its place in the competition's first division (**the defeat is confirmed from the FIR ledger; the consequence is not**); and the **score of Italy's win over Fiji at RWC 1987** (the win is carried by `14-fiji.md`; the score was never verified and is not printed).
+- **RugbyPass and Sky Sports** on **Sergio Parisse** and the clubs (**142 caps, 2002–2019**; **five Rugby World Cups**, only the **third player** to do so after **Brian Lima** of Samoa and **Mauro Bergamasco**; the **Six Nations appearance record**; the **first Italian in the World Rugby Hall of Fame**; the **youngest player ever to appear for his country at a World Cup**, against New Zealand in 2003; **Treviso in 2003 and Stade Français from 2005**; Italy's 2019 pool match against New Zealand **cancelled by Typhoon Hagibis**; and **Treviso/Benetton and Aironi** entering the **Celtic League in 2010**, Aironi bottom in both its seasons and its licence revoked, **Zebre** replacing it in **2012**). Read alongside the Samoa chapter, which names **Brian Lima** in the 1991 Cardiff side, and the Scotland chapter, whose 2019 pool exit is filed under the same typhoon.
+- **Not established, and therefore absent:** Italy's own three results at **RWC 1991** (the pool of England, Italy, New Zealand and the United States is confirmed; the results are not, and are not guessed at); whether the **1971 Morocco defeat** cost Italy its place in the competition's first division (**the defeat is confirmed from the FIR ledger; the consequence is not**); and the **score of Italy's win over Fiji at RWC 1987** (the win is carried by the Fiji chapter; the score was never verified and is not printed).
 - **Deliberately absent:** **no Wikipedia or Grokipedia** (repo rule), and **no Keith Prowse**, removed from this book repo-wide in the August 2026 no-wiki pass. ⚠️ **And no player's account of any Italy–Soviet Union fixture, because none could be found.** Three targeted Italian-language searches for match reports, memoirs or interviews returned basketball and football; the national player database is a current-squad page. **Fourteen matches over fourteen years survive as a column of scores on the federation's website, and the chapter says so rather than inventing the rest.**

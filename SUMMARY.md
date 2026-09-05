@@ -37,6 +37,14 @@ class-question conversation, not a rule to keep repeating.)
   back and see where it came from."
 - **Generations as discrete eras:** each has a year range and a *named theme* in the heading
   (e.g. "Generation 2: The Great Schism (1893–1895)").
+- **⚠️ Never put a filename in chapter prose.** Refer to other chapters the way the book always has —
+  **"the England chapter", "the Fiji chapter", "everything else in this book"** — never as
+  `14-fiji.md`. The chapters become a **PDF** via pandoc, and a reader of the printed book has no idea
+  what a `.md` file is. Filenames belong in `SUMMARY.md` and in `notes/`. **97 of them were removed from
+  seven chapters in September 2026**, 37 from Italy and 31 from Tonga alone. Check before promotion:
+  `grep -l '`[0-9][0-9]-[a-z-]*\.md`' chapters/*.md` must return nothing.
+- **⚠️ No markdown tables in chapter prose either** — same reason, same rule. Story mode means writing a
+  run of results, not pasting a grid. Check with `grep -c "^|" chapters/*.md`; the answer must be zero.
 - **Recurring cross-references:** thread comparisons between countries — the "informal empire,"
   cricket clubs as incubators of both codes, the amateur ideology, the coalfield thesis. New
   chapters should reference the established motifs (§4).

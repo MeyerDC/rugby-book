@@ -198,7 +198,7 @@ Under Grey, Samoa did the things a small union does when someone competent is fi
 
 **1972:** Samoa played **two Tests against the Māori All Blacks in Apia** — seven of the side came from Vaiala.
 
-Under Grey, Samoa went to its first **Hong Kong Sevens**, into the tournament that `14-fiji.md` describes Fiji making its own. And Grey was, in the account of the people who were there, **instrumental in getting Samoa to the 1991 World Cup**. He was given the Western Samoa Order of Merit in 1993, and when he died in 2018 the country gave him a **state funeral**.
+Under Grey, Samoa went to its first **Hong Kong Sevens**, into the tournament that the Fiji chapter describes Fiji making its own. And Grey was, in the account of the people who were there, **instrumental in getting Samoa to the 1991 World Cup**. He was given the Western Samoa Order of Merit in 1993, and when he died in 2018 the country gave him a **state funeral**.
 
 ### The man who scored the first try
 
@@ -236,7 +236,7 @@ That is the flat fact, and Pat Lam — who was in his last year at St Peter's Co
 
 Read that as a statement about institutions rather than about ambition, because that is what it is. The reason a generation of Samoan boys in South Auckland wanted the black jersey was not that they preferred it. **It was that the blue one was not on the table.** There was nothing to be exported *from*.
 
-There is one further indignity in the record and it belongs here. When Fiji's May 1987 coup raised doubts about whether the Fijians could travel to the tournament, **Western Samoa was put on standby** to take their place. `12-new-zealand.md` and `14-fiji.md` both carry it.
+There is one further indignity in the record and it belongs here. When Fiji's May 1987 coup raised doubts about whether the Fijians could travel to the tournament, **Western Samoa was put on standby** to take their place. The New Zealand chapter and the Fiji chapter both carry it.
 
 Samoa's relationship to the first Rugby World Cup was as a reserve.
 
@@ -380,7 +380,7 @@ Here is the arrangement, laid out flat.
 
 **The governing body.** World Rugby — the IRB as it then was — found itself brokering between a member union and that union's own players, over the finances of a Test match staged in England for the benefit of a broadcast market in the northern hemisphere.
 
-And what was the fixture worth? A November Test at Twickenham is one of the most valuable ninety minutes in the sport, and the money goes overwhelmingly to the home union. Samoa were there because the fee, whatever it was, was worth more to them than any match they could stage at home — the same calculation `14-fiji.md` watches Fiji make, at greater scale, twelve years later.
+And what was the fixture worth? A November Test at Twickenham is one of the most valuable ninety minutes in the sport, and the money goes overwhelmingly to the home union. Samoa were there because the fee, whatever it was, was worth more to them than any match they could stage at home — the same calculation the Fiji chapter watches Fiji make, at greater scale, twelve years later.
 
 By **2017**, in remarks widely reported at the time, the union's chairman — still the Prime Minister — acknowledged that **Samoa Rugby Union was insolvent.** (This book was not able to open the report at source; it is carried here as reported, and flagged as such.)
 
@@ -422,13 +422,13 @@ In **2022**, for the first time, a professional rugby team existed for Samoan pl
 
 It is based in **South Auckland**.
 
-Put that beside `14-fiji.md`, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
+Put that beside the Fiji chapter, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
 
 *Samoa's professional pathway is in another country, and it is in that country for reasons that were settled long before rugby.*
 
 ### The rule turns round
 
-In **November 2021** World Rugby amended **Regulation 8**, with effect from the first day of 2022: a capped player could change union once, after a **thirty-six-month stand-down**, if born in the new country or with a parent or grandparent born there. `14-fiji.md` sets out the detail.
+In **November 2021** World Rugby amended **Regulation 8**, with effect from the first day of 2022: a capped player could change union once, after a **thirty-six-month stand-down**, if born in the new country or with a parent or grandparent born there. The Fiji chapter sets out the detail.
 
 For Samoa it was the reversal of the one-way valve after a century of its running the other way. Players who had been capped by New Zealand and Australia — men who, under the old rule, were simply lost — became selectable.
 
@@ -472,7 +472,7 @@ Then came thirteen months that put the whole argument on the scoreboard.
 
 Six days earlier that same Scotland side had lost **29–14 to Fiji in Suva**. Two Pacific islands, one touring team, one week, and opposite results.
 
-**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country `03-chile.md` follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
+**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country the Chile chapter follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
 
 The first leg is Samoa's home fixture. It is played at **America First Field, Salt Lake City, Utah.**
 
@@ -493,7 +493,7 @@ Fiji went up. Samoa and Tonga did not.
 Samoa's three July matches were all listed by the broadcasters as **home** fixtures. All three were played in **Chile**.
 
 - **4 July 2026, Estadio Nacional Julio Martínez Prádanos, Santiago: Samoa 66, Hong Kong China 19.** Ten tries. Tuna Tuitama inside two minutes, then Aki Seiuli, then Miracle Fai'ilagi, then **Warren Solomona twice**, then Manaaki Boyle-Tiatia, Iakopo Mapu, Connor Tupai, and **Elisapeta Alofipo twice in the last four minutes**. AJ Alatimu kicked eight conversions.
-- **11 July 2026, Estadio Sausalito, Viña del Mar: Georgia 33, Samoa 12.** **Luka Matkava** kicked Georgia's points from the fourth minute onwards — the same Matkava whose penalty beat Wales at Cardiff in November 2022, which is where `04-georgia.md` opens its final generation.
+- **11 July 2026, Estadio Sausalito, Viña del Mar: Georgia 33, Samoa 12.** **Luka Matkava** kicked Georgia's points from the fourth minute onwards — the same Matkava whose penalty beat Wales at Cardiff in November 2022, which is where the Georgia chapter opens its final generation.
 - **18 July 2026: Samoa 37, Romania 38.** By one point, against a country whose own chapter in this book is about a golden age that ended when the regime that funded it fell.
 
 Look at the second of those again. **Samoa's "home" match against Georgia was played in the stadium where Chile had knocked them out of World Cup qualification nine months earlier**, on the same weekends, and twice in the very grounds where Chile was playing its own Nations Cup fixtures, as the undercard of somebody else's home season.

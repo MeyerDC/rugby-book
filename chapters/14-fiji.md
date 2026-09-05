@@ -106,7 +106,7 @@ He looked at the casual, occasional, ship-dependent rugby being played around th
 
 When the first officers were elected, Sheehan became chairman. The governor of the day, **Sir Ernest Bickham Sweet-Escott**, donated the **Escott Shield** for the club championship. The Pacific Club won it, and Suva's clubs were still competing for it when the union wrote up its own chronology nearly ninety years later.
 
-There is a small and pleasing symmetry in this. In `12-new-zealand.md`, **Otago** is the province that walked out of the meeting that founded the New Zealand union in 1892, rather than submit to a central authority. Twenty-one years later a former captain of Otago is in Suva, on a hotel site, in overalls, founding somebody else's union and taking the chair of it.
+There is a small and pleasing symmetry in this. In the New Zealand chapter, **Otago** is the province that walked out of the meeting that founded the New Zealand union in 1892, rather than submit to a central authority. Twenty-one years later a former captain of Otago is in Suva, on a hotel site, in overalls, founding somebody else's union and taking the chair of it.
 
 That December the All Blacks stopped at Suva on the way home from California and played a friendly at Albert Park. Fiji's rugby union was months old and had already hosted New Zealand.
 
@@ -120,7 +120,7 @@ Affiliated. Not merged.
 
 Two unions, one colony, from 1915. It would stay that way for thirty years.
 
-It is worth being exact about what this was and what it was not, because it would be easy and wrong to reach for South Africa here. Nothing in Fiji resembled the machinery that `06-south-africa.md` describes — no legislated separation of sport, no state that had decided to build a race out of a football code, no barbed wire. What happened in Fijian rugby in 1914 and 1915 was something duller and, in its way, more instructive. **The colony was already organised in ethnic compartments, from the land law down through the church, and when rugby got big enough to need an institution it simply took the shape of the container it was growing in.** A separate competition, then a separate union, then affiliation on unequal terms.
+It is worth being exact about what this was and what it was not, because it would be easy and wrong to reach for South Africa here. Nothing in Fiji resembled the machinery that the South Africa chapter describes — no legislated separation of sport, no state that had decided to build a race out of a football code, no barbed wire. What happened in Fijian rugby in 1914 and 1915 was something duller and, in its way, more instructive. **The colony was already organised in ethnic compartments, from the land law down through the church, and when rugby got big enough to need an institution it simply took the shape of the container it was growing in.** A separate competition, then a separate union, then affiliation on unequal terms.
 
 The church had done it in **1901**. Rugby did it in **1914–15**. And, from the other side of the same line, soccer would do it too: as the scholars of Fijian football record, the **Fiji Indian Football Association** became the de facto controlling body of that sport in **1938** — which reflected, they write, "not only the community's passion for administering, watching, and playing soccer, but also **the role they were assigned by the British during colonialism** as the merchant class, the intellectual class, the trade unionists, the schoolteachers, and the politicians."
 
@@ -158,7 +158,7 @@ The tour tells you where Fijian rugby stood in 1938. On a five-match visit the M
 
 And they left something behind. The **Deans Trophy**, the union records, "was **donated by the Maori All Blacks team that toured Fiji in 1938** to be competed for by the Secondary Schools of Fiji." The competition, introduced in **1939**, is described by the union as the oldest in Fijian rugby — a claim its own chronology slightly complicates, since it also records a schools competition from 1928. **Queen Victoria School won the first Deans Trophy.** Lelean Memorial won its first in 1948, **Ratu Kadavulevu School** — the other great nursery — in 1961, Marist Brothers in 1965.
 
-Sit with the provenance a moment. `12-new-zealand.md` follows the New Zealand Māori side through half a century of being left at home to protect the South African fixture — a team its own union spent, repeatedly, as the price of a tour. That is the team that gave Fijian schools the trophy they have played for ever since.
+Sit with the provenance a moment. The New Zealand chapter follows the New Zealand Māori side through half a century of being left at home to protect the South African fixture — a team its own union spent, repeatedly, as the price of a tour. That is the team that gave Fijian schools the trophy they have played for ever since.
 
 ### What this generation leaves behind
 
@@ -196,7 +196,7 @@ He was a great-grandson of the **Cakobau** who had offered Fiji to Queen Victori
 
 That story should be told as a story rather than as a document. The Fiji Rugby Union's own history page carries a heading called "The origins of the cibi" and prints nothing underneath it. What is not in doubt is that a dance came out of 1939 and has been performed before Fijian Test matches ever since.
 
-What is also not in doubt is the shape of the moment. **A chief of Bau, descended from the man who ceded the country, leading a team of barefoot Fijians to an unbeaten record in the country that had already made rugby its own religion.** New Zealand's own game, `12-new-zealand.md` argues, never acquired a class character because the institutions carrying it had no interest in sorting anybody. Fiji's had not acquired one either — and Fiji's had held out against a colonial governor who was actively trying to install one.
+What is also not in doubt is the shape of the moment. **A chief of Bau, descended from the man who ceded the country, leading a team of barefoot Fijians to an unbeaten record in the country that had already made rugby its own religion.** New Zealand's own game, the New Zealand chapter argues, never acquired a class character because the institutions carrying it had no interest in sorting anybody. Fiji's had not acquired one either — and Fiji's had held out against a colonial governor who was actively trying to install one.
 
 ### The men who did not come home
 
@@ -226,7 +226,7 @@ A second tour of New Zealand in **1951** was a harder trip than 1939 — played 
 
 The Fiji union's own history makes a striking claim about the **1952** tour: that it "helps the **Australian Rugby Union recover from the brink of bankruptcy**." That is the FRU's telling, and it is not corroborated elsewhere in this book's sources, so take it as the claim of an interested party. What is not in dispute is what surrounded it. **The Test series was drawn 1–1, in front of record crowds.** In **1954** Fiji went back, drew the series **1–1** again, and drew record crowds again.
 
-`13-australia.md` describes those years from the other side: an Australian union founded only in 1949, seventy-five years after the first colonial one, thin, poor, and losing every promising footballer it produced to a rugby league competition that could pay. Into that walked a touring side of Fijians who had been playing barefoot thirteen years earlier, and Australians bought tickets in numbers Australian rugby union had not seen.
+The Australia chapter describes those years from the other side: an Australian union founded only in 1949, seventy-five years after the first colonial one, thin, poor, and losing every promising footballer it produced to a rugby league competition that could pay. Into that walked a touring side of Fijians who had been playing barefoot thirteen years earlier, and Australians bought tickets in numbers Australian rugby union had not seen.
 
 Note the year of that second drawn series: **1954**. Remember it. It will be sixty-nine years before Fiji beat Australia again, and when they do it will be at a World Cup.
 
@@ -260,7 +260,7 @@ Now go back, because between 1955 and 1970 Fiji had been finding out exactly how
 
 **1963**: the Fiji Rugby Football Union dropped the second F and became simply the **Fiji Rugby Union**.
 
-**1964**: Fiji toured Europe for the first time, and lost to **Wales 28–22** in a match that was, in the union's phrase, "talked about for years." Read `08-wales.md` for what Wales was in 1964 — deep in the long winter between its two golden eras, three years from Gareth Edwards's debut, a country that would shortly convince itself its salvation lay in a coach. Beating them was still a considerable thing, and Fiji got within six.
+**1964**: Fiji toured Europe for the first time, and lost to **Wales 28–22** in a match that was, in the union's phrase, "talked about for years." Read the Wales chapter for what Wales was in 1964 — deep in the long winter between its two golden eras, three years from Gareth Edwards's debut, a country that would shortly convince itself its salvation lay in a coach. Beating them was still a considerable thing, and Fiji got within six.
 
 **1970**: "A rampant Fijian side **destroy the Barbarians 29–9 at Gosforth**." The Barbarians in 1970 were not a scratch side; they were an invitational assembly of the best men in Britain and Ireland, and they were the fixture through which the four home unions took the temperature of visitors. Fiji did not merely beat them.
 
@@ -310,7 +310,7 @@ Soldiers walk into the Fijian parliament and remove the government. The prime mi
 
 **Eight days later, on 22 May, the first Rugby World Cup kicks off in New Zealand and Australia, and Fiji are in it.**
 
-The organisers had assumed they would not be. As `12-new-zealand.md` records from the other side of the arrangement, the coup "raised real doubts about whether the Fijians could travel, and **Western Samoa was put on standby** in case they or anyone else defaulted."
+The organisers had assumed they would not be. As the New Zealand chapter records from the other side of the arrangement, the coup "raised real doubts about whether the Fijians could travel, and **Western Samoa was put on standby** in case they or anyone else defaulted."
 
 Nobody defaulted. The Fijians got on the plane.
 
@@ -328,7 +328,7 @@ Now go back ten years, to a stadium in a British colony on the other side of the
 
 The **Hong Kong Sevens** began in 1976. Fiji won the second one, in **1977**, beating **Marlborough 28–18** in the final.
 
-Go back to `09-scotland.md` for what they had just won.
+Go back to the Scotland chapter for what they had just won.
 
 Sevens was invented at **Melrose on 28 April 1883**, by a Border club six years old and short of money, as a way of drawing a paying crowd to a single afternoon. It was a **mill town's improvisation**: seven men a side, short halves, quick knockouts, more matches in an afternoon, a bigger gate. Everything about the format came from poverty, and the Scottish establishment regarded it for decades as a novelty played by the wrong sort of people in the wrong sort of towns.
 
@@ -382,7 +382,7 @@ Two days later Fiji beat **South Africa 24–21** in the final and are world cha
 
 The little bags are not a charming detail. They are the entire economic position of Fijian rugby in the year rugby union became a professional sport, expressed in luggage.
 
-Because the other thing about 1997 is what had happened two years earlier, and it is the hinge of this whole generation. In **1995** the game went open — in Paris, in August, a hundred years almost to the day after the George Hotel, as `07-england.md` tells it. And in **1995 Fiji did not qualify for the World Cup at all.**
+Because the other thing about 1997 is what had happened two years earlier, and it is the hinge of this whole generation. In **1995** the game went open — in Paris, in August, a hundred years almost to the day after the George Hotel, as the England chapter tells it. And in **1995 Fiji did not qualify for the World Cup at all.**
 
 Now go back and watch what opening the game actually did to a country of seven hundred and fifty village clubs.
 
@@ -409,7 +409,7 @@ The record of the next decade reads as though two different nations were playing
 - **1999**: Fiji lose **28–19 to France in Toulouse** at the World Cup. The union's own history is not neutral about it — it opens the entry with "abysmal refereeing from Kiwi Paddy O'Brien" — which is worth recording not as a finding but as a symptom. A union with no representation on the bodies that appoint officials will experience every marginal decision as a verdict on its standing, and Fiji's did.
 - **2000**: Fiji host an IRB Sevens tournament in Suva and lose the final **31–5** to Eric Rush's New Zealand.
 - **2001**: Fiji are crowned **Pacific Rim champions**, beating **Samoa 28–17** in the final — played in **Tokyo**, which is its own small comment on where Pacific rugby's money lived.
-- **2003**: at the World Cup in Australia, **Rupeni Caucaunibuca** — "the Bua Bullet" — becomes the most talked-about player at the tournament, and Fiji miss the quarter-finals by losing the decider **22–20 to Scotland**. `09-scotland.md` tells that one from a Scottish side deep in its two-club trap. The margin was two points.
+- **2003**: at the World Cup in Australia, **Rupeni Caucaunibuca** — "the Bua Bullet" — becomes the most talked-about player at the tournament, and Fiji miss the quarter-finals by losing the decider **22–20 to Scotland**. The Scotland chapter tells that one from a Scottish side deep in its two-club trap. The margin was two points.
 - **2005**: Fiji win the **Rugby World Cup Sevens** again, in Hong Kong, under the New Zealander **Wayne Pivac** — beating Argentina 22–14, Australia 31–5, England 24–19 and then New Zealand **24–19** in the final. The tournament produces **William Ryder**, who had been playing for **PWD Bure in Lautoka** and whose international debut this was.
 - **2006**: Fiji take the **World Sevens Series title**, ending New Zealand's six-year hold on it, finishing **22 points clear of England**.
 
@@ -457,7 +457,7 @@ Then Wales come back at the scrum, and keep coming, and with seven minutes left 
 
 In the seventy-sixth minute the prop **Graham Dewes** goes over, and **Nicky Little** kicks the conversion, and Fiji win **38–34**.
 
-World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." `08-wales.md` tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
+World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." the Wales chapter tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
 
 From Nantes it looked like something else. It looked like the day the sport's oldest joke — *the Fijians are wonderful to watch, aren't they* — stopped being funny.
 
@@ -471,7 +471,7 @@ Now pull back, because between that quarter-final and the end of this generation
 
 Here is what the export looked like, once somebody counted it.
 
-In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because `05-romania.md` is a chapter of this book about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
+In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because Romania is a chapter of this book about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
 
 The counts:
 
@@ -540,7 +540,7 @@ Fiji declared a **national public holiday**. And the **Reserve Bank of Fiji** is
 
 Look at what that gold medal actually was, institutionally. A country with no professional domestic competition, no money, an administration its own president had criticised forty-three years earlier, and half a thousand of its best players under contract to foreign employers, won an Olympic title — **in the one format where none of those disadvantages is decisive**, and where twelve players and a coach with an idea are enough.
 
-`13-australia.md` notes the ninety-two-year gap from the other end. The last Olympic rugby gold before Rio had been won in 1924; the one Australia won at White City in 1908 belonged to a side that had fourteen of its number expelled the following year for taking money. Fiji's was the first men's rugby gold of the modern era, and by a distance the smallest country ever to have won one.
+The Australia chapter notes the ninety-two-year gap from the other end. The last Olympic rugby gold before Rio had been won in 1924; the one Australia won at White City in 1908 belonged to a side that had fourteen of its number expelled the following year for taking money. Fiji's was the first men's rugby gold of the modern era, and by a distance the smallest country ever to have won one.
 
 ### Kamaishi
 
@@ -548,7 +548,7 @@ Look at what that gold medal actually was, institutionally. A country with no pr
 
 Fiji lose to **Uruguay, 30–27**.
 
-`01-uruguay.md` tells this from the winning side and tells it beautifully: a Uruguayan team of part-timers, produced by Uruguayan schools, beating a Fijian side of household names in a stadium built on ground the sea had taken in 2011.
+The Uruguay chapter tells this from the winning side and tells it beautifully: a Uruguayan team of part-timers, produced by Uruguayan schools, beating a Fijian side of household names in a stadium built on ground the sea had taken in 2011.
 
 From the Fijian side there is nothing to soften. It was the first upset of the tournament and it was the clearest possible statement of what the previous twenty-four years had produced: a national team drawn from five hundred professionals scattered across four continents, assembled a handful of times a year, without a domestic professional competition of its own, losing to a country with a small fraction of Fiji's playing population.
 
@@ -598,7 +598,7 @@ By the seasons that followed the team was playing in Fiji, in front of Fijian cr
 
 Two Games, two golds, in a country that had won no Olympic medal at all before 2016.
 
-And in the same week, at the same stadium, the **Fijiana** beat **Great Britain 21–12** to take the **bronze medal** in the women's tournament. **Alowesi Nakoci** crossed twice and **Reapi Uluinasau** ran half the field to seal it; the captain was **Rusila Nagasau**. On the way there they had beaten Canada, who took bronze at Rio, and knocked out **Australia**, who had taken the gold there — the Australia that had beaten Fiji **36–0** at Rio five years earlier, as `13-australia.md` records. Fiji's women had finished eighth at those Games.
+And in the same week, at the same stadium, the **Fijiana** beat **Great Britain 21–12** to take the **bronze medal** in the women's tournament. **Alowesi Nakoci** crossed twice and **Reapi Uluinasau** ran half the field to seal it; the captain was **Rusila Nagasau**. On the way there they had beaten Canada, who took bronze at Rio, and knocked out **Australia**, who had taken the gold there — the Australia that had beaten Fiji **36–0** at Rio five years earlier, as the Australia chapter records. Fiji's women had finished eighth at those Games.
 
 It was the team's first medal at any major tournament, and it made them **the first Fijian women to win an Olympic medal**.
 
@@ -624,7 +624,7 @@ It is worth being honest about the scale of it. It did not reverse the trade; it
 
 Fiji beat **Australia 22–15** at the Rugby World Cup.
 
-It is Fiji's **first win over Australia in sixty-nine years** — the last one having come in **1954**, on the second of those tours that drew record Australian crowds and which the Fiji union has always claimed helped save Australian rugby from bankruptcy. The Wallabies of 2023 would go out in the pool stage for the first time in their history, and `13-australia.md` carries this defeat as part of how it happened.
+It is Fiji's **first win over Australia in sixty-nine years** — the last one having come in **1954**, on the second of those tours that drew record Australian crowds and which the Fiji union has always claimed helped save Australian rugby from bankruptcy. The Wallabies of 2023 would go out in the pool stage for the first time in their history, and the Australia chapter carries this defeat as part of how it happened.
 
 **Josua Tuisova** scored the try; **Simione Kuruvoli** kicked the points. Afterwards Tuisova said he had told the players at half-time to "**empty the tank**." The coach, **Simon Raiwalui**, said: "I'm **emotionally drained** at the moment. I'm really proud of the boys." The captain, **Waisea Nayacalevu**, said what he had told them before kick-off: "**today is our final.**"
 
@@ -654,7 +654,7 @@ And then the July window came, and Fiji's three home matches were played at **Ca
 - **11 July 2026, Liverpool:** **England 73, Fiji 8.** Henry Pollock scored a hat-trick; Fiji played much of it with fourteen men after a red card; it ended a five-Test losing run for England.
 - **18 July 2026, Murrayfield:** **Scotland 33, Fiji 17.**
 
-The competition's own design makes this stranger, not less strange. The Nations Championship divides its twelve into a European pool and a "Rest of the World" pool, and the arrangement is reciprocal: **in July the European teams travel south, and in November the southern teams travel to Europe.** That is what happened elsewhere. `13-australia.md` closes on Australia beating Italy **57–10 in Perth on 18 July 2026** — the same afternoon Fiji were at Murrayfield. Australia's July fixtures were played in Australia, because Australia has stadiums that pay.
+The competition's own design makes this stranger, not less strange. The Nations Championship divides its twelve into a European pool and a "Rest of the World" pool, and the arrangement is reciprocal: **in July the European teams travel south, and in November the southern teams travel to Europe.** That is what happened elsewhere. The Australia chapter closes on Australia beating Italy **57–10 in Perth on 18 July 2026** — the same afternoon Fiji were at Murrayfield. Australia's July fixtures were played in Australia, because Australia has stadiums that pay.
 
 Fiji took the money and moved its half of the bargain to the other hemisphere.
 
