@@ -63,7 +63,7 @@ class-question conversation, not a rule to keep repeating.)
 **Generation numbering convention:** **Gen 0** = origins / pre-breakout era (usually the British
 enclave phase). Then Gen 1+ move forward. **Count the generations, don't read the top number** —
 "runs to Gen 7" means *eight* generations, Gen 0 through 7. Seven-generation chapters (Gen 0–6):
-Uruguay, Argentina, Chile, Georgia, Romania, Ireland. **Eight-generation chapters (Gen 0–7) are the
+Uruguay, Argentina, Chile, Georgia, Romania, Ireland, Tonga. **Eight-generation chapters (Gen 0–7) are the
 book's most common tier**: South Africa, England, Wales, Scotland, France, Fiji, Samoa. **Nine (Gen 0–8):**
 New Zealand, and Australia when it lands — the two chapters of Section 4 that answer each other, and
 the book's longest spine.
@@ -80,11 +80,11 @@ rugby-book/
     01-uruguay.md  02-argentina.md  03-chile.md  04-georgia.md
     05-romania.md  06-south-africa.md  07-england.md  08-wales.md
     09-scotland.md  10-ireland.md  11-france.md  12-new-zealand.md
-    13-australia.md  14-fiji.md  15-samoa.md
+    13-australia.md  14-fiji.md  15-samoa.md  16-tonga.md
   notes/             # per-country research cache (facts + sources); write prose FROM here
     uruguay.md  argentina.md  chile.md  georgia.md  romania.md
     south-africa.md  england.md  wales.md  scotland.md  ireland.md
-    france.md  new-zealand.md  australia.md  fiji.md  samoa.md
+    france.md  new-zealand.md  australia.md  fiji.md  samoa.md  tonga.md
   drafts/            # rewrites-in-progress + archived pre-rewrite chapters
     NN-country.md                          # a rewrite being drafted (NOT in chapters/ —
                                            #   combine_book.py bundles every .md there)
@@ -714,6 +714,60 @@ record.)
 - **All 23 source URLs hand-checked for HTTP status** (August 2026); a dead Las Vegas Sun link was
   replaced with ESPN.
 
+
+### 16. Tonga — `16-tonga.md`  (Gen 0–6)
+**The country with no coloniser to blame — and the same export anyway.** Closes **Section 5: The Church
+and the Export**. (Written and proofread September 2026; 636 lines, 12,700 words, Gen 0–6.
+`notes/tonga.md` holds the fact base, the inherited threads, the retrieval map, the hedged-facts list and
+the proofreading record.)
+- **Gen 0** The Sending Church (1826–1923) · **Gen 1** Three Tests and a Nought–All (1924–1938) ·
+  **Gen 2** The Protected State (1939–1969) · **Gen 3** Ballymore (1970–1986) · **Gen 4** The Invitation
+  (1987–1998) · **Gen 5** Open, and Gone (1999–2011) · **Gen 6** Twentieth (2012–2026), closing on the
+  same **mid-July 2026** snapshot as `12-new-zealand.md`, `13-australia.md`, `14-fiji.md` and `15-samoa.md`.
+- **⭐⭐⭐ THE SPINE, FROM THE FLOOR OF THE HOUSE OF COMMONS.** Hansard, **11 May 1970**, the Tonga Bill —
+  **Bernard Braine**: "it is not an independence Measure, **since Tonga has never been a British colonial
+  dependency**." Britain, winding up its own arrangement, put on the record that it never owned the place.
+  ⚠️ **There are TWO treaties — 1879 and 1900.** The 1879 one was "**voluntarily concluded**" by the King
+  "to safeguard his people against the possibility of annexation by some other power." Do not collapse them.
+- **⭐⭐⭐ THE ANSWER THE CHAPTER GIVES.** Fiji's line was drawn by a land policy, Samoa's by a partition;
+  **Tonga has nobody to point at, and the export ran anyway.** The Tongan historian **Amanda SullivanLee**:
+  "**although Tonga was never formally colonized … the exploitation and fetishization of Tongan male
+  bodies in the interest of warfare is no less present.**" *The export does not need a coloniser — it
+  needs a small country good at producing strong young men, a large country that wants them, and an
+  institution at home that has been organising the transaction since 1835.*
+- **⭐⭐⭐ MOULTON'S TWO SCHOOLS — the bridge to `13-australia.md`.** **James Egan Moulton** helped found
+  **Newington College, Sydney, in 1863**, then "sailed to Tonga two years later in order to set up **a
+  similar College**" — **Tupou College, 1866**, the oldest secondary school in the Pacific. Newington
+  played Australia's first inter-school rugby match in 1870 and joined the **Great Public Schools** on
+  12 April 1892. **Same man, same church, same model; opposite countries out of the other end.** Fiji
+  compares itself to Sydney through the *model* (Im Thurn); **Tonga compares through the man.**
+- **⭐⭐ THE 1941 ASSESSMENT IS THE 2007 COMPLIMENT.** **Lt-Col John McLeod**: Tongans "took to drill and
+  manoeuvres **like ducks to water** … the blood of warriors and gentlemen." SullivanLee's reading:
+  "strong and brave but also **submissive**", "**needing of white direction in order to be useful**."
+  Set against "**the big, sturdy men of Apia**" (1924) and Stephen Jones at Nantes (2007). **Rugby
+  inherited that sentence; it did not invent it.**
+- **⭐⭐ TWO FAMILIES, AND BOTH SETS OF SONS CAME BACK.** **Faitai Kefu** beat Australia at Ballymore
+  (**16–11, 30 June 1973**), moved to Brisbane and **laid bitumen on the roads**; his son **Toutai** won a
+  World Cup for Australia and then **coached Tonga**. **Fe'ao Vunipola** captained Tonga at two World Cups,
+  signed for Pontypool in **1998**, and raised **Mako (79 England caps)** and **Billy (75)**; their mother
+  **Rev. Iesinga Vunipola** is a **Methodist minister** to the UK Tongan diaspora; **Mako is in talks to
+  coach Tonga at RWC 2027.** Fiji argues the export with statistics, Samoa with a village institution,
+  **Tonga with two households.**
+- **⭐ THE UNION ON ITSELF:** "Despite a total population of just 100,000 and **a rugby playing population
+  of less than 800 seniors** Tonga is remarkably good at rugby. **Unfortunately rugby is Tonga's main
+  export.**" (`tongarugbyunion.net`, a site frozen at 2011.) **The federation states this section's title
+  as a complaint about itself.**
+- **⭐ THE SECTION'S CLOSING IMAGE.** July 2026: **Fiji** played its "home" fixtures in **Cardiff,
+  Liverpool and Edinburgh**; **Samoa** played all three of its in **Chile**; **Tonga** opened in **Denver,
+  Colorado** (36–26 v Zimbabwe, 4 July). **Three island nations, one week, not one of them at home.**
+- **⚠️ Sourcing note — the hardest chapter so far, and `notes/tonga.md` will save the next session hours.**
+  **How rugby arrived in Tonga has no usable source**; the chapter says so and builds nothing on it. The
+  **Daito Bunka / abacus** origin of the Japan pipeline rests on **one self-published blog** and is told as
+  a story, cited against itself in Sources. **Keith Prowse** (banned repo-wide) is the origin of the
+  "sailors and missionaries" account. Still unsourced and **absent from the chapter**: the union's founding
+  year, the 1924 Test scores, the Prince Consort Trophy, the 1928 abandoned Test, the 2012 peak ranking,
+  and the claim that Aberdeen cost Andy Robinson his job.
+
 ---
 
 ## 5A. SCOPE (decided August 2026): **all 24 teams of Rugby World Cup 2027**
@@ -731,13 +785,13 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 | **C** | ✅ Argentina · ✅ Fiji · Spain · Canada |
 | **D** | ✅ Ireland · ✅ Scotland · ✅ Uruguay · Portugal |
 | **E** | ✅ France · Japan · USA · ✅ Samoa |
-| **F** | ✅ England · ✅ Wales · Tonga · Zimbabwe |
+| **F** | ✅ England · ✅ Wales · ✅ Tonga · Zimbabwe |
 
 12 qualified automatically from RWC 2023 (France, New Zealand, Italy, Ireland, South Africa, Scotland,
 Wales, Fiji, Australia, England, Argentina, Japan); 12 through regional qualifying (Georgia, Spain,
 Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kong China).
 
-**Status: 15 written, 9 to go.**
+**Status: 16 written, 8 to go.**
 
 ### ⭐ A structural gift discovered while writing ch. 15 — use it
 World Rugby's **inaugural Nations Cup (2026)** is the **second-tier** competition, and its field is
@@ -758,13 +812,19 @@ Each section names **who carried the game and what that did to its character**. 
 organising principle and the new sections follow it. (Chapters are *not* grouped by RWC pool — the pool
 table above is a scope checklist only.)
 
-1. **The British enclave in South America** (1–3): Uruguay, Argentina, Chile — *commerce built enclaves;
+**The headings are institutions, not places** (renamed September 2026). Each one names a room a reader
+could walk into, so that the contents page states the book's thesis before a word of prose does: *rugby
+has no class — institutions do.* Two earlier names were geographic and have gone. **Note that §3 and §6
+are the same institution at two moments** — the committee inventing the bar, then policing the door
+seventy years later — and the headings are built to rhyme.
+
+1. **The Clubhouse** (1–3): Uruguay, Argentina, Chile — *commerce built enclaves;
    what happened next depended on the institutions that inherited them.*
-2. **Governments use rugby** (4–6): Georgia, Romania, South Africa — *the state as the carrying
+2. **The Ministry** (4–6): Georgia, Romania, South Africa — *the state as the carrying
    institution.*
-3. **The home nations** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
+3. **The Committee and the Coalfield** (7–10): England, Wales, Scotland, Ireland — *where the class weapon was invented,
    and what it did at home.*
-4. **The game that left home** (11–13): ✅ **France**, ✅ **New Zealand**, ✅ **Australia** — *what rugby became once it
+4. **Out of British Hands** (11–13): ✅ **France**, ✅ **New Zealand**, ✅ **Australia** — *what rugby became once it
    escaped British institutional control.* France made it a **rural, working-class regional identity**
    (the south-west, not Paris); New Zealand made it a **national game with almost no class character**;
    Australia is the **control case** — same colonial origin as New Zealand, neighbouring country, and
@@ -773,7 +833,7 @@ table above is a scope checklist only.)
    → This section **hinges off section 3**: it opens with the Home Unions **expelling France in 1931**
    for professionalism (already carried in `07-england.md`), and the country they threw out is the one
    that later built the pipeline which made Georgian and Romanian rugby.
-5. **The church and the export** (14–16): ✅ **Fiji**, **Samoa**, **Tonga** — *missionaries and
+5. ✅ **The Church and the Export** (14–16): ✅ **Fiji**, ✅ **Samoa**, ✅ **Tonga** — *missionaries and
    village schools carried it; European and Japanese clubs now extract it.* The sharpest institutional
    argument in the modern game, and it connects directly to **Saurel's Georgian pipeline** (Georgia
    Gen 4) and **Argentina's amateur-rule exodus**. Fiji (ch. 14) establishes the section's mechanism:
@@ -782,15 +842,25 @@ table above is a scope checklist only.)
    the British Army and private military contracting**. Samoa (ch. 15) supplies the section's control
    case — **the 1899 partition of one people into a rugby half and an American-football half** — and
    its sharpest formulation of the mechanism: *the village maintains a chosen man so he can act on its
-   behalf*, which is the pastor of 1830 and the professional of 2026. **Tonga (ch. 16) is next, and it
-   has one further complication: it was never colonised.** Samoa and Tonga are the harder version of
-   Fiji — **19th and 20th in the world in July 2026, against Fiji's 9th**, and in the **second-tier
-   Nations Cup** while Fiji went up into the Nations Championship.
-6. **The late admissions** (17–19): **Italy, Spain, Portugal** — *Latin Europe, admitted to a British
-   club on somebody else's terms.*
-7. **Company and campus** (20–22): **Japan, USA, Canada** — *carried by employers and universities
+   behalf*, which is the pastor of 1830 and the professional of 2026. **Tonga (ch. 16) completes the
+   section and is its hardest case: it was never annexed.** Fiji's division was drawn by a land policy,
+   Samoa's by a partition — **Tonga has no coloniser to blame at all**, and the export ran anyway, from
+   a District Meeting in 1835 onward. Samoa and Tonga are the harder version of Fiji — **19th and 20th
+   in the world in July 2026, against Fiji's 9th**, and in the **second-tier Nations Cup** while Fiji
+   went up into the Nations Championship. **Section 5 is complete; Section 6 (Italy, ch. 17) is next.**
+6. **At the Committee's Door** (17–19): **Italy, Spain, Portugal** — *the same body that invented the
+   bar in §3, seventy years on, deciding who is let in.* ⚠️ **PROVISIONAL — do not carve this in stone
+   until ch. 17 is researched.** The old name, "the late admissions", was dropped because **two of the
+   three were never admitted**: Italy joined the Six Nations in 2000; Spain and Portugal have not. It
+   also took the admitting body's point of view, which is the one this book works against. The current
+   name is accurate about all three and rhymes with §3 deliberately. **But if Italy's research shows the
+   game reached Latin Europe through FRANCE rather than Britain** — plausible, and unchecked — then the
+   carrier is French and the heading should name that instead, tying §6 back to §4 the way §4 hinges off
+   §3. Sections 1–5 all earned their final names *after* their chapters were written; let this one do
+   the same.
+7. **Company and Campus** (20–22): **Japan, USA, Canada** — *carried by employers and universities
    rather than by class or nation.*
-8. **The colonial remnant** (23–24): **Hong Kong China, Zimbabwe** — *expatriate and settler rugby after
+8. **The Garrison** (23–24): **Hong Kong China, Zimbabwe** — *expatriate and settler rugby after
    the empire that made it.*
 
 ### Why France is chapter 11
@@ -833,6 +903,15 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
+- ✅ **Tonga is written and proofread** (September 2026) — see §5.16. **Section 5 is complete.**
+  **Italy (ch. 17) is next and opens Section 6, "At the Committee's Door" — a provisional name; see the section plan.** Tonga hands it one thread: the
+  chapter closes pointing at a country "told it did not belong at a table it had been sitting at since
+  1929." ⚠️ **Tonga was the hardest chapter to source so far** — the national union's site
+  (`tongarugbyunion.net`, not `.to`) has not been updated since 2011 and its whole history is one
+  paragraph, and **how rugby arrived in Tonga has no usable source at all**; the chapter says so and
+  builds nothing on it. What carried it instead: **Hansard**, the **US State Department**, an
+  **open-access MA thesis on the Tongan military**, two **school history pages**, and **Rugby
+  Australia's** 1973 retrospectives. Expect Section 6 to be harder still.
 - ✅ **Samoa is written** (August 2026) — see §5.15. **Tonga (ch. 16) is next and completes Section 5.**
   Samoa hands it three threads: the **1924 Fijian tour's Tongan leg** (nine matches, seven won), the
   **2024 centenary match against Tonga**, and the **2026 Nations Cup**, in which Samoa and Tonga sat
