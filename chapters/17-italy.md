@@ -273,22 +273,15 @@ Go back to the beginning of it.
 
 ### Every spring, for sixteen years
 
-From **1952 to 1967**, Italy played France **every single year**. The Italian federation's ledger reads like a liturgy — one fixture, late March or April, alternating between the two countries. **Home side first:**
+From **1952 to 1967**, Italy played France **every single year**, and the Italian federation's ledger of it reads like a liturgy: one fixture, late March or April, the venue alternating between the two countries. Milan, then Lyon. Rome, then Grenoble. Padua, Agen, Naples, Nantes, Treviso, Chambéry, Brescia, Grenoble again, Parma, Pau, Naples, and finally Toulon.
 
-| | | | | | |
-|---|---|---|---|---|---|
-| **1952** Milan | 8–17 | **1953** Lyon | 22–8 | **1954** Rome | 12–39 |
-| **1955** Grenoble | 24–0 | **1956** Padua | 3–16 | **1957** Agen | 38–6 |
-| **1958** Naples | 3–11 | **1959** Nantes | 22–0 | **1960** Treviso | 0–26 |
-| **1961** Chambéry | 17–0 | **1962** Brescia | **3–6** | **1963** Grenoble | **14–12** |
-| **1964** Parma | 3–12 | **1965** Pau | 21–0 | **1966** Naples | 0–21 |
-| **1967** Toulon | **60–13** | | | | |
+**Sixteen consecutive years. Italy lost all sixteen.**
 
-Sixteen consecutive years. Italy lost all sixteen.
+Six of those afternoons Italy did not score at all — **1955, 1959, 1960, 1961, 1965, 1966**. The heaviest defeat before the end came at **Agen in 1957**, where France won **38–6**.
 
 Understand what that fixture was, though, because "lost sixteen" is a misleading way to describe it. **This was not an occasional humiliation. It was the Italian rugby calendar.** There was no Five Nations to be excluded from in any meaningful weekly sense; there was one great annual match, against the best team on the continent, and every Italian who played the game grew up knowing when it was.
 
-Six times in those sixteen years Italy failed to score at all — 1955, 1959, 1960, 1961, 1965, 1966. And then, in the middle of that, two afternoons that changed what was thinkable.
+And then, in the middle of all that, two afternoons that changed what was thinkable.
 
 ### Brescia, and Grenoble
 
@@ -362,26 +355,11 @@ What it can do is put the column on the page, because the column is extraordinar
 
 ### The fixture
 
-| Date | Venue | Result |
-|---|---|---|
-| 18 Nov 1978 | Rome | Italy 9, USSR **11** |
-| 28 Oct 1979 | Moscow | USSR **9**, Italy 0 |
-| 2 Nov 1980 | Rovigo | Italy 3, USSR **4** |
-| 25 Oct 1981 | Moscow | USSR 12, Italy **12** |
-| 22 May 1983 | Catania | **Italy 12**, USSR 10 |
-| 30 Oct 1983 | Kiev | USSR **16**, Italy 7 |
-| 18 Nov 1984 | L'Aquila | **Italy 13**, USSR 12 |
-| 10 Nov 1985 | Moscow | USSR **15**, Italy 13 |
-| 16 Nov 1986 | Genoa | Italy 14, USSR **16** |
-| 7 Nov 1987 | Kishinev | USSR **12**, Italy 9 |
-| 5 Nov 1988 | Treviso | Italy 12, USSR **18** |
-| 5 Nov 1989 | Moscow | USSR **15**, Italy 12 |
-| 24 Dec 1990 | Rovigo | **Italy 34**, USSR 12 |
-| 3 Nov 1991 | Moscow | USSR 3, **Italy 21** |
+It begins in **Rome in November 1978**, and Italy lose by two. The following October, in **Moscow**, they lose by nine without scoring. Then **Rovigo, November 1980**, and they lose by one — **three points to four.** Then **Moscow again, 1981**, and they draw, twelve apiece.
 
-Read the margins. Between 1978 and 1989 — twelve matches, twelve years — **not one was decided by more than nine points**, and most were decided by one, two or three: **9–11, 3–4, 12–12, 12–10, 13–12, 15–13, 14–16, 12–9, 15–12**.
+And so it goes, almost every autumn for the next decade. **Catania**, and Italy win by two. **Kiev**, and they lose by nine. **L'Aquila in 1984**, and they win by one — **thirteen to twelve.** **Moscow**, lose by two. **Genoa**, lose by two. **Kishinev**, lose by three. **Treviso**, lose by six. **Moscow** once more, in November 1989, and lose by three.
 
-A one-point game at Rovigo. A one-point game at L'Aquila. **A draw in Moscow.**
+**Twelve matches across twelve years, and not one of them decided by more than nine points.** Most were decided by one, two or three. A one-point game at Rovigo. A one-point game at L'Aquila. **A draw in Moscow.**
 
 Italy played the Soviet Union **fourteen times and lost nine.** For a decade and a half this was the closest, most persistent and most evenly matched fixture Italian rugby had — closer than France had ever been, more regular than anything the Five Nations offered anyone, and played almost every autumn — with one May afternoon in Catania and one blank year — in Rovigo, L'Aquila, Treviso and Genoa, and in Moscow and Kiev and Kishinev.
 
