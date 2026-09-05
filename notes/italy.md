@@ -385,7 +385,7 @@ the above. Contiguous, non-overlapping, closing on the shared mid-July 2026 snap
 | **1** | Our Sport | 1928–1938 | FIR founded, **Vaccaro** president (20 Sep 1928); first championship, Ambrosiana Milano (1929); first Test, **beaten 9–0 by Spain at Barcelona** (20 May 1929); first win, **3–0 v Spain, Milan** (1930); ***"il nostro sport"*** in *Lo sport fascista* (Dec 1928); **FIRA founded at Turin** (1933); the GUF, the Littoriali |
 | **2** | Sport da Combattimento | 1939–1948 | **Starace**'s "combat sport"; rugby run through the GIL and GUF; **at least ten rugbyists killed — the heaviest loss of any Italian federation**; Liberation, Rugby Padova reorganising, and the language turning to *cavalleria, speranza, felicità* |
 | **3** | The Downgraded Fixture | 1949–1972 | The long post-war climb; **Toulon 1967, France 60–13**, after which France sends only 'A' sides and Espoirs; the **FIRA Nations Cup**; the nadir — **Morocco in Naples, 1971** *(verify)* |
-| **4** | The Trophy | 1973–1992 | The FIRA Trophy years with Romania, Spain, Poland, Czechoslovakia; **RWC 1987** — the first match in World Cup history, **New Zealand 70–6**; the 1987 pool with Fiji and Argentina, all level on two points |
+| **4** | Every November, Moscow | 1973–1992 | The FIRA Trophy years with Romania, Spain, Poland, Czechoslovakia; **RWC 1987** — the first match in World Cup history, **New Zealand 70–6**; the 1987 pool with Fiji and Argentina, all level on two points; **and the Soviet fixture — fourteen meetings, nine defeats, most of them by a score** |
 | **5** | Beating France | 1993–1999 | **Treviso 1993, 16–9** — the first win over anything called France in 45 meetings; **Grenoble 1997, 40–32**, the FIRA title; **election ratified January 1998**; and **Tonga 28–25 at RWC 1999** |
 | **6** | Inside | 2000–2015 | Debut **34–20 over Scotland** (2000); sixteen years of the Championship; professionalism and the club structure |
 | **7** | Seven Days in November | 2016–2026 | **Florence, 19 Nov 2016: Italy 20 South Africa 18.** **Padua, 26 Nov 2016: Tonga 20 Italy 18.** Then Cardiff twice, the Nations Championship, **tenth in the world and fourth in the Six Nations, above England**, July 2026 |
@@ -595,13 +595,18 @@ generations on Parisse, and do not labour the connection — just put them in th
 ---
 
 ## ⚠️ STILL UNVERIFIED — do not print
-1. **"Italy finished bottom of the Six Nations 18 times between 2000 and 2023."** The Six Nations' own
-   explainer page returns **navigation and footer only** — the article text did not come back. **This is
-   a headline number for the chapter and it is not yet sourced.** Try a different route before using it,
-   or state the wooden spoons more loosely.
+1. ✅ **RESOLVED BY HEDGING — the wooden spoon count.** The Six Nations' own explainer page returns
+   **navigation and footer only**, and a second attempt produced **two figures that disagree**: "**18
+   times between 2000 and 2023**" against "**17 times during the 23 years** they have competed."
+   **Do not print a number.** What every source agrees on, and what the chapter should say, is that
+   **Italy has finished bottom of the Six Nations more often than any other country in it, and has never
+   won the Championship.** That claim is safe, sufficient, and needs no arithmetic.
 2. **The 1971 relegation** that followed the Morocco defeat — the defeat itself is confirmed from the
    FIR (Napoli, 21.02.1971, 6–8); **the consequence is still blog-only.**
-3. **RWC 1991** — still not researched at all.
+3. **RWC 1991 — partial.** Pool 1 was **England, Italy, New Zealand and the United States**; New
+   Zealand topped it, beating England 18–12 at Twickenham. **Italy's own three results were not found**
+   and are not to be invented. ⭐ Worth noting either way: **Italy drew New Zealand in both 1987 and
+   1991** — including the 70–6 that opened the first World Cup.
 4. **"Palla ovale" as an imposed Fascist Italianisation** — the term is verifiably in the 1927
    committee's own title, but the claim that the regime imposed it is unsourced. **State the former, not
    the latter.**
