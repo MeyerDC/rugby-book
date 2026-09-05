@@ -821,6 +821,32 @@ the calcio storico/harpastum overreach).
 
 ---
 
+## ⚠️ HOUSE-STYLE FAILURE CAUGHT AFTER DRAFTING — NO TABLES IN CHAPTERS
+
+The first draft of this chapter contained **two markdown tables** — the sixteen France fixtures of
+1952–67 and the fourteen Soviet fixtures of 1978–91. **Italy was the only chapter in the book with a
+table in it: 24 table rows against zero across the other seventeen chapters.**
+
+`SUMMARY.md` §2 is explicit: **"Story mode: immersive, novelistic narrative history, not bullet-point
+summary."** Pasting a federation ledger into a grid is the opposite of that, and the France table was
+badly built besides — six columns, an empty header row, three year/venue/score triplets per row and a
+ragged final line.
+
+**Both are now prose.** The France years read as a run of venues — *"Milan, then Lyon. Rome, then
+Grenoble…"* — and the Soviet years as a sequence of afternoons and margins, which keeps the rhythm of a
+ledger without being one. **The rewrite is better than the tables were.**
+
+⭐ **RULE FOR THE REMAINING SEVEN CHAPTERS: no markdown tables in chapter prose, ever.** Tables belong in
+`SUMMARY.md` and in these notes. If a run of results matters, **write it.** Check with
+`grep -c "^|" chapters/*.md` before promotion — the answer must be zero everywhere.
+
+⚠️ **And a caution learned in the same edit:** converting the table, I wrote "in four more the margin was
+over twenty points", which is **wrong** — it does not survive counting. **Rewriting is where new errors
+enter.** The replacement claim (*the heaviest defeat before the end was Agen in 1957, 38–6*) was checked
+against all fifteen prior margins: **32 points, the largest.**
+
+---
+
 ## HARD RULES CARRIED FROM THE REPO
 - **No Wikipedia, no Grokipedia, no Keith Prowse, no Facebook.**
 - **Dated snapshots, never relative time.**
