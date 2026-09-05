@@ -1,0 +1,446 @@
+# Italy — research notes (chapter 17)
+
+Chapter 17 **opens Section 6**, provisionally titled **"At the Committee's Door"** (Italy, Spain,
+Portugal). ⚠️ **The section's name depends partly on what this chapter finds** — see `SUMMARY.md` §5A:
+if rugby reached Latin Europe through **France** rather than Britain, the carrier is French and the
+section should be renamed to say so, tying §6 back to §4 rather than §3.
+
+---
+
+## INHERITED THREADS — already written and verified in this book's own chapters
+
+Italy appears in **twelve** of the sixteen written chapters — far more than Tonga did. Everything below
+is already promoted, hand-verified, and the Italy chapter **must be consistent with all of it**.
+
+### ⭐⭐⭐ From `06-south-africa.md` — Italy beat the Springboks
+Gen 7: under Allister Coetzee, South Africa 2016–17 "hit the lowest floor in their history: **a
+first-ever defeat to Italy, 20–18 in Florence**; a slide to sixth in the rankings…"
+**This is the biggest single result in Italian rugby history and it is already in the book, from the
+losing side.** Build the modern generations toward it.
+
+### ⭐⭐⭐ From `11-france.md` — Italy finished ABOVE England in 2026
+Gen 7 closes on the 2026 Six Nations decider (France 48, England 46). "The final table reads **France
+21, Ireland 19, Scotland 16, Italy 9, England 8** — the worst campaign England have ever had — and
+**Wales with a third consecutive Wooden Spoon**."
+⭐ **In the 2026 Six Nations, Italy finished fourth, above England.** Twenty-six years after being let
+in. That is the chapter's closing generation in one line.
+
+### ⭐⭐ From `08-wales.md` — Italy has twice broken a Wales era in Cardiff
+- **2022:** Sky Sports match cited in the Wales Sources block — **"Wales 21–22 Italy"**. In Cardiff.
+- **February 2025:** Warren Gatland left "by mutual consent" after **a fourteenth straight defeat — at
+  home, to Italy** — "the second coming ending not in a Grand Slam but in the worst run in the history
+  of Welsh rugby."
+- **2026:** Wales's single Six Nations win was **31–17 over Italy in Cardiff**, ending a three-year run
+  of Championship losses.
+⭐ **Italy is the fixture Welsh decline is measured against — and the one Wales still eventually beats.**
+Handle with the no-villain rule: this is Italy rising, not only Wales falling.
+
+### ⭐⭐ From `09-scotland.md` — the door, and the date
+- "The **1999 Five Nations** was the final one before Italy joined to make it Six."
+- "Since Italy joined in **2000** to make the Six Nations, **Scotland have never won it.** Not once."
+- Source already in the repo: **RugbyFootballHistory.com** on the Six Nations
+  (`https://www.rugbyfootballhistory.com/6nations.htm`), cited in `09-scotland.md`.
+
+### ⭐⭐ From `12-new-zealand.md` — Italy played the first match in World Cup history
+- Gen 6 cold open: "**The first Rugby World Cup kicks off, and New Zealand beat Italy 70–6.**" (22 May
+  1987, sourced in that chapter to the **New Zealand Rugby Museum's "On This Day"**.)
+  ⭐ **Italy was in the first match ever played at a Rugby World Cup, and lost it by sixty-four points.**
+  A natural cold open for the 1987 generation — and it pairs with Italy finishing above England in 2026.
+- Gen 8: New Zealand completed the first leg of the **inaugural Nations Championship** "after victories
+  over France and **Italy**." ✅ Confirms **Italy went up into the Nations Championship** in 2026, while
+  Samoa and Tonga went into the second-tier Nations Cup.
+
+### ⭐ From `14-fiji.md` — 1987 pool arithmetic, and the 2026 ranking
+- RWC 1987 Pool 3: **Fiji, Italy and Argentina all finished level on two points** — one win, two defeats
+  each. Tries **6, 5 and 4**; points differences **−45, −70 and −41**. **Fiji went through on tries
+  scored; Italy had five.** (Sourced there to RugbyPass's 1987 review.) **Italy beat Fiji 18–15.**
+- **15 July 2026 rankings:** Fiji ninth, "**Above Italy, a Six Nations country**" — so **Italy tenth**,
+  and Fiji above it. The same RNZ paragraph closes Fiji, Samoa and Tonga.
+
+### ⭐ From `16-tonga.md` — two Italy results, and the chapter's hand-off
+- **RWC 1999: Tonga beat Italy 28–25.** Siale Piutau as a boy: "seeing that **these things were
+  possible**."
+- **2016: Tonga beat Italy 20–18**, Piutau captaining.
+- Tonga's closing line points straight here: "the countries that were let in late, and on somebody
+  else's terms — and **the first of them spent a century being told it did not belong at a table it had
+  been sitting at since 1929**."
+
+### ⭐ From `05-romania.md` — the 2027 pool, and a shared border of talent
+- **RWC 2027 Pool B: South Africa, Italy, Georgia, Romania.** Gérard on the draw: to write off South
+  Africa in advance and concentrate on Georgia and Italy would be "disrespectful to the sport."
+- Romania's 2026 matchday twenty-three included a player **born in Italy** among the eleven born abroad.
+
+### From `02-argentina.md`
+- 1987: Argentina was **invited** to the first World Cup and **only then admitted to the IRB**. Useful
+  comparison for how the Board handled outsiders in the same era it was handling Italy.
+
+---
+
+## ⚠️ TWO THINGS TO RESOLVE BEFORE DRAFTING
+
+1. **A suspicious score collision.** `06-south-africa.md` has **Italy beating South Africa 20–18** (2016,
+   Florence). `16-tonga.md` has **Tonga beating Italy 20–18** (2016, via World Rugby's Piutau piece).
+   **Both 2016, both 20–18.** That is possible but it is exactly the shape of a transcription error, and
+   **one of them is in an already-promoted chapter.** Verify both independently and early. If one is
+   wrong, it is a correction to a merged chapter, not just a note here.
+2. **A gap `04-georgia.md` deliberately left open.** That chapter records a reported **Georgia 28–19
+   Italy in July 2022** which "could only be traced to Wikipedia and is left out, which understates" the
+   Georgian case. **If the Italy chapter can source that result properly, it closes a hole in Georgia
+   too.** Do not reintroduce it from a wiki.
+
+---
+
+## STEP 0 — VERIFIED BY HAND, 5 September 2026
+
+**Source: the FIR's own history page** — [federugby.it/storias](https://www.federugby.it/storias/),
+HTTP 200, **Italian**, fetched and read directly. A visual timeline 1900–2026. **Thin on origins**
+(nothing before 1910, three entries across the next eighteen years) but every entry below was read in
+the original Italian, not taken from the scout.
+
+- **1910:** "*Prima partita disputata su suolo italiano, a Torino, tra **i francesi del Racing Club di
+  Parigi** e **gli svizzeri del Servette**.*" — the first match on Italian soil, at **Turin**, was
+  **French against Swiss**.
+- **1911:** "*2 Aprile 1911 prima partita di una formazione italiana: **US Milanese** affronta **i
+  francesi del Voiron**.*" — the first match by an Italian side was against a **French club**.
+- **1927:** "*Costituzione del **Comitato di Propaganda** diretto da **Pietro Mariani**.*"
+  ⚠️ *Comitato di Propaganda* in 1927 Italy. Handle the word deliberately, not squeamishly.
+- **1928:** "*20 settembre 1928, **Giorgio Vaccaro** è eletto Presidente della neonata **Federazione
+  Italiana Rugby**.*"
+- **1929:** "*Si disputa il **primo Campionato Italiano**, a cui partecipano **6 Società**.
+  L'**Ambrosiana Milano** si laurea Campione d'Italia.*"
+- **1929:** "*20 maggio 1929, A **Barcellona** la Nazionale disputa il **primo test-match** della propria
+  storia, **battuta 9-0 dalla Spagna**.*"
+- **1930:** "*29 maggio 1930, **Secondo test-match**… che a **Milano** centra la **prima vittoria** della
+  propria storia battendo **3-0 la Spagna**.*"
+- **1933:** "*A **Torino** viene costituita la **FIRA**, la Federazione Europea. **Italia, Francia,
+  Germania, Romania e Cecoslovacchia** sono le Federazioni fondatrici.*"
+
+### 🛑 SCOUT ERROR CAUGHT — the second in two chapters
+The scout reported Italy's first Test as "**Spain 0–9**", which reads as an Italian win, and separately
+as "1930 first win (Spain 0–3)". **The FIR says Italy was *battuta 9-0 dalla Spagna* — beaten 9–0 — and
+that the first victory came in 1930.** The scout reversed a scoreline. Hand-verification caught it, as it
+caught the fabricated Daito Bunka citation in `notes/tonga.md`. **Keep opening every source.**
+
+### ⭐⭐⭐ ITALY'S FIRST TEST WAS AGAINST SPAIN, IN BARCELONA
+**20 May 1929.** Two of Section 6's three countries in Italy's first international, and neither of them
+British. The second Test, and Italy's first win, was Spain again — **Milan, 29 May 1930, 3–0**.
+
+### ⭐⭐⭐ THE BRITAIN-OR-FRANCE QUESTION LOOKS SETTLED, AND IT RESHAPES THE SECTION
+Everything in the FIR's own founding record points **French, not British**: the first match on Italian
+soil was Racing Club de Paris against Servette; the first Italian side played Voiron; and there is **no
+British club, tour or fixture anywhere in the pre-war timeline.**
+
+And then the fact that matters most:
+
+> **In 1933, in TURIN, Italy, France, Germany, Romania and Czechoslovakia founded FIRA — a European
+> federation with no British or Irish involvement at all.**
+
+**`11-france.md` already tells the other half of this, from France's side and with a curl of the lip.**
+Its Gen 3 records that after the Home Unions expelled France in **1931**, the French were "*cut off from
+Britain and Ireland… left to make do with matches against **Nazi Germany and Fascist Italy**. That is
+where a sport goes when the democracies stop playing it. Not into reform. Into the only fixtures
+available.*"
+
+⭐ **From Italy's side that is not making do. It is building the institution that the exclusion made
+necessary** — two years after France was thrown out, in an Italian city — and **FIRA became Rugby
+Europe**, the body that later carried Romania and Georgia. **`05-romania.md` mentions "a FIRA Nations
+Cup match" in 1968 and never says what FIRA is or that Romania helped found it.** Italy gets to introduce
+it, and in doing so explains a structure two earlier chapters depend on.
+
+### ⚠️ WHAT THIS MEANS FOR THE SECTION NAME — flag, do not act yet
+Section 6 is provisionally **"At the Committee's Door"**, chosen to rhyme with §3 ("The Committee and the
+Coalfield"). **The evidence now suggests the better frame is the inverse: the excluded did not queue at
+the door — they built their own committee, in Turin, in 1933.** A name like **"The Committee They Built"**
+would keep the rhyme and put Italy in the active voice.
+**Do not rename yet.** FIRA explains Italy, France and Romania. It does **not** yet explain **Spain and
+Portugal**, and over-fitting a section name to its first chapter is exactly the mistake "the late
+admissions" made. Revisit when chs. 18–19 are scoped.
+
+---
+
+## ⭐⭐⭐ THE 20–18 COLLISION — RESOLVED, AND IT IS NOT AN ERROR
+
+Both results are real, both are correctly stated in the merged chapters, and **the coincidence is the
+best single fact in the chapter.** Verified independently:
+
+- **19 November 2016, Stadio Artemio Franchi, Florence: ITALY 20, SOUTH AFRICA 18.** Italy's
+  **first-ever** win over the Springboks and **South Africa's first defeat by Italy in thirteen
+  meetings**. Habana scored in the eighth minute on his 124th cap; **Andries van Schalkwyk** crossed from
+  a rolling maul; South Africa led **12–10** at the break; **Carlo Canna's** penalty made it **20–18**;
+  a late Fuser try was ruled out on review. Defence coached by the former Springbok **Brendan Venter**.
+  ✅ Matches `06-south-africa.md` exactly — no correction needed there.
+- **26 November 2016, Stadio Euganeo, Padua: TONGA 20, ITALY 18.** Italy scored first through
+  **Lorenzo Cittadini**; **Siale Piutau** crossed for Tonga's only try; and with a minute left and Tonga
+  a point down, **Takulua** kicked a penalty from just under forty metres.
+  ✅ Matches `16-tonga.md` (World Rugby's Piutau piece) — no correction needed there either.
+
+⭐⭐⭐ **ITALY BEAT SOUTH AFRICA AND LOST TO TONGA BY THE SAME SCORE, SEVEN DAYS APART, IN THE SAME
+AUTUMN, AT HOME BOTH TIMES.** Nineteenth of November and twenty-sixth of November 2016; Florence and
+Padua; 20–18 and 18–20. **That is the whole condition of Italian rugby in one week**, and both halves are
+already in this book, told from the other side, by two different chapters that have no idea they rhyme.
+**Build a generation around it.**
+
+---
+
+## ⭐⭐⭐ THE STATE TOOK IT — the Fascist period, verified from a national museum
+
+**Source: Museo delle Civiltà (MUCIV), Rome** — ["L'uso politico del rugby nel Ventennio fascista. Il
+fondo 'Luca Raviele'"](https://www.museodellecivilta.it/luso-politico-del-rugby-nel-ventennio-fascista-il-fondo-luca-raviele/),
+fetched and read. **An Italian national museum writing about its own archive holdings** — the strongest
+class of source this book uses.
+
+- The FIR was founded **shortly after Mussolini's rise to power**, with championship competition
+  following immediately.
+- ⭐ **Achille Starace** — PNF Secretary **1931–1939**, CONI President **1933–1939** — on rugby:
+  "***sport da combattimento, deve essere praticato e largamente diffuso***" — *a combat sport; it must
+  be practised and widely spread.*
+- ⭐ **Lando Ferretti** on why: rugby builds "***tanto fiato, tanto coraggio, tanto vigore***" — *so much
+  breath, so much courage, so much vigour* — the qualities needed for readiness for battle.
+- The regime used rugby **to prepare the young for armed conflict** and **to legitimise fascism through
+  nationalist achievement**.
+- **The "Luca Raviele" fund** is a **photographic archive** documenting rugby inside the fascist mass
+  organisations — the **Gioventù Italiana del Littorio (GIL)** and the **Gruppi Universitari Fascisti
+  (GUF)**. *(Photographs — so a possible route to concrete scenes, if the museum publishes images.)*
+
+### Why this matters beyond Italy
+1. **It makes Italy a fourth state-carried case.** Section 2 — **"The Ministry"** — is Georgia, Romania
+   and South Africa, *the state as the carrying institution*. **Italy belongs to that mechanism
+   domestically**, even though it sits in Section 6 for what happened to it internationally. Say so
+   explicitly; the book gains from the cross-reference rather than losing by it.
+2. ⭐ **And Romania is the bridge.** Romania was a **FIRA founding federation with Italy in Turin in
+   1933**, and `05-romania.md` is the chapter about a state picking rugby up and carrying it. **Two
+   state-carried European federations founded the alternative to the British club, together.**
+3. ⭐⭐ **It rhymes with Section 5 from the opposite direction.** `16-tonga.md` has **Lt-Col McLeod in
+   1941** appraising Tongan bodies as combat material — *"took to drill and manoeuvres like ducks to
+   water."* **Starace said the same thing about Italian bodies, about his own country, and meant it as
+   policy.** One is an empire assessing a colonised people; the other is a state assessing its own. **The
+   same sentence, self-applied.** That is a genuine cross-section thread and no other chapter can make it.
+
+---
+
+## ⭐⭐⭐ THE UNIVERSITY, THE REGIME AND THE DEAD — verified from the University of Padua
+
+**Source: *Il Bo Live*, University of Padua** — ["Il rugby, il fascismo e
+l'università"](https://ilbolive.unipd.it/it/rugby-fascismo-l%E2%80%99universita), fetched and read.
+A university's own magazine on its own institutional history.
+
+- **29 November 1927, the Veneto:** **Amedeo Fusari**, a journalist on *Il Gazzettino*, and **Pietro
+  Pierobon** founded the **Leoni di San Marco**. *(Regional, not national — compatible with the FIR's
+  1910 Turin match and 1911 US Milanese; note the distinction in prose.)*
+- ⭐ **The sport developed along two parallel tracks from the start**: an **independent civilian league**
+  and an **institutional version run through the university groups**. **That fork is the chapter's
+  domestic argument** — Italy had a club game and a state game at the same time.
+- ⭐⭐ **December 1928:** the magazine ***Lo sport fascista*** called rugby "***il nostro sport***" —
+  ***our sport*** — citing the endorsement of **Augusto Turati** (PNF secretary before Starace).
+  **Three months after the FIR was founded, the party magazine claimed the game by name.**
+- **The Gruppi Universitari Fascisti (GUF) at Padua** began regular training in **autumn 1929** with
+  **nine members**, reaching **24 registered players by 1934**. The GUF side proved **more stable than
+  the independent clubs** — ten Italian championships before the war, including **seven consecutive
+  campaigns, 1929–1936**.
+- The **Littoriali dello sport** were established in **1933** — the same year as FIRA, in Turin.
+- ⭐ The trainer **Julien Saby** wrote that rugby was a sport for "***aristocratici di cuore e di
+  pensiero***" — *aristocrats of heart and of thought*. **Note the name: a Frenchman, coaching in Italy.**
+  Another thread in the French pathway.
+- ⭐⭐⭐ **THE BILL. "At least ten rugbyists died in combat — the heaviest loss among Italian sports
+  federations."** The regime had adopted rugby explicitly as a *sport da combattimento*, preparation for
+  war. **Of all Italy's sports, rugby lost the most men to the war it was being used to prepare for.**
+  That is the payoff of the Fascist generation and it should close it.
+- **After the Liberation in 1945**, the **Associazione Rugby Padova** reorganised that autumn, recruiting
+  former university players. ⭐ And the writing changed: sports journalism moved **from military
+  metaphors** to the language of "***cavalleria, speranza, felicità***" — *chivalry, hope, happiness*.
+  **Same sport, same men, and a completely different vocabulary, the moment the regime that had claimed
+  it was gone.** A gift of an opening for the post-war generation.
+
+### What this gives the chapter
+Two generations are now essentially mapped. **The regime claimed the game by name in 1928, ran it through
+the universities and the GUF, called it combat training, and buried more of its players than any other
+Italian federation.** Then the language changed overnight and the same clubs carried on. `05-romania.md`
+and `04-georgia.md` both describe states picking rugby up; **neither has anything as blunt as
+"*il nostro sport*" or as final as the casualty count.**
+
+---
+
+## ⭐⭐⭐ THE ORIGIN — SETTLED, AND IT IS UNLIKE EVERY OTHER CHAPTER IN THIS BOOK
+
+**Source: Sportmemory** — ["Stefano Bellandi. Milano, la Scala e il
+rugby"](https://www.sportmemory.it/storie/stefano-bellandi-milano-la-scala-e-il-rugby/), fetched and read.
+
+- **Stefano Bellandi** was the ***economo del Teatro alla Scala*** — the **steward of La Scala**.
+- ⭐⭐⭐ "***Il rugby lo aveva scoperto in Francia, dove era emigrato***" — **he had discovered rugby in
+  France, where he had emigrated.** On returning to Milan he set about making it known.
+- He "***creò una sezione rugby all'interno dell'Unione Sportiva Milanese***" — created a rugby section
+  inside **US Milanese**.
+- "***il 2 aprile del 1911 all'Arena giocò la prima partita contro la compagine francese del Voiron***" —
+  **2 April 1911, at the Arena, against the French club Voiron. Lost 15–0.** And "***gli spettatori
+  furono entusiasti dello spettacolo***" — the spectators were thrilled anyway. *(Reported in the
+  **Gazzetta dello Sport**.)* ✅ The **15–0** is new; the FIR's own timeline gives no score.
+- He was among the founders of the ***Comitato Nazionale di Propaganda del Giuoco della Palla Ovale***,
+  "***nel 1927 venne affiliato al CONI***" — **affiliated to CONI in 1927.**
+  ✅ **This confirms the committee's full name**, which the FIR page abbreviates to *Comitato di
+  Propaganda*. ⭐ **And note that "Palla Ovale" is in the institution's own 1927 title** — the game was
+  being called *palla ovale* officially **before** the regime's language campaigns peaked. That is
+  better and more precise than the loose claim that Fascism renamed the sport; **do not overstate it.**
+
+### 🛑 A THIRD SUMMARY ERROR CAUGHT
+A search summary attributed to this article the claim that **Mariani** became FIR president in 1928.
+**The article makes no such claim** — it does not name a 1928 president at all. So the FIR's own record
+stands unchallenged: **Giorgio Vaccaro, elected 20 September 1928**, with **Pietro Mariani** having
+directed the 1927 propaganda committee. *(Three errors now caught by hand-verification across two
+chapters: a fabricated citation, a reversed scoreline, and this. Keep opening the sources.)*
+
+### ⭐⭐⭐ WHY THIS ORIGIN IS THE CHAPTER'S SPINE
+Set it against every other arrival in this book:
+
+| Country | Who carried it in |
+|---|---|
+| Uruguay, Argentina, Chile | British commercial enclaves and their cricket clubs |
+| Fiji | the colonial **Native Constabulary** |
+| Samoa | the **Marist Brothers** |
+| Georgia, Romania | the **state** |
+| **Italy** | **an Italian emigrant worker bringing it home from France** |
+
+**No Briton. No enclave. No school. No missionary. No governor.** Rugby reached Italy in the luggage of
+**a man who had gone abroad to work and came back** — and the first thing his team did was lose 15–0 to
+a French club in front of a delighted Milanese crowd.
+
+⭐ **And it inverts Section 5 exactly.** Fiji, Samoa and Tonga **export men and import money**. Italy
+**imported a sport inside a returning migrant.** The same labour movement, running the other way,
+carrying a game instead of a remittance. **Open the chapter here.**
+
+⭐ Reinforcing the French pathway, now from four directions: the first match on Italian soil was **Racing
+Club de Paris v Servette** (Turin, 1910); the first Italian side played **Voiron**; the man who brought
+the game learned it **in France**; and the trainer quoted by the University of Padua is **Julien Saby**.
+**Britain is absent from the entire founding record.**
+
+### ⚠️ One unresolved conflict, low stakes
+The same search result claims **Rugby Club Torino** was constituted right after the 1910 Turin match and
+was "**la prima squadra italiana**" — the first Italian team — while the FIR credits **US Milanese** with
+the first match by an Italian side (1911). Both can be true (founded first vs played first), but
+**Sportmemory was not opened on this point.** Verify before asserting either primacy.
+
+---
+
+## ⭐⭐⭐ 1967–1998 — THE ARC THAT MAKES THE SECTION
+
+**Source: ESPN** — ["Italy's false dawn: The 20-year deceleration of the
+Azzurri"](https://www.espn.co.uk/rugby/story/_/id/18731260/italy-historic-win-france-20-years), fetched
+and read. *(ESPN is already cited across this book.)*
+
+- **1967, Toulon: France 60, Italy 13.** Before it, France treated Italy as a full-cap international and
+  picked strong squads. ⭐⭐⭐ After it: "**From then on the Italians faced 'A' teams or occasional
+  Espoirs**" — and that continued **until 1995**, when France finally fielded a full side again, in the
+  **Latin Cup in Argentina**.
+  → **Twenty-eight years in which the one country that had always played Italy stopped sending its first
+  team.** This is the section's mechanism seen from the inside: not a locked door, a downgraded fixture.
+- ⭐⭐⭐ **16 March 1993, Treviso: ITALY 16, FRANCE 9.** ESPN: "Given that it was the first time Italy had
+  beaten **any team calling itself France in 45 meetings**, they were entitled to their celebration."
+- ⭐⭐⭐ **22 March 1997, Grenoble: ITALY 40, FRANCE 32** — the **FIRA Championship final**, and Italy's
+  **maiden continental title**. **Italy won the competition its own federation had helped found in Turin
+  in 1933, by beating France in France.**
+- ⭐⭐⭐ **Italy's election to the Six Nations was ratified in JANUARY 1998** — ten months after Grenoble.
+- ESPN's own verdict on what followed: the hope on election "was that there would have been many more
+  moments to rank with, or even above, it" — and that the 1997 win still ranks so high "is perhaps a
+  disappointment."
+
+### ⭐⭐⭐ THE ARC, AND WHY IT SETTLES THE SECTION NAME
+**1933** Italy helps found FIRA in Turin, with France, Germany, Romania and Czechoslovakia — the
+alternative to a British club that had just expelled France. → **1967** France stops sending its first
+team. → **1993** Italy beats something called France at last, in the forty-fifth meeting. → **1997**
+Italy **wins FIRA outright, beating France in Grenoble**. → **January 1998** the Six Nations ratifies its
+election. → **2000** debut, and Italy beats **Scotland 34–20**.
+
+**Italy won the committee it had built, and was then admitted to the committee that had excluded it.**
+FIRA was not a consolation prize; **winning it was the qualification.** ⭐ **This is strong evidence for
+renaming Section 6 "The Committee They Built"** — but still hold until Spain and Portugal are scoped.
+*(Encouraging: the FIRA Trophy field included **Spain**, alongside France, Romania, Poland and
+Czechoslovakia — so the institution plausibly carries ch. 18 too.)*
+
+### 🛑 A FOURTH SUMMARY ERROR CAUGHT
+A search summary asserted that Italy "recorded its first victories over France in **1956 and 1957**."
+**ESPN contradicts this directly**: the 1993 Treviso win was the first time Italy had beaten *any* team
+calling itself France, **in forty-five meetings**. **Do not use 1956/57.**
+
+### Other 1949–1987 material — PLAUSIBLE, NOT YET PROPERLY SOURCED
+All of the following came from search summaries that trace to wiki mirrors or unattributed sites.
+**Open a real source before any of it goes in the chapter:**
+- **FIRA Nations Cup 1965–1973**, replaced by the **FIRA Trophy 1974–1997**, two divisions with promotion
+  and relegation, field including **France, Romania, Spain, Poland, Czechoslovakia**.
+- ⭐ **21 February 1971, Naples: Italy lost to MOROCCO and was relegated from the First Division**,
+  regaining promotion in 1973–74. *(A vivid low point if it stands up — chase it.)*
+- Post-war revival "thanks to the help of Allied troops in Italy."
+- ⚠️ **Two date conflicts with the FIR's own timeline**: a claim of **28** September 1928 for the FIR's
+  founding (FIR says **20** September) and **1934** for FIRA (FIR says **1933**). **Prefer the FIR's own
+  page** and note the discrepancy if either is used.
+
+---
+
+## GENERATION MAP — REDRAWN 5 September 2026, from verified material
+
+Replaces the Step 0 scout's provisional map, which had overlapping ranges and was drawn before any of
+the above. Contiguous, non-overlapping, closing on the shared mid-July 2026 snapshot.
+
+| Gen | Name | Years | Spine |
+|---|---|---|---|
+| **0** | The Man Who Came Back from France | 1910–1927 | Racing Paris v Servette at Turin (1910); **Bellandi**, steward of La Scala, brings the game home from France; US Milanese lose 15–0 to Voiron at the Arena (2 Apr 1911); the *Comitato Nazionale di Propaganda del Giuoco della Palla Ovale* affiliates to CONI (1927) |
+| **1** | Our Sport | 1928–1938 | FIR founded, **Vaccaro** president (20 Sep 1928); first championship, Ambrosiana Milano (1929); first Test, **beaten 9–0 by Spain at Barcelona** (20 May 1929); first win, **3–0 v Spain, Milan** (1930); ***"il nostro sport"*** in *Lo sport fascista* (Dec 1928); **FIRA founded at Turin** (1933); the GUF, the Littoriali |
+| **2** | Sport da Combattimento | 1939–1948 | **Starace**'s "combat sport"; rugby run through the GIL and GUF; **at least ten rugbyists killed — the heaviest loss of any Italian federation**; Liberation, Rugby Padova reorganising, and the language turning to *cavalleria, speranza, felicità* |
+| **3** | The Downgraded Fixture | 1949–1972 | The long post-war climb; **Toulon 1967, France 60–13**, after which France sends only 'A' sides and Espoirs; the **FIRA Nations Cup**; the nadir — **Morocco in Naples, 1971** *(verify)* |
+| **4** | The Trophy | 1973–1992 | The FIRA Trophy years with Romania, Spain, Poland, Czechoslovakia; **RWC 1987** — the first match in World Cup history, **New Zealand 70–6**; the 1987 pool with Fiji and Argentina, all level on two points |
+| **5** | Beating France | 1993–1999 | **Treviso 1993, 16–9** — the first win over anything called France in 45 meetings; **Grenoble 1997, 40–32**, the FIRA title; **election ratified January 1998**; and **Tonga 28–25 at RWC 1999** |
+| **6** | Inside | 2000–2015 | Debut **34–20 over Scotland** (2000); sixteen years of the Championship; professionalism and the club structure |
+| **7** | Seven Days in November | 2016–2026 | **Florence, 19 Nov 2016: Italy 20 South Africa 18.** **Padua, 26 Nov 2016: Tonga 20 Italy 18.** Then Cardiff twice, the Nations Championship, **tenth in the world and fourth in the Six Nations, above England**, July 2026 |
+
+**Gen 0–7, eight generations — the book's most common tier.**
+
+---
+
+## LEADS NOT YET VERIFIED — do not use until opened
+- **Stefano Bellandi** as the man who brought rugby to Italy in the 1900s. Search-summary only; **the
+  museum page explicitly does not name anyone**, saying only that a "pioneer phase" preceded the First
+  World War.
+- **The 1927 committee's full name** — reported as the *Comitato Nazionale per la Propaganda del Giuoco
+  della Palla Ovale*. The FIR timeline confirms only "*Comitato di Propaganda diretto da Pietro
+  Mariani*"; the museum page does not mention it at all.
+- ⭐ **"Palla ovale" as a fascist Italianisation of "rugby."** If true this is excellent — a regime
+  renaming the game as part of its campaign against foreign words — but it is search-summary only.
+  **Worth real effort to source properly.**
+- **Rugby "first opposed, then exalted by Fascism, then blacklisted after the war."** Reported by *Il
+  Messaggero*; the museum page carries nothing on the post-1945 reputation. **If sourceable, this is the
+  shape of two whole generations.**
+- Unopened, and promising: **Il Bo Live (University of Padua)**, "Il rugby, il fascismo e l'università";
+  *Il Messaggero* on Ottorino Mancioli and the futurists; **Rivista Contrasti** on Vaccaro.
+
+---
+
+## STILL NEEDED — the FIR page does not carry these
+1. **Pre-1910 entirely.** How rugby reached Italy at all; who brought it; Turin and Milan before 1910.
+2. **1911–1927.** Three entries in eighteen years. No club formation, no founders, no match record.
+3. **The Fascist period.** The *Comitato di Propaganda* (1927), Vaccaro, and what the regime wanted from
+   rugby. `11-france.md` already calls Italy "fascist" in passing; this chapter has to do it properly and
+   from the inside.
+4. **Whether Italy actually played Britain or Ireland before 1948**, and when the first fixture came.
+5. **The 1987–2000 campaign for Six Nations entry** — who argued for it and against.
+6. **The 2016 Florence win over South Africa** and the **2016 Tonga defeat**, both reported as 20–18 —
+   see the score-collision warning above. **Verify both before drafting.**
+7. **Sources not yet opened:** Persée for early European rugby; Rugby Europe for FIRA's founding records;
+   Italian university repositories; Italian newspaper archives. Club sites (milanorugby.it, torinorugby.it,
+   rugbygenoa.it) were reported blocked or dead — retry by hand.
+
+## GENERATION MAP (Step 0) — PENDING
+Awaiting the source-scouting digest. Target **Gen 0–7**, contiguous non-overlapping ranges, final
+generation closing on the **mid-July 2026** snapshot the last five chapters all share.
+
+## RETRIEVAL MAP — PENDING
+⚠️ **Hand-check every URL before it enters this file or the chapter.** The Tonga scout produced one
+confirmed fabricated attribution and one repo-banned source. **This scout was briefed for candidate
+sources only — not facts bound to citations** — so treat anything that looks like a finding with
+suspicion and open the source yourself.
+
+## HARD RULES CARRIED FROM THE REPO
+- **No Wikipedia, no Grokipedia, no Keith Prowse, no Facebook.**
+- **Dated snapshots, never relative time.**
+- **Hedge what is thin; do not harden.** Keep a STILL UNSOURCED list.
+- **Proofread end to end before promotion** (`SUMMARY.md` §2) and record a `PROOFREADING PASS` here.
+  The last three passes found 13, 5 and 17 errors that greps cannot catch.
+- ⭐ **Italian-language sources are expected and welcome** — this is the first chapter since France where
+  the constraint is likely to be *language* rather than *scarcity*.
