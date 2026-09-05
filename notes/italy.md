@@ -394,6 +394,192 @@ the above. Contiguous, non-overlapping, closing on the shared mid-July 2026 snap
 
 ---
 
+## ⭐⭐⭐ THE RETRIEVAL TOOL — the FIR's own all-time head-to-heads
+
+**`https://www.federugby.it/italia-vs-<paese>-all-time/`** returns the federation's own complete
+head-to-head record against that opponent: played / won / drawn / lost, then **every match with venue,
+date, competition and score.** Tested and returning **HTTP 200** for `spagna`, `francia`, `sudafrica`,
+`tonga`, `marocco`. **This is the Italy chapter's equivalent of the FRU chronology that carried
+`14-fiji.md` — but queryable.** Use it to verify any historical result.
+
+### ⚠️⚠️ ITS LIMIT — THE PAGES ARE FROZEN AROUND 2008–09
+The most recent match on each page: **France 21.03.2009 · South Africa 21.06.2008 · Tonga 12.11.2005 ·
+Spain 22.09.2002 · Morocco 19.06.1993.** The **South Africa page records "GIOCATE 7, VITTORIE ITALIA –,
+VITTORIE SUDAFRICA 7"** and therefore **does not contain the 2016 Florence win at all.**
+**Excellent for everything up to c. 2008; useless after it. Do not cite it for the modern era, and do
+not read a "0 wins" line as current.**
+
+### ✅ VERIFIED FROM IT
+- **Barcellona 20.05.1929: Spagna–Italia 9–0** — Italy's first Test, a defeat. ✅ Confirms the FIR
+  timeline and kills the scout's reversed scoreline for good.
+- **Milano 29.05.1930: Italia–Spagna 3–0** — the first win.
+- Italy v Spain all-time (to 2002): **played 27, Italy 23, drawn 1, Spain 3.** ⭐ Section 6's first two
+  countries have a twenty-seven-match head-to-head running back to 1929.
+- ⭐ **Napoli 21.02.1971 (Coppa Europa): Italia–Marocco 6–8.** ✅ **The Morocco defeat is real, from the
+  federation's own record** — a **two-point home loss**. Morocco won again at **Casablanca 06.03.1977,
+  10–9**. Those are Morocco's only two wins in eight meetings. *(The relegation that followed is still
+  only in a self-published blog — state the defeat, hedge the consequence.)*
+- **Tolone 26.03.1967 (Coppa Europa): Francia–Italia 60–13.** ✅ Confirms ESPN.
+- **Buenos Aires 14.10.1995 (Coppa Latina): Francia–Italia 34–22** — the fixture where France returned a
+  full side after twenty-eight years.
+- ⭐ **Grenoble 22.03.1997 (Coppa Europa): Francia–Italia 32–40.** ✅ Italy's FIRA title win, confirmed.
+- ⭐ **Leicester 10.10.1999 (RWC '99): Italia–Tonga 25–28.** ✅ **Independently confirms `16-tonga.md`**,
+  and adds the venue and date that chapter does not have.
+
+### ⭐⭐⭐ AND A DISCREPANCY THAT IS ITSELF THE ARGUMENT
+The FIR's France page reads **"GIOCATE 31 · VITTORIE ITALIA 1 · VITTORIE FRANCIA 30"** — thirty-one
+matches, **one** Italian win — and the win in the list is **Grenoble 1997**. The **Treviso 1993** match
+is **not on it at all**.
+
+ESPN, meanwhile, called Treviso 1993 the first win over "**any team calling itself France**" in **45
+meetings**.
+
+**Thirty-one against forty-five.** The two counts differ by fourteen, and the fourteen are the **'A'
+sides and Espoirs** France sent between 1967 and 1995. **Italy and France do not agree on how many times
+they have played each other**, because for twenty-eight years France fielded teams it declined to
+recognise as itself — and the Italian federation, reasonably, did not count them either.
+
+⭐ **That is the downgraded fixture made visible in the bookkeeping, and it is a better fact than either
+scoreline.** Write it carefully: **Grenoble 1997 is Italy's one win over France proper** on the FIR's own
+count; **Treviso 1993 was a win over something calling itself France.** Do not merge them.
+
+---
+
+## ⭐⭐⭐ THE FRANCE LEDGER IN FULL — and it corrects my own Gen 3 framing
+
+The FIR's France page lists every match. Read whole, it does **not** say what "Toulon 1967" alone
+suggests. **Italy was getting close before the rout:**
+
+| | | |
+|---|---|---|
+| 1953 Lione | 39–12 | |
+| 1955 Grenoble | 24–0 | |
+| 1957 Agen | 38–6 | |
+| 1959 Nantes | 22–0 | |
+| 1960 Treviso | 0–26 | |
+| **1962 Brescia** | **3–6** | ⭐ **Italy lost by three** |
+| **1963 Grenoble** | **14–12** | ⭐ **Italy lost by two** |
+| 1964 Parma | 3–12 | |
+| 1966 Napoli | 0–21 | |
+| **1967 Tolone** | **60–13** | ← **and then nothing for twenty-eight years** |
+| 1995 Buenos Aires | 34–22 | full French side again |
+| **1997 Grenoble** | **32–40** | ⭐ **Italy's only win** |
+| 1997 Auch | 30–19 | |
+| 2000–2009 (Six Nations) | ten straight defeats | 42–31, 19–30, 33–12, 27–53, 25–0, 13–56, 37–12, 3–39, 25–13, 8–50 |
+
+⭐⭐ **Do not write 1967 as the end of a hopeless run.** Italy lost to France by **two points at Grenoble
+in 1963** and by **three at Brescia in 1962**. The relationship was closest immediately before it was
+broken. **The rout came after the near-misses, and it is what ended the fixture.**
+⭐ **And the gap in the table is the story.** The FIR's own ledger jumps **1967 → 1995**. Twenty-eight
+years in which the federation recorded no France fixture at all, because what France sent was not France.
+
+---
+
+## GEN 6 — INSIDE (2000–2015): RESEARCH
+
+- **2000, debut: Italy 34, Scotland 20**, in Rome — a win in the first Six Nations match Italy ever
+  played. ⭐ **`09-scotland.md` already carries the other half**: Scotland won the last Five Nations in
+  1999 and "since Italy joined in 2000 to make the Six Nations, **Scotland have never won it.**"
+  **Scotland's last title and Italy's first match are consecutive events**, and each chapter has half.
+- ⭐⭐⭐ **"Italy have won more wooden spoons than any other Six Nations team: they finished bottom of the
+  table 18 times between 2000 and 2023."** *(Six Nations' own explainer — verify at source before use.)*
+- **Italy's best campaigns are 2007, 2013 and 2026** — **two wins and fourth place** in each.
+- **2007** is the breakthrough: **Italy's first away win in the Championship, at Murrayfield**, plus a win
+  over **Wales in Rome** — two victories in a season for the first time.
+  ⭐ Live lead: **World Rugby, "Six Nations memories: Roland de Marigny recalls history-making win at
+  Murrayfield"** — a first-person account from the player. Open it.
+- **Sergio Parisse** — the chapter's necessary figure for these years. Not yet researched.
+- ⭐ Live lead: **ESPN, "Scrum Sevens: Famous Italian victories"** — likely a compact, citable list.
+
+### ⭐⭐⭐ AND THE ENDING IS NOW VISIBLE
+**2026 equals Italy's best-ever Six Nations finish** — two wins, fourth place. ✅ Consistent with
+`11-france.md`'s final table (**Italy 9 points, above England on 8**) and with `08-wales.md` (Wales's
+single 2026 win was **31–17 over Italy in Cardiff**), so Italy's two wins came against others.
+
+**The chapter's last line writes itself: eighteen wooden spoons in twenty-four years, and then fourth,
+above England, in the twenty-seventh.** Hold it against Gen 0 — a man coming home from France with a
+game nobody here played — and against RWC 1987, where Italy lost the first match in World Cup history
+by sixty-four points.
+
+---
+
+## ⭐⭐⭐ GEN 4 IS NOT "THE FIRA TROPHY YEARS". IT IS ITALY'S COLD WAR.
+
+Pulled from the FIR's own head-to-head pages. **All-time balances (to c. 2008):**
+
+| Opponent | Played | Italy | Drawn | Them |
+|---|---|---|---|---|
+| **Romania** | **41** | 22 | 3 | **16** |
+| **Unione Sovietica** | **14** | **4** | 1 | **9** |
+| Cecoslovacchia | 12 | 10 | 1 | 1 |
+| Polonia | 7 | 6 | – | 1 |
+| Spagna | 27 | 23 | 1 | 3 |
+| Marocco | 8 | 6 | – | 2 |
+
+⭐⭐ **Italy played Romania forty-one times and the Soviet Union fourteen — and lost nine of the
+fourteen.** While the Five Nations played each other, **Italy had a complete parallel international life
+against Eastern Europe and North Africa**, in a competition the FIR calls the **Coppa Europa**. That is
+the substance of Section 6, and it is invisible from London.
+
+### THE SOVIET FIXTURE, IN FULL — every November, and almost always within a score
+| Date | Venue | Result |
+|---|---|---|
+| 18.11.1978 | Roma | Italia–URSS **9–11** |
+| 28.10.1979 | Mosca | URSS–Italia **9–0** |
+| 02.11.1980 | Rovigo | Italia–URSS **3–4** |
+| 25.10.1981 | Mosca | URSS–Italia **12–12** |
+| 22.05.1983 | Catania | Italia–URSS **12–10** |
+| 30.10.1983 | Kiev | URSS–Italia **16–7** |
+| 18.11.1984 | L'Aquila | Italia–URSS **13–12** |
+| 10.11.1985 | Mosca | URSS–Italia **15–13** |
+| 16.11.1986 | Genova | Italia–URSS **14–16** |
+| 07.11.1987 | Kishinev | URSS–Italia **12–9** |
+| 05.11.1988 | Treviso | Italia–URSS **12–18** |
+| 05.11.1989 | Mosca | URSS–Italia **15–12** |
+| 24.12.1990 | Rovigo | Italia–URSS **34–12** |
+| 03.11.1991 | Mosca | URSS–Italia **3–21** |
+
+⭐⭐⭐ **Read the margins.** From 1978 to 1989 **every single meeting was decided by nine points or
+fewer**, and most by one, two or three: **9–11, 3–4, 12–12, 12–10, 13–12, 15–13, 14–16, 12–9, 15–12.**
+**A one-point game at Rovigo in 1980. A one-point game at L'Aquila in 1984. A draw in Moscow in 1981.**
+Fourteen years of the tightest fixture either country had, played every autumn, and **Italy lost most of
+it**.
+
+⭐⭐⭐ **AND THEN THE OPPONENT CEASED TO EXIST.** Italy won the last two enormously — **34–12 at Rovigo
+in December 1990** and **21–3 in Moscow on 3 November 1991**. **That Moscow match was played six weeks
+before the Soviet Union was dissolved.** Italy's closest and most persistent rival for a decade and a
+half simply stopped being a country, and there was never another fixture.
+
+**Rename Gen 4.** "The Trophy" is far too weak. Something like **"Every November, Moscow"** or **"The
+Cold War Fixture"** — and note the venues on the Italian side: **Rovigo, Catania, L'Aquila, Treviso,
+Genova** — the provincial rugby towns, not Rome.
+
+### Why this matters to the book, not just to Italy
+- ⭐ **`05-romania.md` is a chapter about a communist state carrying rugby — and Italy is its most
+  frequent opponent, forty-one times.** Neither chapter knows. Italy can supply the fixture list that
+  Romanian rugby actually lived on.
+- ⭐ **The USSR is in no chapter of this book** (not an RWC 2027 nation) and yet it beat Italy nine times
+  in fourteen. Section 6 is the only place that history can be told.
+- **This is what "excluded" actually meant.** Not idleness — a full calendar, against opponents behind
+  the Iron Curtain, with the Five Nations not watching. **The chapter should refuse to describe these
+  years as a wait.**
+
+---
+
+## STILL OPEN AFTER THIS PASS
+1. **Gen 4 (1973–1992) remains the thinnest stretch** — the FIRA Trophy years. The FIR head-to-head pages
+   will carry the results opponent by opponent (Romania, Spain, Poland, Czechoslovakia, Morocco); nobody
+   has pulled them yet.
+2. **RWC 1991** — not researched at all.
+3. **The club structure**: Benetton Treviso, Aironi and Zebre entering the Celtic League / Pro12, and
+   when. Not researched.
+4. **Sergio Parisse.**
+5. **The 18-wooden-spoons figure** — from a Six Nations explainer via search summary. **Open it.**
+6. **The "palla ovale" Italianisation question** — partly answered (the term is in the 1927 committee's
+   own title) but the claim that Fascism *imposed* it is still unsourced.
+
+---
+
 ## LEADS NOT YET VERIFIED — do not use until opened
 - **Stefano Bellandi** as the man who brought rugby to Italy in the 1900s. Search-summary only; **the
   museum page explicitly does not name anyone**, saying only that a "pioneer phase" preceded the First
