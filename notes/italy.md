@@ -758,6 +758,69 @@ confirmed fabricated attribution and one repo-banned source. **This scout was br
 sources only — not facts bound to citations** — so treat anything that looks like a finding with
 suspicion and open the source yourself.
 
+## PROOFREADING PASS (September 2026) — 18 fixes applied
+
+Whole chapter read end to end, Gen 0 to Gen 7. **Both long score tables were checked line by line against
+the FIR ledgers and are correct** — all sixteen France fixtures 1952–1967, and all fourteen Soviet
+fixtures 1978–1991. So were: 1910+90=2000, Dec 1928+72=2000, 1933+64=1997, March 1997→January 1998 as ten
+months, 70−6=64, 34−12=22 and 21−3=18, the six nil-scores against France, and the twelve Soviet matches
+none decided by more than nine points.
+
+**Seven errors of fact:**
+1. **"eleven thousand kilometres of Cold War"** between Rovigo and Moscow — it is about **two thousand**.
+2. **"the reigning world champions of 2007"** for South Africa in November 2016 — **New Zealand** were the
+   holders then. Recast to "the world champions of 2007 — who would be world champions again in 2019".
+3. **"eighteen months after … L'Aquila"** — L'Aquila was **November 1984** and the match was **May 1987**:
+   **two and a half years**.
+4. **"six weeks before the Soviet Union was dissolved"** — 3 November to 26 December 1991 is **seven**.
+5. **"two victories over Spain"** by 1938 — Italy **lost** in 1929 and won in 1930. **One** win, one defeat.
+6. **"seven months after acquiring a federation"** — 20 September 1928 to 20 May 1929 is **eight**.
+7. **"twelve points scored between them"** — the two Spain Tests were 9–0 and 3–0, so **twelve**, not the
+   eleven originally written.
+
+**Two self-contradictions:**
+8. **"The federation was eight weeks old"** three paragraphs after **"three months after the federation
+   existed at all."** Both describe September→December 1928. Now "three months old".
+9. **"separated by six nights"** three lines after **"Seven days apart."** Now seven days.
+
+**Four claims that outran their sources:**
+10. **Julien Saby "acquired as a proper coach at the University of Padua"** — the source calls him a
+    trainer and does not place him at Padua. Recast.
+11. **"one week after a domestic championship"** — the 1929 championship's dates are unknown. Removed.
+12. **"Italy beat Fiji 18–15"** at RWC 1987 — the **18–15 is not in `14-fiji.md`** and was never verified.
+    Score dropped; the win itself stands.
+13. **"the country that has won the Championship more often than anyone except England and France"** of
+    Wales — unverified and probably wrong. Recast to "one of the countries that invented the Championship".
+
+**Four imprecisions:**
+14. **"waited ninety years"** and **"ninety years of trying"** — the game reached Italy in 1910–11 and the
+    first France fixture was 1935. Now **eighty** and **sixty-two**.
+15. **"played every autumn without fail"** against the USSR — there was a **May** fixture at Catania in
+    1983 and **no match at all in 1982**. Recast.
+16. **"aimed squarely across the Channel"** — an English idiom that does not work from Italy. Now "at the
+    English".
+17. **"won by six tries and more"** — a loose gloss on a thirty-eight-point margin. Now the margin itself.
+18. **The France table gave no indication of which side was which.** It is home-side-first throughout;
+    that is now stated in the lead-in.
+
+**Checked and deliberately left:**
+- **"a war that killed six hundred thousand Italians"** (Gen 0) — a background figure, widely attested,
+  not sourced in this file. Left, but a future editor may prefer to soften it.
+- **"South Africa's first defeat by Italy in thirteen meetings"** — from the 2016 match reports. The FIR's
+  own head-to-head page still reads "played 7, Italy 0" because it is **frozen at 2008**; the match
+  reports are the better source here.
+- **The 12–12 draw in Moscow** appears in a list introduced as margins "of one, two or three". It is
+  called out separately as a draw in the next line, so the sequence reads correctly.
+
+⚠️ **The chapter still has no `## Sources` block.** It cannot be promoted without one, and it will be a
+long one: the FIR timeline and the head-to-head ledgers, Sportmemory on Bellandi, the Museo delle
+Civiltà, *Il Bo Live*, Nesti, Hansard-equivalent Italian material, ESPN, RugbyPass, Sky Sports, plus the
+**five rejected claims cited against themselves** (the fabricated Daito Bunka-style attribution pattern,
+the reversed 1929 scoreline, the misattributed FIR president, the invented 1956–57 wins over France, and
+the calcio storico/harpastum overreach).
+
+---
+
 ## HARD RULES CARRIED FROM THE REPO
 - **No Wikipedia, no Grokipedia, no Keith Prowse, no Facebook.**
 - **Dated snapshots, never relative time.**
