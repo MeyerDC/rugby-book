@@ -64,7 +64,7 @@ class-question conversation, not a rule to keep repeating.)
 enclave phase). Then Gen 1+ move forward. **Count the generations, don't read the top number** —
 "runs to Gen 7" means *eight* generations, Gen 0 through 7. Seven-generation chapters (Gen 0–6):
 Uruguay, Argentina, Chile, Georgia, Romania, Ireland, Tonga. **Eight-generation chapters (Gen 0–7) are the
-book's most common tier**: South Africa, England, Wales, Scotland, France, Fiji, Samoa. **Nine (Gen 0–8):**
+book's most common tier**: South Africa, England, Wales, Scotland, France, Fiji, Samoa, Italy. **Nine (Gen 0–8):**
 New Zealand, and Australia when it lands — the two chapters of Section 4 that answer each other, and
 the book's longest spine.
 
@@ -80,11 +80,11 @@ rugby-book/
     01-uruguay.md  02-argentina.md  03-chile.md  04-georgia.md
     05-romania.md  06-south-africa.md  07-england.md  08-wales.md
     09-scotland.md  10-ireland.md  11-france.md  12-new-zealand.md
-    13-australia.md  14-fiji.md  15-samoa.md  16-tonga.md
+    13-australia.md  14-fiji.md  15-samoa.md  16-tonga.md  17-italy.md
   notes/             # per-country research cache (facts + sources); write prose FROM here
     uruguay.md  argentina.md  chile.md  georgia.md  romania.md
     south-africa.md  england.md  wales.md  scotland.md  ireland.md
-    france.md  new-zealand.md  australia.md  fiji.md  samoa.md  tonga.md
+    france.md  new-zealand.md  australia.md  fiji.md  samoa.md  tonga.md  italy.md
   drafts/            # rewrites-in-progress + archived pre-rewrite chapters
     NN-country.md                          # a rewrite being drafted (NOT in chapters/ —
                                            #   combine_book.py bundles every .md there)
@@ -768,6 +768,61 @@ the proofreading record.)
   year, the 1924 Test scores, the Prince Consort Trophy, the 1928 abandoned Test, the 2012 peak ranking,
   and the claim that Aberdeen cost Andy Robinson his job.
 
+
+### 17. Italy — `17-italy.md`  (Gen 0–7)
+**The country the game reached from France, in the luggage of a migrant worker — and the one that founded
+the alternative to the British club, won it, and was then let in.** Opens **Section 6**. (Written and
+proofread September 2026; 734 lines, 11,600 words, Gen 0–7. `notes/italy.md` holds the fact base, the
+inherited threads, the retrieval tool, the hedged-facts list and the proofreading record.)
+- **Gen 0** The Man Who Came Back from France (1910–1927) · **Gen 1** Our Sport (1928–1938) · **Gen 2**
+  Sport da Combattimento (1939–1948) · **Gen 3** The Downgraded Fixture (1949–1972) · **Gen 4** Every
+  November, Moscow (1973–1992) · **Gen 5** Beating France (1993–1999) · **Gen 6** Inside (2000–2015) ·
+  **Gen 7** Seven Days in November (2016–2026), closing on the same **mid-July 2026** snapshot as chapters
+  12–16.
+- **⭐⭐⭐ THE ORIGIN IS UNLIKE ANY OTHER IN THE BOOK.** **Stefano Bellandi**, ***economo del Teatro alla
+  Scala***, "**had discovered rugby in France, where he had emigrated**". His US Milanese side lost **15–0
+  to Voiron at the Arena on 2 April 1911** and the crowd went home *"entusiasti dello spettacolo"*. No
+  Briton, no enclave, no school, no missionary, no governor. **Where Fiji, Samoa and Tonga export men and
+  import money, Italy imported a sport inside a returning migrant.**
+- **⭐⭐⭐ BRITAIN IS ABSENT FROM THE ENTIRE FOUNDING RECORD.** The first match on Italian soil (**Turin,
+  1910**) was **Racing Club de Paris v Servette**; the first Italian side played **Voiron**; and in
+  **1933, at Turin, Italy, France, Germany, Romania and Czechoslovakia founded FIRA** — two years after
+  the Home Unions expelled France. `11-france.md` tells that from the French side as "making do with Nazi
+  Germany and Fascist Italy"; **from Italy's side it is founding something**, and it became **Rugby
+  Europe**, the body `04-georgia.md` and `05-romania.md` both depend on without explaining.
+- **⭐⭐ THE STATE TOOK IT, AND IT COST.** *Lo sport fascista* called rugby ***"il nostro sport"*** in
+  **December 1928**, three months after the federation existed. **Achille Starace**: *"**sport da
+  combattimento**, deve essere praticato e largamente diffuso."* Run through the **GIL** and the **GUF**.
+  Then **at least ten rugbyists killed — the heaviest loss of any Italian sporting federation**, out of a
+  sport whose first championship had six clubs. ⭐ **It rhymes with `16-tonga.md` inverted**: McLeod
+  appraised Tongan bodies in 1941, Starace appraised Italian ones. *Section 5 is about bodies being taken;
+  this is about bodies being volunteered.*
+- **⭐⭐⭐ WHAT EXCLUSION ACTUALLY LOOKED LIKE.** **Sixteen consecutive springs** playing France, 1952–67,
+  all lost — but **within two points at Grenoble in 1963** and three at Brescia in 1962. Then **Toulon
+  1967, France 60–13**, after which France kept the fixture and **sent 'A' sides and Espoirs for
+  twenty-eight years**. ⭐ **The two federations still keep different books — 31 matches on the FIR's
+  count, 45 "meetings" on ESPN's** — and the fourteen-match gap *is* the relationship.
+- **⭐⭐⭐ AND ITALY HAD A FULL INTERNATIONAL LIFE NOBODY WATCHED.** **Romania 41 times**, **the Soviet
+  Union 14** (Italy lost nine), Spain 27, Czechoslovakia 12, Poland 7, Morocco 8. **Twelve of the fourteen
+  Soviet matches were decided by nine points or fewer** — one-point games at Rovigo and L'Aquila, a draw
+  in Moscow — ending in **Moscow on 3 November 1991, seven weeks before the USSR dissolved**. ⚠️ **No
+  player's account of any of it survives**; three Italian-language searches found nothing, and the chapter
+  says so rather than inventing atmosphere. ⭐ **Italy is also the opponent Romania played most.**
+- **⭐⭐⭐ THE ARC THAT NAMES THE SECTION.** **Grenoble, 22 March 1997: Italy 40 France 32** — the **Coppa
+  Europa** won at last, sixty-four years after Turin. **Ten months later, in January 1998, Italy's Six
+  Nations election was ratified.** **Italy won the committee it had built and was then admitted to the
+  committee that had excluded it.**
+- **⭐⭐ THE WEEK THE CHAPTER IS NAMED FOR.** **Florence, 19 Nov 2016: Italy 20, South Africa 18.**
+  **Padua, 26 Nov 2016: Tonga 20, Italy 18.** Same score, home both times, seven days apart. Both halves
+  are already in this book, in `06-south-africa.md` and `16-tonga.md`. And in **2026 Italy finished fourth
+  in the Six Nations, above England** — equalling its best campaign, twenty-six years after being let in.
+- **⚠️ Sourcing note.** The constraint here was **language, not scarcity** — the chapter runs on Italian
+  sources: the **FIR timeline and head-to-head ledgers**, **Sportmemory**, the **Museo delle Civiltà**,
+  the **University of Padua's *Il Bo Live***, and **Nesti** on calcio storico. **Five claims were rejected
+  after hand-verification** and are recorded against themselves in the Sources block: a reversed 1929
+  scoreline, a misattributed FIR president, invented 1956–57 wins over France, a calcio storico/harpastum
+  overreach, and a wooden-spoon total on which two sources disagree (**no number is printed**).
+
 ---
 
 ## 5A. SCOPE (decided August 2026): **all 24 teams of Rugby World Cup 2027**
@@ -781,7 +836,7 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 | Pool | Teams |
 |---|---|
 | **A** | ✅ New Zealand · ✅ Australia · ✅ Chile · Hong Kong China |
-| **B** | ✅ South Africa · Italy · ✅ Georgia · ✅ Romania |
+| **B** | ✅ South Africa · ✅ Italy · ✅ Georgia · ✅ Romania |
 | **C** | ✅ Argentina · ✅ Fiji · Spain · Canada |
 | **D** | ✅ Ireland · ✅ Scotland · ✅ Uruguay · Portugal |
 | **E** | ✅ France · Japan · USA · ✅ Samoa |
@@ -791,7 +846,7 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 Wales, Fiji, Australia, England, Argentina, Japan); 12 through regional qualifying (Georgia, Spain,
 Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kong China).
 
-**Status: 16 written, 8 to go.**
+**Status: 17 written, 7 to go.**
 
 ### ⭐ A structural gift discovered while writing ch. 15 — use it
 World Rugby's **inaugural Nations Cup (2026)** is the **second-tier** competition, and its field is
@@ -848,7 +903,7 @@ seventy years later — and the headings are built to rhyme.
    a District Meeting in 1835 onward. Samoa and Tonga are the harder version of Fiji — **19th and 20th
    in the world in July 2026, against Fiji's 9th**, and in the **second-tier Nations Cup** while Fiji
    went up into the Nations Championship. **Section 5 is complete; Section 6 (Italy, ch. 17) is next.**
-6. **At the Committee's Door** (17–19): **Italy, Spain, Portugal** — *the same body that invented the
+6. **At the Committee's Door** (17–19): ✅ **Italy**, **Spain**, **Portugal** — *the same body that invented the
    bar in §3, seventy years on, deciding who is let in.* ⚠️ **PROVISIONAL — do not carve this in stone
    until ch. 17 is researched.** The old name, "the late admissions", was dropped because **two of the
    three were never admitted**: Italy joined the Six Nations in 2000; Spain and Portugal have not. It
@@ -903,6 +958,18 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
+- ✅ **Italy is written and proofread** (September 2026) — see §5.17. **Spain (ch. 18) is next.** Italy
+  hands it two direct threads: **Italy's first Test was against Spain, at Barcelona on 20 May 1929, lost
+  9–0** — and the two have met **twenty-seven times**, Spain winning three. Spain was also in the
+  **FIRA/Coppa Europa** field alongside Romania, Poland and Czechoslovakia, so the institution founded at
+  Turin in 1933 plausibly carries ch. 18 as well. ⚠️ **AND THE SECTION NAME NOW NEEDS DECIDING.** The
+  Italy chapter argues that **Italy won the committee it had built and was then admitted to the committee
+  that had excluded it** — which makes "At the Committee's Door" the wrong frame, since the chapter is
+  about founding a rival body rather than queuing at anyone's door. **"The Committee They Built"** is the
+  candidate. Held only because Spain and Portugal are not yet scoped; **decide it during ch. 18.**
+  ⭐ **`notes/italy.md` holds a retrieval tool worth knowing about**: `federugby.it/italia-vs-<paese>-all-time/`
+  returns the FIR's complete head-to-head against any opponent, with venue, date, competition and score —
+  **but the pages are frozen around 2008–09** and carry nothing modern.
 - ✅ **Tonga is written and proofread** (September 2026) — see §5.16. **Section 5 is complete.**
   **Italy (ch. 17) is next and opens Section 6, "At the Committee's Door" — a provisional name; see the section plan.** Tonga hands it one thread: the
   chapter closes pointing at a country "told it did not belong at a table it had been sitting at since
