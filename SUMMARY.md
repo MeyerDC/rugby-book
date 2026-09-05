@@ -64,7 +64,7 @@ class-question conversation, not a rule to keep repeating.)
 enclave phase). Then Gen 1+ move forward. **Count the generations, don't read the top number** —
 "runs to Gen 7" means *eight* generations, Gen 0 through 7. Seven-generation chapters (Gen 0–6):
 Uruguay, Argentina, Chile, Georgia, Romania, Ireland. **Eight-generation chapters (Gen 0–7) are the
-book's most common tier**: South Africa, England, Wales, Scotland, France. **Nine (Gen 0–8):**
+book's most common tier**: South Africa, England, Wales, Scotland, France, Fiji, Samoa. **Nine (Gen 0–8):**
 New Zealand, and Australia when it lands — the two chapters of Section 4 that answer each other, and
 the book's longest spine.
 
@@ -80,11 +80,11 @@ rugby-book/
     01-uruguay.md  02-argentina.md  03-chile.md  04-georgia.md
     05-romania.md  06-south-africa.md  07-england.md  08-wales.md
     09-scotland.md  10-ireland.md  11-france.md  12-new-zealand.md
-    13-australia.md
+    13-australia.md  14-fiji.md  15-samoa.md
   notes/             # per-country research cache (facts + sources); write prose FROM here
     uruguay.md  argentina.md  chile.md  georgia.md  romania.md
     south-africa.md  england.md  wales.md  scotland.md  ireland.md
-    france.md  new-zealand.md  australia.md
+    france.md  new-zealand.md  australia.md  fiji.md  samoa.md
   drafts/            # rewrites-in-progress + archived pre-rewrite chapters
     NN-country.md                          # a rewrite being drafted (NOT in chapters/ —
                                            #   combine_book.py bundles every .md there)
@@ -559,6 +559,161 @@ nine-generation spine.)
   the **blue-and-maroon 1899 jerseys**.
 
 
+
+### 14. Fiji — `14-fiji.md`  (Gen 0–7)
+**The country where a colonial governor tried to install a class and the institutions underneath the
+game refused to carry it — and where the sorting happened on race instead, before rugby arrived.**
+Opens **Section 5: The Church and the Export**. (Written August 2026, **proofread September 2026**;
+743 lines, Gen 0–7, the book's most common tier. `notes/fiji.md` holds the fact base, the spine, the
+retrieval map, the hedged-facts list and the proofreading record.)
+- **Gen 0** The Constabulary Ground (1874–1912) · **Gen 1** Two Unions, One Colony (1913–1938) ·
+  **Gen 2** Barefoot (1939–1954) · **Gen 3** The Colony Leaves (1955–1976) · **Gen 4** The Short Game,
+  and the Coup (1977–1991) · **Gen 5** Open, and the Leak (1992–2006) · **Gen 6** The Body Trade
+  (2007–2019) · **Gen 7** The Boat (2020–2026), closing on a dated **18 July 2026** snapshot —
+  *the same afternoon `12-new-zealand.md` and `13-australia.md` close on.*
+- **⭐⭐⭐ THE SPINE IS THE DIRECT CONTROL CASE AGAINST `13-australia.md`.** Governor **Sir Everard Im
+  Thurn** "believed that there were **two classes of Fijians** … **the chiefs as thinkers and
+  overseers, the commoners as manual labourers**," and built **Queen Victoria School** at Nasinu on the
+  English public-school model — gazetted 17 Nov 1905, opened **3 Jan 1907 with 32 boys**, and **by 1910
+  admitting only the sons of chiefs**, because headmaster **J. B. Thomson** held that "a chief's son is
+  far more intelligent than the son of a commoner." QVS won the **first Deans Trophy in 1939** and
+  became one of the two great nurseries — **and no class ever formed**. Australia's headmaster
+  succeeded; Fiji's failed. The variable is what stood outside the school gate: in Sydney an old boys'
+  club that existed to keep a man among his own kind, in Fiji a **village** where the club, the
+  congregation and the kin group are one body of people.
+- **⭐⭐⭐ THE DIVISION THAT DID TAKE WAS BUILT BEFORE RUGBY ARRIVED, AND NOT BY RUGBY.** Gordon kept
+  indigenous Fijians off the plantations and imported **60,965 indentured labourers, 1879–1916**
+  (Close-Barry, ANU Press). The Methodist mission split into **separate Fijian and Indo-Fijian branches
+  in 1901**. Rugby then made a European union (**1913**), a "native competition" (**1914**) and a
+  **Fiji Native Union (1915), affiliated not merged**; soccer's controlling body was the **Fiji Indian
+  Football Association from 1938**. Rugby merged in **1945**, soccer desegregated in **1961–62**, and
+  **neither changed who plays what.** *An institution does not have to be a sporting institution to
+  give a sport its character* — the chapter's stated correction to the rest of the book.
+- **⭐⭐ THE BOOK'S TITLE IS QUOTED BACK AT IT BY A PEER-REVIEWED SOURCE.** Stewart-Withers, Sewabu and
+  Richardson (*Journal of Sport for Development*, 2017): "**rugby in Fiji is not bound by class …
+  where even the poorest can participate**." Same paper: **up to 500 Fijians on professional contracts
+  abroad**; **50+ in France's top two divisions**; **F$18.54m of rugby remittances in 2006 = 11% of all
+  workers' remittances**; French academies in Fiji where "**contracts can be poor or non-existent, so
+  athletes are vulnerable and at risk of exploitation**"; and "**no regulatory framework**" at home.
+- **⭐⭐ RUGBY IS NOT FIJI'S ONLY BODY TRADE AND NOT ITS LARGEST — TELL THEM AS ONE.** Kanemasu et al.,
+  *International Migration* (2017): peacekeeping from **1978**, **1,040 a year**, more per capita than
+  any nation, **US$300m+ since 1978**; **British Army from 1961/62**, peak intake **490 in 2001/02**,
+  suspended **2009** after the coup, **10 in 2014/15**, **2,740 since 1998/99**; PMSCs from **2003** and
+  **4,000 Fijians in Iraq in 2006**. Their term: a "**muscle trade**" on core–periphery terms.
+- **⭐⭐⭐ THE LANDING — DO NOT BLUNT IT.** In **2026** Fiji reached the top table (the inaugural
+  **Nations Championship**, twelve teams) and played **all three of its "home" matches in Britain** —
+  Cardiff City Stadium (4 July, Wales 39–24), the Hill Dickinson Stadium (11 July, England 73–8) and
+  **Murrayfield (18 July, Scotland 33–17, Fiji leading 17–7 at half-time)**. The FRU's own release
+  calls them "home" fixtures on "a unique journey across the Northern Hemisphere." Twelve months
+  earlier Fiji had beaten **Scotland 29–14 in Suva**. *The country that exports its players had
+  exported its home ground.* The championship's own format sends Europe south in July; Australia's July
+  fixtures were in Australia.
+- **Cross-chapter links established:** Fiji's **first Test was against Samoa at Apia, 18 Aug 1924**, 7am
+  around a tree, 6–0 — hand it to ch. 15, and the Tonga leg to ch. 16; the **Deans Trophy was donated by
+  the NZ Māori side that toured in 1938** (`12-new-zealand.md`); **Paddy Sheehan**, a Dunedin plumber and
+  former **Otago** captain, founded the union in 1913 (`12-new-zealand.md` Gen 0); the **1987 coup and
+  Western Samoa on standby** is already in `12-new-zealand.md` Gen 6; **Nantes 2007** is in
+  `08-wales.md` Gen 6; **Kamaishi 2019** is in `01-uruguay.md` Gen 5; and the **1954 drawn series in
+  Australia** is the other end of the **69-year** gap closed at Saint-Étienne on 17 Sept 2023.
+- **⚠️ THE CRICKET MOTIF IS INVERTED HERE, ON THE UNION'S OWN AUTHORITY.** The FRU explains why no rugby
+  was played outside Suva before 1939: "**almost every suitable ground already has a concrete cricket
+  pitch at the centre**." Elsewhere the cricket club hatched the winter game; in Fiji the cricket square
+  physically blocked it.
+- **⚠️ HEDGED ON PURPOSE — see `notes/fiji.md` "STILL UNSOURCED".** The **cibi's** origin story (Ratu
+  Bola, 1939) — the FRU's own page has the heading and **no text**, so it is told as a story, not a
+  document; the **1987 quarter-final score/date**; the FRU's claim that the **1952 tour saved the ARU
+  from bankruptcy** (attributed, not asserted); the **IRB membership year** (1986 vs 1987 — "the
+  mid-1980s"); **Deans Trophy title totals** (sources disagree outright — first-win years only); the
+  **1939 match count**; and **Kuruvoli's points breakdown** in 2023.
+- **Sourcing note — the retrieval map in `notes/fiji.md` will save the next session hours.** ✅
+  **`fijirugby.com` is wide open to curl** and its `/corporate/history/` page is a dated chronology
+  1884–2006 that carried Gen 0–5. ✅ **ANU Press** (`press-files.anu.edu.au`) serves open-access
+  peer-reviewed monographs — **Close-Barry's *A Mission Divided*** is the church spine. ✅
+  **`sportanddev.org`** hosts the full JSFD PDF (⚠️ its text layer has lost inter-word spacing —
+  quotes must be respaced by hand). ✅ **`eprints.worc.ac.uk`** serves the Kanemasu/Molnar **abstracts**
+  even where PDFs are 401, and serves the **PMSC paper in full**. ✅ Frontiers, RNZ, *The Fiji Times*.
+  ❌ **`tandfonline.com` 403s** — "Chiefs, warriors and rugby players" (2025) is exactly on topic and
+  was never read, so it is **not cited**. ⚠️ **`rugbymuseum.co.nz` has only three Fiji entries and
+  does not carry the 1939 tour** — do not assume the New Zealand source base covers Fiji.
+- **All 38 source URLs were hand-checked for HTTP status** (August 2026); three BBC `feeds.bbci.co.uk`
+  links and an ESPN Scrum link were dead or 403 and were replaced.
+
+
+### 15. Samoa — `15-samoa.md`  (Gen 0–7)
+**The book's cleanest natural experiment: one people, cut in half by three European powers in 1899, and
+the two halves now play different football codes.** (Written August 2026, **proofread September 2026**; 584 lines, Gen 0–7.
+`notes/samoa.md` holds the fact base, the retrieval map, the hedged-facts list and the proofreading
+record.)
+- **Gen 0** Lotu (1830–1919) · **Gen 1** The Brothers and the Tree (1920–1938) · **Gen 2** The Long
+  Absence (1939–1961) · **Gen 3** Mr Rugby (1962–1986) · **Gen 4** Cardiff (1987–1995) · **Gen 5** The
+  Diaspora Team (1996–2010) · **Gen 6** The Union and the Players (2011–2019) · **Gen 7** Twenty-Fourth
+  (2020–2026), closing on a dated **18 July 2026** snapshot — *the fourth chapter to close on that
+  afternoon.*
+- **⭐⭐⭐ THE SPINE IS THE 1899 PARTITION.** The **Tripartite Convention, 2 December 1899**, gave
+  **Upolu and Savai'i** to Germany (then New Zealand) and **Tutuila and Manu'a** to the United States,
+  for Pago Pago. **No Samoan signed it.** The western half plays rugby; the eastern half plays American
+  football. Same people, same language, same *fa'amatai*, same church — everything held constant except
+  the flag. **Tighter than Limerick and Cork, tighter than Tucumán, tighter than the Borders.**
+- **⭐⭐⭐ AND THE BORDER PROVED ITSELF IN 1918, BEFORE EITHER SPORT ARRIVED.** The **SS *Talune***
+  docked at Apia on **7 November 1918** and the New Zealand administration waved it in; **about 8,500
+  Samoans died in two months — between a fifth and a quarter of the population** (RNZ, quoting Damon
+  Salesa). Forty miles east the US naval commandant quarantined American Sāmoa and **nobody died**.
+  Te Papa records the detail that lands it: Apia's requests to Wellington were rejected, "but **the
+  Administration also refused American aid when assistance from Eastern Sāmoa was offered**."
+- **⭐⭐ THE CARRYING INSTITUTION IS THE VILLAGE, AND ITS PROTOTYPE IS THE PASTOR.** Meleisea: "**When a
+  village decided to become Christian they built a church and a house for a teacher or pastor, and
+  began to contribute to the church by supporting the pastor with food and services.**" *A Samoan
+  village collectively maintains a chosen man so he can act on its behalf* — the *faifeau* in 1830,
+  the six Vaiala men on the radio in 1970, the fares to Cardiff in 1991, the boy at a French academy in
+  2026. **The section's two words, church and export, name one institution.** And its consequence is
+  the chapter's hardest point: **the village's interest and the country's interest are not the same**,
+  which is why no reform in Apia can stop the drain.
+- **⭐⭐⭐ MICHAEL JONES IS THE SECTION'S PERFECT STORY AND HE BELONGS TO SAMOA.** From **World Rugby's
+  own Hall of Fame page**: "**After a solitary cap for Samoa**, Jones switched allegiance to New
+  Zealand in time for the inaugural Rugby World Cup in 1987. In the opening match against Italy, his
+  debut, **Jones became the first player to score a try**." Then: "his **refusal to play on Sundays on
+  religious grounds** restricted him to three appearances" at RWC 1991, and "**he was not considered**"
+  for 1995. Then "**he coached Samoa at two Rugby World Cups**." *The first try in World Cup history,
+  scored by a Samoan for New Zealand, in a tournament Samoa was not invited to, by a man the church
+  cost two World Cups.*
+- **⭐⭐ THE MARISTS CHOSE THE CODE.** Two Marist priests reached Falealupo on **25 May 1845**; the
+  **Marist Brothers brought rugby in 1920**; the **Apia Rugby Union, Vaiala Ulalei and the first Test
+  all landed in 1924** — four years from first ball to first cap. Same motif as Uruguay's Christian
+  Brothers and Ted Larkin's Marist schools in `13-australia.md`.
+- **⭐⭐⭐ THE LANDING, AND IT IS BRUTAL.** Samoa **lost its RWC 2027 place to Chile** — a 32–32 "home"
+  leg at **America First Field, Salt Lake City** and a 31–12 defeat at Viña del Mar (`03-chile.md`
+  carries the Chilean side; match its figures) — then took **the twenty-fourth and last place** on a
+  **13–13 draw with Belgium in Dubai, 18 November 2025**. In 2026 the world split: Fiji and Japan went
+  up into the **Nations Championship**, Samoa and Tonga into the **second-tier World Rugby Nations
+  Cup** (the twelve who had to qualify). **All three of Samoa's July 2026 "home" matches were played in
+  Chile** — including a "home" fixture against Georgia **in the same stadium where Chile had knocked
+  them out ten months earlier**. And the *Samoa Observer* published the squad of 32 by location: **NZ
+  13, France 6, Australia 4, UK 2, Japan 2, other 2 — and Samoa 3.** *Two of those three scored two
+  tries each in the same match.* Do not blunt it.
+- **⚠️ THE BAN IS THE CHAPTER'S BIGGEST SOURCING HOLE AND IT IS FLAGGED IN THE PROSE.** ABC Pacific's
+  caption says rugby "was banned in Samoa for several decades … but returned in the 1950s." **A caption
+  and a headline are the entire basis.** The chapter says so explicitly and builds nothing on it.
+- **⚠️ Also hedged:** **Black Saturday's date** (Te Papa 29 Dec 1929; others 28 Dec — the chapter
+  follows Te Papa and says so); the **2017 insolvency** (the Japan Times report is behind a JavaScript
+  challenge and was never read — **not cited**); **Poyer's quarantine** (US-side accounts, attributed);
+  and the **1920 Marist date** (centenary framing, not a primary document).
+- **⚠️ TRAPS — deliberately absent, do NOT reinstate.** **"Peter Fatialofa the piano mover"** — the
+  sources say **furniture remover**. **"56 times more likely to reach the NFL"** — folkloric; use
+  **Uperesa's 28**, with her own qualification that it is a calculation for a film based on one
+  season's rosters. And **no list of Samoan-eligible players capped elsewhere** — every list found was
+  wiki-derived; the argument runs on Michael Jones, Pat Lam's testimony and the squad-location table.
+- **Sourcing note — retrieval map in `notes/samoa.md`.** ✅ **ABC Pacific's centenary coverage
+  (Sept 2024) is the single best Samoan-voiced rugby history online** — Mapusua, Momoisea, Patu, Senio
+  and Leilua all quoted; use it first. ✅ **`nus.edu.ws`** serves **Malama Meleisea's** history chapter
+  (⚠️ it 403s on repeat requests within the hour). ✅ **Te Papa** and **RNZ** for 1918 and the Mau.
+  ✅ **Duke University Press posts a free PDF of Lisa Uperesa's *Gridiron Capital* introduction** — the
+  scholarly source for American Sāmoa. ✅ **Sky Sports match pages carry a six-match form guide** that
+  reconstructed Samoa's whole 2025–26 record — and mark all three 2026 Nations Cup fixtures "(h)".
+  ❌ `samoaglobalnews.com` 403s; `eagles.rugby` sits behind a Vercel checkpoint; `japantimes.co.jp`
+  serves a JS challenge.
+- **All 23 source URLs hand-checked for HTTP status** (August 2026); a dead Las Vegas Sun link was
+  replaced with ESPN.
+
 ---
 
 ## 5A. SCOPE (decided August 2026): **all 24 teams of Rugby World Cup 2027**
@@ -573,16 +728,30 @@ mid-2026 snapshot pointing toward RWC 2027, so the book reads as a companion to 
 |---|---|
 | **A** | ✅ New Zealand · ✅ Australia · ✅ Chile · Hong Kong China |
 | **B** | ✅ South Africa · Italy · ✅ Georgia · ✅ Romania |
-| **C** | ✅ Argentina · Fiji · Spain · Canada |
+| **C** | ✅ Argentina · ✅ Fiji · Spain · Canada |
 | **D** | ✅ Ireland · ✅ Scotland · ✅ Uruguay · Portugal |
-| **E** | ✅ France · Japan · USA · Samoa |
+| **E** | ✅ France · Japan · USA · ✅ Samoa |
 | **F** | ✅ England · ✅ Wales · Tonga · Zimbabwe |
 
 12 qualified automatically from RWC 2023 (France, New Zealand, Italy, Ireland, South Africa, Scotland,
 Wales, Fiji, Australia, England, Argentina, Japan); 12 through regional qualifying (Georgia, Spain,
 Romania, Portugal, Tonga, Canada, USA, Uruguay, Chile, Samoa, Zimbabwe, Hong Kong China).
 
-**Status: 13 written, 11 to go.**
+**Status: 15 written, 9 to go.**
+
+### ⭐ A structural gift discovered while writing ch. 15 — use it
+World Rugby's **inaugural Nations Cup (2026)** is the **second-tier** competition, and its field is
+**exactly the twelve teams that had to qualify for RWC 2027 through regional competitions**: USA,
+Chile, Samoa, Tonga, Uruguay and Canada in one pool; Georgia, Portugal, Spain, Romania, Hong Kong
+China and Zimbabwe in the other. Above it, the **Nations Championship** took the Six Nations, the
+Rugby Championship, **Japan and Fiji**.
+
+**Eight of this book's nine unwritten countries are in the Nations Cup** — every remaining chapter
+except **Italy** and **Japan**, which went up. In other words, **World Rugby drew a line across world
+rugby in 2026 and the book's remaining chapters are, almost exactly, the countries below it.** Every
+one of the last nine chapters can close on a dated mid-2026 snapshot that places its country in that
+two-tier structure, and their July 2026 results are all reconstructible from the same sources
+(`world.rugby/nations-cup/en`, `all.rugby` match sheets, Sky Sports form guides). **Thread it.**
 
 ### Section plan — organised by CARRIER MECHANISM, not geography
 Each section names **who carried the game and what that did to its character**. That is the book's
@@ -604,10 +773,19 @@ table above is a scope checklist only.)
    → This section **hinges off section 3**: it opens with the Home Unions **expelling France in 1931**
    for professionalism (already carried in `07-england.md`), and the country they threw out is the one
    that later built the pipeline which made Georgian and Romanian rugby.
-5. **The church and the export** (14–16): **Fiji, Samoa, Tonga** — *missionaries and village schools
-   carried it; European and Japanese clubs now extract it.* The sharpest institutional argument in the
-   modern game, and it connects directly to **Saurel's Georgian pipeline** (Georgia Gen 4) and
-   **Argentina's amateur-rule exodus**.
+5. **The church and the export** (14–16): ✅ **Fiji**, **Samoa**, **Tonga** — *missionaries and
+   village schools carried it; European and Japanese clubs now extract it.* The sharpest institutional
+   argument in the modern game, and it connects directly to **Saurel's Georgian pipeline** (Georgia
+   Gen 4) and **Argentina's amateur-rule exodus**. Fiji (ch. 14) establishes the section's mechanism:
+   the carrying institutions (**village, chief, Methodist church** — "ratuism, religion and rugby") are
+   the same ones that make the players exportable, and the trade runs in parallel with **peacekeeping,
+   the British Army and private military contracting**. Samoa (ch. 15) supplies the section's control
+   case — **the 1899 partition of one people into a rugby half and an American-football half** — and
+   its sharpest formulation of the mechanism: *the village maintains a chosen man so he can act on its
+   behalf*, which is the pastor of 1830 and the professional of 2026. **Tonga (ch. 16) is next, and it
+   has one further complication: it was never colonised.** Samoa and Tonga are the harder version of
+   Fiji — **19th and 20th in the world in July 2026, against Fiji's 9th**, and in the **second-tier
+   Nations Cup** while Fiji went up into the Nations Championship.
 6. **The late admissions** (17–19): **Italy, Spain, Portugal** — *Latin Europe, admitted to a British
    club on somebody else's terms.*
 7. **Company and campus** (20–22): **Japan, USA, Canada** — *carried by employers and universities
@@ -655,11 +833,25 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
+- ✅ **Samoa is written** (August 2026) — see §5.15. **Tonga (ch. 16) is next and completes Section 5.**
+  Samoa hands it three threads: the **1924 Fijian tour's Tongan leg** (nine matches, seven won), the
+  **2024 centenary match against Tonga**, and the **2026 Nations Cup**, in which Samoa and Tonga sat
+  19th and 20th in the world in the same second-tier pool. Expect the same source pattern to work —
+  the federation's own history, an open-access mission history, the Kanemasu/Uperesa migration
+  corpus — and expect the **"never colonised"** fact to be the chapter's spine: Tonga kept its
+  monarchy through a British protected-state arrangement, so its rugby cannot be explained by a
+  colonial administration the way Fiji's and Samoa's can.
+- ✅ **Fiji is written** (August 2026) — see §5.14. Chapter 14 **opens Section 5**, and it is the
+  chapter where a peer-reviewed source states the book's own title as settled background. **Samoa
+  (ch. 15) is next**, and Fiji hands it two direct threads: Fiji's **first Test was played at Apia on
+  18 August 1924** at 7am on a field with a tree on the halfway line, and Samoa was the country **put
+  on standby in 1987** in case Fiji could not travel after the coup. Tonga (ch. 16) inherits the 1924
+  Tongan leg of the same tour. Both chapters should reuse Fiji's source pattern: **the federation's own
+  history page, an open-access ANU Press or JSFD-style monograph on the mission, and the
+  Kanemasu/Molnar migration corpus** — and both should expect the migration argument to be sharper and
+  the domestic institutions weaker than Fiji's.
 - ✅ **Australia is written** (August 2026) — see §5.13. Chapter 13 completes **Section 4**, and is the
-  book's longest chapter and its second nine-generation spine. **Section 5 (the church and the export:
-  Fiji, Samoa, Tonga) is next**, and it connects to Australia directly — the Pacific players this book
-  will meet there are recruited by, and lost to, exactly the four-code Australian market that
-  `13-australia.md` Gen 7 describes.
+  book's longest chapter and its second nine-generation spine.
 - ✅ **New Zealand is written** (August 2026) — see §5.12. Chapter 12, the second of Section 4, and the
   book's first nine-generation chapter.
 - ✅ **Georgia is done** (August 2026) — all nine chapters are now in the rewritten voice.
