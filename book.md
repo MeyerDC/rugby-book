@@ -8521,7 +8521,7 @@ Then Wales come back at the scrum, and keep coming, and with seven minutes left 
 
 In the seventy-sixth minute the prop **Graham Dewes** goes over, and **Nicky Little** kicks the conversion, and Fiji win **38–34**.
 
-World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." the Wales chapter tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
+World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." The Wales chapter tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
 
 From Nantes it looked like something else. It looked like the day the sport's oldest joke — *the Fijians are wonderful to watch, aren't they* — stopped being funny.
 
@@ -8535,7 +8535,7 @@ Now pull back, because between that quarter-final and the end of this generation
 
 Here is what the export looked like, once somebody counted it.
 
-In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because Romania is a chapter of this book about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
+In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because Romania has a chapter of its own in this book, about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
 
 The counts:
 
@@ -9230,7 +9230,7 @@ In **2022**, for the first time, a professional rugby team existed for Samoan pl
 
 It is based in **South Auckland**.
 
-Put that beside the Fiji chapter, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
+Put that beside Fiji, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
 
 *Samoa's professional pathway is in another country, and it is in that country for reasons that were settled long before rugby.*
 
@@ -9280,7 +9280,7 @@ Then came thirteen months that put the whole argument on the scoreboard.
 
 Six days earlier that same Scotland side had lost **29–14 to Fiji in Suva**. Two Pacific islands, one touring team, one week, and opposite results.
 
-**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country the Chile chapter follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
+**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country this book follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
 
 The first leg is Samoa's home fixture. It is played at **America First Field, Salt Lake City, Utah.**
 
@@ -9499,7 +9499,7 @@ And then **Bernard Braine**, on what the Bill in front of them actually was:
 
 Luard put it more flatly still: "This is not an independence Bill. **Tonga is, of course, already an independent State.**"
 
-Understand what that does to this section of the book. The Fiji chapter is a country whose racial division was built by a colonial land policy in 1874 and inherited by a sport that had nothing to do with making it. The Samoa chapter is a country cut in half in 1899 by three imperial governments and handed two different footballs. **Tonga has neither.** No governor drew a line through it. No administration decided who its people were. There is no coloniser in this chapter to carry the argument — which means that whatever Tongan rugby became, its own institutions made it.
+Understand what that does to this section of the book. Fiji is a country whose racial division was built by a colonial land policy in 1874 and inherited by a sport that had nothing to do with making it. Samoa is a country cut in half in 1899 by three imperial governments and handed two different footballs. **Tonga has neither.** No governor drew a line through it. No administration decided who its people were. There is no coloniser in this chapter to carry the argument — which means that whatever Tongan rugby became, its own institutions made it.
 
 That is the hardest version of this book's question, and it is why Tonga is the chapter that closes the section.
 
@@ -9605,7 +9605,7 @@ The historian **Amanda SullivanLee**, a Tongan writing about the Tongan military
 
 Read that against the rugby writing in the two chapters beside this one.
 
-In 1924, at Apia, a Fijian tour manager filed the first adjective ever applied to Samoan rugby by an outsider: **"the big, sturdy men of Apia."** the Samoa chapter notes that people were still writing that sentence a hundred and two years later. In 2007, at Nantes, after Fiji had knocked Wales out of a World Cup, the beaten fly half explained them like this: **"Give them space and time and they move the ball well and have an offloading game and put you under pressure."** the Fiji chapter calls it the compliment the rugby world had been paying Fiji since 1939 without ever once letting it cost them anything.
+In 1924, at Apia, a Fijian tour manager filed the first adjective ever applied to Samoan rugby by an outsider: **"the big, sturdy men of Apia."** The Samoa chapter notes that people were still writing that sentence a hundred and two years later. In 2007, at Nantes, after Fiji had knocked Wales out of a World Cup, the beaten fly half explained them like this: **"Give them space and time and they move the ball well and have an offloading game and put you under pressure."** The Fiji chapter calls it the compliment the rugby world had been paying Fiji since 1939 without ever once letting it cost them anything.
 
 **Physically magnificent. Naturally gifted. Needing somebody else's structure to be useful.**
 
@@ -9845,7 +9845,7 @@ What Tonga had instead of a structure was days.
 
 In **1999**, at the World Cup, Tonga beat **Italy 28–25**. Piutau, a boy at the time, remembered it precisely for what it did to boys: "It was massive just in terms of, for a young Tongan kid growing up, and **seeing that these things were possible**."
 
-That is the entire function of a Tier Two national team, stated by someone it worked on. Not trophies. **Evidence that the thing is possible.** the Samoa chapter records the same mechanism from Cardiff in 1991 — Pat Lam's classroom, Kevin Senio at eleven years old realising *we can do that too*. It is the one thing a country with no money can still manufacture, and it costs a single afternoon.
+That is the entire function of a Tier Two national team, stated by someone it worked on. Not trophies. **Evidence that the thing is possible.** The Samoa chapter records the same mechanism from Cardiff in 1991 — Pat Lam's classroom, Kevin Senio at eleven years old realising *we can do that too*. It is the one thing a country with no money can still manufacture, and it costs a single afternoon.
 
 The trouble is that it has to be manufactured again every few years, and Tonga's fixture list was not built to allow it.
 

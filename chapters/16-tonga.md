@@ -106,7 +106,7 @@ And then **Bernard Braine**, on what the Bill in front of them actually was:
 
 Luard put it more flatly still: "This is not an independence Bill. **Tonga is, of course, already an independent State.**"
 
-Understand what that does to this section of the book. The Fiji chapter is a country whose racial division was built by a colonial land policy in 1874 and inherited by a sport that had nothing to do with making it. The Samoa chapter is a country cut in half in 1899 by three imperial governments and handed two different footballs. **Tonga has neither.** No governor drew a line through it. No administration decided who its people were. There is no coloniser in this chapter to carry the argument — which means that whatever Tongan rugby became, its own institutions made it.
+Understand what that does to this section of the book. Fiji is a country whose racial division was built by a colonial land policy in 1874 and inherited by a sport that had nothing to do with making it. Samoa is a country cut in half in 1899 by three imperial governments and handed two different footballs. **Tonga has neither.** No governor drew a line through it. No administration decided who its people were. There is no coloniser in this chapter to carry the argument — which means that whatever Tongan rugby became, its own institutions made it.
 
 That is the hardest version of this book's question, and it is why Tonga is the chapter that closes the section.
 
@@ -212,7 +212,7 @@ The historian **Amanda SullivanLee**, a Tongan writing about the Tongan military
 
 Read that against the rugby writing in the two chapters beside this one.
 
-In 1924, at Apia, a Fijian tour manager filed the first adjective ever applied to Samoan rugby by an outsider: **"the big, sturdy men of Apia."** the Samoa chapter notes that people were still writing that sentence a hundred and two years later. In 2007, at Nantes, after Fiji had knocked Wales out of a World Cup, the beaten fly half explained them like this: **"Give them space and time and they move the ball well and have an offloading game and put you under pressure."** the Fiji chapter calls it the compliment the rugby world had been paying Fiji since 1939 without ever once letting it cost them anything.
+In 1924, at Apia, a Fijian tour manager filed the first adjective ever applied to Samoan rugby by an outsider: **"the big, sturdy men of Apia."** The Samoa chapter notes that people were still writing that sentence a hundred and two years later. In 2007, at Nantes, after Fiji had knocked Wales out of a World Cup, the beaten fly half explained them like this: **"Give them space and time and they move the ball well and have an offloading game and put you under pressure."** The Fiji chapter calls it the compliment the rugby world had been paying Fiji since 1939 without ever once letting it cost them anything.
 
 **Physically magnificent. Naturally gifted. Needing somebody else's structure to be useful.**
 
@@ -452,7 +452,7 @@ What Tonga had instead of a structure was days.
 
 In **1999**, at the World Cup, Tonga beat **Italy 28–25**. Piutau, a boy at the time, remembered it precisely for what it did to boys: "It was massive just in terms of, for a young Tongan kid growing up, and **seeing that these things were possible**."
 
-That is the entire function of a Tier Two national team, stated by someone it worked on. Not trophies. **Evidence that the thing is possible.** the Samoa chapter records the same mechanism from Cardiff in 1991 — Pat Lam's classroom, Kevin Senio at eleven years old realising *we can do that too*. It is the one thing a country with no money can still manufacture, and it costs a single afternoon.
+That is the entire function of a Tier Two national team, stated by someone it worked on. Not trophies. **Evidence that the thing is possible.** The Samoa chapter records the same mechanism from Cardiff in 1991 — Pat Lam's classroom, Kevin Senio at eleven years old realising *we can do that too*. It is the one thing a country with no money can still manufacture, and it costs a single afternoon.
 
 The trouble is that it has to be manufactured again every few years, and Tonga's fixture list was not built to allow it.
 

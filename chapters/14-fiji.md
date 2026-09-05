@@ -457,7 +457,7 @@ Then Wales come back at the scrum, and keep coming, and with seven minutes left 
 
 In the seventy-sixth minute the prop **Graham Dewes** goes over, and **Nicky Little** kicks the conversion, and Fiji win **38–34**.
 
-World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." the Wales chapter tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
+World Rugby's own retrospective calls it, without qualification, "**Fiji's finest hour at the Rugby World Cup**." The Wales chapter tells the Welsh side of that evening: a defeat that ended a coaching regime and sent a country into another round of its recurring search for a saviour. Wales's own fly half, Stephen Jones, gave the reason afterwards, and it is the compliment the rugby world had been paying Fiji since the *Waikato Times* in 1939, without ever once letting it cost them anything: "Give them space and time and they move the ball well and have an offloading game and put you under pressure. They did that day and scored some wonderful tries."
 
 From Nantes it looked like something else. It looked like the day the sport's oldest joke — *the Fijians are wonderful to watch, aren't they* — stopped being funny.
 
@@ -471,7 +471,7 @@ Now pull back, because between that quarter-final and the end of this generation
 
 Here is what the export looked like, once somebody counted it.
 
-In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because Romania is a chapter of this book about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
+In work published by the *Journal of Sport for Development* in 2017, **Rochelle Stewart-Withers, Koli Sewabu and Sam Richardson** assembled the figures. Fijian players, they note, "can be found in all levels of rugby from the top tiers (**France, Britain and New Zealand**) to lower tiers (**USA, Romania and Japan**)" — and there is a small jolt in reading *Romania* in that list, because Romania has a chapter of its own in this book, about a country that is itself a supplier. Fiji exports players to countries that are exporting players of their own.
 
 The counts:
 

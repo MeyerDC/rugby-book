@@ -422,7 +422,7 @@ In **2022**, for the first time, a professional rugby team existed for Samoan pl
 
 It is based in **South Auckland**.
 
-Put that beside the Fiji chapter, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
+Put that beside Fiji, and the difference is the entire chapter. Fiji's professional team plays in Fiji. Samoa's professional team plays in New Zealand — and not because anyone was careless, but because that is where the Samoans are. Auckland has one of the largest Samoan populations of any city on earth. A team built to develop Samoan players was built where the Samoan players live, and the Samoan players live in the country that administered Samoa until 1962.
 
 *Samoa's professional pathway is in another country, and it is in that country for reasons that were settled long before rugby.*
 
@@ -472,7 +472,7 @@ Then came thirteen months that put the whole argument on the scoreboard.
 
 Six days earlier that same Scotland side had lost **29–14 to Fiji in Suva**. Two Pacific islands, one touring team, one week, and opposite results.
 
-**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country the Chile chapter follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
+**20 September 2025.** Samoa play Chile in the first leg of a Rugby World Cup qualifying play-off. Chile are the country this book follows from the nitrate ports of Iquique to the CARR at Parque Mahuida — a nation that reached its first World Cup in 2023 after a hundred and twenty-nine years of trying.
 
 The first leg is Samoa's home fixture. It is played at **America First Field, Salt Lake City, Utah.**
 
