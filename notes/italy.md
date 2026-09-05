@@ -582,7 +582,21 @@ arrived at from opposite directions.
 
 ### Sergio Parisse
 - **142 caps for Italy** — the most-capped Italian.
-- **Five Rugby World Cups.**
+- ⭐⭐⭐ **Five Rugby World Cups, 2003–2019 — verified.** He was only the **third player ever** to reach
+  five, after **Brian Lima (Samoa, 1991–2007)** and his compatriot **Mauro Bergamasco (Italy,
+  1999–2015)**. **Two of the three are Italian** — the country let in late produced two of the three most
+  durable World Cup careers in the game.
+  ⭐⭐ **And the first of the three is already in this book:** `15-samoa.md` names **Brian Lima** twice —
+  in the 1991 Cardiff side and in its closing summary ("produced Brian Lima and Peter Fatialofa"). **The
+  chapter immediately before Italy's holds the man Parisse was chasing.**
+- ⭐⭐⭐ **His fifth World Cup had no farewell.** Italy's RWC 2019 Pool B match **against New Zealand was
+  cancelled because of Typhoon Hagibis**, so Parisse's last World Cup match simply never took place.
+  ⭐ **The same typhoon is already in `09-scotland.md`**, whose Sources block cites Japan 28–21 Scotland
+  as a "typhoon-affected pool exit". **One storm ended Scotland's tournament and Parisse's career**, and
+  the two chapters can carry it from opposite ends.
+- When he faced New Zealand at **RWC 2003** he was the **youngest player ever to have appeared for his
+  country at a World Cup**.
+- **The first Italian inducted into the World Rugby Hall of Fame.**
 - Broke the **Six Nations appearance record**.
 - ⭐⭐ Signed for **Benetton Treviso in 2003**, and left in **2005 for Stade Français**.
 
