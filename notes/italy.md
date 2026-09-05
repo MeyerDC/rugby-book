@@ -566,6 +566,58 @@ Genova** — the provincial rugby towns, not Rome.
 
 ---
 
+## GEN 6–7 — THE CLUBS AND THE PLAYER
+
+### The clubs left their own league
+- **2010:** Italian clubs entered the **Celtic League** — **Treviso** (now **Benetton**) and **Aironi**
+  the first two. **Benetton left the Italian domestic championship to do it.**
+- **Aironi finished bottom of the table in both of its two seasons**, and the FIR **revoked its licence
+  for financial reasons**; **Zebre** was chosen to replace it in **2012**.
+- The FIR later became a **PRO14 shareholder** (Sky Sports).
+⭐ **Italy's answer to professionalism was to take its two best clubs out of the Italian championship and
+put them in somebody else's league.** Note the inversion against `15-samoa.md`: Moana Pasifika is a
+Pacific team placed in a foreign competition **because that is where the players already live**; Italy's
+clubs went abroad **to find opponents**. Same structural fact — *the league that matters is elsewhere* —
+arrived at from opposite directions.
+
+### Sergio Parisse
+- **142 caps for Italy** — the most-capped Italian.
+- **Five Rugby World Cups.**
+- Broke the **Six Nations appearance record**.
+- ⭐⭐ Signed for **Benetton Treviso in 2003**, and left in **2005 for Stade Français**.
+
+⭐⭐⭐ **AND THERE IS THE CHAPTER'S FRAME, CLOSED.** Rugby arrived in Italy in **1911** in the luggage of
+**Stefano Bellandi**, who had learned it **in France, where he had emigrated for work**. A century later
+the **greatest player Italy ever produced went to France to make his career.** The traffic that brought
+the game in is the traffic that took its best player out. **Open on Bellandi, close the modern
+generations on Parisse, and do not labour the connection — just put them in the same chapter.**
+
+---
+
+## ⚠️ STILL UNVERIFIED — do not print
+1. **"Italy finished bottom of the Six Nations 18 times between 2000 and 2023."** The Six Nations' own
+   explainer page returns **navigation and footer only** — the article text did not come back. **This is
+   a headline number for the chapter and it is not yet sourced.** Try a different route before using it,
+   or state the wooden spoons more loosely.
+2. **The 1971 relegation** that followed the Morocco defeat — the defeat itself is confirmed from the
+   FIR (Napoli, 21.02.1971, 6–8); **the consequence is still blog-only.**
+3. **RWC 1991** — still not researched at all.
+4. **"Palla ovale" as an imposed Fascist Italianisation** — the term is verifiably in the 1927
+   committee's own title, but the claim that the regime imposed it is unsourced. **State the former, not
+   the latter.**
+5. **The FIRA Nations Cup / Trophy competition structure and dates** (1965–1973, 1974–1997, two
+   divisions) — repeatedly reported, never opened at a real source. The FIR calls the competition the
+   **Coppa Europa** throughout its own match records, which is the safer term to use in prose.
+
+---
+
+## STATUS — the research phase is substantially complete
+**Well sourced and ready to draft:** Gen 0 (Bellandi and the French arrival), Gen 1 (the FIR, the first
+Tests against Spain, FIRA at Turin), Gen 2 (the regime, "il nostro sport", the GUF, the war dead), Gen 3
+(the France ledger read whole, Toulon, the Morocco defeat), Gen 4 (the Soviet fixture in full), Gen 5
+(Treviso, Grenoble, the January 1998 ratification), Gen 7 (the seven days in November 2016, and 2026).
+**Thinnest:** Gen 6's middle years, and RWC 1991.
+
 ## STILL OPEN AFTER THIS PASS
 1. **Gen 4 (1973–1992) remains the thinnest stretch** — the FIRA Trophy years. The FIR head-to-head pages
    will carry the results opponent by opponent (Romania, Spain, Poland, Czechoslovakia, Morocco); nobody
