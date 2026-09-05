@@ -640,6 +640,39 @@ power is that the chapter refuses to.
 
 ---
 
+## CALCIO STORICO — checked, and bounded
+
+**Source: Leonardo Nesti, "Il calcio storico fiorentino, l'invenzione della tradizione"** —
+[leonardonesti.it](http://www.leonardonesti.it/2013/11/21/il-calcio-storico-fiorentino-linvenzione-della-tradizione/),
+fetched and read.
+
+- The **1930 revival** of *calcio storico fiorentino* was orchestrated by **Alessandro Pavolini**,
+  Florence's Fascist leader, who "would have personally written the game's regulations." The hook was the
+  **fourth centenary of the siege of 1530**.
+- ⭐ The purpose was a "***messaggio nazionalistico** e xenofobo*": "***ma quali inglesi? Il calcio è nato
+  in Italia, il calcio è nato a Firenze***" — *what Englishmen? Football was born in Italy, football was
+  born in Florence.*
+- Nesti's frame is "***l'invenzione di una tradizione***" — Fascism manufacturing an ostensibly historical
+  tradition to hold popular consent while advancing nationalist goals.
+
+### 🛑 A FIFTH SUMMARY OVERREACH CAUGHT
+A search summary claimed the revival was mounted "**especially to claim the origins of popular sports
+such as football and rugby**", and separately introduced **harpastum** as the Roman ancestor. **Nesti
+supports neither.** His argument is about ***calcio* — association football — and the English**;
+**harpastum is not mentioned in his text at all.** *(Fifth error caught by hand-verification in this
+chapter: a fabricated citation, a reversed scoreline, a misattributed president, invented 1956–57 wins,
+and now this.)*
+
+### ⭐ HOW IT MAY BE USED — one paragraph, in Gen 1, and no further
+**Do not claim calcio storico was about rugby.** What is sourced, and worth having, is the *context*:
+**the same regime, in the same years, was manufacturing an Italian ancestry for one imported ball game
+while calling another one "our sport."** In **December 1928** *Lo sport fascista* claimed **rugby**; in
+**1930** Pavolini's Florence claimed **football**. Two techniques for the same nationalist problem —
+what to do with games that arrived from abroad. That contextualises *"il nostro sport"* and the name
+*palla ovale* without asserting a link the sources do not support.
+
+---
+
 ## ⚠️ STILL UNVERIFIED — do not print
 1. ✅ **RESOLVED BY HEDGING — the wooden spoon count.** The Six Nations' own explainer page returns
    **navigation and footer only**, and a second attempt produced **two figures that disagree**: "**18
