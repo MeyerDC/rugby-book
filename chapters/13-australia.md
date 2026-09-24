@@ -160,7 +160,7 @@ So when somebody finally offered him a wage, there was nothing in his life that 
 
 ### The month everything happened
 
-Through 1907 the New Zealand Rugby Union was dealing with a Wellington postal clerk named Albert Baskerville, who had signed up a squad of professionals to play the northern English game. That story belongs to the New Zealand chapter, and it is told there. What matters here is the route. Baskerville's men — the **All Golds** — sailed by way of Sydney, and played three matches there in August 1907 before going on to England.
+Through 1907 the New Zealand Rugby Union was dealing with a Wellington postal clerk named Albert Baskerville, who had signed up a squad of professionals to play the northern English game. What matters here is the route. Baskerville's men — the **All Golds** — sailed by way of Sydney, and played three matches there in August 1907 before going on to England.
 
 They arrived in a city that was ready for them. In the same month, the **New South Wales Rugby Football League** was formed. Messenger played against the New Zealanders, took his £180, and left with them.
 
@@ -637,7 +637,7 @@ When Super League began taking rugby union players too, Packer asked for a count
 
 But note where all of this originates. Two Australian media proprietors; a Sydney lawyer; a former Australian international; contracts signed in Australian carparks; and the whole thing litigated through the Australian Federal Court. **The year the world's oldest amateur sport stopped being amateur, the decisive fighting happened in Sydney, and it happened to both codes at once.**
 
-Union's establishment won its war. The three southern unions went to Murdoch themselves, announced **SANZAR** at Ellis Park on 23 June 1995 with a television deal worth five hundred and fifty-five million American dollars, and then signed their players before the World Rugby Corporation could. On **26 August 1995** the International Rugby Board met in Paris and declared the game open. A hundred years almost to the day after the George Hotel, as the England chapter puts it.
+Union's establishment won its war. The three southern unions went to Murdoch themselves, announced **SANZAR** at Ellis Park on 23 June 1995 with a television deal worth five hundred and fifty-five million American dollars, and then signed their players before the World Rugby Corporation could. On **26 August 1995** the International Rugby Board met in Paris and declared the game open. A hundred years almost to the day after the George Hotel.
 
 Australia kept its players and got a professional competition. League was less lucky.
 
@@ -677,7 +677,7 @@ The **Super 12** began in 1996 with three Australian teams: the **Reds** in Bris
 
 Then came the trophies.
 
-On **6 November 1999**, at the Millennium Stadium in Cardiff, Australia beat **France 35–12** to win a second World Cup. **Matt Burke** kicked seven penalties; **Ben Tune** and **Owen Finegan** scored the tries; **John Eales** captained the side and **Rod Macqueen** coached it. France, who had produced the greatest afternoon in their history a week earlier by beating New Zealand — the France chapter tells that game at length — had nothing left.
+On **6 November 1999**, at the Millennium Stadium in Cardiff, Australia beat **France 35–12** to win a second World Cup. **Matt Burke** kicked seven penalties; **Ben Tune** and **Owen Finegan** scored the tries; **John Eales** captained the side and **Rod Macqueen** coached it. France, who had produced the greatest afternoon in their history a week earlier by beating New Zealand, had nothing left.
 
 Two years later the **British and Irish Lions** came, and Australia beat them **2–1**: the first time Australia had ever won a series against the Lions. The deciding Test in Sydney was level at 23–23 with twelve minutes to go before Burke kicked two more penalties and the lock **Justin Harrison** stole a lineout to finish it, 29–23.
 
@@ -803,7 +803,7 @@ Everything else in this generation happens against that number.
 
 ### Buying a player back
 
-In March 2023, Rugby Australia and the New South Wales Waratahs announced that they had signed a nineteen-year-old outside back from the **Sydney Roosters** named **Joseph Suaalii**. He would leave the National Rugby League in **October 2024** and stay in rugby union "until at least the end of the 2027 Rugby World Cup."
+In March 2023, Rugby Australia and the New South Wales Waratahs announced that they had signed a nineteen-year-old outside back from the **Sydney Roosters** named **Joseph Sua'ali'i**. He would leave the National Rugby League in **October 2024** and stay in rugby union "until at least the end of the 2027 Rugby World Cup."
 
 Stop here, because this is the moment the chapter has been walking towards for eight generations.
 

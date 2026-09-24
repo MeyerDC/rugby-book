@@ -382,7 +382,7 @@ Two days later Fiji beat **South Africa 24–21** in the final and are world cha
 
 The little bags are not a charming detail. They are the entire economic position of Fijian rugby in the year rugby union became a professional sport, expressed in luggage.
 
-Because the other thing about 1997 is what had happened two years earlier, and it is the hinge of this whole generation. In **1995** the game went open — in Paris, in August, a hundred years almost to the day after the George Hotel, as `07-england.md` tells it. And in **1995 Fiji did not qualify for the World Cup at all.**
+Because the other thing about 1997 is what had happened two years earlier, and it is the hinge of this whole generation. In **1995** the game went open — in Paris, in August, a hundred years almost to the day after the George Hotel, as the England chapter tells it. And in **1995 Fiji did not qualify for the World Cup at all.**
 
 Now go back and watch what opening the game actually did to a country of seven hundred and fifty village clubs.
 
@@ -598,7 +598,7 @@ By the seasons that followed the team was playing in Fiji, in front of Fijian cr
 
 Two Games, two golds, in a country that had won no Olympic medal at all before 2016.
 
-And in the same week, at the same stadium, the **Fijiana** beat **Great Britain 21–12** to take the **bronze medal** in the women's tournament. **Alowesi Nakoci** crossed twice and **Reapi Uluinasau** ran half the field to seal it; the captain was **Rusila Nagasau**. On the way there they had beaten Canada, who took bronze at Rio, and knocked out **Australia**, who had taken the gold there — the Australia that had beaten Fiji **36–0** at Rio five years earlier, as `13-australia.md` records. Fiji's women had finished eighth at those Games.
+And in the same week, at the same stadium, the **Fijiana** beat **Great Britain 21–12** to take the **bronze medal** in the women's tournament. **Alowesi Nakoci** crossed twice and **Reapi Uluinasau** ran half the field to seal it; the captain was **Rusila Nagasau**. On the way there they had beaten Canada, who took bronze at Rio, and knocked out **Australia**, who had taken the gold there — the Australia that had beaten Fiji **36–0** at Rio five years earlier, as the Australia chapter records. Fiji's women had finished eighth at those Games.
 
 It was the team's first medal at any major tournament, and it made them **the first Fijian women to win an Olympic medal**.
 

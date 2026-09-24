@@ -376,7 +376,7 @@ Somewhere in this generation the other pipeline opens, and it does not run to Br
 
 The story Tongan and Japanese rugby tell about it is very good. In **1976**, it goes, a visiting teacher from **Daito Bunka University**, who managed its rugby team, taught the Japanese abacus to **King Taufa'āhau Tupou IV**; the King was taken with it; a friendship formed; and Tongan boys began going to Daito Bunka on rugby scholarships to study the abacus.
 
-**This book cannot stand that story up.** Followed to its source, it rests on a single self-published rugby blog. The article most often cited for it contains not one of its details — no university, no abacus, no teacher, no king. It may well be true. It is not documented, and it is told here as the story Tongan rugby tells about itself, in the same way `14-fiji.md` tells the origin of the *cibi* — as a story rather than as a document.
+**This book cannot stand that story up.** Followed to its source, it rests on a single self-published rugby blog. The article most often cited for it contains not one of its details — no university, no abacus, no teacher, no king. It may well be true. It is not documented, and it is told here as the story Tongan rugby tells about itself, in the same way the Fiji chapter tells the origin of the *cibi* — as a story rather than as a document.
 
 What is not in dispute is the residue. **From the 1980s onward there were Tongans playing top-level rugby in Japan**, and some of them played *for* Japan. That is the second door out of Tonga, and it opened decades before the game went professional, exactly as the British Army and the peacekeeping contracts opened for Fiji.
 

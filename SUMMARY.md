@@ -1,8 +1,9 @@
 # Book Summary & Continuation Guide
 
 A reference primer for *Rugby Has No Class: A Generational History of the Game, Country by Country*.
-Purpose: let a future session extend the book **without re-reading the whole thing**. Read this file
-first, then open only the specific chapter you're editing.
+Purpose: let a future session extend the book **without re-reading the whole thing**. Read §1–4, §6
+and §7 of this file first. Open §5 only at the entry for the chapter you're working on (it is
+three-quarters of the file). **All new writing follows the gated process in §7.**
 
 ---
 
@@ -37,6 +38,23 @@ class-question conversation, not a rule to keep repeating.)
   back and see where it came from."
 - **Generations as discrete eras:** each has a year range and a *named theme* in the heading
   (e.g. "Generation 2: The Great Schism (1893–1895)").
+- **⚠️ Never put a filename in chapter prose.** Refer to other chapters the way the book always has —
+  **"the England chapter", "the Fiji chapter", "everything else in this book"** — never as
+  `14-fiji.md`. The chapters become a **PDF** via pandoc, and a reader of the printed book has no idea
+  what a `.md` file is. Filenames belong in `SUMMARY.md` and in `notes/`. **97 of them were removed from
+  seven chapters in September 2026**, 37 from Italy and 31 from Tonga alone. Check before promotion:
+  `grep -l '`[0-9][0-9]-[a-z-]*\.md`' chapters/*.md` must return nothing.
+- **⚠️ Nothing editor-facing goes in a chapter.** Chapters are **printed**. No `notes/…` or `chapters/…`
+  paths, no "verify before print", no "a future editor should", no "the two chapters must agree", and no
+  **Verification log** sections. Working material belongs in `notes/<country>.md`. A Sources block may
+  say *how* a source was handled — "fetched via search extract rather than read directly", "the PDF's
+  text layer had lost its spacing and every quotation was respaced by hand" — because that is provenance
+  a reader can use. It must not contain instructions to whoever edits next.
+  **September 2026 clean-up:** the **Verification log** sections were moved out of `10-ireland.md` and
+  `11-france.md` into their notes files, and eight internal references were rewritten across five
+  chapters. Check with `grep -rn "notes/\|before print\|future editor\|Verification log" chapters/`.
+- **⚠️ No markdown tables in chapter prose either** — same reason, same rule. Story mode means writing a
+  run of results, not pasting a grid. Check with `grep -c "^|" chapters/*.md`; the answer must be zero.
 - **Recurring cross-references:** thread comparisons between countries — the "informal empire,"
   cricket clubs as incubators of both codes, the amateur ideology, the coalfield thesis. New
   chapters should reference the established motifs (§4).
@@ -85,6 +103,9 @@ rugby-book/
     uruguay.md  argentina.md  chile.md  georgia.md  romania.md
     south-africa.md  england.md  wales.md  scotland.md  ireland.md
     france.md  new-zealand.md  australia.md  fiji.md  samoa.md  tonga.md  italy.md
+    <country>/genN-<slug>.md   # one research dossier per subplot (§7.5); index atop <country>.md
+  tools/
+    verify_quotes.py   # checks every dossier quote is really on its page (§7.5)
   drafts/            # rewrites-in-progress + archived pre-rewrite chapters
     NN-country.md                          # a rewrite being drafted (NOT in chapters/ —
                                            #   combine_book.py bundles every .md there)
@@ -940,9 +961,10 @@ line: **hedge or omit rather than assert**. See the no-Wikipedia rule in §6.
 
 ## 6. How to add a new generation or chapter
 
-**For a new country (or one expanded past its current last generation): map the generations first** —
-establish the full generation outline (named eras + year ranges) before researching, then work
-generation-by-generation (see §7 Step 0).
+**Every new generation and every rewrite follows the gated process in §7**: map the generations
+(Gate 0), plan the subplots (Gate 1), then research, draft and check one subplot at a time (Gates 2–3).
+For a new country, or one expanded past its current last generation, that starts with the generation
+map (§7.3).
 
 1. Write it in the matching `chapters/NN-*.md` file (or a new `NN-country.md`), matching the house
    style in §2 and threading the motifs in §4.
@@ -958,6 +980,9 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
+- **Spain (ch. 18) is in progress in `drafts/18-spain.md`.** Gen 0, "Over the Pyrenees" (1894–1928), is
+  proofread (September 2026). **By the author's decision, the chapter stays in `drafts/` until more of it
+  is written, and is then promoted as one.** The status table is in `notes/spain.md`.
 - ✅ **Italy is written and proofread** (September 2026) — see §5.17. **Spain (ch. 18) is next.** Italy
   hands it two direct threads: **Italy's first Test was against Spain, at Barcelona on 20 May 1929, lost
   9–0** — and the two have met **twenty-seven times**, Spain winning three. Spain was also in the
@@ -1021,62 +1046,259 @@ combine_book.py` → update this file's §5 entry.
 
 ---
 
-## 7. Research workflow (keep context, spend few tokens)
+## 7. The writing process — map, plan, one subplot at a time
 
-The AI does **not** need the whole book to write the next generation. Each turn only needs:
-**(a)** this `SUMMARY.md` (style + motifs), **(b)** the previous generation's closing paragraphs
-(the handoff), and **(c)** a compact research brief. That's a few thousand tokens, not the whole book.
+**Adopted September 2026. Every new generation and every rewrite follows it.** Chapters already written
+are not retrofitted. The order is fixed: **map the generations → plan each generation's subplots →
+research, draft and check one subplot at a time → stitch and proofread the generation → promote.** Four
+✋ **gates** stand between those steps. **A gate is the author's to pass, never the AI's.** Stop at each
+one and wait for approval.
 
-**Golden rules**
-- Attach *specific files* (`SUMMARY.md`, the one chapter, the one `notes/` file) — never the whole
-  folder. Every file in context is re-paid every turn.
-- Do **one generation per turn.**
-- **Separate research from writing** (below) so web searches don't fire mid-composition.
-- **Cache research in `notes/<country>.md`** so you never look the same thing up twice; write prose
-  from the notes, not from live search.
-- **Open the page. HTTP 200 is not evidence.** This has now cost two chapters. National newspaper
-  archives sit behind bot walls that return **200 with a challenge page as the body** — *Papers Past*
-  (New Zealand) and **Trove** (Australia) both do it — while search engines happily index and quote the
-  article pages behind them. A retrieval agent can therefore hand you a perfectly formatted citation,
-  with quoted nineteenth-century newspaper text, for a page nobody has read. **Any agent quoting Papers
-  Past or Trove is fabricating.** Try curl *and* WebFetch (they fail on different sites), and if neither
-  returns the fact, the fact is not sourced.
+```
+Gate 0  generation map approved            (once per country or expansion)
+  G1    plan the generation's subplots
+Gate 1  subplot plan approved              (once per generation)
+  ┌ S1  research dossier + verify_quotes.py
+  │ Gate 2  research approved              ─┐
+  │ S2  draft the subplot from the dossier   │ one subplot
+  │ S3  claims check                         │ per session
+  └ Gate 3  prose approved → LOCKED         ─┘
+  G2    stitch: cold open, joins, closing tease
+  G3    proofread the whole generation → promote
+```
+
+### 7.1 Context budget — what to load
+
+Most of this process's cost is context re-read on every turn, not the research itself. So:
+
+- **Read §1–4, §6 and §7 of this file. Open §5 only at your own chapter's entry.** §5 is three-quarters
+  of this file (~73 KB of ~97 KB).
+- **Per session, load only:** that part of this file; the **index at the top of `notes/<country>.md`**
+  (generation map + status table); **the one subplot dossier** in play; and **the last two paragraphs
+  before the insertion point**. Never the whole notes file (France's is 131 KB), never the whole
+  chapter, never the folder. Search an old notes file with `grep`; don't read it.
+- **One subplot per session.** All state lives in the status table, so start a fresh session (or
+  `/clear`) between subplots. Nothing is lost, and a subplot written late in a long session costs several
+  times what it costs in a fresh one.
+- **The author approves by reading the files in the editor.** Don't paste a dossier or a draft into chat
+  for approval; say which file is ready.
+- **One agent at a time. Never resume a crashed agent**: a resume replays its whole transcript. Salvage
+  what it wrote instead.
+
+### 7.2 Who does what
+
+Judgment and prose go to the strongest model. Searching goes to the cheapest, comparing goes to the middle
+one, and checking goes to a script.
+
+| Step | Done by | Loads | Returns |
+|---|---|---|---|
+| **Step 0:** generation map | **Sonnet** agent proposes eras and hinges; **main thread** re-cuts | Short style core | A table only, no prose |
+| **G1:** subplot plan | **Main thread**, no searching | Map + one-line summaries of what is known | 3–5 entries, a few lines each |
+| **S1:** research | **Sonnet** agent (§7.8 brief), one per subplot. Haiku was dropped in September 2026 (see §7.7) | The subplot's plan entry | **Writes the dossier file itself**; replies in five lines |
+| **S1:** verification | **`tools/verify_quotes.py`**, no model; **main thread** retries only the failures | The failure list | FOUND / NOT FOUND / BLOCKED |
+| **S2:** draft | **Main thread** (prose is the product) | Style core + dossier + last two paragraphs | Written straight to `drafts/` |
+| **S3:** claims check | **Sonnet** agent (Haiku passes too much) | Draft + dossier | **Mismatches only** |
+| **G2:** stitch | **Main thread** | Locked subplots' first and last paragraphs | Cold open, transitions, closing tease |
+| **G3:** proofread | **Opus** agent, fresh context | The whole generation | A list of issues |
+| Gates 0–3 | **The author**, in the editor | n/a | Approve, or send back |
+
+### 7.3 Step 0 → Gate 0: defining the generations
+
+**A generation is the span during which one arrangement carries the game**: who plays it, who runs
+it, who pays for it, and who it is played against. **A new generation begins when that arrangement
+changes, at a dated, verified hinge event.** This is the book's lens applied to its own structure:
+rugby has no class, institutions do, so the institutions set the eras. A famous match is a hinge only if
+the arrangement changes because of it. Tonga's **30 June 1973 Ballymore win** qualifies, because the
+Brisbane migration follows from it.
+
+Each map entry holds six things:
+
+| Field | Example (Tonga Gen 3) |
+|---|---|
+| **Name + years** | *Ballymore*, 1970–1986 |
+| **Opening hinge**, dated and sourced | Independence, 4 June 1970 |
+| **Closing hinge**, dated and sourced | The first World Cup, 1987 |
+| **The carrier** | Who plays, runs and pays for the game in this era |
+| **The question** it answers | One sentence. The subplots will answer it |
+| **Candidate cold open** | 30 June 1973, Ballymore |
+| **World Cups in this era** (from 1987) | Each tournament, marked played or missed. Tonga Gen 4: 1987, 1991 (missed), 1995 |
+
+**Rules**
+- **Contiguous, no overlaps, no silent gaps.** A quiet stretch is absorbed into a neighbouring generation
+  and named as quiet (Italy's "The seventeen quiet years"). It is never skipped.
+- **Length follows the change, not the calendar.** Argentina's 91-year Gen 0 and Italy's 7-year Gen 5
+  are both legitimate if their hinges are.
+- **Shared hinges are candidates, not defaults.** 1914, 1939, 1987 and 1995 matter everywhere, but the
+  country's own record decides whether they are its boundaries. Italy's decisive break is 2000, not 1995.
+- **Every hinge is verified by hand** before the map goes to the author. An agent may propose a hinge; it
+  cannot confirm one. (The Tonga Step 0 digest returned five overlapping years and put a 1976 event in a
+  generation beginning 1987. Its Gen 0/1 hinge, the union's "late 1923" founding, is still unverified.)
+- ✋ **Gate 0: the author approves the map.** It goes at the top of `notes/<country>.md`.
+- **The map can move.** If research moves a hinge, redraw the map and re-approve it. Never bend the
+  research to fit the map.
+
+Skip Step 0 for generations already mapped in §5.
+
+### 7.4 G1 → Gate 1: planning the subplots
+
+**A subplot is one `###` section of a generation.** A generation has **3–5** of them, plus the closing
+"What this generation leaves behind", which is written at G2 rather than planned here. Plan all of them
+before researching any, so they neither overlap nor leave a gap. Each entry, in the notes index:
+
+- **Name**, and the **part of the generation's question it answers.** Taken together, the subplots must
+  answer the whole question.
+- **Candidate scene:** a dated moment it could open on.
+- **Institution and people** it turns on.
+- **The voice sought:** whose contemporary words would carry it.
+- **Handoff:** what it passes to the next subplot.
+
+**World Cup subplots are required, not chosen** (§2):
+- Each tournament the country played is its own subplot, covering its preparation and its results.
+- A missed tournament is a passage inside a neighbouring subplot.
+- **The last generation's final subplot is the road to RWC 2027.**
+
+World Cup subplots count toward the 3–5. If a generation holds more tournaments than that leaves room
+for, the cap gives way; the World Cups do not.
+
+✋ **Gate 1: the author approves the plan.** A subplot may be added or split later, but only by
+re-approving the plan.
+
+### 7.5 The subplot loop: S1 → Gate 2 → S2 → S3 → Gate 3
+
+**S1. Research dossier.** A **Sonnet** agent, briefed with §7.8, writes
+`notes/<country>/genN-<slug>.md` directly. Every fact is an entry:
+
+```
+- **fact:** Tonga beat Australia 16–11 at Ballymore on 30 June 1973.
+  - url: https://…
+  - quote: "exact words copied from the page"
+  - status: VERIFIED | RECALLED, NOT VERIFIED | NOT FOUND
+```
+
+Then run **`python3 tools/verify_quotes.py notes/<country>/genN-<slug>.md`**. It fetches every page and
+checks that every quote is actually on it. It tries `curl` and `urllib` with several user agents, since
+hosts refuse different ones.
+- **FOUND:** keep.
+- **NOT FOUND:** treat as fabricated. Delete it, or re-retrieve it by hand.
+- **BLOCKED / ERROR:** retry with WebFetch. If that fails too, the fact is not sourced. (Papers Past and
+  Trove always come back BLOCKED; see §7.7.)
+- **SKIPPED:** a PDF with no text layer (a scan), or `pypdf` is missing. Check by hand. PDFs with text
+  are read and checked like any page; the Spanish federation's yearbooks are.
+
+Only the failures come into the main thread. **Readiness test before Gate 2:** *What is the scene? Whose
+contemporary words do we have? Is the institution the subplot turns on verified?* If any answer is
+missing, keep retrieving and say so. Don't offer to draft.
+
+✋ **Gate 2: the author approves the dossier.** No prose exists until then. Research is checked
+*before* writing so that no sentence has to be defended afterwards.
+
+**S2. Draft** the subplot into `drafts/NN-country.md` under its `###` heading, **from the dossier only.
+No searching during S2.** If a fact turns out to be missing, write `[TK: what's missing]` and keep going.
+Every TK goes back to S1, and none may survive to Gate 3.
+
+**S3. Claims check.** A **Sonnet** agent maps every factual sentence in the draft to a dossier entry,
+and returns **only the sentences that match nothing, or match loosely** (a date, number or name that
+drifted). Each one is cut, fixed, or sent back to S1.
+
+✋ **Gate 3: the author approves the prose.** The subplot is **LOCKED**. Update the status table and end
+the session.
+
+### 7.6 Closing the generation: G2, G3, promote
+
+- **G2. Stitch.** Write the **cold open**, the joins between subplots, and **"What this generation
+  leaves behind."** Reopen a locked subplot only to smooth a join, never to add facts.
+- **G3. Proofread.** An **Opus** agent with a fresh context reads the whole generation aloud against
+  §2. Look especially for arithmetic, contradictions between subplots, and repeated statistics: the
+  France proofread found seven errors that per-section checks had missed.
+  **At the chapter's last generation, also check the World Cup ledger:** every tournament from 1987 to
+  2023 is accounted for, each one played has its preparation and every result, and the chapter closes
+  on a dated road to 2027 with no predictions.
+- **Promote.** Add the dossiers' FOUND sources to the chapter's `## Sources`. For a rewrite, follow the
+  §6 swap. Run `python3 combine_book.py`, update the §5 entry, and mark the generation **DONE**.
+
+### 7.7 Files and the status table
+
+```
+notes/<country>.md              # TOP: generation map + status table (the index); older research below
+notes/<country>/genN-<slug>.md  # one research dossier per subplot
+drafts/NN-country.md            # the generation being drafted, subplot by subplot
+tools/verify_quotes.py          # quote checker (stdlib + curl; no model)
+```
+
+The status table sits directly under the map:
+
+| Gen | Subplot | Stage | Updated |
+|---|---|---|---|
+| 3 | Ballymore | LOCKED | 2026-09-24 |
+| 3 | The Brisbane pipeline | APPROVED | 2026-09-24 |
+
+Stages: **PLANNED → RESEARCHED → APPROVED** (Gate 2) **→ DRAFTED → CHECKED → LOCKED** (Gate 3). A
+generation is **MAPPED** (Gate 0), **PLANNED** (Gate 1), **STITCHED**, then **DONE**. Record the date on
+every change, in absolute form.
+
+**Retrieval lessons that still apply**
+- **Open the page. HTTP 200 is not evidence.** National newspaper archives sit behind bot walls that
+  return **200 with a challenge page as the body**. *Papers Past* (New Zealand) and **Trove** (Australia)
+  both do it, while search engines happily index and quote the article pages behind them. **Any agent
+  quoting Papers Past or Trove is fabricating.** `verify_quotes.py` reports these as BLOCKED rather than
+  passing them.
+- **Never trust an agent's "confirmed".** Agents have cited pages that do not contain the fact, the
+  book's own draft, and Wikipedia despite a ban. Every decisive fact in the Georgia rewrite was recovered
+  by hand after an agent reported NOT FOUND.
 - **Start a new country by looking for the national biographical dictionary.** The single biggest
-  sourcing win in the Australia chapter was **`adb.anu.edu.au`** — the Australian Dictionary of
-  Biography, peer-reviewed, authored, dated, wide open to curl, and **browsable by occupation**
+  sourcing win in the Australia chapter was **`adb.anu.edu.au`**, the Australian Dictionary of
+  Biography. It is peer-reviewed, authored, dated, wide open to curl, and **browsable by occupation**
   (35 rugby union players, 28 league players, administrators of both codes). It carried most of a
-  22,000-word chapter and it was never designed to make a point about rugby, which is exactly what
+  22,000-word chapter, and it was never designed to make a point about rugby, which is exactly what
   makes it good evidence. Look for the equivalent before trusting a federation's own history page.
 - **Cite an abstract as an abstract.** Where a paywalled article's abstract is open, it is often worth
-  having on its own — but say so in the Sources block, as `13-australia.md` does for Peter Horton.
+  having on its own, but say so in the Sources block, as `13-australia.md` does for Peter Horton.
+- **No Wikipedia** (§6, "Sourcing"). A line in an agent's brief does not hold it: the Spain Step 0 agent
+  (September 2026) cited Wikipedia for every entry despite the ban, and marked every entry VERIFIED. The
+  ban is now enforced twice: `blocked_domains` on the agent's searches, and **BANNED** in
+  `verify_quotes.py`.
+- **Research agents run on Sonnet, not Haiku** (the author, 23 September 2026). Haiku's first two Spain
+  runs (Step 0 and Gen 0 subplot 1) produced almost nothing usable. Step 0 cited Wikipedia for every entry.
+  Subplot 1 had 12 entries, of which 4 carried a quote and 2 of those were wrong, and two entries marked
+  VERIFIED were invented. The dossier was rebuilt by hand in the main thread, which cost more than the
+  agent saved. If Sonnet does no better, research by hand from the sources list.
+- **Keep a SOURCES THAT WORK list in each country's notes index** (under the status table): every
+  source that has passed the checker, and how to reach it. Every research agent is briefed with it, so
+  that it starts where the good material is instead of falling back on whatever search puts first.
+  Spain's best sources were invisible to search: a federation archive that lists its files only
+  through a WordPress AJAX call, and a peer-reviewed article in a Spanish sport-science journal.
 
-**Step 0 — map the generations (new & expanded countries only).** Before any per-generation
-research, for a *new* country or one being *expanded* past its current last generation, identify the
-generation map first: the named eras with year ranges, following the Gen 0 = origins/enclave → Gen 1+
-convention in §2 (most countries run to Gen 6/7). Run this as an **Explore / investigator** subagent
-and record the outline at the top of `notes/<country>.md`. Then work the two-step loop below one
-generation per turn, researching each generation in-depth. **Skip this step for the thirteen
-countries already mapped in §5.**
+### 7.8 Prompt templates
 
-**Two-step loop per generation**
-1. **Research (digest only).** "Research [country] rugby [year range]. Return a compact bullet brief —
-   events, dates, people, turning points — plus source links. No prose." Run this as an **Explore /
-   investigator subagent** so the raw search dumps stay out of the main thread; it returns only the
-   brief. Append the brief + links to `notes/<country>.md`.
-2. **Write (from the brief).** "Using `notes/<country>.md` and the house style in `SUMMARY.md`, write
-   Gen N in story mode. Thread the motifs; end with a tease for Gen N+1." No searching this turn.
-3. Append the new sources to the chapter's `## Sources`, then `python3 combine_book.py`.
-
-**Prompt template**
+**Research agent (S1)**, run with `model: sonnet`:
 ```
-# New/expanded country only — do this first:
-Step 0: map the generations for <Country> as a subagent — return the named eras + year ranges only
-(Gen 0 = origins/enclave, Gen 1+ forward). Record the outline atop notes/<country>.md.
+Research <Country> rugby, Generation N (<years>), subplot "<name>": <the part of the
+generation's question it answers>. Look for: <candidate scene>, <institution/people>,
+<voice sought>.
 
-# Then, one generation per turn:
-Context: SUMMARY.md (style + motifs) + notes/<country>.md. Continuing <Country>, writing Gen N.
-Previous gen ended: "<paste last 1–2 paragraphs of Gen N-1>"
+Write your findings to notes/<country>/genN-<slug>.md in exactly this format, one entry per fact:
+- **fact:** <one sentence>
+  - url: <the page you actually read>
+  - quote: "<words copied exactly from that page>"
+  - status: VERIFIED | RECALLED, NOT VERIFIED | NOT FOUND
 
-Step 1: research Gen N (<year range>) as a subagent — return a compact fact brief + source links only.
-Then I'll say "write it" and you compose Gen N from the brief, matching the house style.
+Start from these sources, which are known to work: <paste the SOURCES THAT WORK list from
+notes/<country>.md>.
+
+Every WebSearch call must pass blocked_domains: ["wikipedia.org", "wikiwand.com",
+"grokipedia.com", "facebook.com"]. The script rejects those sites as BANNED however accurate the
+quote, so a fact found only there is NOT FOUND.
+Every quote will be checked against its page by a script; earlier agents on this project fabricated
+citations and were caught. NOT FOUND is a useful answer. RECALLED, NOT VERIFIED is an honest one.
+Do not cite Papers Past or Trove; they are bot-walled.
+Reply with five lines at most: entries written, how many VERIFIED, the best scene, the best voice,
+the biggest gap.
+```
+
+**A session, at each stage:**
+```
+Context: SUMMARY.md §1–4, §6–7 (+ my §5 entry); the index at the top of notes/<country>.md.
+Stage: <Step 0 | G1 | S1 | S2 | S3 | G2 | G3> for <Country> Gen N, subplot "<name>".
+[S2 only] Dossier: notes/<country>/genN-<slug>.md. Last two paragraphs before it: "<paste>"
+Stop at the next gate.
 ```
