@@ -198,7 +198,7 @@ Under Grey, Samoa did the things a small union does when someone competent is fi
 
 **1972:** Samoa played **two Tests against the Māori All Blacks in Apia** — seven of the side came from Vaiala.
 
-Under Grey, Samoa went to its first **Hong Kong Sevens**, into the tournament that `14-fiji.md` describes Fiji making its own. And Grey was, in the account of the people who were there, **instrumental in getting Samoa to the 1991 World Cup**. He was given the Western Samoa Order of Merit in 1993, and when he died in 2018 the country gave him a **state funeral**.
+Under Grey, Samoa went to its first **Hong Kong Sevens**, into the tournament that the Fiji chapter describes Fiji making its own. And Grey was, in the account of the people who were there, **instrumental in getting Samoa to the 1991 World Cup**. He was given the Western Samoa Order of Merit in 1993, and when he died in 2018 the country gave him a **state funeral**.
 
 ### The man who scored the first try
 

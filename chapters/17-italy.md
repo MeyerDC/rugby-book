@@ -56,7 +56,7 @@ The first game of rugby ever played in Italy was **French against Swiss**, watch
 
 There is no British club, tour, fixture or figure anywhere in the founding record of Italian rugby. **The game did not come to Italy over the sea from England. It came over the Alps from France** — and it came in the luggage of Italians who had gone the other way to find work.
 
-That single fact will govern the next ninety years. The country that carried the game into Italy was the country the Home Unions **expelled in 1931** — `11-france.md` tells that story — and Italy's fortunes in this sport are going to track France's relationship with Britain far more closely than anything Italy does on a field.
+That single fact will govern the next ninety years. The country that carried the game into Italy was the country the Home Unions **expelled in 1931** — the France chapter tells that story — and Italy's fortunes in this sport are going to track France's relationship with Britain far more closely than anything Italy does on a field.
 
 *(A note on primacy, since the record does not quite agree with itself. **Rugby Club Torino** is sometimes said to have been constituted straight after the 1910 match and to have been the first Italian club; the federation's own timeline credits **US Milanese** with the first match by an Italian side. Both can be true, and this book has not been able to settle which came first.)*
 
@@ -154,7 +154,7 @@ Now read it against `11-france.md`, because the timing is not a coincidence. **I
 
 The French chapter tells those years from the French side, and with a distinct curl of the lip: cut off from Britain and Ireland, the French were "left to make do with matches against **Nazi Germany and Fascist Italy**." *That is where a sport goes when the democracies stop playing it.*
 
-From Italy's side it does not look like making do. **It looks like being a founder.** The organisation constituted at Turin in 1933 outlived the regime that hosted it, outlived the Soviet Union, and is the body now called **Rugby Europe** — the structure through which Romanian and Georgian rugby would later reach the world, as `05-romania.md` and `04-georgia.md` both record without ever explaining where it came from.
+From Italy's side it does not look like making do. **It looks like being a founder.** The organisation constituted at Turin in 1933 outlived the regime that hosted it, outlived the Soviet Union, and is the body now called **Rugby Europe** — the structure through which Romanian and Georgian rugby would later reach the world, as the Romania chapter and the Georgia chapter both record without ever explaining where it came from.
 
 **It came from here.** Two countries locked out of the British game, and three more who were never going to be let in, built the alternative — and they built it in Turin.
 
@@ -391,7 +391,7 @@ Into the middle of that comes an afternoon that belongs to a different world ent
 
 Sixty-four points, in the first fixture in the tournament's history, in front of the sport's assembled establishment. If any single scoreline fixed the outside world's idea of what Italian rugby was, it is that one — and it was recorded two and a half years after Italy had beaten the Soviet Union by a point at L'Aquila, and six months before losing to them by three in Kishinev.
 
-The tournament did not end there, and the rest of it is more interesting than the opening. **Italy, Fiji and Argentina all finished Pool 3 level on two points**, each with one win and two defeats. Fiji went through on **tries scored — six, against Italy's five and Argentina's four** — as `14-fiji.md` describes from the Fijian side, with some feeling.
+The tournament did not end there, and the rest of it is more interesting than the opening. **Italy, Fiji and Argentina all finished Pool 3 level on two points**, each with one win and two defeats. Fiji went through on **tries scored — six, against Italy's five and Argentina's four** — as the Fiji chapter describes from the Fijian side, with some feeling.
 
 **Italy beat Fiji in that pool and went out anyway**, on a tiebreaker, in the first World Cup ever held.
 
@@ -628,7 +628,7 @@ There was no send-off, no final whistle, no last cap. The most decorated career 
 
 The other thing that changed in these years is who Italy beats.
 
-In **2022**, at Cardiff, **Italy beat Wales 22–21**. In **February 2025**, at Cardiff again, Italy beat them once more — and `08-wales.md` records what that one did: it was **Warren Gatland's fourteenth consecutive defeat**, and he left by mutual consent days later, "the second coming ending not in a Grand Slam but in the worst run in the history of Welsh rugby."
+In **2022**, at Cardiff, **Italy beat Wales 22–21**. In **February 2025**, at Cardiff again, Italy beat them once more — and the Wales chapter records what that one did: it was **Warren Gatland's fourteenth consecutive defeat**, and he left by mutual consent days later, "the second coming ending not in a Grand Slam but in the worst run in the history of Welsh rugby."
 
 Italy did not merely win a Six Nations match. **Italy ended a coaching era in one of the countries that invented the Championship.**
 
@@ -650,7 +650,7 @@ Two wins and fourth place equals the best Six Nations campaign Italy has ever ha
 
 On **15 July 2026**, the World Rugby men's rankings read: South Africa, New Zealand, Ireland, France, England, Scotland, Argentina, Australia, **Fiji**, **Italy**.
 
-**Tenth in the world** — and, as `14-fiji.md` observes from ninth, below a Pacific island nation that has never been admitted to anything.
+**Tenth in the world** — and, as the Fiji chapter observes from ninth, below a Pacific island nation that has never been admitted to anything.
 
 Italy had gone **up** into the inaugural **Nations Championship**, alongside the Six Nations and the Rugby Championship and Japan and Fiji, while **Samoa and Tonga went into the second-tier Nations Cup**. `12-new-zealand.md` records the All Blacks completing the first leg of that competition with victories over France and Italy.
 
@@ -670,7 +670,7 @@ Then the institutions took an interest, in the order institutions do.
 
 A **federation** in 1928, and within three months the governing party's own magazine calling this obscure, foreign, six-club game ***il nostro sport*** — *our sport*. A regime that revived a Renaissance ball game in Florence to prove football was Italian, and simply renamed rugby ***palla ovale*** and took it. **Achille Starace** explaining exactly what it was for: ***sport da combattimento***, a combat sport, to be practised and widely spread. The **GUF** and the **GIL** running it through the universities and the youth movement. And then the bill — **at least ten Italian rugby players killed in the war, the heaviest loss of any Italian sporting federation**, out of a sport whose first championship had six clubs in it.
 
-And a **committee**, in 1933, in **Turin**: **FIRA**, founded by Italy, France, Germany, Romania and Czechoslovakia, two years after the Home Unions expelled France. `11-france.md` tells that period from the French side, as making do with Nazi Germany and Fascist Italy. **From here it looks like founding something.** The organisation constituted in Turin became **Rugby Europe**, the structure through which Georgian and Romanian rugby reached the world — as `04-georgia.md` and `05-romania.md` both record without ever saying where it came from.
+And a **committee**, in 1933, in **Turin**: **FIRA**, founded by Italy, France, Germany, Romania and Czechoslovakia, two years after the Home Unions expelled France. The France chapter tells that period from the French side, as making do with Nazi Germany and Fascist Italy. **From here it looks like founding something.** The organisation constituted in Turin became **Rugby Europe**, the structure through which Georgian and Romanian rugby reached the world — as the Georgia chapter and the Romania chapter both record without ever saying where it came from.
 
 Then sixty years of what exclusion actually looks like, which is not a locked door.
 
