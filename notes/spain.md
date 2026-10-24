@@ -9,7 +9,8 @@ once, and the map follows them:
 - **Where the game was run from** (FER presidents, Anuario 2021-22, Parte 0): Barcelona 1923 → Madrid
   from the 1927 merger (Barcelona and Madrid alternating to 1933) → Madrid only, 1933–2001 → the regions
   from 2001 (Pontevedra, Valladolid, San Sebastián, Valladolid).
-- **Who won the championship** (Anuario, Parte IV): Catalan clubs 1923–35 → Barcelona clubs against the
+- **Who won the championship** (Anuario, Parte IV): Catalan clubs 1923–33, then Real Madrid and the
+  Real Sociedad Gimnástica Española in 1933–35 → Barcelona clubs against the
   Falange's student union (S.E.U. de Madrid) in the 1940s–50s → Madrid's university colleges (Cisneros,
   CAU, Arquitectura) 1967–88 → Getxo, Sevilla and Valladolid from 1990.
 - **What the championship was called**, which is the regime's own label on each era: *Campeonato de
@@ -60,6 +61,22 @@ Man Who Came Back from France"). Decide the heading at the end of this chapter, 
 | 0–1 | Map | Gen 0/1 hinge moved from "end-1927 merger" to **January 1928** (merged FER constituted in Madrid, Gutiérrez president); re-approved with subplot 4's Gate 2 | 2026-09-24 |
 | 1 | Subplot plan (G1) | PLANNED (✋ Gate 1 approved 24 Sep 2026): 1. The Settlement · 2. The Exposition Match (cold open) · 3. Who Spoke for Spain (old 3 and 4 merged, author's decision). Research order 1 → 2 → 3. Bordeaux 1928 and Barcelona 1929 date conflicts carried to S1 | 2026-09-24 |
 | 1 | 1. The Settlement | CHECKED (S3, Sonnet: no unsupported or drifted sentences; no Catalan headcount stated; translations sound). Awaiting ✋ Gate 3. Drafted (S2): `drafts/18-spain.md`, ~1,140 words, under a new Gen 1 heading with a placeholder for the G2 cold open. Opens on the Hôtel de Bordeaux reception, Easter morning 1928; Ordóñez's preview; the 1927/1928 selections set against each other; the thirteen debutants from the register; two "first official" matches; Lescure, 53–5; the *Petite Gironde* critique and Chappert. Merger, Lord Derward and Torrebadella's political reading are left to Gen 0 and not retold. S2 settled the dossier's open question: the March 1928 match and the Lord Derward match are one match (entry added, checker FOUND). No TKs. Ordóñez spelling aligned in Gen 0 (one man, one spelling; identity entry added to the dossier). | 2026-09-24 |
+| 1 | 2. The Exposition Match | CHECKED (S3, GPT-6 Sol xhigh: **NO UNSUPPORTED OR DRIFTED SENTENCES**). ✋ Gate 3 held by the author until all of Gen 1 is drafted. Drafted (S2, GPT-6 Astra xhigh): `drafts/18-spain.md`, ~945 words plus the generation cold open; no TKs. Opens Montjuïc on 20 May 1929 with flags, anthems and flowers; preserves FER's conflicting 19 May ledger date; covers the Exposition programme, crowd caveat, three tries and 9–0 first win, then Italy's 3–0 return at the Arena in 1930. Dossier `notes/spain/gen1-the-exposition-match.md`; continuity evidence added during S3 adjudication; `verify_quotes.py` 37/37 FOUND. | 2026-09-26 |
+| 1 | 3. Who Spoke for Spain | CHECKED (S3, GPT-6 Sol xhigh: **NO UNSUPPORTED OR DRIFTED SENTENCES**). ✋ Gate 3 held for the author's review of all drafted Gen 1 subplots. Drafted (S2, GPT-6 Astra xhigh): `drafts/18-spain.md`, ~1,300 words; no TKs. Opens with Joan Boix awaiting Francesc Massana after the January 1934 FIRA meeting; follows the presidency and championship shifts, the contested FIRA chronology and dual representation, six 1931–36 internationals, and the unplayed People's Olympiad. Dossier `notes/spain/gen1-who-spoke-for-spain.md`; `verify_quotes.py` 92/92 FOUND. | 2026-09-26 |
+| 1 | G2 stitch | STITCHED: generation cold-open handoff now turns explicitly from Montjuïc back to the 1928 settlement; the 1→2 join passes from Madrid's unsanctioned home match to Barcelona's sanctioned one; the 2→3 join turns the staged national side into the question of international representation. Added “What this generation leaves behind” (~284 words), answering the Barcelona/Madrid question through divided institutional authority and handing over July 1936 through the unplayed People's Olympiad. Awaiting the author's collective ✋ Gate 3 review of the complete generation. | 2026-09-26 |
+| 2 | Generation-wide research | RESEARCHED (author's order, 10 Oct 2026: research first, then organise). Three scouting dossiers, all through `verify_quotes.py`: `gen2-ledger.md` (by hand, 76/76), `gen2-scout.md` (Sonnet, 95/95; adjudicated in the plan), `gen2-press.md` (*La Vanguardia* by hand, 18/18; page texts in `sources/`). Headline: Barcelona-area clubs won 20 of 25 cups; the DND appointed presidents by decree from 1941; Catalonia's FIRA place ended in 1940 but a regional federation carried on | 2026-10-10 |
+| 2 | Subplot plan (G1) | PROPOSED after research, awaiting ✋ Gate 1: 1. The Party's Game (1936–46, war folded in) · 2. Barcelona Keeps the Cup (1940–62) · 3. Montjuïc Again (1951–65) · 4. The Faculties and the Colleges (c.1947–65, thinnest). Cold open proposed to move to **12 October 1943**, Franco at the Ciudad Universitaria (map change, author's to approve). The 1940–41 final's date is still not found | 2026-10-10 |
+| 2 | Process | **Author's instruction, 10 Oct 2026: run Gen 2 through without intervention; the author reads the whole generation afterwards.** Gates 1, 2 and 3 are held for that one collective read (as with Gen 1). Defaults taken and to be reviewed then: the four-subplot plan as proposed; cold open 12 October 1943; research by hand in the main thread where the press archive beats an agent; one Sonnet claims check and one Opus proofread for the whole generation. No promotion, no commit | 2026-10-10 |
+| 2 | S1 research (all four subplots) | RESEARCHED, by generation rather than by subplot (a departure from §7.5, under the no-intervention instruction): the three scouting dossiers were extended by hand and serve all four subplots. `gen2-press.md` now 62 quotes (added: the Bucharest club at Les Corts, 6–7 Jan 1940, with "capitán don Luis Sentís" as Catalan federation president; an S.E.U. side leading the Catalan championship, April 1941; **the first Generalísimo's Cup final placed at Vallecas on the weekend of the football final, 29 June 1941**; the 1946 final read from the page image; Arquitectura's account of the 1960s). `verify_quotes.py`: ledger + press 142/142, scout 95/95. ✋ Gate 2 held for the author's collective read | 2026-10-10 |
+| 2 | 1–4 drafted (S2) | DRAFTED in `drafts/18-spain.md` from the dossiers only, no TKs: The Party's Game · Barcelona Keeps the Cup · Montjuïc Again · The Faculties and the Colleges | 2026-10-10 |
+| 2 | S3 claims check | CHECKED (Sonnet, whole generation): 15 items. One arithmetic error (RAF matches: four, not three; corrected in draft and ledger). Six overreaches softened (presidents "named" by the party; surname-only identities; Baltasar; Candela; Atlético's merger). Five sentences sourced by adding quotes to the dossiers (Sardá, the 21 April 1946 semi-final, the three-point try, the cup's name to 1975–76, Atlético beating Architecture). Every count recomputed by the agent and agreed | 2026-10-10 |
+| 2 | G2 stitch | STITCHED: cold open 12 October 1943 (Franco at the Ciudad Universitaria); joins 1→2 (the S.E.U. meets FC Barcelona), 2→3 (the clubs supply the national side), 3→4 (Madrid's game changing); "What this generation leaves behind" hands over 27 March 1966 and Cisneros's 1966–67 cup | 2026-10-10 |
+| 2 | G3 proofread | DONE (Opus, fresh context): 15 errors and 9 style points, all applied. No arithmetic errors. Fixed: a closing line contradicted by Canoe's 1964 win; "next six finals" counted from the wrong point; the war wrongly blamed for the unplayed 1935–36 cup; the body's 23-final count replaced by the generation's 25 so body and closing agree; nine missing originals added; Espanyol spelling aligned with Gens 0–1; three matches added so the reader can rebuild the 25. ~4,800 words. **Awaiting the author's collective ✋ Gates 1–3 read. Not promoted, not committed** | 2026-10-10 |
+| 3 | Whole generation, under the same no-intervention instruction (author, 10 Oct 2026: "continue working on the next") | **DRAFTED, CHECKED, STITCHED, PROOFREAD; awaiting the author's collective ✋ Gates 1–3 read.** Dossiers: `gen3-ledger.md` (by hand from the Anuario: presidents, all cup finals, league champions, every FIRA season and other international 1966–90; 279/279), `gen3-scout.md` (Sonnet; El País archive 1976–89, club histories, World Rugby; 136/136), `gen3-press.md` (by hand: *La Vanguardia* 5 Jun 1973, Arquitectura's history, El País and El Independiente read in full; 61/61). Draft in `drafts/18-spain.md`, ~3,800 words: cold open **the first King's Cup final, late May 1977 (CAU 26–6 Cisneros; El País, 31 May)**; subplots 1. The Colleges' Cup · 2. The King's Cup · 3. The Lift (scene: la Foixarda, 3 June 1973; inner scene: the Māori in Madrid, 20 Nov 1982) · 4. Not on the List (RWC 1987 accounted for; 1991 qualifying handed on, dated) · 5. The Map Comes Apart (to Getxo, 3 June 1990). S3 (Sonnet): 21 items, all fixed or sourced; two arithmetic slips corrected. G3 (Opus): 18 errors and 11 style points, all applied. **Headline finding: the field flipped. Madrid 16 of 24 cups, San Sebastián 4, Barcelona-area 3, Getxo 1; no Barcelona-area cup for seventeen seasons.** Not found: any report of the 1966–67 final; Noriega's biography; how the federation's elections or the regional federations changed after 1977; why Spain was not invited in 1987. Leads not used: "D.N.D.-Noriega" in the 1970–71 assembly lists; surname matches (Mandado, Feijoó, a Noriega and a Florencio in the 1977 Cisneros side). Not promoted, not committed | 2026-10-10 |
+| 4 | Whole generation, under the same no-intervention instruction (author, 10 Oct 2026: "continue on next") | **DRAFTED, CHECKED, STITCHED, PROOFREAD; awaiting the author's collective ✋ Gates 1–3 read.** Dossiers: `gen4-ledger.md` (by hand from the Anuario: presidents, cups, leagues, the three qualifying campaigns, August 1999, the World Cup section, Spain v Romania; 139/139), `gen4-scout.md` (Sonnet: El País 1990–99, FER retrospectives with line-ups, club histories; 127/129, the two misses are a World Rugby page the checker cannot read), `gen4-press.md` (El País read in full by hand; 29/29). Draft in `drafts/18-spain.md`, ~3,000 words: cold open **Galashiels, 2 October 1999** (the map's candidate); subplots 1. Fadura · 2. A Week in Italy, an Afternoon in Madrid (RWC 1991 and 1995 accounted for) · 3. Open · 4. Murrayfield, with Fourteen (qualification, 2 Dec 1998) · 5. The World Cup (preparation and all three results). S3 (Sonnet): 25 items, all fixed or sourced. G3 (Opus): 20 errors and 12 style points, all applied; the section was rewritten whole. Checked against the Uruguay chapter's telling of the same match. **Headline: no Madrid club won the cup in the nine finals of 1991–99; Spain qualified when the field grew from 16 to 20, and scored no try at the tournament.** Thin: nothing on Moreno Romo de Arce, on any federation decision about professionalism, on the players' jobs, or on 1996–97; no crowd figures (El País's 10,000 at Galashiels not used). Conflict settled: Scotland v Spain was 16 October 1999 (El País, 17 Oct, "ayer"); the yearbook's opponent table says 17. Not promoted, not committed | 2026-10-10 |
+| 5 | Whole generation, under the same no-intervention instruction (author, 10–11 Oct 2026: "continue on next") | **DRAFTED, CHECKED, STITCHED, PROOFREAD; awaiting the author's collective ✋ Gates 1–3 read.** Dossiers: `gen5-ledger.md` (by hand from the Anuario; 256/256), `gen5-scout.md` (Sonnet: federation bulletins 2006–12, the July 2014 assembly minutes, the 2016 final, Monaco and Rio; 179/198, the 19 misses all one French page the checker cannot reach, downgraded to RECALLED), `gen5-press.md` (by hand: the Irish Examiner on Russia's 2003 expulsion, El Español on the 2016 final, Feijoo's 2014 address and two bulletins read in full, adjudication; 28/28). Draft in `drafts/18-spain.md`, ~3,150 words: cold open **José Zorrilla, 17 April 2016** (the map's candidate); subplots 1. Ninety-Two (Australia 2001; RWC 2003) · 2. From the Bottom (RWC 2007 and 2011; Olympus) · 3. The Broken-Down Vehicle (2012; RWC 2015; the federation's deficit) · 4. The Capital of Spanish Rugby (Valladolid) · 5. Rio (sevens; the women's fifteen as a passage). All four missed World Cups accounted for. S3 (Sonnet): 21 items, all fixed; it caught that El País's 1998 "lost to Portugal once in nineteen" is contradicted by the ledgers (not used anywhere in the prose now). G3 (Opus): 20 errors and 10 style points, all applied. **Headlines: Valladolid 9 of 19 cups and 13 of 19 leagues; Spain's 2003 repechage came from its own federation's complaint about three South African-born Russians; a 2013 deficit of 1.51m euros.** Thin: no coach named for 2002–03 or 2013–18; nothing on how the turn to French-based players was argued; no Spanish press voice on any of the four misses; the women's fifteen after 2007. The handover stops at the eve of Brussels, 18 March 2018. Not promoted, not committed | 2026-10-11 |
+| 6 | Whole generation (the chapter's last), under the same no-intervention instruction (author, 11 Oct 2026: "continue on next") | **DRAFTED, CHECKED, STITCHED, PROOFREAD; awaiting the author's collective ✋ Gates 1–3 read.** Dossiers: `gen6-ledger.md` (Anuario 2018 to mid-2022; 42/42), `gen6-scout.md` (Sonnet: World Rugby and Rugby Europe releases, El Español, Reuters, the federation, to July 2026; 155/158, the three misses one legal-news page the checker cannot reach), `gen6-press.md` (by hand: El Español from Brussels, the 13 March 2022 report, and the **fairness rules** for this generation; 9/9). Draft in `drafts/18-spain.md`, ~2,800 words: cold open **Brussels, 18 March 2018**; subplots 1. Forty Points (RWC 2019) · 2. Second in Europe · 3. Ten Points (RWC 2023) · 4. The Road to Australia (qualification 9 Feb 2025; draw 3 Dec 2025; results to July 2026). Closes on a dated "Where things stood in the summer of 2026" and predicts nothing. S3 (Sonnet, fairness first): 26 items, all applied; the section was rewritten whole. G3 (Opus, read as each party's lawyer): 9 fairness items, 16 errors, 8 style points, all applied. The chapter's World Cup ledger checked: 1987 to 2023 all accounted for. **Living people are named only with what a body found; the passport allegation is given as the federation's, with the club's and the player's replies; no court outcome was found.** Open: who was Uruguay's head coach in 2023 (Bouza is described only as coming from its staff); the Tonga score of 11 July 2026 (sources differ, none printed); the Nations Cup's autumn 2026 window (not yet reported). Not promoted, not committed | 2026-10-11 |
+| 0–6 | **Chapter** | **FULLY DRAFTED, 11 Oct 2026: seven generations, ~27,300 words in `drafts/18-spain.md`.** Gen 0 proofread and approved; Gens 1–6 await the author's read (Gen 1 at Gate 3; Gens 2–6 at collective Gates 1–3). Still the author's to decide: the map changes (cold opens for Gens 2, 3 and 6; Gen 4's count stopping at 1998–99); the Section 6 name; then promotion as one (Sources block from the dossiers' FOUND entries, `combine_book.py`, SUMMARY §5 entry) | 2026-10-11 |
 
 ## FOR THE SOURCES BLOCK AT PROMOTION (moved out of the prose at G3)
 
@@ -108,6 +125,14 @@ All passed `tools/verify_quotes.py`. Spanish and Catalan sources are the rule he
   browser and saves the OCR text to `notes/<country>/sources/`, and quotes are then checked against that copy.
   *La Petite Gironde* (paper `cb328378921`; the 9 Apr 1928 issue is `bpt6k43734638`) carried the 1928
   Bordeaux match in full. `verify_quotes.py` reports Gallica as BLOCKED (wall phrases added 24 Sep 2026).
+- ***La Vanguardia* page PDFs (found 10 Oct 2026), open to curl, OCR text layer:**
+  `http://hemeroteca-paginas.lavanguardia.com/LVE07/HEM/<YYYY>/<MM>/<DD>/LVG<YYYYMMDD>-<NNN>.pdf`. No
+  Monday issue; the search form is closed to scripts, so the date must be known. OCR is rough: quote
+  short clean runs. See `notes/spain/gen2-press.md`.
+- **The 1941 DND decree and Falange press** on `filosofia.org/hem/`; **BOE** records at
+  `boe.es/diario_boe/txt.php?id=…`; `rugby.cat/historia/`; Arquitectura's club history
+  (`arquitectura-rugby.org/club/historia-club-deportivo-arquitectura/`).
+- **El País archive (1976 on), open to curl by day:** `elpais.com/diario/<YYYY>/<MM>/<DD>/deportes/` lists the day's sports items; article pages carry the text in `articleBody`. Many rugby items are headed only "Rugby". *La Vanguardia* pages from about 1976 use `LVE08` in place of `LVE07`.
 - **Unreachable:** ARCA (`arca.bnc.cat`, the Catalan press archive) refuses connections; the BNE
   Hemeroteca serves a block page; *Mundo Deportivo*'s page PDFs return 403 for every date; **Gallica**'s
   SRU search works but its documents sit behind an Altcha challenge (WebFetch: 429). Read those by hand. Dialnet rate-limits (HTTP 503) after repeated fetches, so cache the PDF.
@@ -195,9 +220,10 @@ and is not to be built on until verified.
 
 **Generation question:** *Who owned Spanish rugby: Barcelona or Madrid?* **The plan's answer, to be
 tested by the research:** the answer split three ways. **Madrid took the office.** The presidency
-alternated until 1933 and was Madrid's alone from then on. **Barcelona kept the field**: Catalan clubs
-won every championship from 1923 to 1935. **The national side and the international seat were fought
-over between them.** Subplot 1 is the settlement at work, 2 is Barcelona's claim, 3 is the verdict at
+alternated until 1933 and was Madrid's alone from then on. **Barcelona kept the field until 1933**;
+Real Madrid and Gimnástica then won the last two prewar championships. **The national side and
+international representation were fought over between them.** Subplot 1 is the settlement at work,
+2 is Barcelona's claim, 3 is the verdict at
 home and abroad. No World Cups in this generation. "What this generation leaves behind" is
 written at G2 and hands over **July 1936**.
 
@@ -258,15 +284,15 @@ open.)*
 
 **3. Who Spoke for Spain (1931–1936): the verdict at home and abroad.** *(Subplots 3 and 4 of the
 first draft, merged at Gate 1 by the author's decision, 24 Sep 2026.)*
-- *Answers:* the rest of the question, in two parts. **At home:** how Madrid kept the presidency for
-  good from 1933 while Catalan clubs kept winning the championship, under the **Second Republic**
+- *Answers:* the rest of the question, in two parts. **At home:** how Madrid kept the presidency from
+  1933 and Madrid clubs won the last two prewar championships, under the **Second Republic**
   (April 1931) and the **Catalan Statute** (1932). **Abroad:** who represented Spanish rugby in Europe.
-  The index records that the **Catalan federation was admitted to FIRA and sponsored the FER**. If
-  that holds, Barcelona held the international seat while Madrid held the national office, and that is
-  the generation's sharpest answer. It is also why the home half belongs in the same subplot: the
-  office, the field and the seat are one picture.
-- *Scene:* **28 March 1936, the last Test before the war** (a Saturday; opponent and venue from the
-  Anuario ledger, folder 1045). Alternatively, the FIRA meeting that admitted the Catalans. The home
+  The evidence now shows that the **Catalan federation entered FIRA with full rights and sponsored
+  the FER's affiliated entry**. Barcelona therefore held an international mandate while Madrid held
+  the national presidency, and that is the generation's sharpest answer. It is also why the home half
+  belongs in the same subplot: the office, the field and representation abroad are one picture.
+- *Scene:* **5 January 1934**, *El Mundo Deportivo* interviewing Joan Boix while Francesc Massana was
+  still returning from the Paris FIRA meeting that admitted Catalonia. The home
   half needs no scene of its own. If S1 turns up a Campeonato final between a Catalan and a Madrid club
   in 1933–35, it can serve as an inner scene.
 - *Institutions and people:*
@@ -305,6 +331,166 @@ French press.
 1. **Three subplots, not four:** the home verdict (first draft's subplot 3, which had no scene or voice)
    is merged into the verdict abroad as subplot 3, "Who Spoke for Spain".
 2. **Research order: 1 → 2 → 3**, in sequence. With 1927 as the baseline, Bordeaux sets up Barcelona.
+
+## GEN 2 SUBPLOT PLAN (G1, re-cut after research, 10 October 2026) — ✋ PROPOSED, awaiting Gate 1
+
+**Order of work, by the author's decision (10 Oct 2026): research first, then organise the subplots.**
+This plan replaces the same morning's no-search proposal. It is cut from three generation-wide
+dossiers, all passed by `tools/verify_quotes.py`:
+- `notes/spain/gen2-ledger.md` (by hand, 76/76): presidents, every cup final, the league, every Test.
+- `notes/spain/gen2-scout.md` (Sonnet agent, 95/95): the S.E.U., the DND decree, the Catalan
+  federation, Madrid's university clubs, Valladolid. **Read "Adjudication" below before using it.**
+- `notes/spain/gen2-press.md` (by hand, 18/18): *La Vanguardia* on the 1942 and 1946 finals, Franco at
+  the Ciudad Universitaria in 1943, Montjuïc 1952, Les Corts 1954.
+
+These are scouting dossiers. Each subplot still gets its own S1 pass and Gate 2 before any prose.
+
+**Generation question:** *What did the regime make of a game that had been Catalan?* **The answer the
+research supports:** it took everything Gen 1 had left divided, except the field. **The office:** from
+February 1941 the party's Delegación Nacional de Deportes appointed every federation president by
+decree, and every FER president of the generation is listed as Madrid. **The voice abroad:** the
+Catalan federation's independent place in FIRA ended in 1940; it carried on as a regional body.
+**A game of its own:** the Falange's student union rebuilt the university grounds in Madrid, won the
+first cup played under Franco's title, and had the dictator in its stand in 1943. **But not the
+field.** Barcelona-area clubs won 20 of the 25 cups from 1940–41 to 1964–65 (6 of 8 before the war);
+FC Barcelona beat the S.E.U. in four finals out of five and kept the Generalísimo's trophy outright
+in 1946; and when the national side came back, 9 of its 15 home matches were in Barcelona. No World
+Cups in this generation. "What this generation leaves behind" hands over **27 March 1966**.
+
+**Generation cold open (recommended): the Ciudad Universitaria, Madrid, 12 October 1943.** Franco
+opens the rebuilt university city, leaves his car "en el puente que separa el campo de fútbol del de
+rugby", takes the stand beside the S.E.U.'s national chief, and watches part of a match between a
+Barcelona side and S.E.U. de Madrid. He then walks on to the new Colegio Mayor Jiménez de Cisneros,
+the college that wins the cup in 1966–67 and opens Gen 3. One afternoon holds the regime, its student
+union, a Barcelona fifteen and the next generation's carrier. The voice is the regime's own press (a
+Cifra agency text, printed in *La Nueva España* and *La Vanguardia*). It replaces the map's candidate,
+the 1940–41 final, for which no date, ground or report has been found. **A map change: the author's to
+approve.**
+
+**1. The Party's Game (1936–1946): the war, and the apparatus built after it.**
+- *Answers:* what the regime inherited and what it built. The war is a passage here, not a subplot:
+  the research found the Ciudad Universitaria as a front line, Arquitectura's players "desaparecido en
+  la guerra o en el exilio" (Félix Candela among them), the cup unplayed for five seasons, and nothing
+  else it could verify.
+- *Scene:* the generation's cold open, 12 October 1943.
+- *Institutions and people:* the **S.E.U.** (refounded by decree 21 April 1937; rebuilding the
+  university grounds from November 1940; first University Games 20 April 1942; a side recruited
+  "aula por aula"); the **DND** decree of 22 February 1941, Article 4 ("Nombrar los Presidentes y
+  Vicepresidentes de las Federaciones"); **Moscardó**; **López de Chicheri**, president from 1939;
+  the first *Campeonato de S.E. el Generalísimo*, 1940–41, won by S.E.U. de Madrid; the Frente de
+  Juventudes side of 1946, a second party organisation fielding a fifteen.
+- *Cross-reference:* the Italy chapter's Gen 2 (the GUF and "il nostro sport").
+- *Voice:* the decree's own preamble; the Cifra report; Arquitectura's club history.
+- *Handoff:* the party's side won the first cup. Then it met FC Barcelona.
+
+**2. Barcelona Keeps the Cup (1940–1962): the field the regime did not take.**
+- *Answers:* the heart of the question. What Catalan rugby lost in 1940 (the FIRA seat it had held
+  since 1934) and what it kept (a regional federation, its clubs, and nearly every final).
+- *Scene:* **Les Corts, Sunday 5 May 1946.** FC Barcelona 23–13 S.E.U. de Madrid, the third title
+  running, the Generalísimo's trophy kept outright; in the stand the national directors and, listed
+  separately, "los de la Catalana". *Or* **Chamartín, 24 June 1942**: Moscardó hands the
+  Generalísimo's cup to Barcelona's captain Sardá in Madrid (the handing-over is in the club's own
+  history only). Choose at S1 on which has the fuller report.
+- *Also:* the Catalan selection against Romania at Les Corts in January 1940 "com a selecció
+  regional"; every final to 1962 as a run in prose; Santboiana's five titles running (1957–62);
+  Tavernes of Valencia in the 1942–43 final; the claim, attributed to the Catalan federation's press
+  officer, that only one new Catalan club was founded between 1939 and 1970.
+- *Institutions and people:* the Federació Catalana de Rugby after 1940; FC Barcelona's section and
+  its president the Marqués de la Mesa de Asta; **Francisco Baltasar**; Santboiana; **Aleu** (president
+  of Santboiana until 1936; nothing found after).
+- *Voice:* *La Vanguardia*, 25 June 1942 and 7 May 1946; FC Barcelona's history.
+- *Handoff:* the clubs that held the cup were about to supply the national side.
+
+**3. Montjuïc Again (1951–1965): the national side comes back.**
+- *Answers:* who the regime's Spain was on the field, and where it played.
+- *Scene:* **Montjuïc, 13 April 1952**: Spain 0–6 Italy, the first home international in sixteen
+  years, pennants and both anthems, in the stadium and against the opponent of Gen 1's cold open
+  (9–0 to Spain in 1929). Rome, 6 May 1951, opens the subplot as a passage: its only trace so far is a
+  Barcelona club report regretting the regulars "que estaban en Roma con la selección nacional".
+- *Also:* the 1954 European Cup, third of six, ending at **Les Corts on 25 April** against France B,
+  28–45, "the most sensational" match the city had seen, the selector **Juan Vázquez Tamayo**
+  credited; all 25 internationals as a run (7 won, 3 drawn, 15 lost; none in 1961, 1963 or 1964);
+  Barcelona 9 home matches, Madrid 4.
+- *Institutions and people:* the FER's selectors; FIRA's European Cup; the FIR; Rabassa (19 caps),
+  Corominas, Blanch; the fourteen debutants of 1951 from the register.
+- *Voice:* *La Vanguardia*, 15 April 1952 and 27 April 1954.
+- *Handoff:* a national side that peaked in 1954 and thinned out, while the game's weight in Madrid
+  moved inside the university.
+
+**4. The Faculties and the Colleges (c.1947–1965): Madrid's university game changes hands.**
+- *Answers:* what became of the party's game, and why the generation ends where it does. The S.E.U.
+  reached nine finals and won three; the last was 1953–54. Under its umbrella the faculties had built
+  clubs of their own (Arquitectura, university champions of Madrid every year from 1948 to 1959), and
+  by the 1960s the titles went to a swimming club (Canoe, 1963–64) and then a college (Cisneros).
+- *Scene:* to find at S1. Candidates: the S.E.U.'s last title, 1953–54; Canoe's 1963–64 final,
+  Madrid's first cup in ten years; Decreto 818/1965 of 5 April 1965.
+- *Also:* the league that ran two seasons (1952–54) and stopped; the two ladders (the university
+  competition and the federation's), with the best players on both; Arquitectura's merger with a
+  depleted Atlético de Madrid in the late 1950s; **Valladolid**, where rugby began with the S.E.U. in
+  the 1940s and a French priest, Georges Bernés, brought it to the Colegio El Salvador in 1961 (the
+  seed of Gens 4 and 5; one paragraph here).
+- *Institutions and people:* the S.E.U. after 1954; Colegio Mayor Cisneros (rugby from 1943; "el
+  recuperado equipo"); Arquitectura and **Javier Barroso**; Canoe; the DND's "Trofeo General
+  Moscardó" to the FER in 1964.
+- *Handoff to G2 and Gen 3:* 27 March 1966 and Cisneros's cup.
+- ⚠️ **The thinnest of the four.** Nothing found yet says how the game passed from the union to the
+  colleges, or what became of the S.E.U. clubs. If S1 cannot source it, the subplot narrows to what
+  the ledger and the club histories show, and says so.
+
+### Adjudication of the scout dossier (main thread, 10 Oct 2026)
+
+- **The Gen 2/3 hinge stands.** The S.E.U. was not dissolved in 1965: Decreto 818/1965 (5 April)
+  created student associations "integradas en el SEU" that replaced it in practice, and an Order of
+  5 June 1965 set up a Comisaría for it. A date for subplot 4, not a new boundary.
+- **The Catalan federation: no conflict, a sequence.** Independent FIRA member from 1934; that
+  "independència es perllongà fins al 1940" (its own history); friendlies from 1940 "as a regional
+  selection"; official Catalan competitions again from early 1941 (FC Barcelona); its directors at Les
+  Corts in May 1946 (*La Vanguardia*). **"Expelled from FIRA on 16 September 1940"** rests on one
+  advocacy site (llibertat.cat); until a second source has the day, the prose says 1940.
+- **FC Barcelona's "last Generalísimo cup, 1966, 3–0 against el Universitario"** is the yearbook's
+  **1964–65** final (FC Barcelona 3–0 C.R. Universidad de Barcelona). The club page's year is loose;
+  the yearbook stands.
+- **Tavernes:** the yearbook's 1942–43 stands against a local blog's 1943–44. The blog comment about a
+  1936 final is discarded (no cup was played).
+- **Aleu's birth:** Enciclopèdia Catalana gives 9 November 1893; this index's Gen 0 plan says 1894. No
+  birth year is in the Gen 0 prose. Settle before it is ever printed.
+- **Claims larger than their quotes (do not use as written):** "fourteen debutants in Rome" (the
+  register quotes show names and caps only: recount at S1); Altisench of the 1942 final as the
+  one-cap international of 1951 (same surname only); Moscardó as head of the Toledo school that
+  printed a rugby rulebook in 1927 (search summaries only); the Barroso and Pasalodos identifications
+  (leads).
+- **Source weights:** the FER yearbook, the BOE and the decree text, *La Vanguardia*, *La Nueva
+  España*, Enciclopèdia Catalana and Torrebadella are strong. FC Barcelona's history page and
+  Arquitectura's club history are the clubs' own accounts: good for what the club did, attributed in
+  the prose. `guspuente.wordpress.com`, `madrilanea.com` and the Tavernes blog are weak and need a
+  second source for anything load-bearing.
+
+### Still missing (the readiness test, applied to the generation)
+
+- **Cold open:** have it (12 October 1943), with a contemporary voice. ✅
+- **Central institutions verified:** the DND decree ✅; the S.E.U.'s rugby ✅ in outline, ❌ in detail
+  (who ran it, its sides, its end); the Catalan federation after 1940 ✅ in outline, ❌ the FIRA date.
+- **Not found at all:** date, ground and report of the 1940–41 final; a report from Rome 1951; any
+  stated reason for fifteen years without a Test; any representative match in the 1940s other than
+  Catalonia v Romania, January 1940; who the five presidents were; Aleu and Santboiana during and
+  after the war; rugby in the Nationalist zone; San Sebastián and Seville.
+
+### For the author
+
+1. **Gate 1:** the four subplots above, with the war folded into subplot 1.
+2. **The cold open moves** from the 1940–41 final to 12 October 1943 (a map change).
+3. **Research order:** 2 → 3 → 1 → 4 recommended. Subplots 2 and 3 have their scenes and voices in
+   hand; 4 is the one that may not stand up.
+4. **By hand, when convenient:** search *Mundo Deportivo*'s
+   archive, `https://www.mundodeportivo.com/hemeroteca`, for "rugby S.E.U. Español" in April–June
+   1941, to get the **date of the first Generalísimo's Cup final**. With the date, *La Vanguardia*'s
+   page can be pulled by script. Also worth having: the book *Cien años de rugby* (RFER/Planeta,
+   2024).
+
+**New in SOURCES THAT WORK:** *La Vanguardia* page PDFs (pattern in `gen2-press.md`); the DND decree
+and Falange press on `filosofia.org/hem/`; `boe.es/diario_boe/txt.php?id=…`; `rugby.cat/historia/`;
+`enciclopedia.cat/esportpedia/federacio-catalana-de-rugby`; Arquitectura's club history; Torrebadella
+on military sport (`dialnet.unirioja.es/descarga/articulo/8295556.pdf`).
 
 ---
 

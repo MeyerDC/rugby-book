@@ -980,9 +980,27 @@ checklist, never a source of text) → `git mv` the old chapter to
 combine_book.py` → update this file's §5 entry.
 
 **Open threads:**
-- **Spain (ch. 18) is in progress in `drafts/18-spain.md`.** Gen 0, "Over the Pyrenees" (1894–1928), is
-  proofread (September 2026). **By the author's decision, the chapter stays in `drafts/` until more of it
-  is written, and is then promoted as one.** The status table is in `notes/spain.md`.
+- **Spain (ch. 18) is fully drafted in `drafts/18-spain.md`** (11 October 2026: seven generations, Gen 0–6,
+  about 27,300 words). Gen 0, "Over the Pyrenees" (1894–1928), is proofread and approved. **Gens 1–6 are
+  drafted, claims-checked and proofread but NOT yet read by the author**: every gate from Gen 1's Gate 3
+  onward is held for that read. **By the author's decision, the chapter stays in `drafts/` and is promoted
+  as one.** The status table, the judgment calls taken without the author, and what is still thin are in
+  `notes/spain.md`.
+
+**Publication milestones (author target, set 26 September 2026):** release the expanded,
+detail-rich edition on **16 April 2027**, exactly 24 weeks before the Men's Rugby World Cup opens in
+Australia on **1 October 2027**. These deadlines organise the work; they do not bypass any author gate
+in §7.
+
+| Deadline | Milestone |
+|---|---|
+| **31 December 2026** | Complete the detailed manuscript: remaining countries plus the Spain-format refactor of the earlier chapters. Lock the historical cutoff and scope. |
+| **31 January 2027** | Complete the whole-book structural and continuity edit: generation boundaries, cross-country threads, repeated material, contradictions and handoffs. |
+| **28 February 2027** | Complete the factual audit and copy-edit: claims, dates, names, match arithmetic, quotations, source lists and house style. |
+| **31 March 2027** | Complete production: typesetting, contents, index, cover, final Sources treatment and physical/digital proof copies. |
+| **9 April 2027** | Lock corrected files and complete distribution setup. No discretionary expansion after this date. |
+| **16 April 2027** | **Publish**, leaving readers 24 weeks before the World Cup begins. |
+
 - ✅ **Italy is written and proofread** (September 2026) — see §5.17. **Spain (ch. 18) is next.** Italy
   hands it two direct threads: **Italy's first Test was against Spain, at Barcelona on 20 May 1929, lost
   9–0** — and the two have met **twenty-seven times**, Spain winning three. Spain was also in the
